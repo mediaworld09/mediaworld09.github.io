@@ -3,18 +3,18 @@
 <background-image><![CDATA[http://globaloffice.org.ua/wp-content/uploads/2016/12/cinema-1.jpg]]></background-image>
 <channel>
 	<title><![CDATA[Боевики]]></title>
-	<stream_url><![CDATA[]]></stream_url>
+	<playlist_url><![CDATA[]]></playlist_url>
 </channel>
 <channel>
 	<title><![CDATA[Триллеры]]></title>
-	<stream_url><![CDATA[]]></stream_url>
+	<playlist_url><![CDATA[]]></playlist_url>
 </channel>
 <channel>
 	<title><![CDATA[Детективы]]></title>
-	<stream_url><![CDATA[http://mediaworld09.github.io/cinema/series/detective/series.xml]]></stream_url>
+	<playlist_url><![CDATA[http://mediaworld09.github.io/cinema/series/detective/series.xml]]></playlist_url>
 </channel>
 <channel>
 	<title><![CDATA[Комедии]]></title>
-	<stream_url><![CDATA[]]></stream_url>
+	<playlist_url><![CDATA[]]></playlist_url>
 </channel>
 </items>
