@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+<background-image><![CDATA[http://globaloffice.org.ua/wp-content/uploads/2016/12/cinema-1.jpg]]></background-image>
+<channel>
+	<title><![CDATA[Фильмы]]></title>
+	<stream_url><![CDATA[]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[Сериалы]]></title>
+	<stream_url><![CDATA[]]></stream_url>
+</channel>
+</items>
