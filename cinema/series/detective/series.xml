@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+<background-image><![CDATA[http://globaloffice.org.ua/wp-content/uploads/2016/12/cinema-1.jpg]]></background-image>
+<channel>
+	<title><![CDATA[Коломбо]]></title>
+	<stream_url><![CDATA[http://mediaworld.github.io/cinema/series/detective/columbo/seasons.xml]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[Шерлок]]></title>
+	<stream_url><![CDATA[http://mediaworld.github.io/cinema/series/detective/sherlock/seasons.xml]]></stream_url>
+</channel>
+</items>
