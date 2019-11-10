@@ -3,7 +3,7 @@
 <background-image><![CDATA[https://www.mdx.ac.uk/__data/assets/image/0026/323558/Media-managementv2_herobanner.jpg]]></background-image>
 <channel>
 	<title><![CDATA[Кинематограф]]></title>
-	<stream_url><![CDATA[]]></stream_url>
+	<stream_url><![CDATA[http://mediaworld.github.io/cinema/cinema.xml]]></stream_url>
 </channel>
 <channel>
 	<title><![CDATA[Анимация]]></title>
