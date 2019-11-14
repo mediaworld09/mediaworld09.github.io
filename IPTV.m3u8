@@ -1,0 +1,310 @@
+#EXTM3U
+#EXTINF:0,Репортёр
+#EXTGRP:unsorted
+udp://@238.39.40.15:5000
+#EXTINF:0,7 канал
+#EXTGRP:unsorted
+udp://@238.39.40.10:5000
+#EXTINF:0,1+1
+#EXTGRP:unsorted
+udp://@238.39.40.35:5000
+#EXTINF:0,Интер
+#EXTGRP:unsorted
+udp://@238.39.40.34:5000
+#EXTINF:0,ТЕТ
+#EXTGRP:unsorted
+http://178.150.208.69:81/udp/238.0.0.11:1234
+#EXTINF:0,ICTV
+#EXTGRP:unsorted
+udp://@238.39.40.33:5000
+#EXTINF:0,Новый канал
+#EXTGRP:unsorted
+udp://@238.39.40.32:5000
+#EXTINF:0,НТН
+#EXTGRP:unsorted
+udp://@238.39.40.38:5000
+#EXTINF:0,СТБ
+#EXTGRP:unsorted
+udp://@238.39.40.31:5000
+#EXTINF:0,Украина
+#EXTGRP:unsorted
+http://78.26.128.52:6666
+#EXTINF:0,Футбол 1
+#EXTGRP:unsorted
+http://188.35.9.11:2007
+#EXTINF:0,Футбол 2
+#EXTGRP:unsorted
+http://188.35.9.11:2008
+#EXTINF:0,Трофей HD
+#EXTGRP:unsorted
+http://str.trofey.net:1935/live/2_max.smil/playlist.m3u8?session=5488c6087e1ea6.57082302&amp;id=2
+#EXTINF:0,Дайвинг ТВ
+#EXTGRP:unsorted
+http://wse.planeta-online.tv:1935/live/channel_130/chunklist.m3u8
+#EXTINF:0,ДоТВ
+#EXTGRP:unsorted
+http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8
+#EXTINF:0,Paramount Comedy UA
+#EXTGRP:unsorted
+http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/paramountcomedy/paramountcomedy.m3u8
+#EXTINF:0,Бигуди
+#EXTGRP:unsorted
+http://185.175.92.10:8080/bigudi/mono.m3u8
+#EXTINF:0,Громадське
+#EXTGRP:unsorted
+http://94.45.135.158:1935/live/HrBroadcast/playlist.m3u8
+#EXTINF:0,Эскулап
+#EXTGRP:unsorted
+http://46.175.163.130:7000/Eskulap
+#EXTINF:0,Еспресо ТВ
+#EXTGRP:unsorted
+http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8
+#EXTINF:0,Euronews
+#EXTGRP:unsorted
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+#EXTINF:0,Enter фильм
+#EXTGRP:unsorted
+http://185.175.92.10:8080/enter_film/mono.m3u8
+#EXTINF:0,EPOQUE
+#EXTGRP:unsorted
+http://91.216.22.153:8001/play/z115/index.m3u8
+#EXTINF:0,News One
+#EXTGRP:unsorted
+http://185.175.92.10:8080/news_one/mono.m3u8
+#EXTINF:0,News One
+#EXTGRP:unsorted
+http://185.175.92.10:8080/news_one_hd/mono.m3u8
+#EXTINF:0,Рада
+#EXTGRP:unsorted
+http://api.tv.ipnet.ua/api/v1/manifest/1312714970.m3u8
+#EXTINF:0,Первый автомобильный
+#EXTGRP:unsorted
+http://178.150.208.69:81/udp/238.0.0.32:1234
+#EXTINF:0,RTI
+#EXTGRP:unsorted
+http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8
+#EXTINF:0,Правда тут
+#EXTGRP:unsorted
+http://94.158.80.101:8080/pravdatyt/stream.m3u8
+#EXTINF:0,Униан ТВ
+#EXTGRP:unsorted
+http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/unian/unian.m3u8
+#EXTINF:0,Тонис
+#EXTGRP:unsorted
+http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8
+#EXTINF:0,Донбас
+#EXTGRP:unsorted
+http://178.150.208.69:81/udp/238.0.0.106:1234
+#EXTINF:0,UA Культура
+#EXTGRP:unsorted
+http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8
+#EXTINF:0,UA | TV
+#EXTGRP:unsorted
+http://play.lanet.tv/live/9922.m3u8
+#EXTINF:0,UA:Крым
+#EXTGRP:unsorted
+http://api.tv.ipnet.ua/api/v1/manifest/2118742409.m3u8
+#EXTINF:0,112 Украина HD
+#EXTGRP:unsorted
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+#EXTINF:0,ZIK TV
+#EXTGRP:unsorted
+http://185.175.92.10:8080/zik/mono.m3u8
+#EXTINF:0,Первый канал
+#EXTGRP:unsorted
+http://gorod.tv/s/live/1/86.169.51.136/0/0.m3u8
+#EXTINF:0,Россия 1
+#EXTGRP:unsorted
+http://109.70.184.20:8080/udp/239.195.32.2:1234
+#EXTINF:0,Россия 24
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s21/04.m3u8
+#EXTINF:0,Россия К
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s16/04.m3u8
+#EXTINF:0,РТР
+#EXTGRP:unsorted
+http://109.248.236.41:4433/udp/238.1.1.16:1234
+#EXTINF:0,Матч ТВ
+#EXTGRP:unsorted
+http://178.57.70.42:8000/play/a004/index.m3u8
+#EXTINF:0,Матч ТВ
+#EXTGRP:unsorted
+http://91.231.219.145:80/tv_match_tv_HD/playlist.m3u8
+#EXTINF:0,Матч! Боец
+#EXTGRP:unsorted
+http://46.181.116.168:81/udp/239.255.42.61:1234
+#EXTINF:0,Москва 24
+#EXTGRP:unsorted
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
+#EXTINF:0,СТС
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s52/index.m3u8
+#EXTINF:0,ТНТ
+#EXTGRP:unsorted
+http://gorod.tv/s/live/19/178.141.19.226/1561206607632/0.m3u8
+#EXTINF:0,Дорама
+#EXTGRP:unsorted
+http://37.235.212.110:81/udp/225.50.64.44:1234
+#EXTINF:0,История
+#EXTGRP:unsorted
+http://178.159.52.230:34040/udp/239.255.11.31:1234
+#EXTINF:0,2x2
+#EXTGRP:unsorted
+http://50.7.127.59:8081/2x2/index.m3u8?wmsAuthSign=7d2ad83239e96f605d7b3c1291e3cad6-1572306222-821i122i73i64
+#EXTINF:0,2x2 +2
+#EXTGRP:unsorted
+http://37.194.18.132:81/udp/239.1.2.1:1234
+#EXTINF:0,FAN
+#EXTGRP:unsorted
+http://5.2.57.189:34040/udp/239.254.2.66:1234
+#EXTINF:0,Plus Plus
+#EXTGRP:unsorted
+http://185.175.92.10:8080/plusplus/mono.m3u8
+#EXTINF:0,AMC
+#EXTGRP:unsorted
+http://95.47.85.56:81/udp/239.72.6.197:1234
+#EXTINF:0,Amedia 1
+#EXTGRP:unsorted
+http://178.57.59.191:81/udp/239.195.1.80:1234
+#EXTINF:0,Amedia 2
+#EXTGRP:unsorted
+http://109.167.162.166:4022/udp/233.99.64.72:1234
+#EXTINF:0,Amedia Hit
+#EXTGRP:unsorted
+http://178.163.122.244:4022/udp/234.0.0.169:2000
+#EXTINF:0,Amedia Premium HD
+#EXTGRP:unsorted
+http://109.167.162.166:4022/udp/233.99.64.74:1234
+#EXTINF:0,AMedia Premium HD
+#EXTGRP:unsorted
+http://178.163.100.58:4022/udp/234.0.0.209:2000
+#EXTINF:0,Discovery Channel
+#EXTGRP:unsorted
+http://5.128.84.115:81/udp/239.1.5.1:1234
+#EXTINF:0,Discovery Science
+#EXTGRP:unsorted
+http://176.118.157.71:81/udp/230.1.1.104:1234
+#EXTINF:0,National Geographic
+#EXTGRP:unsorted
+http://46.181.116.168:81/udp/239.255.42.37:1234
+#EXTINF:0,Nat Geo Wild
+#EXTGRP:unsorted
+http://46.181.116.168:81/udp/239.255.42.36:1234
+#EXTINF:0,Eurosport 1
+#EXTGRP:unsorted
+http://ltcam2.ddns.net:43173/iptv/XT8QRLUKBDVF32/141/index.m3u8
+#EXTINF:0,GameShow
+#EXTGRP:unsorted
+http://193.233.189.50:999/udp/239.191.254.77:13343
+#EXTINF:0,SET
+#EXTGRP:unsorted
+http://83.246.208.234:81/udp/239.54.7.128:1224
+#EXTINF:0,SET
+#EXTGRP:unsorted
+http://185.175.92.10:8080/sony_channel/mono.m3u8
+#EXTINF:0,Sony Sci-Fi
+#EXTGRP:unsorted
+http://5.128.84.115:81/udp/239.1.4.7:1234
+#EXTINF:0,Sony Sci-Fi
+#EXTGRP:unsorted
+http://46.181.116.168:81/udp/239.255.42.48:1234
+#EXTINF:0,Sony Sci-Fi
+#EXTGRP:unsorted
+http://83.246.145.27:81/udp/239.54.6.50:1224
+#EXTINF:0,Sony Turbo
+#EXTGRP:unsorted
+http://83.246.208.234:81/udp/239.54.7.54:1224
+#EXTINF:0,Sony Turbo
+#EXTGRP:unsorted
+http://185.175.92.10:8080/sony_turbo/mono.m3u8
+#EXTINF:0,SONY TURBO
+#EXTGRP:unsorted
+http://83.246.248.25:81/udp/239.54.6.41:1224
+#EXTINF:0,Еврокино
+#EXTGRP:unsorted
+http://178.163.42.194:4022/udp/234.0.0.176:2000
+#EXTINF:0,Киносемья
+#EXTGRP:unsorted
+http://86.57.225.245:7015/play/a00p
+#EXTINF:0,Кинохит
+#EXTGRP:unsorted
+http://mojtv.iptvbot.net/iptv/DHANZ6EGLUS94U/516/index.m3u8
+#EXTINF:0,Кинокомедия
+#EXTGRP:unsorted
+http://ltcam2.ddns.net:43173/iptv/XT8QRLUKBDVF32/145/index.m3u8
+#EXTINF:0,Movie Classic
+#EXTGRP:unsorted
+http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
+#EXTINF:0,TV1000
+#EXTGRP:unsorted
+http://109.248.236.41:4433/udp/238.1.1.41:1234
+#EXTINF:0,TV1000 Action
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s91/04.m3u8
+#EXTINF:0,VIP Comedy
+#EXTGRP:unsorted
+http://185.175.92.10:8080/vip_comedy/mono.m3u8
+#EXTINF:0,VIP Megahit
+#EXTGRP:unsorted
+http://188.35.9.11:2016
+#EXTINF:0,VIP Premiere
+#EXTGRP:unsorted
+http://188.35.9.11:2013
+#EXTINF:0,Hollywood HD
+#EXTGRP:unsorted
+http://185.22.183.154:8085/media/hls_183_154/hollywood_hd/index.m3u8
+#EXTINF:0,Nickelodeon
+#EXTGRP:unsorted
+http://158.46.59.237:81/udp/239.255.42.32:1234
+#EXTINF:0,Boomerang
+#EXTGRP:unsorted
+http://109.167.162.166:4022/udp/233.99.64.184:1234
+#EXTINF:0,Cartoon Network
+#EXTGRP:unsorted
+http://tviptv.iptv-channel.ru:8000/live/live/BtoRItdEdS/56.ts
+#EXTINF:0,Da Vinci learning
+#EXTGRP:unsorted
+http://109.248.236.41:4433/udp/238.1.1.37:1234
+#EXTINF:0,Disney +2
+#EXTGRP:unsorted
+http://83.246.193.152:81/udp/239.54.5.67:1224
+#EXTINF:0,Disney
+#EXTGRP:unsorted
+http://158.46.59.237:81/udp/239.255.42.26:1234
+#EXTINF:0,FOX
+#EXTGRP:unsorted
+http://178.163.15.51:4022/udp/234.0.0.184:2000
+#EXTINF:0,Fox HD
+#EXTGRP:unsorted
+http://91.231.219.145:80/tv_fox_HD/playlist.m3u8
+#EXTINF:0,FOX Life
+#EXTGRP:unsorted
+http://92.61.69.31:34040/udp/224.0.42.106:5000
+#EXTINF:0,Paramount channel
+#EXTGRP:unsorted
+http://stream.euroasia.lfstrm.tv/paramount_channel/1/index.m3u8
+#EXTINF:0,Paramount Comedy
+#EXTGRP:unsorted
+http://ltcam2.ddns.net:43173/iptv/XT8QRLUKBDVF32/157/index.m3u8
+#EXTINF:0,Русский экстрим
+#EXTGRP:unsorted
+http://91.149.172.100:80/channel?id=137&amp;u=demo&amp;p=demo
+#EXTINF:0,Extreme Sports
+#EXTGRP:unsorted
+http://ltcam2.ddns.net:43173/iptv/XT8QRLUKBDVF32/144/index.m3u8
+#EXTINF:0,Viasat Explore
+#EXTGRP:unsorted
+http://109.248.236.41:4433/udp/238.1.1.18:1234
+#EXTINF:0,Viasat History
+#EXTGRP:unsorted
+http://158.46.59.237:81/udp/239.255.42.40:1234
+#EXTINF:0,Viasat Sport
+#EXTGRP:unsorted
+http://46.19.43.248:9981/stream/channelid/344696513
+#EXTINF:0,Travel Channel
+#EXTGRP:unsorted
+http://80.80.160.168/live/3/live.m3u8
+#EXTINF:0,Travel + Adventure
+#EXTGRP:unsorted
+http://5.128.84.115:81/udp/239.1.5.7:1234
