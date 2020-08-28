@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
-<background-image><![CDATA[https://www.mdx.ac.uk/__data/assets/image/0026/323558/Media-managementv2_herobanner.jpg]]></background-image>
-<channel>
-	<title><![CDATA[Кинематограф]]></title>
-	<playlist_url><![CDATA[http://mediaworld09.github.io/cinema/cinema.xml]]></playlist_url>
+<background-image><![CDATA[https://karnei4.github.io/s/png/fon-info_optimized.jpg]]></background-image>
+<playlist_name><![CDATA[<font color="#00ccff">M3U -</font><font color="yellow">MediaWorld </font><font color="red">TV</font><font color="lime">LINKS</font>- BY - SERV]]></playlist_name>
+<playlist_logo_30x30><![CDATA[https://vgif.ru/gifs/154/vgif-ru-24627.gif]]></playlist_logo_30x30>
+<channel>  
+<title><![CDATA[<font color="red">WebArmen</font>]]></title>
+<logo_30x30><![CDATA[https://vgif.ru/gifs/154/vgif-ru-24627.gif]]></logo_30x30>
+<playlist_url><![CDATA[https://webarmen.com/my/iptv/auto.nogrp.m3u]]></playlist_url>
 </channel>
 <channel>
-	<title><![CDATA[Анимация]]></title>
-	<playlist_url><![CDATA[]]></playlist_url>
-</channel>
 </items>
