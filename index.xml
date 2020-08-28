@@ -9,12 +9,6 @@
 </channel>
 <channel>
 <title><![CDATA[<font color="red">SmartChannels</font>]]></title>
-<playlist_url><![CDATA[https://smarttvnews.ru/apps/iptvchannels.m3u]]></playlist_url>
-</channel>
-<channel>
-<logo_30x30><![CDATA[http://i.ytimg.com/vi/nYbmvZwB36o/mqdefault.jpg]]></logo_30x30>
-<title><![CDATA[БАТЯ И МИНСК. РЖАВАЯ МОЛОДОСТЬ автор: Виталий Орехов 16 годин тому 17 хвилин 554 350 переглядів  ]]></title>
-<stream_url><![CDATA[http://www.youtube.com/watch?v=nYbmvZwB36o]]></stream_url>
-<description><![CDATA[<center><img src="http://i.ytimg.com/vi/nYbmvZwB36o/mqdefault.jpg" width="320" /><br/>БАТЯ И МИНСК. РЖАВАЯ МОЛОДОСТЬ автор: Виталий Орехов 16 годин тому 17 хвилин 554 350 переглядів<br>554 350 переглядів<br><br>..</center>]]></description>
+<stream_url><![CDATA[https://smarttvnews.ru/apps/iptvchannels.m3u]]></stream_url>
 </channel>
 </items>
