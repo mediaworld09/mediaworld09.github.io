@@ -9,6 +9,6 @@
 </channel>
 <channel>
 <title><![CDATA[<font color="red">SmartChannels</font>]]></title>
-<stream_url><![CDATA[https://smarttvnews.ru/apps/iptvchannels.m3u]]></stream_url>
+<playlist_url><![CDATA["https://smarttvnews.ru/apps/iptvchannels.m3u"+8]]></playlist_url>
 </channel>
 </items>
