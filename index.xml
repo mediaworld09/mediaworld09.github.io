@@ -9,4 +9,8 @@
 <playlist_url><![CDATA[https://webarmen.com/my/iptv/auto.nogrp.m3u]]></playlist_url>
 </channel>
 <channel>
+<title><![CDATA[<font color="red">SmartChannels</font>]]></title>
+<logo_30x30><![CDATA[https://vgif.ru/gifs/154/vgif-ru-24627.gif]]></logo_30x30>
+<playlist_url><![CDATA[https://smarttvnews.ru/apps/iptvchannels.m3u]]></playlist_url>
+</channel>
 </items>
