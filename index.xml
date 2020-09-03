@@ -5,7 +5,9 @@
 <playlist_logo_30x30><![CDATA[https://vgif.ru/gifs/154/vgif-ru-24627.gif]]></playlist_logo_30x30>
 <channel>  
 <title><![CDATA[<font color="red">WebArmen</font>]]></title>
-<playlist_url><![CDATA[http://nserv.host:5300/webarmen.m3u8]]></playlist_url>
+<playlist_url>
+  <![CDATA[http://nserv.host:5300/webarmen.m3u8]]>
+</playlist_url>
 </channel>
 <channel>
 <title><![CDATA[<font color="red">SmartChannels</font>]]></title>
