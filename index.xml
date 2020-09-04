@@ -13,4 +13,9 @@
 <playlist_url><![CDATA[https://smarttvnews.ru/apps/iptvchannels.m3u#.XML]]>
 </playlist_url>
 </channel>
+<channel>
+<title><![CDATA[<font color="red">SmartChannels</font>]]></title>
+<playlist_url><![CDATA[http://forkplayer.tv/xml/account.php?do=mylist&r=lv2]]>
+</playlist_url>
+</channel>
 </items>
