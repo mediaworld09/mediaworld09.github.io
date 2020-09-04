@@ -15,7 +15,7 @@
 </channel>
 <channel>
 <title><![CDATA[<font color="red">SmartChannels</font>]]></title>
-<playlist_url><![CDATA[http://forkplayer.tv/xml/account.php?do=mylist&r=lv2]]>
+<playlist_url><![CDATA[http://forkplayer.tv/xml/account.php]]>
 </playlist_url>
 </channel>
 </items>
