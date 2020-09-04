@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
-<background-image><![CDATA[https://karnei4.github.io/s/png/fon-info_optimized.jpg]]></background-image>
-<playlist_name><![CDATA[<font color="#00ccff">M3U -</font><font color="yellow">MediaWorld </font><font color="red">TV</font><font color="lime">LINKS</font>- BY - SERV]]></playlist_name>
-<playlist_logo_30x30><![CDATA[https://vgif.ru/gifs/154/vgif-ru-24627.gif]]></playlist_logo_30x30>
-<channel>  
-<title><![CDATA[<font color="red">WebArmen</font>]]></title>
-<playlist_url><![CDATA[http://nserv.host:5300/webarmen.m3u8]]>
-</playlist_url>
-</channel>
 <channel>
-<title><![CDATA[<font color="red">SmartChannels</font>]]></title>
-<playlist_url><![CDATA[https://smarttvnews.ru/apps/iptvchannels.m3u#.XML]]>
-</playlist_url>
-</channel>
-<channel>
-<title><![CDATA[<font color="red">SmartChannels</font>]]></title>
+<title><![CDATA[<font>List LV2 From Forkplayer</font>]]></title>
 <playlist_url><![CDATA[http://forkplayer.tv/xml/account.php?do=mylist&r=lv2]]>
 </playlist_url>
 </channel>
