@@ -10,4 +10,9 @@
 <playlist_url><![CDATA[http://forkplayer.tv/xml/account.php?do=mylist&r=iptvmaster]]>
 </playlist_url>
 </channel>
+<channel>
+<title><![CDATA[<font>Nserv</font>]]></title>
+<playlist_url><![CDATA[http://nserv.host:5300/]]>
+</playlist_url>
+</channel>
 </items>
