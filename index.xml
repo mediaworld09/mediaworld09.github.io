@@ -4,5 +4,7 @@
 <title><![CDATA[<font>List LV2 From Forkplayer</font>]]></title>
 <playlist_url><![CDATA[http://forkplayer.tv/xml/account.php?do=mylist&r=lv2]]>
 </playlist_url>
+<playlist_url><![CDATA[http://forkplayer.tv/xml/account.php?do=mylist&r=iptvmaster]]>
+</playlist_url>
 </channel>
 </items>
