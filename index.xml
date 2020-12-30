@@ -4,15 +4,24 @@
 <title><![CDATA[<font>List LV2 From Forkplayer</font>]]></title>
 <playlist_url><![CDATA[http://forkplayer.tv/xml/account.php?do=mylist&r=lv2]]>
 </playlist_url>
+<logo_30x30><![CDATA[https://lumpics.ru/wp-content/uploads/2019/05/Skachat-Fork-Pleer-dlya-Android.png]]></logo_30x30>
 </channel>
 <channel>
 <title><![CDATA[<font>IPTVmaster</font>]]></title>
 <playlist_url><![CDATA[http://forkplayer.tv/xml/account.php?do=mylist&r=iptvmaster]]>
 </playlist_url>
+<logo_30x30><![CDATA[https://it-tehnik.ru/wp-content/uploads/m3u-4.jpg]]></logo_30x30>
 </channel>
 <channel>
 <title><![CDATA[<font>Nserv</font>]]></title>
 <playlist_url><![CDATA[http://nserv.host:5300/]]>
 </playlist_url>
+<icon><![CDATA[http://nserv.host/logo/nserv.png]]></icon>
+</channel>
+<channel>
+<title><![CDATA[<font>YouTube</font>]]></title>
+<playlist_url><![CDATA[http://obovse.ru/smarttv/ytube.php]]>
+</playlist_url>
+<logo_30x30><![CDATA[http://pngimg.com/uploads/youtube/youtube_PNG23.png]]></logo_30x30>
 </channel>
 </items>
