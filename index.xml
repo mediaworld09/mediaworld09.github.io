@@ -21,6 +21,11 @@
     <logo_30x30></logo_30x30>
   </channel>
   <channel>
+    <title><![CDATA[<font>IPTVSmotri</font>]]></title>
+    <playlist_url><![CDATA[http://fork.iptvsmotri.ru/]]></playlist_url>
+    <logo_30x30></logo_30x30>
+  </channel>
+  <channel>
     <title><![CDATA[<font>YouTube</font>]]></title>
     <playlist_url><![CDATA[http://obovse.ru/smarttv/ytube.php]]></playlist_url>
     <logo_30x30><![CDATA[http://pngimg.com/uploads/youtube/youtube_PNG23.png]]></logo_30x30>
