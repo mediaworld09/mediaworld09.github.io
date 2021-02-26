@@ -22,7 +22,7 @@
   </channel>
   <channel>
     <title><![CDATA[<font>Radio</font>]]></title>
-    <playlist_url><![CDATA[listen.m3u]]></playlist_url>
+    <playlist_url><![CDATA[file:///listen.m3u]]></playlist_url>
     <logo_30x30></logo_30x30>
   </channel>
   <channel>
