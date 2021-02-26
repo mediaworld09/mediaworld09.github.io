@@ -1,33 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
-<channel>
-<title><![CDATA[<font>Lists</font>]]></title>
-<playlist_url><![CDATA[http://forkplayer.tv/xml/account.php?do=mylist&r=lv2]]>
-</playlist_url>
-<logo_30x30><![CDATA[https://lumpics.ru/wp-content/uploads/2019/05/Skachat-Fork-Pleer-dlya-Android.png]]></logo_30x30>
-</channel>
-<channel>
-<title><![CDATA[<font>IPTVmaster</font>]]></title>
-<playlist_url><![CDATA[http://forkplayer.tv/xml/account.php?do=mylist&r=iptvmaster]]>
-</playlist_url>
-<logo_30x30><![CDATA[https://it-tehnik.ru/wp-content/uploads/m3u-4.jpg]]></logo_30x30>
-</channel>
-<channel>
-<title><![CDATA[<font>Nserv</font>]]></title>
-<playlist_url><![CDATA[http://nserv.host:5300/]]>
-</playlist_url>
-<<logo_30x30><![CDATA[https://static10.tgstat.ru/channels/_0/b1/b16696016216ba32f0cc5acb598eb995.jpg]]></logo_30x30>
-</channel>
-<channel>
-<title><![CDATA[<font>CoolTV</font>]]></title>
-<playlist_url><![CDATA[http://cltv.club/start/]]>
-</playlist_url>
-<<logo_30x30><![CDATA[https://static10.tgstat.ru/channels/_0/b1/b16696016216ba32f0cc5acb598eb995.jpg]]></logo_30x30>
-</channel>
-<channel>
-<title><![CDATA[<font>YouTube</font>]]></title>
-<playlist_url><![CDATA[http://obovse.ru/smarttv/ytube.php]]>
-</playlist_url>
-<logo_30x30><![CDATA[http://pngimg.com/uploads/youtube/youtube_PNG23.png]]></logo_30x30>
-</channel>
+  <channel>
+    <title><![CDATA[<font>Lists</font>]]></title>
+    <playlist_url><![CDATA[http://forkplayer.tv/xml/account.php?do=mylist&r=lv2]]></playlist_url>
+    <logo_30x30><![CDATA[https://lumpics.ru/wp-content/uploads/2019/05/Skachat-Fork-Pleer-dlya-Android.png]]></logo_30x30>
+  </channel>
+  <channel>
+    <title><![CDATA[<font>IPTVmaster</font>]]></title>
+    <playlist_url><![CDATA[http://forkplayer.tv/xml/account.php?do=mylist&r=iptvmaster]]></playlist_url>
+    <logo_30x30><![CDATA[https://it-tehnik.ru/wp-content/uploads/m3u-4.jpg]]></logo_30x30>
+  </channel>
+  <channel>
+    <title><![CDATA[<font>Nserv</font>]]></title>
+    <playlist_url><![CDATA[http://nserv.host:5300/]]></playlist_url>
+    <logo_30x30><![CDATA[https://static10.tgstat.ru/channels/_0/b1/b16696016216ba32f0cc5acb598eb995.jpg]]></logo_30x30>
+  </channel>
+  <channel>
+    <title><![CDATA[<font>CoolTV</font>]]></title>
+    <playlist_url><![CDATA[http://cltv.club/start/]]></playlist_url>
+    <logo_30x30><![CDATA[https://static10.tgstat.ru/channels/_0/b1/b16696016216ba32f0cc5acb598eb995.jpg]]></logo_30x30>
+  </channel>
+  <channel>
+    <title><![CDATA[<font>YouTube</font>]]></title>
+    <playlist_url><![CDATA[http://obovse.ru/smarttv/ytube.php]]></playlist_url>
+    <logo_30x30><![CDATA[http://pngimg.com/uploads/youtube/youtube_PNG23.png]]></logo_30x30>
+  </channel>
 </items>
