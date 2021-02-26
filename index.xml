@@ -24,4 +24,9 @@
 </playlist_url>
 <logo_30x30><![CDATA[http://pngimg.com/uploads/youtube/youtube_PNG23.png]]></logo_30x30>
 </channel>
+<channel>
+<title><![CDATA[<font>CoolTV</font>]]></title>
+<playlist_url><![CDATA[http://cooltv.info/start]]>
+</playlist_url>
+</channel>
 </items>
