@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,Советская волна AAC
+#EXTINF:-1,SovietWave Radio AAC
 http://station.waveradio.org/soviet
-#EXTINF:-1,Советская волна MP3
+#EXTINF:-1,SovietWave Radio MP3
 http://station.waveradio.org/soviet.mp3
