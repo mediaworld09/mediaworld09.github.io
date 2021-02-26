@@ -22,8 +22,7 @@
   </channel>
   <channel>
     <title><![CDATA[<font>YouTube</font>]]></title>
-    <playlist_url><![CDATA[http://vekart.ucoz.net/v/tub1.xml]]></playlist_url>
-<!--     <playlist_url><![CDATA[http://obovse.ru/smarttv/ytube.php]]></playlist_url> -->
+    <playlist_url><![CDATA[http://obovse.ru/smarttv/ytube.php]]></playlist_url>
     <logo_30x30><![CDATA[http://pngimg.com/uploads/youtube/youtube_PNG23.png]]></logo_30x30>
   </channel>
 </items>
