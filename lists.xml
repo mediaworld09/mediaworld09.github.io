@@ -4,4 +4,32 @@
     <title><![CDATA[<font>WebArmen</font>]]></title>
     <playlist_url><![CDATA[http://iptvbarmen.tk/auto.nogrp.m3u]]></playlist_url>
   </channel>
+  <channel>
+    <title><![CDATA[<font>IPTVForever</font>]]></title>
+    <playlist_url><![CDATA[https://iptvm3u.ru/list.m3u]]></playlist_url>
+  </channel>
+  <channel>
+    <title><![CDATA[<font>SmartChannels</font>]]></title>
+    <playlist_url><![CDATA[https://smarttvnews.ru/apps/iptvchannels.m3u]]></playlist_url>
+  </channel>
+  <channel>
+    <title><![CDATA[<font>Full</font>]]></title>
+    <playlist_url><![CDATA[https://smarttvapp.ru/app/iptvfull.m3u]]></playlist_url>
+  </channel>
+  <channel>
+    <title><![CDATA[<font>TVA UA</font>]]></title>
+    <playlist_url><![CDATA[https://tva.in.ua/iptv/iptv_ukr.m3u]]></playlist_url>
+  </channel>
+  <channel>
+    <title><![CDATA[<font>Ukraine</font>]]></title>
+    <playlist_url><![CDATA[https://iptvmaster.ru/ukraine.m3u]]></playlist_url>
+  </channel>
+  <channel>
+    <title><![CDATA[<font>Denys Club</font>]]></title>
+    <playlist_url><![CDATA[http://p.denys.club/b6/ip.m3u]]></playlist_url>
+  </channel>
+  <channel>
+    <title><![CDATA[<font>ONE</font>]]></title>
+    <playlist_url><![CDATA[https://iptvm3u.ru/onelist.m3u]]></playlist_url>
+  </channel>
 </items>
