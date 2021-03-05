@@ -1,1 +1,47 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+  <channel>
+    <title><![CDATA[<font>China</font>]]></title>
+    <playlist_url><![CDATA[https://iptv-org.github.io/iptv/countries/cn.m3u]]></playlist_url>
+  </channel>
+  <channel>
+    <title><![CDATA[<font>France</font>]]></title>
+    <playlist_url><![CDATA[https://iptvmaster.ru/france.m3u]]></playlist_url>
+  </channel>
+  <channel>
+    <title><![CDATA[<font>Germany</font>]]></title>
+    <playlist_url><![CDATA[https://iptv-org.github.io/iptv/countries/de.m3u]]></playlist_url>
+  </channel>
+  <channel>
+    <title><![CDATA[<font>Italy</font>]]></title>
+    <playlist_url><![CDATA[https://iptvmaster.ru/italy.m3u]]></playlist_url>
+  </channel>
+  <channel>
+    <title><![CDATA[<font>Spain</font>]]></title>
+    <playlist_url><![CDATA[https://iptvmaster.ru/spain.m3u]]></playlist_url>
+  </channel>
+  <channel>
+    <title><![CDATA[<font>Poland</font>]]></title>
+    <playlist_url><![CDATA[https://iptvmaster.ru/poland.m3u]]></playlist_url>
+  </channel>
+  <channel>
+    <title><![CDATA[<font>Japan</font>]]></title>
+    <playlist_url><![CDATA[https://iptv-org.github.io/iptv/countries/jp.m3u]]></playlist_url>
+  </channel>
+  <channel>
+    <title><![CDATA[<font>North Korea</font>]]></title>
+    <playlist_url><![CDATA[https://iptv-org.github.io/iptv/countries/kp.m3u]]></playlist_url>
+  </channel>
+  <channel>
+    <title><![CDATA[<font>South Korea</font>]]></title>
+    <playlist_url><![CDATA[https://iptv-org.github.io/iptv/countries/kr.m3u]]></playlist_url>
+  </channel>
+  <channel>
+    <title><![CDATA[<font>United Kingdom</font>]]></title>
+    <playlist_url><![CDATA[https://iptv-org.github.io/iptv/countries/uk.m3u]]></playlist_url>
+  </channel>
+  <channel>
+    <title><![CDATA[<font>United States</font>]]></title>
+    <playlist_url><![CDATA[https://iptv-org.github.io/iptv/countries/us.m3u]]></playlist_url>
+  </channel>
+</items>
