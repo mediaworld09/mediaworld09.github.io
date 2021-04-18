@@ -13,6 +13,18 @@
     <playlist_url><![CDATA[https://smarttvnews.ru/apps/iptvchannels.m3u]]></playlist_url>
   </channel>
   <channel>
+    <title><![CDATA[<font>Great Crabs TV</font>]]></title>
+    <playlist_url><![CDATA[http://iptv-2020.do.am/Free.m3u]]></playlist_url>
+  </channel>
+  <channel>
+    <title><![CDATA[<font>CoolTV</font>]]></title>
+    <playlist_url><![CDATA[http://server1.cooltv.info/playlist/6093b944b0223b39b2b6870141da28db/playlist.m3u]]></playlist_url>
+  </channel>
+  <channel>
+    <title><![CDATA[<font>CoolTV - rezerv</font>]]></title>
+    <playlist_url><![CDATA[http://server1.cooltv.info/playlist/6093b944b0223b39b2b6870141da28db/playlist.m3u]]></playlist_url>
+  </channel>
+  <channel>
     <title><![CDATA[<font>Full</font>]]></title>
     <playlist_url><![CDATA[https://smarttvapp.ru/app/iptvfull.m3u]]></playlist_url>
   </channel>
