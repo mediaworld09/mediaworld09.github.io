@@ -24,6 +24,11 @@
     <playlist_url><![CDATA[http://cltv.club/start/]]></playlist_url>
     <logo_30x30></logo_30x30>
   </channel>
+   <channel>
+    <title><![CDATA[<font>Fork Portal</font>]]></title>
+    <playlist_url><![CDATA[http://fork-portal.ru/]]></playlist_url>
+    <logo_30x30></logo_30x30>
+  </channel>
   <channel>
     <title><![CDATA[<font>Radio</font>]]></title>
     <playlist_url><![CDATA[http://mediaworld09.github.io/listen.m3u]]></playlist_url>
