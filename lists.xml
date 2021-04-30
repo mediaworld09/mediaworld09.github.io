@@ -12,10 +12,10 @@
     <title><![CDATA[<font>SmartChannels</font>]]></title>
     <playlist_url><![CDATA[https://smarttvnews.ru/apps/iptvchannels.m3u]]></playlist_url>
   </channel>
-  <channel>
+<!--   <channel>
     <title><![CDATA[<font>R$ TV</font>]]></title>
     <playlist_url><![CDATA[https://dl.dropbox.com/s/sfcqivm9jtq279g/RO$TIK_TV.m3u]]></playlist_url>
-  </channel>
+  </channel> -->
   <channel>
     <title><![CDATA[<font>Great Crabs TV</font>]]></title>
     <playlist_url><![CDATA[http://iptv-2020.do.am/Free.m3u]]></playlist_url>
