@@ -19,6 +19,11 @@
     <playlist_url><![CDATA[http://kb-team.club]]></playlist_url>
     <logo_30x30></logo_30x30>
   </channel>
+   <channel>
+    <title><![CDATA[<font>SGZ</font>]]></title>
+    <playlist_url><![CDATA[http://segaz.my1.ru/SEGAZ.xml]]></playlist_url>
+    <logo_30x30></logo_30x30>
+  </channel>
   <channel>
     <title><![CDATA[<font>Nserv</font>]]></title>
     <playlist_url><![CDATA[http://nserv.host:5300/]]></playlist_url>
