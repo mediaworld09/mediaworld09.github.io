@@ -40,4 +40,8 @@
     <title><![CDATA[<font>ONE</font>]]></title>
     <playlist_url><![CDATA[https://iptvm3u.ru/onelist.m3u]]></playlist_url>
   </channel>
+  <channel>
+    <title><![CDATA[<font>Phoenix TV</font>]]></title>
+    <playlist_url><![CDATA[http://stpl.phoenixtv.top/93a611c10082e5eec57f8bec55d8dc4c/tv.m3u]]></playlist_url>
+  </channel>
 </items>
