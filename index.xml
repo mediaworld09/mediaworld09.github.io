@@ -26,13 +26,8 @@
   </channel>
   <channel>
     <title><![CDATA[<font>Nserv</font>]]></title>
-    <playlist_url><![CDATA[http://nserv.host:5300/]]></playlist_url>
+    <playlist_url><![CDATA[http://adbai.forktv.me/]]></playlist_url>
     <logo_30x30><![CDATA[https://static10.tgstat.ru/channels/_0/b1/b16696016216ba32f0cc5acb598eb995.jpg]]></logo_30x30>
-  </channel>
-  <channel>
-    <title><![CDATA[<font>DTPLink</font>]]></title>
-    <playlist_url><![CDATA[http://denms.tplinkdns.com]]></playlist_url>
-    <logo_30x30></logo_30x30>
   </channel>
   <channel>
     <title><![CDATA[<font>Karnei4</font>]]></title>
