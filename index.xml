@@ -30,6 +30,11 @@
     <logo_30x30><![CDATA[https://static10.tgstat.ru/channels/_0/b1/b16696016216ba32f0cc5acb598eb995.jpg]]></logo_30x30>
   </channel>
   <channel>
+    <title><![CDATA[<font>DTPLink</font>]]></title>
+    <playlist_url><![CDATA[http://denms.tplinkdns.com]]></playlist_url>
+    <logo_30x30></logo_30x30>
+  </channel>
+  <channel>
     <title><![CDATA[<font>Karnei4</font>]]></title>
     <playlist_url><![CDATA[http://karnei4.alwaysdata.net/kinogo_no_save_fav.php]]></playlist_url>
     <logo_30x30></logo_30x30>
