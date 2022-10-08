@@ -44,8 +44,4 @@
     <title><![CDATA[<font>Phoenix TV</font>]]></title>
     <playlist_url><![CDATA[http://stpl.phoenixtv.top/93a611c10082e5eec57f8bec55d8dc4c/tv.m3u]]></playlist_url>
   </channel>
-  <channel>
-    <title><![CDATA[<font>Auto</font>]]></title>
-    <playlist_url><![CDATA[https://iptv.org.ua/iptv/avto.m3u]]></playlist_url>
-  </channel>
 </items>
