@@ -26,7 +26,7 @@
   </channel>
   <channel>
     <title><![CDATA[<font>TVA UA</font>]]></title>
-    <playlist_url><![CDATA[https://tva.in.ua/iptv/s/ua.m3u#.XML]]></playlist_url>
+    <playlist_url><![CDATA[https://tva.in.ua/iptv/s/ua.m3u]]></playlist_url>
   </channel>
   <channel>
     <title><![CDATA[<font>Ukraine</font>]]></title>
