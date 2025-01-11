@@ -5,8 +5,8 @@
     <playlist_url><![CDATA[https://tva.in.ua/iptv/s/avto.m3u]]></playlist_url>
   </channel>
   <channel>
-    <title><![CDATA[<font>IPTVForever</font>]]></title>
-    <playlist_url><![CDATA[https://iptvm3u.ru/list.m3u]]></playlist_url>
+    <title><![CDATA[<font>Auto-mini</font>]]></title>
+    <playlist_url><![CDATA[https://tva.in.ua/iptv/s/avtomini.m3u]]></playlist_url>
   </channel>
   <channel>
     <title><![CDATA[<font>SmartChannels</font>]]></title>
