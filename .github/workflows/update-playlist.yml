@@ -1,0 +1,29 @@
+name: Update M3U Playlist
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'  # Каждые 12 часов (в 00:00 и 12:00 UTC)
+  workflow_dispatch:        # Позволяет запускать вручную
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run update script
+        run: node update_playlist.js
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add .
+          git commit -m "Автоматическое обновление плейлистов" || echo "Нет изменений"
+          git push
