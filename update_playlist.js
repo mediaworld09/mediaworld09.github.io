@@ -95,7 +95,7 @@ async function main() {
   // === ЗДЕСЬ ДОБАВЛЯЙТЕ СВОИ ПЛЕЙЛИСТЫ ===
   // Пример вызова:
   await processPlaylist(
-    'https://dl.dropbox.com/s/sfcqivm9jtq279g/RO$TIK_TV.m3u',
+    'https://dl.dropbox.com/s/sfcqivm9jtq279g/RO$TIK_TV.m3u?dl=1',
     'LOVE 🔞',                                   // одна категория (строка)
     'R$_TV.m3u'
   );
