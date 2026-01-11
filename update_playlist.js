@@ -2,9 +2,29 @@ const fs = require('fs');
 const https = require('https');
 const path = require('path');
 
-async function downloadFile(url) {
+async function downloadFile(url, redirectCount = 0) {
+  if (redirectCount > 10) {
+    throw new Error('Слишком много редиректов');
+  }
+
   return new Promise((resolve, reject) => {
-    https.get(url, (res) => {
+    const options = {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (compatible; Node.js script)'
+      }
+    };
+
+    https.get(url, options, (res) => {
+      // Обработка редиректа
+      if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
+        const newUrl = new URL(res.headers.location, url).href;
+        console.log(`Редирект ${redirectCount + 1}: ${url} → ${newUrl}`);
+        res.resume(); // Освобождаем поток
+        resolve(downloadFile(newUrl, redirectCount + 1));
+        return;
+      }
+
+      // Если не 200 — ошибка
       if (res.statusCode !== 200) {
         reject(new Error(`Ошибка загрузки: ${res.statusCode}`));
         return;
@@ -14,7 +34,9 @@ async function downloadFile(url) {
       res.setEncoding('utf8');
       res.on('data', chunk => data += chunk);
       res.on('end', () => resolve(data));
-    }).on('error', reject);
+    }).on('error', (err) => {
+      reject(err);
+    });
   });
 }
 
@@ -95,7 +117,7 @@ async function main() {
   // === ЗДЕСЬ ДОБАВЛЯЙТЕ СВОИ ПЛЕЙЛИСТЫ ===
   // Пример вызова:
   await processPlaylist(
-    'https://dl.dropbox.com/s/sfcqivm9jtq279g/RO$TIK_TV.m3u?dl=1',
+    'https://www.dropbox.com/s/sfcqivm9jtq279g/RO$TIK_TV.m3u?raw=1',
     'LOVE 🔞',                                   // одна категория (строка)
     'R$_TV.m3u'
   );
