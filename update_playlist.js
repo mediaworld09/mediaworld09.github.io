@@ -100,18 +100,6 @@ async function main() {
     'R$_TV.m3u'
   );
 
-  await processPlaylist(
-    'https://www.dropbox.com/s/ВАШ_ИД/playlist2.m3u?dl=1',
-    ['Adult', 'XXX', 'Эротика'],               // несколько категорий (массив)
-    'clean_playlist2.m3u'
-  );
-
-  await processPlaylist(
-    'https://www.dropbox.com/s/ВАШ_ИД/playlist3.m3u?dl=1',
-    [],                                        // ничего не удалять
-    'full_playlist3.m3u'
-  );
-
   // Добавьте столько вызовов, сколько нужно
   // =========================================
 
