@@ -770,7 +770,7 @@ https://autopilot.catcast.tv/content/47689/index.m3u8
 #EXTINF:-1 tvg-name="bcu ki̇norati̇ng" tvg-logo="https://app.playlistbox.com/icon/GzJ5y6bgn0A4wMgBX2xYN1Lr2PjakdQv.png" group-title="КІНО📽",BCU Kinorating HD
 
 #EXTINF:-1 tvg-name="bcu ki̇norati̇ng" tvg-logo="https://app.playlistbox.com/icon/GzJ5y6bgn0A4wMgBX2xYN1Lr2PjakdQv.png" group-title="КІНО📽",BCU Kinorating HD
-http://pars01.com:8080/play/live.php?mac=00:1A:79:43:B0:70&stream=529649&extension=ts
+http://hls127.freeott.top:8080/BCUKinoratingHD/index.m3u8
 #EXTINF:-1 tvg-name="bcu ki̇ds+" tvg-logo="https://app.playlistbox.com/icon/l64rgEeNLQpPAxOaORZ7Yav3GnwkqmBz.png" group-title="КІНО📽",BCU Kids+
 
 #EXTINF:-1 tvg-name="bcu fantasti̇c" tvg-logo="https://app.playlistbox.com/icon/82YEm9Vw51D0poVQwQZNr4jQPOGd7KJb.png" group-title="КІНО📽",BCU Fantastic HD
@@ -786,9 +786,7 @@ http://pars01.com:8080/play/live.php?mac=00:1A:79:43:B0:70&stream=529653&extensi
 #EXTINF:-1 group-title="КІНО📽",BCU FilMystic HD
 
 #EXTINF:-1 group-title="КІНО📽",BCU Stars HD
-
-#EXTINF:-1 group-title="КІНО📽",BCU Stars HD
-
+http://hls127.freeott.top:8080/BCUStarsHD/index.m3u8
 #EXTINF:-1 group-title="КІНО📽",BCU Criminal HD
 
 #EXTINF:-1 group-title="КІНО📽",BCU Cosmo HD
@@ -1792,9 +1790,9 @@ https://s-footballive.pp.ua:8000/channel/65c83719/index.m3u8?q=1111e494ac105cde8
 #EXTINF:-1 tvg-id="7539" tvg-logo="http://epg.one/img2/7539.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 1 HD
 http://de.seetv.cc/play/5009/F153046F2E99D25/video.m3u8
 #EXTINF:-1 tvg-id="7539" tvg-logo="http://epg.one/img2/7539.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 1
-http://ozaesnna.megatv.fun/iptv/5YA663LHTL5YTN/20099/index.m3u8
+http://ozaesnna.megatv.fun/iptv/QGP3QXDP95UFB4/20099/index.m3u8
 #EXTINF:-1 tvg-id="7540" tvg-logo="http://epg.one/img2/7540.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 2
-http://ozaesnna.megatv.fun/iptv/5YA663LHTL5YTN/20103/index.m3u8
+http://ozaesnna.megatv.fun/iptv/QGP3QXDP95UFB4/20103/index.m3u8
 #EXTINF:-1 tvg-id="7540" tvg-logo="http://epg.one/img2/7540.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 2 HD
 http://de.seetv.cc/play/5010/F153046F2E99D25/video.m3u8
 #EXTINF:-1 tvg-id="7541" tvg-logo="http://epg.one/img2/7541.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 3
@@ -2217,13 +2215,13 @@ http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15948.ts
 #EXTINF:-1 tvg-id="7255" tvg-logo="http://epg.one/img2/7255.png" tvg-rec="0" group-title="СПОРТ ⚽",Eleven Sports 1 4K
 
 #EXTINF:-1 tvg-id="2902" tvg-logo="http://epg.one/img2/2902.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",Eleven Sports 1 HD PL
-
+http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105525
 #EXTINF:-1 tvg-id="2901" tvg-logo="http://epg.one/img2/2901.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",Eleven Sports 2 HD PL
-http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591272
+http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105526
 #EXTINF:-1 tvg-id="Eleven Sports 3 Poland HD" tvg-logo="https://lighticons.art/storage/images/channels/40daf52c1294df8f0eb4084a1258dbb6.png?d=1707394743" tvg-rec="1" catchup-type="auto" catchup_days="3" catchup_template="http://tv.lightiptv.cc/40daf52c1294df8f0eb4084a1258dbb6/video-${start}-${duration}.m3u8?token=0umkabuvwg" group-title="СПОРТ ⚽",Eleven Sports 3 Poland HD
-http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591271
+http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105527
 #EXTINF:-1 tvg-id="Eleven Sports 4 Poland HD" tvg-logo="https://lighticons.art/storage/images/channels/6f7d92052536c4bd79672d9cf0461b30.png?d=1707394784" tvg-rec="1" catchup-type="auto" catchup_days="3" catchup_template="http://tv.lightiptv.cc/6f7d92052536c4bd79672d9cf0461b30/video-${start}-${duration}.m3u8?token=0umkabuvwg" group-title="СПОРТ ⚽",Eleven Sports 4 Poland HD
-
+http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105528
 #EXTINF:-1 tvg-name="hr: sport klub 5 fhd" group-title="СПОРТ ⚽",TVP Sport HD
 
 #EXTINF:-1 tvg-name="hr: sport klub 5 fhd" group-title="СПОРТ ⚽",TVP Sport FHD
@@ -2245,15 +2243,15 @@ https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE_Max.m3u8
 #EXTINF:-1 tvg-id="EDGEsport.uk" tvg-name="edgesport [uk]" tvg-logo="https://i.imgur.com/bgQ6kz7.png" group-title="СПОРТ ⚽",EDGEsport
 
 #EXTINF:-1 tvg-id="3129" tvg-logo="http://epg.one/img2/3129.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",Canal+ Sport FHD PL
-
+http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105520
 #EXTINF:-1 tvg-id="3058" tvg-logo="http://epg.one/img2/3058.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",Canal+ Sport 2 FHD PL
-
+http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105521
 #EXTINF:-1 tvg-id="Canal+ Sport 3 Poland HD" tvg-logo="https://lighticons.art/storage/images/channels/aba59df5048d13da3b2730b4c4dc2284.png?d=1707394465" tvg-rec="1" catchup-type="auto" catchup_days="3" catchup_template="http://tv.lightiptv.cc/aba59df5048d13da3b2730b4c4dc2284/video-${start}-${duration}.m3u8?token=0umkabuvwg" group-title="СПОРТ ⚽",Canal+ Sport 3 Poland HD
-
+http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105522
 #EXTINF:-1 tvg-id="Canal+ Sport 4 Poland HD" tvg-logo="https://lighticons.art/storage/images/channels/43dda8e0c452ad15b70f585c3f5a9041.png?d=1707394467" tvg-rec="1" catchup-type="auto" catchup_days="3" catchup_template="http://tv.lightiptv.cc/43dda8e0c452ad15b70f585c3f5a9041/video-${start}-${duration}.m3u8?token=0umkabuvwg" group-title="СПОРТ ⚽",Canal+ Sport 4 Poland HD
-
+http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105523
 #EXTINF:-1 tvg-id="Canal+ Sport 5 Poland HD" tvg-logo="https://lighticons.art/storage/images/channels/58f5aecb2e0d00009b628ce1b8b1a954.png?d=1679907682" tvg-rec="1" catchup-type="auto" catchup_days="3" catchup_template="http://tv.lightiptv.cc/58f5aecb2e0d00009b628ce1b8b1a954/video-${start}-${duration}.m3u8?token=0umkabuvwg" group-title="СПОРТ ⚽",Canal+ Sport 5 Poland HD
-
+http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/153306
 #EXTINF:-1 tvg-id="Polsat Sport Extra HD" tvg-logo="https://lighticons.art/storage/images/channels/b59429ef6a4889ff730db4004d5734dc.png?d=1707393879" tvg-rec="1" catchup-type="auto" catchup_days="3" catchup_template="http://tv.lightiptv.cc/b59429ef6a4889ff730db4004d5734dc/video-${start}-${duration}.m3u8?token=0umkabuvwg" group-title="СПОРТ ⚽",Polsat Sport Extra FHD
 
 #EXTINF:-1 tvg-id="Polsat Sport Extra HD" tvg-logo="https://lighticons.art/storage/images/channels/b59429ef6a4889ff730db4004d5734dc.png?d=1707393879" tvg-rec="1" catchup-type="auto" catchup_days="3" catchup_template="http://tv.lightiptv.cc/b59429ef6a4889ff730db4004d5734dc/video-${start}-${duration}.m3u8?token=0umkabuvwg" group-title="СПОРТ ⚽",Polsat Sport Extra HD
@@ -3160,8 +3158,8 @@ https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8?PlaylistM3UCL
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="МУЗИКА🎵",Nuta TV
 
-#EXTINF:-1 group-title="МУЗИКА🎵",Bandamax HD
-
+#EXTINF:-1 group-title="МУЗИКА🎵",City TV HD
+https://tv.city.bg/play/tshls/citytv/index.m3u8
 #EXTINF:-1 group-title="МУЗИКА🎵",XIT FM TV
 http://5db313b643fd8.streamlock.net:1935/HITTV/HITTV/chunklist.m3u8
 #EXTINF:-1 group-title="МУЗИКА🎵" tvg-logo="https://lh4.ggpht.com/usGW8vwiQGrEH6OH6kLgVrXAqJlqzcmm1qnkwQ3AnHywhA73Hs8vVOxd1_qfv720y4M",RetroDance Music HD
@@ -3235,11 +3233,11 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="МУЗИКА🎵",1 Music Channel
 
 #EXTINF:-1 group-title="МУЗИКА🎵",Mooz Dance HD
-
+https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
 #EXTINF:-1 group-title="МУЗИКА🎵",Mooz RO!
-
+https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
 #EXTINF:-1 group-title="МУЗИКА🎵",Mooz Hits
-
+https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
 #EXTINF:-1 group-title="МУЗИКА🎵",H!T Music Channel
 
 #EXTINF:-1 group-title="МУЗИКА🎵",Impact Dance HD
