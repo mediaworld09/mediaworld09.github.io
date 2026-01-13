@@ -122,6 +122,12 @@ async function main() {
     'R$_TV.m3u'
   );
 
+  await processPlaylist(
+    'https://tva.in.ua/iptv/s/avto.m3u',
+    '♥18+',                                   // одна категория (строка)
+    'auto.m3u'
+  );
+
   // Добавьте столько вызовов, сколько нужно
   // =========================================
 
