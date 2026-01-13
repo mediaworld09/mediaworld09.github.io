@@ -123,13 +123,13 @@ async function main() {
   );
 
   await processPlaylist(
-    'https://tva.in.ua/iptv/s/avto.m3u',
+    'https://tva.in.ua/iptv/s/avto.m3u?raw=1',
     '♥18+',                                   // одна категория (строка)
     'auto.m3u'
   );
 
   await processPlaylist(
-    'http://linkspile.su/iptv/p/dmZ3L634vSWAaL/Sharavoz.Tv.navigator-ott.m3u?p=1',
+    'http://linkspile.su/iptv/p/dmZ3L634vSWAaL/Sharavoz.Tv.navigator-ott.m3u?raw=1',
     'XXX Adult',                                   // одна категория (строка)
     'Sharovoz-TV.m3u'
   );
