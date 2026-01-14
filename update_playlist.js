@@ -129,7 +129,7 @@ async function main() {
   );
 
   await processPlaylist(
-    'http://linkspile.su/iptv/p/dmZ3L634vSWAaL/Sharavoz.Tv.navigator-ott.m3u?raw=1',
+    'https://linkspile.su/iptv/p/dmZ3L634vSWAaL/Sharavoz.Tv.navigator-ott.m3u?raw=1',
     'XXX Adult',                                   // одна категория (строка)
     'Sharovoz-TV.m3u'
   );
