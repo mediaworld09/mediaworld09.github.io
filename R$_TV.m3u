@@ -2243,10 +2243,13 @@ https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE_Max.m3u8
 #EXTINF:-1 tvg-id="EDGEsport.uk" tvg-name="edgesport [uk]" tvg-logo="https://i.imgur.com/bgQ6kz7.png" group-title="СПОРТ ⚽",EDGEsport
 
 #EXTINF:-1 tvg-id="3129" tvg-logo="http://epg.one/img2/3129.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",Canal+ Sport FHD PL
+http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591269
 http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105520
 #EXTINF:-1 tvg-id="3058" tvg-logo="http://epg.one/img2/3058.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",Canal+ Sport 2 FHD PL
+http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591268
 http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105521
 #EXTINF:-1 tvg-id="Canal+ Sport 3 Poland HD" tvg-logo="https://lighticons.art/storage/images/channels/aba59df5048d13da3b2730b4c4dc2284.png?d=1707394465" tvg-rec="1" catchup-type="auto" catchup_days="3" catchup_template="http://tv.lightiptv.cc/aba59df5048d13da3b2730b4c4dc2284/video-${start}-${duration}.m3u8?token=0umkabuvwg" group-title="СПОРТ ⚽",Canal+ Sport 3 Poland HD
+http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591267
 http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105522
 #EXTINF:-1 tvg-id="Canal+ Sport 4 Poland HD" tvg-logo="https://lighticons.art/storage/images/channels/43dda8e0c452ad15b70f585c3f5a9041.png?d=1707394467" tvg-rec="1" catchup-type="auto" catchup_days="3" catchup_template="http://tv.lightiptv.cc/43dda8e0c452ad15b70f585c3f5a9041/video-${start}-${duration}.m3u8?token=0umkabuvwg" group-title="СПОРТ ⚽",Canal+ Sport 4 Poland HD
 http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105523
