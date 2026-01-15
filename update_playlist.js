@@ -134,6 +134,12 @@ async function main() {
     'Sharovoz-TV.m3u'
   );
 
+  await processPlaylist(
+    'https://m3url.ru/iptv.online__(2).m3u',
+    'Для взрослых',                                   // одна категория (строка)
+    'm3url-tv.m3u'
+  );
+
   // Добавьте столько вызовов, сколько нужно
   // =========================================
 
