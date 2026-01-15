@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz" m3uautoload=1 cache=1000 aspect-ratio=16:9 deinterlace=1
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz" m3uautoload=1 cache=1000 aspect-ratio=16:9 deinterlace=1
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/rgk12fsehruttv6/update.png" group-title="INFO",🇺🇦 ОНОВЛЕНО 1.01.2026 🇺🇦 
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/rgk12fsehruttv6/update.png" group-title="INFO",🇺🇦 ОНОВЛЕНО 15.01.2026 🇺🇦 
 https://dl.dropbox.com/s/5o2opblp9lqjda1/KAROL&SANINA-VILNA.mp3
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/6ikxp06v3c6e03g/RO$TIK_TV.jpg" group-title="INFO",🇺🇦TELEGRAM @ROSTIK_TV🇺🇦
 http://relay.myradio.ua:8000/UkrPophit192.mp3?v=3
@@ -964,6 +964,8 @@ http://195.9.195.3:8080/hls/218193.m3u8
 http://195.9.195.3:8080/hls/214749.m3u8
 #EXTINF:-1 group-title="КІНО📽",Cinema X
 http://195.9.195.3:8080/hls/218531.m3u8
+#EXTINF:-1 group-title="КІНО📽",My TV HD
+http://hls127.freeott.top:8080/MyTV/mono.m3u8
 #EXTINF:-1 group-title="КІНО📽",My TV2 HD
 http://wps5c7yt.rostelekom.xyz/iptv/VEXVELA6Z7PXH6/19408/index.m3u8
 #EXTINF:-1 group-title="КІНО📽",My TV3 HD
@@ -1860,8 +1862,8 @@ http://de.seetv.cc/play/2635/F153046F2E99D25/video.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",Xsport 
 
-#EXTINF:-1 group-title="СПОРТ ⚽",2Спорт 2
-
+#EXTINF:-1 group-title="СПОРТ ⚽",Спортивный
+http://live-3.otcnet.ru/sportivny/index.m3u8
 #EXTINF:-1 group-title="СПОРТ ⚽",Спортивный HD
 http://de.online24.pm/play/6159/F153046F2E99D25/video.m3u8
 #EXTINF:-1 group-title="СПОРТ ⚽",Футбольный HD
