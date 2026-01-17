@@ -116,11 +116,11 @@ async function processPlaylist(dropboxUrl, excludedCategories, outputFile) {
 async function main() {
   // === ЗДЕСЬ ДОБАВЛЯЙТЕ СВОИ ПЛЕЙЛИСТЫ ===
   // Пример вызова:
-  await processPlaylist(
-    'https://www.dropbox.com/s/sfcqivm9jtq279g/RO$TIK_TV.m3u?raw=1',
-    'LOVE 🔞',                                   // одна категория (строка)
-    'R$_TV.m3u'
-  );
+  // await processPlaylist(
+  //   'https://www.dropbox.com/s/sfcqivm9jtq279g/RO$TIK_TV.m3u?raw=1',
+  //   'LOVE 🔞',                                   // одна категория (строка)
+  //   'R$_TV.m3u'
+  // );
 
   await processPlaylist(
     'https://tva.in.ua/iptv/s/avto.m3u?raw=1',
