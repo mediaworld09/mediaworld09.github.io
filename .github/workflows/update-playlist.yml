@@ -20,6 +20,9 @@ jobs:
       - name: Run update script
         run: node update_playlist.js
 
+      - name: Run additional cleaning (remove remaining categories + fix spaces)
+        run: node clean_existing_playlists.js
+
       - name: Commit and push if changed
         run: |
           git config --global user.name 'github-actions'
