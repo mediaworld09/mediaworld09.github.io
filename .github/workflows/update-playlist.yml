@@ -20,6 +20,9 @@ jobs:
       - name: Run update script
         run: node update_playlist.js
 
+      - name: Run update script
+        run: node upd_list.js
+
       - name: Run additional cleaning (remove remaining categories + fix spaces)
         run: node clean_existing_playlists.js
 
