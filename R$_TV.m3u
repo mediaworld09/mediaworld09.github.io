@@ -1325,11 +1325,14 @@ http://hls127.freeott.top:8080/MyTV/mono.m3u8
 #EXTINF:-1 group-title="КІНО📽",My TV2 HD
 http://wps5c7yt.rostelekom.xyz/iptv/VEXVELA6Z7PXH6/19408/index.m3u8
 
+#EXTINF:-1 group-title="КІНО📽",My TV2 FHD
+http://hls127.freeott.top:8080/MyTV2/mono.m3u8
+
 #EXTINF:-1 group-title="КІНО📽",My TV3 HD
-http://wps5c7yt.rostelekom.xyz/iptv/3BWRE8L236HE9A/19411/index.m3u8
+http://hls127.freeott.top:8080/MyTV3/mono.m3u8
 
 #EXTINF:-1 group-title="КІНО📽",My TV Hit HD
-http://wps5c7yt.rostelekom.xyz/iptv/FAGK589PV9BQAG/19410/index.m3u8
+http://hls127.freeott.top:8080/MyTV_Hit/mono.m3u8
 
 #EXTINF:-1 group-title="КІНО📽",1FILMAX HD
 http://195.9.195.3:8080/hls/204708.m3u8
