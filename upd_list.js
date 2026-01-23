@@ -142,6 +142,12 @@ async function main() {
     'R$_TV.m3u'
   );
 
+  await processPlaylist(
+    'http://u.vipl.one/high/9i7mez8jhs/playlist.m3u8',
+    [],                                   // одна категория (строка)
+    'VIPL_ONE.m3u'
+  );
+
   // Добавьте сколько нужно
 
   console.log('Все плейлисты обработаны и структурированы');
