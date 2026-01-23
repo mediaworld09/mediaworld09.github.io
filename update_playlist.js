@@ -140,6 +140,12 @@ async function main() {
     'm3url-tv.m3u'
   );
 
+  await processPlaylist(
+    'http://u.vipl.one/high/9i7mez8jhs/playlist.m3u8?raw=1',
+    '',                             // одна категория (строка)
+    'VIPL_ONE.m3u'
+  );
+
   // Добавьте столько вызовов, сколько нужно
   // =========================================
 
