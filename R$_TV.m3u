@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz" m3uautoload=1 cache=1000 aspect-ratio=16:9 deinterlace=1
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/rgk12fsehruttv6/update.png" group-title="INFO",🇺🇦 ОНОВЛЕНО 15.01.2026 🇺🇦
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/rgk12fsehruttv6/update.png" group-title="INFO",🇺🇦 ОНОВЛЕНО 26.01.2026 🇺🇦
 https://dl.dropbox.com/s/5o2opblp9lqjda1/KAROL&SANINA-VILNA.mp3
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/6ikxp06v3c6e03g/RO$TIK_TV.jpg" group-title="INFO",🇺🇦TELEGRAM @ROSTIK_TV🇺🇦
@@ -30,6 +30,7 @@ http://ukr.ukrainske.tv/399/keytvainua/video.m3u8
 http://2.57.217.85:8000/play/a01j/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2194.png"group-title="🇺🇦УКРАЇНА🇺🇦",1+1 Марафон HD
+http://cdn-bal.srv4you.net/0151/mpegts
 
 #EXTINF:-1 tvg-id="2195"tvg-logo="http://epg.it999.ru/img/2195.png"group-title="🇺🇦УКРАЇНА🇺🇦",2+2 HD
 http://newsr1.roshen.live:8080/INuL3pGp8R/video.m3u8?token=e2yXlI53mZEwBRDT
@@ -41,6 +42,7 @@ http://newsr1.roshen.live:8080/INuL3pGp8R/video.m3u8?token=e2yXlI53mZEwBRDT
 #EXTINF:-1 tvg-id="3343"tvg-logo="http://epg.it999.ru/img/3343.png"group-title="🇺🇦УКРАЇНА🇺🇦",2+2 Марафон
 
 #EXTINF:-1 tvg-id="3310"tvg-logo="http://epg.it999.ru/img/3310.png"group-title="🇺🇦УКРАЇНА🇺🇦",Інтер FHD
+http://cdn-bal.srv4you.net/0153/mpegts
 
 #EXTINF:-1 tvg-id="3310"tvg-logo="http://epg.it999.ru/img/3310.png"group-title="🇺🇦УКРАЇНА🇺🇦",Інтер HD
 http://newsr1.roshen.live:8080/28gM3kC0yp/video.m3u8?token=e2yXlI53mZEwBRDT
@@ -71,6 +73,7 @@ http://newsr1.roshen.live:8080/SfabiXMgHe/video.m3u8?token=e2yXlI53mZEwBRDT
 #EXTINF:-1 tvg-id="3349"tvg-logo="http://epg.it999.ru/img/3349.png"group-title="🇺🇦УКРАЇНА🇺🇦",ТЕТ FHD
 
 #EXTINF:-1 tvg-id="3349"tvg-logo="http://epg.it999.ru/img/3349.png"group-title="🇺🇦УКРАЇНА🇺🇦",ТЕТ HD
+http://cdn-bal.srv4you.net/0164/mpegts
 
 #EXTINF:-1 tvg-id="2171"tvg-logo="http://epg.it999.ru/img/2171.png"group-title="🇺🇦УКРАЇНА🇺🇦",ТЕТ
 http://newsr1.roshen.live:8080/RmCD1qFmpl/video.m3u8?token=e2yXlI53mZEwBRDT
@@ -86,6 +89,7 @@ http://newsr1.roshen.live:8080/j0Ij7VVFVX/tracks-v1a1/mono.m3u8?token=XSOdznpeFP
 http://newsr1.roshen.live:8080/7zaKQPjVK9/video.m3u8?token=e2yXlI53mZEwBRDT
 
 #EXTINF:-1 tvg-id="2105"tvg-logo="http://epg.it999.ru/img/2105.png"group-title="🇺🇦УКРАЇНА🇺🇦",HTH HD
+http://cdn-bal.srv4you.net/0157/mpegts
 
 #EXTINF:-1 tvg-id="3309"tvg-logo="http://epg.it999.ru/img/3309.png"group-title="🇺🇦УКРАЇНА🇺🇦",CTБ FHD
 
@@ -169,6 +173,7 @@ http://newsr1.roshen.live:8080/jmOF7Jpnmm/video.m3u8?token=e2yXlI53mZEwBRDT
 #EXTINF:-1 tvg-id="2099"tvg-logo="http://epg.it999.ru/img/2099.png"group-title="🇺🇦УКРАЇНА🇺🇦",K2
 
 #EXTINF:-1 tvg-id="2098"tvg-logo="http://epg.it999.ru/img/2098.png"group-title="🇺🇦УКРАЇНА🇺🇦",Мега
+http://cdn-bal.srv4you.net/0171/mpegts
 
 #EXTINF:-1 tvg-id="2098"tvg-logo="http://epg.it999.ru/img/2098.png"group-title="🇺🇦УКРАЇНА🇺🇦",Мега HD
 http://newsr1.roshen.live:8080/ykNZ70y6rx/video.m3u8?token=e2yXlI53mZEwBRDT
@@ -1687,11 +1692,14 @@ https://rpn3.bozztv.com/dvrfl07/ushba64/index.m3u8
 
 #EXTINF:-1 group-title="КІНО📽",Киносезон HD
 
-#EXTINF:-1 group-title="КІНО📽",Мультсезон
+#EXTINF:-1 group-title="КІНО📽",IPTV.PLAY UZHASTIK HD
+http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
 
-#EXTINF:-1 group-title="КІНО📽",LIVE Мылодрама HD
+#EXTINF:-1 group-title="КІНО📽",IPTV.PLAY INTERNY HD
+http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
 
-#EXTINF:-1 group-title="КІНО📽",LIVE Movie HD
+#EXTINF:-1 group-title="КІНО📽",IPTV.PLAY FANTASTICA HD
+http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
 
 #EXTINF:-1 tvg-id="2018"tvg-logo="http://epg.it999.ru/img/2018.png"group-title="КІНО📽",Наше HD
 
@@ -4399,6 +4407,15 @@ http://146.158.0.56:80/KVN/index.m3u8
 #EXTINF:-1 group-title="RO$TIK_TV 💲",KTK HD
 
 #EXTINF:-1 group-title="RO$TIK_TV 💲",KTK
+
+#EXTINF:-1 group-title="КІНОЗАЛ📺",Грабіжник за покликанням 2025
+https://zetvideo.net/content/stream/films/roofman.2025.ua.dub.cinemaker_33685/hls/1080/index.m3u8
+
+#EXTINF:-1 group-title="КІНОЗАЛ📺",Весілля моєї мами 2025
+https://zetvideo.net/content/stream/films/my.mothers.wedding.2025.ua_26379/hls/1080/index.m3u8
+
+#EXTINF:-1 group-title="КІНОЗАЛ📺",Ілюзія обману 3 2025
+https://ashdi.vip/video12/1/new/now.you.see.me.now.you.dont.2025.1080p.amzn.webdl.dd5.1.h.264spilno_221925/hls/BKiPlHaNkftZhAz4/index.m3u8
 
 #EXTINF:-1 group-title="КІНОЗАЛ📺",Місія неможлива: Фінальна розплата 2025
 https://nl210.cdnsqu.com/s/FHQ4lp2SFrMftIg6nZQ3zz3kFBQUFBS2dwT2tFUmc3STBBQkhnd3dBaw.qOLWd_KjrbeDN5huQ26ORBrTatEitpkfimyE8A/HEVC/Mission.Impossible.The.Final.Reckoning.2025.D.ru.VideofilmInt.D.Ukr.Ledoyen.4K.SDR.UHD.WEBDL.HEVC.3t.2160pp_2160.mp4
