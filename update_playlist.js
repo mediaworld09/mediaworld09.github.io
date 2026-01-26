@@ -1,33 +1,50 @@
 const fs = require('fs');
 const https = require('https');
+const http = require('http');
 const path = require('path');
 const axios = require('axios');
 
 async function downloadFile(url) {
   try {
-    console.log(`Скачиваем с помощью axios: ${url}`);
-    const response = await axios.get(url, {
+    console.log(`Скачиваем плейлист: ${url}`);
+
+    const parsedUrl = new URL(url);
+    const isHttps = parsedUrl.protocol === 'https:';
+
+    const config = {
       headers: {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
       },
-      timeout: 30000,         // 30 секунд таймаут
-      maxRedirects: 10,       // следовать редиректам
-      validateStatus: null    // не бросать ошибку на non-200 (обработаем сами)
-    });
+      timeout: 30000,
+      maxRedirects: 10,
+      validateStatus: null,
+    };
+
+    // Только для HTTPS применяем костыль с игнорированием ошибок сертификата
+    if (isHttps) {
+      config.httpsAgent = new https.Agent({
+        rejectUnauthorized: false  // обходим SSL-ошибки
+      });
+      console.log('   Используем HTTPS с отключённой проверкой сертификата');
+    } else {
+      console.log('   Используем HTTP (без SSL)');
+    }
+
+    const response = await axios.get(url, config);
 
     if (response.status !== 200) {
       throw new Error(`Ошибка загрузки: HTTP ${response.status}`);
     }
 
+    // Проверяем, что это действительно M3U-плейлист
+    if (typeof response.data !== 'string' || !response.data.trim().startsWith('#EXTM3U')) {
+      throw new Error('Получен невалидный плейлист (возможно, HTML-страница или ошибка сервера)');
+    }
+
     return response.data;
   } catch (err) {
-    if (err.code === 'ECONNABORTED') {
-      throw new Error('Таймаут при загрузке плейлиста');
-    }
-    if (err.response) {
-      throw new Error(`Ошибка загрузки: HTTP ${err.response.status}`);
-    }
-    throw err; // другие ошибки (включая SSL)
+    console.error('Детали ошибки при скачивании:', err.code || err.message);
+    throw err;
   }
 }
 
