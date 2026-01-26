@@ -149,7 +149,7 @@ async function main() {
   );
 
   await processPlaylist(
-    'https://u.vipl.one/high/9i7mez8jhs/playlist.m3u8?raw=1',
+    'http://u.vipl.one/high/9i7mez8jhs/playlist.m3u8?raw=1',
     ' ',                             // одна категория (строка)
     'VIPL_ONE.m3u'
   );
