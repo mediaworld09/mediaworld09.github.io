@@ -1,27 +1,33 @@
 const fs = require('fs');
 const https = require('https');
 const path = require('path');
+const axios = require('axios');
 
 async function downloadFile(url) {
   try {
-    const response = await fetch(url, {
+    console.log(`Скачиваем с помощью axios: ${url}`);
+    const response = await axios.get(url, {
       headers: {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
       },
-      redirect: 'follow',          // автоматически следовать редиректам
-      signal: AbortSignal.timeout(30000) // таймаут 30 сек (опционально, чтобы не висело вечно)
+      timeout: 30000,         // 30 секунд таймаут
+      maxRedirects: 10,       // следовать редиректам
+      validateStatus: null    // не бросать ошибку на non-200 (обработаем сами)
     });
 
-    if (!response.ok) {
-      throw new Error(`Ошибка загрузки: HTTP ${response.status} ${response.statusText}`);
+    if (response.status !== 200) {
+      throw new Error(`Ошибка загрузки: HTTP ${response.status}`);
     }
 
-    return await response.text();
+    return response.data;
   } catch (err) {
-    if (err.name === 'TimeoutError') {
+    if (err.code === 'ECONNABORTED') {
       throw new Error('Таймаут при загрузке плейлиста');
     }
-    throw err; // пробрасываем дальше
+    if (err.response) {
+      throw new Error(`Ошибка загрузки: HTTP ${err.response.status}`);
+    }
+    throw err; // другие ошибки (включая SSL)
   }
 }
 
