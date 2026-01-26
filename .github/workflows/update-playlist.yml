@@ -17,6 +17,9 @@ jobs:
         with:
           node-version: '20'
 
+      - name: Install axios
+        run: npm install axios
+
       - name: Run update script
         run: node update_playlist.js
 
