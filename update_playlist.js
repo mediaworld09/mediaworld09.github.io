@@ -2,42 +2,27 @@ const fs = require('fs');
 const https = require('https');
 const path = require('path');
 
-async function downloadFile(url, redirectCount = 0) {
-  if (redirectCount > 10) {
-    throw new Error('Слишком много редиректов');
-  }
-
-  return new Promise((resolve, reject) => {
-    const options = {
+async function downloadFile(url) {
+  try {
+    const response = await fetch(url, {
       headers: {
-        'User-Agent': 'Mozilla/5.0 (compatible; Node.js script)'
-      }
-    };
-
-    https.get(url, options, (res) => {
-      // Обработка редиректа
-      if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
-        const newUrl = new URL(res.headers.location, url).href;
-        console.log(`Редирект ${redirectCount + 1}: ${url} → ${newUrl}`);
-        res.resume(); // Освобождаем поток
-        resolve(downloadFile(newUrl, redirectCount + 1));
-        return;
-      }
-
-      // Если не 200 — ошибка
-      if (res.statusCode !== 200) {
-        reject(new Error(`Ошибка загрузки: ${res.statusCode}`));
-        return;
-      }
-
-      let data = '';
-      res.setEncoding('utf8');
-      res.on('data', chunk => data += chunk);
-      res.on('end', () => resolve(data));
-    }).on('error', (err) => {
-      reject(err);
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+      },
+      redirect: 'follow',          // автоматически следовать редиректам
+      signal: AbortSignal.timeout(30000) // таймаут 30 сек (опционально, чтобы не висело вечно)
     });
-  });
+
+    if (!response.ok) {
+      throw new Error(`Ошибка загрузки: HTTP ${response.status} ${response.statusText}`);
+    }
+
+    return await response.text();
+  } catch (err) {
+    if (err.name === 'TimeoutError') {
+      throw new Error('Таймаут при загрузке плейлиста');
+    }
+    throw err; // пробрасываем дальше
+  }
 }
 
 async function processPlaylist(dropboxUrl, excludedCategories, outputFile) {
