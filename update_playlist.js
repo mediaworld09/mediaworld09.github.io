@@ -155,7 +155,7 @@ async function main() {
   );
 
   await processPlaylist(
-    'http://lis.tvdosug.net/api/2018c4c4ccb968cd24db316fdc6d7c7da7e/high/ottnav.m3u8?raw=1',
+    'http://lis.tvdosug.net/api/2018c4c4ccb968cd24db316fdc6d7c7da7e/high/ottnav.m3u8',
     'XXX',                             // одна категория (строка)
     'TV-DOSUG.m3u'
   );
