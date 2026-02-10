@@ -143,6 +143,13 @@ async function main() {
   );
 
 
+  await processPlaylist(
+    'https://mediaworld09.github.io/TV-DOSUG.m3u',
+    '  ',                                   // одна категория (строка)
+    'TV-DOSUG.m3u'
+  );
+
+
   // Добавьте сколько нужно
 
   console.log('Все плейлисты обработаны и структурированы');
