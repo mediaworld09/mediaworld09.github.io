@@ -154,6 +154,20 @@ async function main() {
     'VIPL_ONE.m3u'
   );
 
+  await processPlaylist(
+    'http://lis.tvdosug.net/api/2018c4c4ccb968cd24db316fdc6d7c7da7e/high/ottnav.m3u8',
+    'XXX',                             // одна категория (строка)
+    'TV-DOSUG.m3u'
+  );
+
+  await processPlaylist(
+    'https://dl.dropbox.com/s/u9a0m18jmdr44tb/playlist_free.m3u8',
+    ' ',                             // одна категория (строка)
+    'UA-Free.m3u'
+  );
+
+  
+
   // Добавьте столько вызовов, сколько нужно
   // =========================================
 
