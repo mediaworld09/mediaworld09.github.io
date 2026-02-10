@@ -155,15 +155,22 @@ async function main() {
   );
 
   await processPlaylist(
-    'http://lis.tvdosug.net/api/2018c4c4ccb968cd24db316fdc6d7c7da7e/high/ottnav.m3u8',
+    'http://lis.tvdosug.net/api/2018c4c4ccb968cd24db316fdc6d7c7da7e/high/ottnav.m3u8?raw=1',
     'XXX',                             // одна категория (строка)
     'TV-DOSUG.m3u'
   );
 
   await processPlaylist(
-    'https://dl.dropbox.com/s/u9a0m18jmdr44tb/playlist_free.m3u8',
+    'https://dl.dropbox.com/s/u9a0m18jmdr44tb/playlist_free.m3u8?raw=1',
     ' ',                             // одна категория (строка)
     'UA-Free.m3u'
+  );
+
+
+  await processPlaylist(
+    'http://u.vipl.one/high/3h98wcmuyi/playlist.m3u8?raw=1',
+    ' ',                             // одна категория (строка)
+    'VIPL-TWO.m3u'
   );
 
   
