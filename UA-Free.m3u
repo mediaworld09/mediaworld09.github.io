@@ -1,57 +1,33 @@
 #EXTM3U
 #Playlist created by SMPlayer 21.10.0 (ревизия 10000)XTM3U
-#EXTINF:-1 group-title="UA", 1+1
+#EXTINF:-1,1+1
 http://ip1.orgip.net/306/video.m3u8?token=A37feb3eec
 #EXTINF:-1 group-title="UA", 1+1 МАРАФОН UA
 http://ukr.ukrainske.tv/399/keytvainua/video.m3u8
-#EXTINF:-1 group-title="UA", 1+1 МАРАФОН HD UA
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgxMTYvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjI3Y2MxMGE3IiwicCI6IjI3Y2MxMGE3YWFlZDY2YWQiLCJjIjoiMTEyIiwidCI6ImNiYzJiNTNiMjJjMjAxYWM3ZDYzYjVjOWQ2YTYwYTcyIiwiZCI6IjQ0NTczMyIsInIiOiI0NTc2MzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MTE2L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 #EXTINF:-1 group-title="UA", 1+1 УКРАЇНА
 http://ip1.orgip.net/340/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="UA", 1+1 УКРАЇНА HD UA
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzg0ODIvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjI3Y2MxMGE3IiwicCI6IjI3Y2MxMGE3YWFlZDY2YWQiLCJjIjoiMzk3IiwidCI6ImNiYzJiNTNiMjJjMjAxYWM3ZDYzYjVjOWQ2YTYwYTcyIiwiZCI6IjQ0NTczMyIsInIiOiI0NTc2MzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84NDgyL3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 #EXTINF:-1 group-title="UA", 2+2
 http://31.43.48.248:7000/ch8/video.m3u8
 #EXTINF:-1 group-title="UA", 2+2
 http://ip1.orgip.net/308/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="UA", 2+2 HD UA
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgxMTcvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjI3Y2MxMGE3IiwicCI6IjI3Y2MxMGE3YWFlZDY2YWQiLCJjIjoiMTEzIiwidCI6ImNiYzJiNTNiMjJjMjAxYWM3ZDYzYjVjOWQ2YTYwYTcyIiwiZCI6IjQ0NTczMyIsInIiOiI0NTc2MzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MTE3L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 #EXTINF:-1 group-title="UA", 5KANAL
 https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8
-#EXTINF:-1 group-title="UA", 5 КАНАЛ HD UA
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgwOTMvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjI3Y2MxMGE3IiwicCI6IjI3Y2MxMGE3YWFlZDY2YWQiLCJjIjoiMzkyIiwidCI6ImNiYzJiNTNiMjJjMjAxYWM3ZDYzYjVjOWQ2YTYwYTcyIiwiZCI6IjQ0NTczMyIsInIiOiI0NTc2MzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MDkzL3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 #EXTINF:-1 group-title="UA", 24 КАНАЛ
 http://ip1.orgip.net/338/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="UA", 24 КАНАЛ HD UA
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJsIjoiMjdjYzEwYTciLCJwIjoiMjdjYzEwYTdhYWVkNjZhZCIsImMiOiI0MzQiLCJ0IjoiY2JjMmI1M2IyMmMyMDFhYzdkNjNiNWM5ZDZhNjBhNzIiLCJkIjoiNDQ1NzMzIiwiciI6IjQ1NzYzNCIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MzQ0L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 #EXTINF:-1 group-title="UA", ICTV
 http://ip1.orgip.net/302/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="UA", ICTV HD UA
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgwOTIvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjI3Y2MxMGE3IiwicCI6IjI3Y2MxMGE3YWFlZDY2YWQiLCJjIjoiODkiLCJ0IjoiY2JjMmI1M2IyMmMyMDFhYzdkNjNiNWM5ZDZhNjBhNzIiLCJkIjoiNDQ1NzMzIiwiciI6IjQ1NzYzNCIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MDkyL3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 #EXTINF:-1 group-title="UA", ICTV2
 http://ip1.orgip.net/339/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="UA", ICTV 2 HD UA
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgwNzcvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjI3Y2MxMGE3IiwicCI6IjI3Y2MxMGE3YWFlZDY2YWQiLCJjIjoiNzUiLCJ0IjoiY2JjMmI1M2IyMmMyMDFhYzdkNjNiNWM5ZDZhNjBhNzIiLCJkIjoiNDQ1NzMzIiwiciI6IjQ1NzYzNCIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MDc3L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 #EXTINF:-1 group-title="UA", ESPRESOTV
 https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8
 #EXTINF:-1 group-title="UA", ЕСПРЕСО
 http://ip1.orgip.net/317/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="UA", ЕСПРЕСО HD UA
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgyNDMvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjI3Y2MxMGE3IiwicCI6IjI3Y2MxMGE3YWFlZDY2YWQiLCJjIjoiMzk1IiwidCI6ImNiYzJiNTNiMjJjMjAxYWM3ZDYzYjVjOWQ2YTYwYTcyIiwiZCI6IjQ0NTczMyIsInIiOiI0NTc2MzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MjQzL3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 #EXTINF:-1 group-title="UA", СТБ
 http://ip1.orgip.net/304/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="UA", СТБ HD UA
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgwOTAvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjI3Y2MxMGE3IiwicCI6IjI3Y2MxMGE3YWFlZDY2YWQiLCJjIjoiODgiLCJ0IjoiY2JjMmI1M2IyMmMyMDFhYzdkNjNiNWM5ZDZhNjBhNzIiLCJkIjoiNDQ1NzMzIiwiciI6IjQ1NzYzNCIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MDkwL3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 #EXTINF:-1 group-title="UA", УНІАН
 http://ip1.orgip.net/307/video.m3u8?token=A37feb3eec
 #EXTINF:-1 group-title="UA", ИНТЕР
 http://ip1.orgip.net/305/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="UA", ПРЯМИЙ HD UA
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgyODQvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjI3Y2MxMGE3IiwicCI6IjI3Y2MxMGE3YWFlZDY2YWQiLCJjIjoiMzk5IiwidCI6ImNiYzJiNTNiMjJjMjAxYWM3ZDYzYjVjOWQ2YTYwYTcyIiwiZCI6IjQ0NTczMyIsInIiOiI0NTc2MzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84Mjg0L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
-#EXTINF:-1 group-title="UA", НТН UA
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgyODAvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjI3Y2MxMGE3IiwicCI6IjI3Y2MxMGE3YWFlZDY2YWQiLCJjIjoiMzk4IiwidCI6ImNiYzJiNTNiMjJjMjAxYWM3ZDYzYjVjOWQ2YTYwYTcyIiwiZCI6IjQ0NTczMyIsInIiOiI0NTc2MzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MjgwL3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
-#EXTINF:-1 group-title="UA", ІНТЕР HD UA
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgwODkvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjI3Y2MxMGE3IiwicCI6IjI3Y2MxMGE3YWFlZDY2YWQiLCJjIjoiODciLCJ0IjoiY2JjMmI1M2IyMmMyMDFhYzdkNjNiNWM5ZDZhNjBhNzIiLCJkIjoiNDQ1NzMzIiwiciI6IjQ1NzYzNCIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MDg5L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 #EXTINF:-1 group-title="UA", УКРАЇНА
 https://fl1001.bozztv.com/ushba5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="UA", УКРАЇНА 2
@@ -64,12 +40,8 @@ http://ip1.orgip.net/312/video.m3u8?token=A37feb3eec
 https://tva.in.ua/live/first.m3u8
 #EXTINF:-1 group-title="UA", ПЕРШИЙ HD
 https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
-#EXTINF:-1 group-title="UA", ПЕРШИЙ HD UA
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgyNzMvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjI3Y2MxMGE3IiwicCI6IjI3Y2MxMGE3YWFlZDY2YWQiLCJjIjoiMzk2IiwidCI6ImNiYzJiNTNiMjJjMjAxYWM3ZDYzYjVjOWQ2YTYwYTcyIiwiZCI6IjQ0NTczMyIsInIiOiI0NTc2MzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MjczL3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 #EXTINF:-1 group-title="UA", РАДА
 https://api-tv.ipnet.ua/api/v1/manifest/1312714970.m3u8
-#EXTINF:-1 group-title="UA", РАДА HD UA
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJsIjoiMjdjYzEwYTciLCJwIjoiMjdjYzEwYTdhYWVkNjZhZCIsImMiOiI0MDEiLCJ0IjoiY2JjMmI1M2IyMmMyMDFhYzdkNjNiNWM5ZDZhNjBhNzIiLCJkIjoiNDQ1NzMzIiwiciI6IjQ1NzYzNCIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MzQ3L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 #EXTINF:-1 group-title="UA", ПРЯМИЙ
 http://ip1.orgip.net/344/video.m3u8?token=A37feb3eec
 #EXTINF:-1 group-title="UA", ARMIATV
@@ -78,16 +50,10 @@ https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
 http://95.67.106.242/mobile-app/main/freedom/master.m3u8
 #EXTINF:-1 group-title="UA", FREEDOM
 http://ip1.orgip.net/301/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="UA", FREEДОМ HD UA
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzg1NDAvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjI3Y2MxMGE3IiwicCI6IjI3Y2MxMGE3YWFlZDY2YWQiLCJjIjoiMzgxIiwidCI6ImNiYzJiNTNiMjJjMjAxYWM3ZDYzYjVjOWQ2YTYwYTcyIiwiZCI6IjQ0NTczMyIsInIiOiI0NTc2MzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84NTQwL3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 #EXTINF:-1 group-title="UA", НТН
 http://ip1.orgip.net/318/video.m3u8?token=A37feb3eec
 #EXTINF:-1 group-title="UA", НОВИЙ КАНАЛ
 http://ip1.orgip.net/303/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="UA", НОВИЙ КАНАЛ HD UA
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgxMzAvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjI3Y2MxMGE3IiwicCI6IjI3Y2MxMGE3YWFlZDY2YWQiLCJjIjoiMTIyIiwidCI6ImNiYzJiNTNiMjJjMjAxYWM3ZDYzYjVjOWQ2YTYwYTcyIiwiZCI6IjQ0NTczMyIsInIiOiI0NTc2MzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MTMwL3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
-#EXTINF:-1 group-title="UA", 8 КАНАЛ HD UA
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgzMzQvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjI3Y2MxMGE3IiwicCI6IjI3Y2MxMGE3YWFlZDY2YWQiLCJjIjoiNDAwIiwidCI6ImNiYzJiNTNiMjJjMjAxYWM3ZDYzYjVjOWQ2YTYwYTcyIiwiZCI6IjQ0NTczMyIsInIiOiI0NTc2MzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MzM0L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 #EXTINF:-1 group-title="UA", ТЕТ HD
 http://31.43.48.248:7000/ch7/video.m3u8
 #EXTINF:-1 group-title="UA", ОЦЕ
@@ -102,10 +68,6 @@ http://ip1.orgip.net/309/video.m3u8?token=A37feb3eec
 http://ip1.orgip.net/310/video.m3u8?token=A37feb3eec
 #EXTINF:-1 group-title="UA", K2
 http://ip1.orgip.net/311/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="UA", M1 UA
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJsIjoiMjdjYzEwYTciLCJwIjoiMjdjYzEwYTdhYWVkNjZhZCIsImMiOiIyNjUiLCJ0IjoiY2JjMmI1M2IyMmMyMDFhYzdkNjNiNWM5ZDZhNjBhNzIiLCJkIjoiNDQ1NzMzIiwiciI6IjQ1NzYzNCIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MzM1L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
-#EXTINF:-1 group-title="UA", M2 UA
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJsIjoiMjdjYzEwYTciLCJwIjoiMjdjYzEwYTdhYWVkNjZhZCIsImMiOiIyNjYiLCJ0IjoiY2JjMmI1M2IyMmMyMDFhYzdkNjNiNWM5ZDZhNjBhNzIiLCJkIjoiNDQ1NzMzIiwiciI6IjQ1NzYzNCIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MzM2L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 #EXTINF:-1 group-title="COGNITIVE", ANIMAL PLANET HD
 http://ip1.orgip.net/400/video.m3u8?token=Ceba8e4412
 #EXTINF:-1 group-title="COGNITIVE", ANIMAL PLANET HD
@@ -114,8 +76,6 @@ http://ip1.orgip.net/400/video.m3u8?token=A37feb3eec
 http://ip1.orgip.net/401/video.m3u8?token=Ceba8e4412
 #EXTINF:-1 group-title="COGNITIVE", DISCOVERY CHANNEL HD
 http://ip1.orgip.net/401/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="COGNITIVE", DISCOVERY CHANNEL HD
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgxODAvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjI3Y2MxMGE3IiwicCI6IjI3Y2MxMGE3YWFlZDY2YWQiLCJjIjoiMTcwIiwidCI6ImNiYzJiNTNiMjJjMjAxYWM3ZDYzYjVjOWQ2YTYwYTcyIiwiZCI6IjQ0NTczMyIsInIiOiI0NTc2MzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MTgwL3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 #EXTINF:-1 group-title="COGNITIVE", ID INVESTIGATION DISCOVERY HD
 http://ip1.orgip.net/443/video.m3u8?token=Ceba8e4412
 #EXTINF:-1 group-title="COGNITIVE", ID INVESTIGATION DISCOVERY HD
@@ -124,32 +84,22 @@ http://ip1.orgip.net/443/video.m3u8?token=A37feb3eec
 http://ip1.orgip.net/402/video.m3u8?token=A37feb3eec
 #EXTINF:-1 group-title="COGNITIVE", NATIONAL GEOGRAPHIC HD
 http://ip1.orgip.net/402/video.m3u8?token=Ceba8e4412
-#EXTINF:-1 group-title="COGNITIVE", NATIONAL GEOGRAPHIC HD
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgxNzYvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjI3Y2MxMGE3IiwicCI6IjI3Y2MxMGE3YWFlZDY2YWQiLCJjIjoiMTY2IiwidCI6ImNiYzJiNTNiMjJjMjAxYWM3ZDYzYjVjOWQ2YTYwYTcyIiwiZCI6IjQ0NTczMyIsInIiOiI0NTc2MzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MTc2L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 #EXTINF:-1 group-title="COGNITIVE", NAT GEO WILD
 http://ip1.orgip.net/403/video.m3u8?token=Ceba8e4412
 #EXTINF:-1 group-title="COGNITIVE", NAT GEO WILD HD
 http://ip1.orgip.net/403/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="COGNITIVE", NAT GEO WILD HD
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgxODgvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjI3Y2MxMGE3IiwicCI6IjI3Y2MxMGE3YWFlZDY2YWQiLCJjIjoiMTc3IiwidCI6ImNiYzJiNTNiMjJjMjAxYWM3ZDYzYjVjOWQ2YTYwYTcyIiwiZCI6IjQ0NTczMyIsInIiOiI0NTc2MzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MTg4L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 #EXTINF:-1 group-title="COGNITIVE", VIJU+ EXPLORE
 http://ip1.orgip.net/417/video.m3u8?token=A37feb3eec
 #EXTINF:-1 group-title="COGNITIVE", VIASAT EXPLORE
 http://ip1.orgip.net/417/video.m3u8?token=Ceba8e4412
-#EXTINF:-1 group-title="COGNITIVE", VIJU EXPLORE HD
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgwODUvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjI3Y2MxMGE3IiwicCI6IjI3Y2MxMGE3YWFlZDY2YWQiLCJjIjoiODMiLCJ0IjoiY2JjMmI1M2IyMmMyMDFhYzdkNjNiNWM5ZDZhNjBhNzIiLCJkIjoiNDQ1NzMzIiwiciI6IjQ1NzYzNCIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MDg1L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 #EXTINF:-1 group-title="COGNITIVE", VIASAT HISTORY
 http://ip1.orgip.net/410/video.m3u8?token=Ceba8e4412
-#EXTINF:-1 group-title="COGNITIVE", VIJU HISTORY HD
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgwODYvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjI3Y2MxMGE3IiwicCI6IjI3Y2MxMGE3YWFlZDY2YWQiLCJjIjoiODQiLCJ0IjoiY2JjMmI1M2IyMmMyMDFhYzdkNjNiNWM5ZDZhNjBhNzIiLCJkIjoiNDQ1NzMzIiwiciI6IjQ1NzYzNCIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MDg2L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 #EXTINF:-1 group-title="COGNITIVE", VIJU+ HISTORY HD
 http://ip1.orgip.net/410/video.m3u8?token=A37feb3eec
 #EXTINF:-1 group-title="COGNITIVE", VIASAT NATURE/HISTORY HD
 http://ip1.orgip.net/407/video.m3u8?token=Ceba8e4412
 #EXTINF:-1 group-title="COGNITIVE", VIASAT NATURE HD
 http://ip1.orgip.net/449/video.m3u8?token=Ceba8e4412
-#EXTINF:-1 group-title="COGNITIVE", VIJU NATURE HD
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgwODcvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjI3Y2MxMGE3IiwicCI6IjI3Y2MxMGE3YWFlZDY2YWQiLCJjIjoiODUiLCJ0IjoiY2JjMmI1M2IyMmMyMDFhYzdkNjNiNWM5ZDZhNjBhNzIiLCJkIjoiNDQ1NzMzIiwiciI6IjQ1NzYzNCIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MDg3L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 #EXTINF:-1 group-title="COGNITIVE", VIJU+ NATURE HD
 http://ip1.orgip.net/449/video.m3u8?token=A37feb3eec
 #EXTINF:-1 group-title="COGNITIVE", VIJU+ PLANET
@@ -170,8 +120,6 @@ http://ip1.orgip.net/409/video.m3u8?token=Ceba8e4412
 http://ip1.orgip.net/416/video.m3u8?token=A37feb3eec
 #EXTINF:-1 group-title="COGNITIVE", TRAVEL+ADVENTURE
 http://ip1.orgip.net/416/video.m3u8?token=Ceba8e4412
-#EXTINF:-1 group-title="COGNITIVE", МЕГА HD UA
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgxMDAvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjI3Y2MxMGE3IiwicCI6IjI3Y2MxMGE3YWFlZDY2YWQiLCJjIjoiOTYiLCJ0IjoiY2JjMmI1M2IyMmMyMDFhYzdkNjNiNWM5ZDZhNjBhNzIiLCJkIjoiNDQ1NzMzIiwiciI6IjQ1NzYzNCIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MTAwL3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 #EXTINF:-1 group-title="COGNITIVE", TERRA
 http://ip1.orgip.net/0402/video.m3u8?token=Ceba8e4412
 #EXTINF:-1 group-title="COGNITIVE", TERRA
@@ -198,42 +146,18 @@ http://ip1.orgip.net/438/video.m3u8?token=Ceba8e4412
 http://ip1.orgip.net/405/video.m3u8?token=Ceba8e4412
 #EXTINF:-1 group-title="COGNITIVE", РЫБАЛКА
 http://iptv.prosto.tv:7000/ch344/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", RYBALKA HD
-https://176.116.105.82/Rybalka_HD/index.m3u8
 #EXTINF:-1 group-title="CINEMA", ENTER-ФІЛЬМ
 http://31.43.48.248:7000/ch54/video.m3u8
 #EXTINF:-1 group-title="CINEMA", КВАРТАЛ ТВ
 http://ip1.orgip.net/313/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="CINEMA", KINOSWEET HD
-http://193.27.209.122/kinosweet/index.m3u8
-#EXTINF:-1 group-title="CINEMA", ACTION TVOE KINO HD
-http://193.27.209.122/tvoje_kino_action/index.m3u8
-#EXTINF:-1 group-title="CINEMA", XIT TVOE KINO HD
-http://193.27.209.122/tvoje_kino_hit/index.m3u8
-#EXTINF:-1 group-title="CINEMA", SUPER+ HD
-http://193.27.209.122/super_plus/index.m3u8
-#EXTINF:-1 group-title="CINEMA", CINE+ LEGEND
-http://193.27.209.122/cine_plus_legend/index.m3u8
-#EXTINF:-1 group-title="CINEMA", VIASAT KINO COMEDY HD
-http://de.online24.pm/play/493/FB4F94DA00C3BE0/video.m3u8
-#EXTINF:-1 group-title="CINEMA", VIJU TV1000 HD
-http://vod.splay.uz/live_splay/original/TV1000/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CINEMA", VIJU+ COMEDY HD
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgxMDgvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjI3Y2MxMGE3IiwicCI6IjI3Y2MxMGE3YWFlZDY2YWQiLCJjIjoiMTA0IiwidCI6ImNiYzJiNTNiMjJjMjAxYWM3ZDYzYjVjOWQ2YTYwYTcyIiwiZCI6IjQ0NTczMyIsInIiOiI0NTc2MzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MTA4L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 #EXTINF:-1 group-title="CINEMA", VIJU+ COMEDY HD
 http://ip1.orgip.net/607/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="CINEMA", VIJU+ MEGAHIT HD
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgxMDkvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjI3Y2MxMGE3IiwicCI6IjI3Y2MxMGE3YWFlZDY2YWQiLCJjIjoiMTA1IiwidCI6ImNiYzJiNTNiMjJjMjAxYWM3ZDYzYjVjOWQ2YTYwYTcyIiwiZCI6IjQ0NTczMyIsInIiOiI0NTc2MzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MTA5L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 #EXTINF:-1 group-title="CINEMA", VIJU+ MEGAHIT HD
 http://ip1.orgip.net/606/video.m3u8?token=A37feb3eec
 #EXTINF:-1 group-title="CINEMA", VIJU+ PREMIERE HD
 http://ip1.orgip.net/605/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="CINEMA", VIJU+ PREMIERE HD
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgxMTkvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjI3Y2MxMGE3IiwicCI6IjI3Y2MxMGE3YWFlZDY2YWQiLCJjIjoiMTE1IiwidCI6ImNiYzJiNTNiMjJjMjAxYWM3ZDYzYjVjOWQ2YTYwYTcyIiwiZCI6IjQ0NTczMyIsInIiOiI0NTc2MzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MTE5L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 #EXTINF:-1 group-title="CINEMA", VIJU+ SERIAL
 http://ip1.orgip.net/636/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="CINEMA", VIJU+ SERIAL HD
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJsIjoiMjdjYzEwYTciLCJwIjoiMjdjYzEwYTdhYWVkNjZhZCIsImMiOiIxOTM2IiwidCI6ImNiYzJiNTNiMjJjMjAxYWM3ZDYzYjVjOWQ2YTYwYTcyIiwiZCI6IjQ0NTczMyIsInIiOiI0NTc2MzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS85MjIyL3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 #EXTINF:-1 group-title="CINEMA", VIJU TV1000
 http://ip1.orgip.net/622/video.m3u8?token=A37feb3eec
 #EXTINF:-1 group-title="CINEMA", VIJU TV1000 ACTION
@@ -358,84 +282,32 @@ http://ip1.orgip.net/217/video.m3u8?token=A37feb3eec
 https://176.116.105.82/XSPORT_HD/index.m3u8
 #EXTINF:-1 group-title="SPORT", МАТЧ! ФУТБОЛ 1
 http://ip1.orgip.net/202/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="SPORT", МАТЧ! ФУТБОЛ 1 HD
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgyMzYvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjI3Y2MxMGE3IiwicCI6IjI3Y2MxMGE3YWFlZDY2YWQiLCJjIjoiMjIyIiwidCI6ImNiYzJiNTNiMjJjMjAxYWM3ZDYzYjVjOWQ2YTYwYTcyIiwiZCI6IjQ0NTczMyIsInIiOiI0NTc2MzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MjM2L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 #EXTINF:-1 group-title="SPORT", МАТЧ! ФУТБОЛ 2
 http://ip1.orgip.net/203/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="SPORT", МАТЧ! ФУТБОЛ 2 HD
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgyMzcvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjI3Y2MxMGE3IiwicCI6IjI3Y2MxMGE3YWFlZDY2YWQiLCJjIjoiMjIzIiwidCI6ImNiYzJiNTNiMjJjMjAxYWM3ZDYzYjVjOWQ2YTYwYTcyIiwiZCI6IjQ0NTczMyIsInIiOiI0NTc2MzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MjM3L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 #EXTINF:-1 group-title="SPORT", МАТЧ! ФУТБОЛ 3
 http://ip1.orgip.net/204/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="SPORT", МАТЧ! ФУТБОЛ 3 HD
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgyMzgvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjI3Y2MxMGE3IiwicCI6IjI3Y2MxMGE3YWFlZDY2YWQiLCJjIjoiMjI0IiwidCI6ImNiYzJiNTNiMjJjMjAxYWM3ZDYzYjVjOWQ2YTYwYTcyIiwiZCI6IjQ0NTczMyIsInIiOiI0NTc2MzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MjM4L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 #EXTINF:-1 group-title="SPORT", ОККО ФУТБОЛ HD
 http://ip1.orgip.net/232/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="SPORT", OKKO СПОРТ. ФУТБОЛ HD
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJsIjoiMjdjYzEwYTciLCJwIjoiMjdjYzEwYTdhYWVkNjZhZCIsImMiOiIxMDc5IiwidCI6ImNiYzJiNTNiMjJjMjAxYWM3ZDYzYjVjOWQ2YTYwYTcyIiwiZCI6IjQ0NTczMyIsInIiOiI0NTc2MzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS85MTcwL3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 #EXTINF:-1 group-title="SPORT", ОККО СПОРТ HD
 http://ip1.orgip.net/238/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="SPORT", OKKO СПОРТ HD
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJsIjoiMjdjYzEwYTciLCJwIjoiMjdjYzEwYTdhYWVkNjZhZCIsImMiOiIxODg2IiwidCI6ImNiYzJiNTNiMjJjMjAxYWM3ZDYzYjVjOWQ2YTYwYTcyIiwiZCI6IjQ0NTczMyIsInIiOiI0NTc2MzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS85MTg0L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 #EXTINF:-1 group-title="SPORT", ОККО ПРАЙМ СПОРТ
 http://ip1.orgip.net/236/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="SPORT", OKKO ПРАЙМ СПОРТ HD
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJsIjoiMjdjYzEwYTciLCJwIjoiMjdjYzEwYTdhYWVkNjZhZCIsImMiOiIxODg1IiwidCI6ImNiYzJiNTNiMjJjMjAxYWM3ZDYzYjVjOWQ2YTYwYTcyIiwiZCI6IjQ0NTczMyIsInIiOiI0NTc2MzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS85MTgzL3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 #EXTINF:-1 group-title="SPORT", EUROSPORT 1 HD
 http://ip1.orgip.net/0200/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="SPORT", EUROSPORT 1 HD
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgxNzgvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjI3Y2MxMGE3IiwicCI6IjI3Y2MxMGE3YWFlZDY2YWQiLCJjIjoiMTY4IiwidCI6ImNiYzJiNTNiMjJjMjAxYWM3ZDYzYjVjOWQ2YTYwYTcyIiwiZCI6IjQ0NTczMyIsInIiOiI0NTc2MzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MTc4L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 #EXTINF:-1 group-title="SPORT", EUROSPORT 2 HD
 http://ip1.orgip.net/0201/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="SPORT", EUROSPORT 2 HD
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgxNjMvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjI3Y2MxMGE3IiwicCI6IjI3Y2MxMGE3YWFlZDY2YWQiLCJjIjoiMTUzIiwidCI6ImNiYzJiNTNiMjJjMjAxYWM3ZDYzYjVjOWQ2YTYwYTcyIiwiZCI6IjQ0NTczMyIsInIiOiI0NTc2MzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MTYzL3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 #EXTINF:-1 group-title="SPORT", SETANTA SPORTS 1
 http://ip1.orgip.net/220/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="SPORT", SETANTA SPORTS 1 HD
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzg1NjUvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjI3Y2MxMGE3IiwicCI6IjI3Y2MxMGE3YWFlZDY2YWQiLCJjIjoiMzkxIiwidCI6ImNiYzJiNTNiMjJjMjAxYWM3ZDYzYjVjOWQ2YTYwYTcyIiwiZCI6IjQ0NTczMyIsInIiOiI0NTc2MzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84NTY1L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 #EXTINF:-1 group-title="SPORT", SETANTA SPORTS 2
 http://ip1.orgip.net/221/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="SPORT", SETANTA SPORTS 2 HD
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzg2NzYvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjI3Y2MxMGE3IiwicCI6IjI3Y2MxMGE3YWFlZDY2YWQiLCJjIjoiNzc3IiwidCI6ImNiYzJiNTNiMjJjMjAxYWM3ZDYzYjVjOWQ2YTYwYTcyIiwiZCI6IjQ0NTczMyIsInIiOiI0NTc2MzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84Njc2L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 #EXTINF:-1 group-title="SPORT", SETANTA SPORTS UKRAINE
 http://ip1.orgip.net/222/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="SPORT", SETANTA SPORTS HD UA
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgzODIvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjI3Y2MxMGE3IiwicCI6IjI3Y2MxMGE3YWFlZDY2YWQiLCJjIjoiMjg5IiwidCI6ImNiYzJiNTNiMjJjMjAxYWM3ZDYzYjVjOWQ2YTYwYTcyIiwiZCI6IjQ0NTczMyIsInIiOiI0NTc2MzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MzgyL3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 #EXTINF:-1 group-title="SPORT", SETANTA SPORTS UKRAINE +
 http://ip1.orgip.net/214/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="SPORT", SETANTA SPORTS + HD
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgzMjkvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjI3Y2MxMGE3IiwicCI6IjI3Y2MxMGE3YWFlZDY2YWQiLCJjIjoiMjYxIiwidCI6ImNiYzJiNTNiMjJjMjAxYWM3ZDYzYjVjOWQ2YTYwYTcyIiwiZCI6IjQ0NTczMyIsInIiOiI0NTc2MzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MzI5L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 #EXTINF:-1 group-title="SPORT", VIJU+ SPORT
 http://ip1.orgip.net/215/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="SPORT", SKY SPORT NEWS DE
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgyNzcvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjI3Y2MxMGE3IiwicCI6IjI3Y2MxMGE3YWFlZDY2YWQiLCJjIjoiMzQ4IiwidCI6ImNiYzJiNTNiMjJjMjAxYWM3ZDYzYjVjOWQ2YTYwYTcyIiwiZCI6IjQ0NTczMyIsInIiOiI0NTc2MzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84Mjc3L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
-#EXTINF:-1 group-title="SPORT", SKY SPORT MIX HD DE
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJsIjoiMjdjYzEwYTciLCJwIjoiMjdjYzEwYTdhYWVkNjZhZCIsImMiOiI3NzEiLCJ0IjoiY2JjMmI1M2IyMmMyMDFhYzdkNjNiNWM5ZDZhNjBhNzIiLCJkIjoiNDQ1NzMzIiwiciI6IjQ1NzYzNCIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84Njc0L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
-#EXTINF:-1 group-title="SPORT", SKY SPORT TOP EVENT HD DE
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL214NC5tYWluY2R5LmNvbTo4MDgwLzgyOTMvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjI3Y2MxMGE3IiwicCI6IjI3Y2MxMGE3YWFlZDY2YWQiLCJjIjoiMzUyIiwidCI6ImNiYzJiNTNiMjJjMjAxYWM3ZDYzYjVjOWQ2YTYwYTcyIiwiZCI6IjQ0NTczMyIsInIiOiI0NTc2MzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84MjkzL3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
-#EXTINF:-1 group-title="SPORT", SKY SPORT PREM LEAGUE HD DE
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJsIjoiMjdjYzEwYTciLCJwIjoiMjdjYzEwYTdhYWVkNjZhZCIsImMiOiI4OTAiLCJ0IjoiY2JjMmI1M2IyMmMyMDFhYzdkNjNiNWM5ZDZhNjBhNzIiLCJkIjoiNDQ1NzMzIiwiciI6IjQ1NzYzNCIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84OTE3L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
-#EXTINF:-1 group-title="SPORT", SKY SPORT BUNDESLIGA HD DE
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJsIjoiMjdjYzEwYTciLCJwIjoiMjdjYzEwYTdhYWVkNjZhZCIsImMiOiIxODIxIiwidCI6ImNiYzJiNTNiMjJjMjAxYWM3ZDYzYjVjOWQ2YTYwYTcyIiwiZCI6IjQ0NTczMyIsInIiOiI0NTc2MzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS85MTU0L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 #EXTINF:-1 group-title="SPORT", SKY SPORTS F1
 https://7pal.short.gy/ssportsf1
-#EXTINF:-1 group-title="SPORT", SKY SPORTS F1 HD UK
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJsIjoiMjdjYzEwYTciLCJwIjoiMjdjYzEwYTdhYWVkNjZhZCIsImMiOiI4NjYiLCJ0IjoiY2JjMmI1M2IyMmMyMDFhYzdkNjNiNWM5ZDZhNjBhNzIiLCJkIjoiNDQ1NzMzIiwiciI6IjQ1NzYzNCIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84Njg4L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
-#EXTINF:-1 group-title="SPORT", SKY SPORTS F1 HD DE
-http://ost.y666tv.cc/9W3N0Yl90b2tlbl0iLCJsIjoiMjdjYzEwYTciLCJwIjoiMjdjYzEwYTdhYWVkNjZhZCIsImMiOiI4NjUiLCJ0IjoiY2JjMmI1M2IyMmMyMDFhYzdkNjNiNWM5ZDZhNjBhNzIiLCJkIjoiNDQ1NzMzIiwiciI6IjQ1NzYzNCIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84Njg3L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
-#EXTINF:-1 group-title="SPORT", ESPN 1
-http://protzpwcf1.top:8080/pro871767527104/1cd95e4e17e5/1257
-#EXTINF:-1 group-title="SPORT", ESPN 2
-http://protzpwcf1.top:8080/pro871767527104/1cd95e4e17e5/1258
-#EXTINF:-1 group-title="SPORT", ESPN 3
-http://protzpwcf1.top:8080/pro871767527104/1cd95e4e17e5/1259
-#EXTINF:-1 group-title="SPORT", ESPN 4
-http://protzpwcf1.top:8080/pro871767527104/1cd95e4e17e5/1260
-#EXTINF:-1 group-title="SPORT", ZIGGO SPORT
-http://protzpwcf1.top:8080/pro871767527104/1cd95e4e17e5/1261
-#EXTINF:-1 group-title="SPORT", ZIGGO SPORT 2
-http://protzpwcf1.top:8080/pro871767527104/1cd95e4e17e5/1262
-#EXTINF:-1 group-title="SPORT", ZIGGO SPORT 3
-http://protzpwcf1.top:8080/pro871767527104/1cd95e4e17e5/1263
 #EXTINF:-1 group-title="SPORT", BEIN EXTRAS
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="SPORT", ELEVEN SPORTS 1 HD
@@ -444,10 +316,4 @@ http://bocian.io:8880/NL753811/552284900/105525
 http://bocian.io:8880/NL753811/552284900/105526
 #EXTINF:-1 group-title="SPORT", ELEVEN SPORTS 3 HD
 http://bocian.io:8880/NL753811/552284900/105527
-#EXTINF:-1 group-title="SPORT", DUBAI SPORTS 1
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT", DUBAI SPORTS 2
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="SPORT", DUBAI SPORTS 3
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 #Playlist made by https://t.me/playlist_free
