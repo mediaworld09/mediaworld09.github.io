@@ -203,16 +203,13 @@ http://u.vipl.one/high/9i7mez8jhs/77.m3u8
 #EXTINF:0 tvg-id="78" tvg-logo="http://epg.cdntv.online/img/78.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Музыкальные", Song TV Россия
 #EXTGRP:Музыкальные
 http://u.vipl.one/high/9i7mez8jhs/78.m3u8
-#EXTINF:0 tvg-id="79" tvg-logo="http://epg.cdntv.online/img/79.png" group-title="Музыкальные", MTV 80s
-#EXTGRP:Музыкальные
-http://u.vipl.one/high/9i7mez8jhs/79.m3u8
 #EXTINF:0 tvg-id="81" tvg-logo="http://epg.cdntv.online/img/81.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Музыкальные", Музыка Live
 #EXTGRP:Музыкальные
 http://u.vipl.one/high/9i7mez8jhs/81.m3u8
 #EXTINF:0 tvg-id="82" tvg-logo="http://epg.cdntv.online/img/82.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Музыкальные", Матур ТВ HD
 #EXTGRP:Музыкальные
 http://u.vipl.one/high/9i7mez8jhs/82.m3u8
-#EXTINF:0 tvg-id="85" tvg-logo="http://epg.cdntv.online/img/85.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Музыкальные", ТНТ Music
+#EXTINF:0 tvg-id="85" tvg-logo="http://epg.cdntv.online/img/85.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Музыкальные", FON Music
 #EXTGRP:Музыкальные
 http://u.vipl.one/high/9i7mez8jhs/85.m3u8
 #EXTINF:0 tvg-id="86" tvg-logo="http://epg.cdntv.online/img/86.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Музыкальные", Шансон-TB
@@ -518,8 +515,8 @@ http://u.vipl.one/high/9i7mez8jhs/226.m3u8
 #EXTINF:0 tvg-id="229" tvg-logo="http://epg.cdntv.online/img/229.png" group-title="Региональные", НТС
 #EXTGRP:Региональные
 http://u.vipl.one/high/9i7mez8jhs/229.m3u8
-#EXTINF:0 tvg-id="230" tvg-logo="http://epg.cdntv.online/img/230.png" group-title="Региональные", Наша Сибирь HD
-#EXTGRP:Региональные
+#EXTINF:0 tvg-id="230" tvg-logo="http://epg.cdntv.online/img/230.png" group-title="Познавательные", Наша Сибирь HD
+#EXTGRP:Познавательные
 http://u.vipl.one/high/9i7mez8jhs/230.m3u8
 #EXTINF:0 tvg-id="232" tvg-logo="http://epg.cdntv.online/img/232.png" group-title="Казахстан", Новое телевидение
 #EXTGRP:Казахстан
@@ -821,9 +818,6 @@ http://u.vipl.one/high/9i7mez8jhs/394.m3u8
 #EXTINF:0 tvg-id="395" tvg-logo="http://epg.cdntv.online/img/395.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Музыкальные", Clubbing TV
 #EXTGRP:Музыкальные
 http://u.vipl.one/high/9i7mez8jhs/395.m3u8
-#EXTINF:0 tvg-id="397" tvg-logo="http://epg.cdntv.online/img/397.png" group-title="Музыкальные", RU.TV HD
-#EXTGRP:Музыкальные
-http://u.vipl.one/high/9i7mez8jhs/397.m3u8
 #EXTINF:0 tvg-id="399" tvg-logo="http://epg.cdntv.online/img/399.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Музыкальные", Жара TV
 #EXTGRP:Музыкальные
 http://u.vipl.one/high/9i7mez8jhs/399.m3u8
@@ -1376,6 +1370,9 @@ http://u.vipl.one/high/9i7mez8jhs/702.m3u8
 #EXTINF:0 tvg-id="703" tvg-logo="http://epg.cdntv.online/img/703.png" group-title="Региональные", TV5Monde
 #EXTGRP:Региональные
 http://u.vipl.one/high/9i7mez8jhs/703.m3u8
+#EXTINF:0 tvg-id="704" tvg-logo="http://epg.cdntv.online/img/704.png" group-title="Региональные", Арктик-ТВ
+#EXTGRP:Региональные
+http://u.vipl.one/high/9i7mez8jhs/704.m3u8
 #EXTINF:0 tvg-id="708" tvg-logo="http://epg.cdntv.online/img/708.png" group-title="Региональные", Волгоград 24
 #EXTGRP:Региональные
 http://u.vipl.one/high/9i7mez8jhs/708.m3u8
@@ -1400,18 +1397,12 @@ http://u.vipl.one/high/9i7mez8jhs/744.m3u8
 #EXTINF:0 tvg-id="755" tvg-logo="http://epg.cdntv.online/img/755.png" group-title="Украина", Рада
 #EXTGRP:Украина
 http://u.vipl.one/high/9i7mez8jhs/755.m3u8
-#EXTINF:0 tvg-id="758" tvg-logo="http://epg.cdntv.online/img/758.png" group-title="Украина", Бигуди
-#EXTGRP:Украина
-http://u.vipl.one/high/9i7mez8jhs/758.m3u8
 #EXTINF:0 tvg-id="759" tvg-logo="http://epg.cdntv.online/img/759.png" group-title="Украина", ПЕРШИЙ
 #EXTGRP:Украина
 http://u.vipl.one/high/9i7mez8jhs/759.m3u8
 #EXTINF:0 tvg-id="761" tvg-logo="http://epg.cdntv.online/img/761.png" group-title="Украина", KVARTAL TV
 #EXTGRP:Украина
 http://u.vipl.one/high/9i7mez8jhs/761.m3u8
-#EXTINF:0 tvg-id="762" tvg-logo="http://epg.cdntv.online/img/762.png" group-title="Украина", Дача HD
-#EXTGRP:Украина
-http://u.vipl.one/high/9i7mez8jhs/762.m3u8
 #EXTINF:0 tvg-id="768" tvg-logo="http://epg.cdntv.online/img/768.png" group-title="Украина", Fashion TV HD Ukraine
 #EXTGRP:Украина
 http://u.vipl.one/high/9i7mez8jhs/768.m3u8
@@ -1493,9 +1484,6 @@ http://u.vipl.one/high/9i7mez8jhs/853.m3u8
 #EXTINF:0 tvg-id="854" tvg-logo="http://epg.cdntv.online/img/854.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Украина", 2+2 HD
 #EXTGRP:Украина
 http://u.vipl.one/high/9i7mez8jhs/854.m3u8
-#EXTINF:0 tvg-id="856" tvg-logo="http://epg.cdntv.online/img/856.png" group-title="Украина", К2
-#EXTGRP:Украина
-http://u.vipl.one/high/9i7mez8jhs/856.m3u8
 #EXTINF:0 tvg-id="861" tvg-logo="http://epg.cdntv.online/img/861.png" group-title="Украина", Телевсесвит HD
 #EXTGRP:Украина
 http://u.vipl.one/high/9i7mez8jhs/861.m3u8
@@ -1685,9 +1673,6 @@ http://u.vipl.one/high/9i7mez8jhs/969.m3u8
 #EXTINF:0 tvg-id="972" tvg-logo="http://epg.cdntv.online/img/972.png" group-title="Украина", Суспільне Одеса
 #EXTGRP:Украина
 http://u.vipl.one/high/9i7mez8jhs/972.m3u8
-#EXTINF:0 tvg-id="976" tvg-logo="http://epg.cdntv.online/img/976.png" group-title="Украина", Плюс Плюс
-#EXTGRP:Украина
-http://u.vipl.one/high/9i7mez8jhs/976.m3u8
 #EXTINF:0 tvg-id="978" tvg-logo="http://epg.cdntv.online/img/978.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Украина", ТЕТ HD
 #EXTGRP:Украина
 http://u.vipl.one/high/9i7mez8jhs/978.m3u8
@@ -2198,15 +2183,6 @@ http://u.vipl.one/high/9i7mez8jhs/1358.m3u8
 #EXTINF:0 tvg-id="1360" tvg-logo="http://epg.cdntv.online/img/1360.png" group-title="Армения", 5TV
 #EXTGRP:Армения
 http://u.vipl.one/high/9i7mez8jhs/1360.m3u8
-#EXTINF:0 tvg-id="1361" tvg-logo="http://epg.cdntv.online/img/1361.png" group-title="Армения", Cineman
-#EXTGRP:Армения
-http://u.vipl.one/high/9i7mez8jhs/1361.m3u8
-#EXTINF:0 tvg-id="1363" tvg-logo="http://epg.cdntv.online/img/1363.png" group-title="Армения", Filmzone
-#EXTGRP:Армения
-http://u.vipl.one/high/9i7mez8jhs/1363.m3u8
-#EXTINF:0 tvg-id="1365" tvg-logo="http://epg.cdntv.online/img/1365.png" group-title="Армения", U! Premium
-#EXTGRP:Армения
-http://u.vipl.one/high/9i7mez8jhs/1365.m3u8
 #EXTINF:0 tvg-id="1379" tvg-logo="http://epg.cdntv.online/img/1379.png" group-title="Кинозалы", Z!Channel HD
 #EXTGRP:Кинозалы
 http://u.vipl.one/high/9i7mez8jhs/1379.m3u8
@@ -4151,7 +4127,7 @@ http://u.vipl.one/high/9i7mez8jhs/2286.m3u8
 #EXTINF:0 tvg-id="2289" tvg-logo="http://epg.cdntv.online/img/2289.png" group-title="Музыкальные", Europa Plus HD
 #EXTGRP:Музыкальные
 http://u.vipl.one/high/9i7mez8jhs/2289.m3u8
-#EXTINF:0 tvg-id="2290" tvg-logo="http://epg.cdntv.online/img/2290.png" group-title="Музыкальные", ТНТ Music HD
+#EXTINF:0 tvg-id="2290" tvg-logo="http://epg.cdntv.online/img/2290.png" group-title="Музыкальные", FON Music HD
 #EXTGRP:Музыкальные
 http://u.vipl.one/high/9i7mez8jhs/2290.m3u8
 #EXTINF:0 tvg-id="2291" tvg-logo="http://epg.cdntv.online/img/2291.png" group-title="Кино", КИНЕКО
@@ -4175,3 +4151,6 @@ http://u.vipl.one/high/9i7mez8jhs/2297.m3u8
 #EXTINF:0 tvg-id="2298" tvg-logo="http://epg.cdntv.online/img/2298.png" group-title="Кинозалы", CineMan расследование авиакатастроф
 #EXTGRP:Кинозалы
 http://u.vipl.one/high/9i7mez8jhs/2298.m3u8
+#EXTINF:0 tvg-id="2299" tvg-logo="http://epg.cdntv.online/img/2299.png" group-title="Региональные", Нижний Новгород 24
+#EXTGRP:Региональные
+http://u.vipl.one/high/9i7mez8jhs/2299.m3u8
