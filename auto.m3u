@@ -1514,6 +1514,34 @@ http://185.132.134.159:80/sport4/index.m3u8
 http://185.132.134.159:80/sport5/index.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Sport 6 Israel
 http://185.132.134.159:80/sport6/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",SporTV HD Pt (Португалия)
+https://02.arlivre.online/sportv/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",SporTV 2 HD Pt
+https://02.arlivre.online/sportv2/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",SporTV 3 HD Pt
+https://02.arlivre.online/sportv3/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",BAND Sport HD Pt
+https://02.arlivre.online/bandsport/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Combate HD Pt
+https://02.arlivre.online/combate/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Espn HD Pt
+https://02.arlivre.online/espn/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Espn 2 HD Pt
+https://02.arlivre.online/espn2/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Espn 3 HD Pt
+https://02.arlivre.online/espn3/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Espn 4 HD Pt
+https://02.arlivre.online/espn4/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",PREMIERE 1 HD Pt
+https://02.arlivre.online/pre1/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",PREMIERE 2 HD Pt
+https://02.arlivre.online/pre2/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",PREMIERE 3 HD Pt
+https://02.arlivre.online/pre3/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",PREMIERE 4 HD Pt
+https://02.arlivre.online/pre4/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",PREMIERE 5 HD Pt
+https://02.arlivre.online/pre5/index.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Turkmen Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Sports Grid
