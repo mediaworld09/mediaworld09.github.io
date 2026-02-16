@@ -302,7 +302,7 @@ http://kinowalk.hopto.org/zubrilomfilm_live
 http://kinowalk.hopto.org/zubrilommusic.ru_live
 #EXTINF:-1 group-title="Кинозалы (VPN)" tvg-logo="https://images.live.vkvideo.ru/user/19829671/avatar?change_time=1734328186&croped=1&mh=140&mw=140",wihail
 http://kinowalk.hopto.org/wihail_live
-#EXTINF:-1 group-title="Кинозалы (VPN)" tvg-logo="https://images.live.vkvideo.ru/user/19957061/avatar?change_time=1745459243&croped=1&mh=140&mw=140",Scarface
+#EXTINF:-1 group-title="Кинозалы (VPN)" ,Scarface
 http://kinowalk.hopto.org/filmomania_live
 #EXTINF:-1 group-title="Кинозалы (VPN)" tvg-logo="https://lastfm.freetls.fastly.net/i/u/300x300/e6ac114abd700e4d57b230a703187a26.jpg",KINOPRO
 http://kinowalk.hopto.org/kinopro_live
@@ -318,7 +318,7 @@ http://kinowalk.hopto.org/scripachtv_live
 http://kinowalk.hopto.org/selecaotv_live
 #EXTINF:-1 group-title="Кинозалы (VPN)" tvg-logo="https://i.imgur.com/FOhNoZe.png",Legion tv
 https://kinowalk.hopto.org/legion-tv_live
-#EXTINF:-1 group-title="Кинозалы (VPN)" tvg-logo="https://i.postimg.cc/MTw7GvDw/Video-Arsenal.png",VideoArsenal
+#EXTINF:-1 group-title="Кинозалы (VPN)" ,VideoArsenal
 http://kinowalk.hopto.org/videoarsenal_live
 #EXTINF:-1 group-title="Кинозалы (VPN)" tvg-logo="https://i.postimg.cc/XvHKrWXQ/1.jpg",KinoMix Юрич
 http://kinowalk.hopto.org/yurich_kinomix_live
