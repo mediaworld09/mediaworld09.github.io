@@ -84,8 +84,6 @@ http://ip1.orgip.net/318/video.m3u8?token=A37feb3eec
 http://ip1.orgip.net/303/video.m3u8?token=Ab2b7066c8
 #EXTINF:-1 group-title="UA", НОВИЙ КАНАЛ
 http://ip1.orgip.net/303/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="UA", ТЕТ
-http://ip1.orgip.net/342/video.m3u8?token=Ab2b7066c8
 #EXTINF:-1 group-title="UA", ТЕТ HD
 http://31.43.48.248:7000/ch7/video.m3u8
 #EXTINF:-1 group-title="UA", ОЦЕ
@@ -164,12 +162,12 @@ http://ip1.orgip.net/409/video.m3u8?token=Ab2b7066c8
 http://ip1.orgip.net/416/video.m3u8?token=Ab2b7066c8
 #EXTINF:-1 group-title="COGNITIVE", HISTORY
 http://ip1.orgip.net/414/video.m3u8?token=Ab2b7066c8
-#EXTINF:-1 group-title="COGNITIVE", HISTORY2
-http://ip1.orgip.net/415/video.m3u8?token=Ab2b7066c8
 #EXTINF:-1 group-title="COGNITIVE", HISTORY
 http://ip1.orgip.net/414/video.m3u8?token=A37feb3eec
 #EXTINF:-1 group-title="COGNITIVE", HISTORY
 http://ip1.orgip.net/414/video.m3u8?token=Ceba8e4412
+#EXTINF:-1 group-title="COGNITIVE", HISTORY2
+http://ip1.orgip.net/415/video.m3u8?token=Ab2b7066c8
 #EXTINF:-1 group-title="COGNITIVE", HISTORY2
 http://ip1.orgip.net/415/video.m3u8?token=A37feb3eec
 #EXTINF:-1 group-title="COGNITIVE", HISTORY2
@@ -350,70 +348,154 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreami
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1677
 #EXTINF:-1 group-title="SPORT", MOTOR SPORT TV HD
 https://digicom.hls.iptvdc.com/motorstv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORT", MOTOR RACING
-https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
 #EXTINF:-1 group-title="SPORT", X-STREAM
 http://iptv.prosto.tv:7000/ch313/video.m3u8?secret=cledwwov
+#EXTINF:-1 group-title="SPORT", XSPORT
+http://ip1.orgip.net/217/video.m3u8?token=A37feb3eec
+#EXTINF:-1 group-title="SPORT", XSPORT HD
+http://gr.seetv.cc/play/480/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="SPORT", XSPORT+ HD
+http://gr.seetv.cc/play/2635/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="SPORT", DIVISPORT
+http://gr.seetv.cc/play/315/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 group-title="SPORT", СУСПІЛЬНЕ СПОРТ
 http://ip1.orgip.net/240/video.m3u8?token=A37feb3eec
 #EXTINF:-1 group-title="SPORT", СУСПІЛЬНЕ KIEV СПОРТ HD
 https://tva.in.ua/live/susp-sport.m3u8?key=fas-tv.com
+#EXTINF:-1 group-title="SPORT", СУСПІЛЬНЕ СПОРТ
+http://gr.seetv.cc/play/316/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="SPORT", SPORT 1 UA
+http://gr.seetv.cc/play/2638/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="SPORT", SPORT 2 UA
+http://gr.seetv.cc/play/2639/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="SPORT", SPORT 3 UA HD
+http://gr.seetv.cc/play/2640/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="SPORT", SPORT 4 UA
+http://gr.seetv.cc/play/2641/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="SPORT", UPL.TV
+http://ip1.orgip.net/212/video.m3u8?token=A37feb3eec
+#EXTINF:-1 group-title="SPORT", UPL.TV HD
+http://gr.seetv.cc/play/523/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="SPORT", УПЛ ТВ 1
+http://gr.seetv.cc/play/524/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="SPORT", УПЛ ТВ 2
+http://gr.seetv.cc/play/525/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="SPORT", УПЛ ТВ 3
+http://gr.seetv.cc/play/526/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="SPORT", DYNAMO KYIV TV
+http://gr.seetv.cc/play/8797/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 group-title="SPORT", MEGOGO СПОРТ HD
 http://ip1.orgip.net/237/video.m3u8?token=A37feb3eec
 #EXTINF:-1 group-title="SPORT", MEGOGO СПОРТ HD
 http://ott.server-iptv.live/237/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="SPORT", MEGOGO ФУТБОЛ 1 HD
-http://ip1.orgip.net/233/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="SPORT", MEGOGO ФУТБОЛ 1 HD
-http://ott.server-iptv.live/233/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="SPORT", MEGOGO ФУТБОЛ 2 HD
-http://ip1.orgip.net/234/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="SPORT", MEGOGO ФУТБОЛ 2 HD
-http://ott.server-iptv.live/234/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="SPORT", MEGOGO ФУТБОЛ 3 HD
-http://ip1.orgip.net/235/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="SPORT", MEGOGO ФУТБОЛ 3 HD
-http://ott.server-iptv.live/235/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="SPORT", UPL.TV
-http://ip1.orgip.net/212/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="SPORT", XSPORT
-http://ip1.orgip.net/217/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="SPORT", XSPORT HD
-https://176.116.105.82/XSPORT_HD/index.m3u8
+#EXTINF:-1 group-title="SPORT", MEGOGO СПОРТ HD
+http://gr.seetv.cc/play/1001/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 group-title="SPORT", МАТЧ! ФУТБОЛ 1
 http://ip1.orgip.net/202/video.m3u8?token=A37feb3eec
 #EXTINF:-1 group-title="SPORT", МАТЧ! ФУТБОЛ 2
 http://ip1.orgip.net/203/video.m3u8?token=A37feb3eec
 #EXTINF:-1 group-title="SPORT", МАТЧ! ФУТБОЛ 3
 http://ip1.orgip.net/204/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="SPORT", ОККО ФУТБОЛ HD
-http://ip1.orgip.net/232/video.m3u8?token=A37feb3eec
+#EXTINF:-1 group-title="SPORT", МАТЧ! ФУТБОЛ 1 HD
+http://gr.seetv.cc/play/260/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="SPORT", МАТЧ! ФУТБОЛ 2 HD
+http://gr.seetv.cc/play/271/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="SPORT", МАТЧ! ФУТБОЛ 3 HD
+http://gr.seetv.cc/play/329/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 group-title="SPORT", ОККО СПОРТ HD
 http://ip1.orgip.net/238/video.m3u8?token=A37feb3eec
+#EXTINF:-1 group-title="SPORT", ОККО СПОРТ HD
+http://gr.seetv.cc/play/7337/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="SPORT", ОККО ФУТБОЛ HD
+http://gr.seetv.cc/play/7338/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="SPORT", ОККО ФУТБОЛ HD
+http://ip1.orgip.net/232/video.m3u8?token=A37feb3eec
+#EXTINF:-1 group-title="SPORT", ОККО.ПРАЙМ СПОРТ
+http://gr.seetv.cc/play/1833/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 group-title="SPORT", ОККО ПРАЙМ СПОРТ
 http://ip1.orgip.net/236/video.m3u8?token=A37feb3eec
+#EXTINF:-1 group-title="SPORT", EUROSPORT HD
+http://gr.seetv.cc/play/145/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 group-title="SPORT", EUROSPORT 1 HD
 http://ip1.orgip.net/0200/video.m3u8?token=A37feb3eec
 #EXTINF:-1 group-title="SPORT", EUROSPORT 2 HD
 http://ip1.orgip.net/0201/video.m3u8?token=A37feb3eec
+#EXTINF:-1 group-title="SPORT", EUROSPORT 2 HD
+http://gr.seetv.cc/play/361/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 group-title="SPORT", SETANTA SPORTS 1
 http://ip1.orgip.net/220/video.m3u8?token=A37feb3eec
+#EXTINF:-1 group-title="SPORT", SETANTA SPORTS 1 HD
+http://gr.seetv.cc/play/942/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 group-title="SPORT", SETANTA SPORTS 2
 http://ip1.orgip.net/221/video.m3u8?token=A37feb3eec
+#EXTINF:-1 group-title="SPORT", SETANTA SPORTS 2 HD
+http://gr.seetv.cc/play/943/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 group-title="SPORT", SETANTA SPORTS UKRAINE
 http://ip1.orgip.net/222/video.m3u8?token=A37feb3eec
+#EXTINF:-1 group-title="SPORT", SETANTA SPORTS UKRAINE
+http://gr.seetv.cc/play/1434/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 group-title="SPORT", SETANTA SPORTS UKRAINE +
 http://ip1.orgip.net/214/video.m3u8?token=A37feb3eec
+#EXTINF:-1 group-title="SPORT", SETANTA SPORTS+ UKRAINE
+http://gr.seetv.cc/play/9957/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="SPORT", SETANTA SPORTS PREMIUM HD
+http://gr.seetv.cc/play/1650/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 group-title="SPORT", VIJU+ SPORT
 http://ip1.orgip.net/215/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="SPORT", SKY SPORTS F1
-https://7pal.short.gy/ssportsf1
+#EXTINF:-1 group-title="SPORT", VIJU+ SPORT HD
+http://gr.seetv.cc/play/198/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="SPORT", MOVISTAR FORMULA 1
+http://gr.seetv.cc/play/1121/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="SPORT", DAZN 1 DE
+http://gr.seetv.cc/play/803/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="SPORT", DAZN 1 ESPANA
+http://gr.seetv.cc/play/1980/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="SPORT", DAZN 2 ESPAÑA
+http://gr.seetv.cc/play/1981/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="SPORT", SKY SPORT BUNDESLIGA HD
+http://gr.seetv.cc/play/836/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 group-title="SPORT", BEIN EXTRAS
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 group-title="SPORT", BEIN SPORT 1 HD
+http://gr.seetv.cc/play/1101/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="SPORT", BEIN SPORT 2 HD
+http://gr.seetv.cc/play/1102/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="SPORT", BEIN SPORT 3 HD
+http://gr.seetv.cc/play/1103/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="SPORT", BEIN SPORT 4 HD
+http://gr.seetv.cc/play/1104/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="SPORT", BEIN EXTRAS
+http://gr.seetv.cc/play/1686/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="SPORT", TNT SPORT 1 HD
+http://gr.seetv.cc/play/922/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="SPORT", TNT SPORT 2 HD
+http://gr.seetv.cc/play/923/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="SPORT", TNT SPORT 3 HD
+http://gr.seetv.cc/play/934/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 group-title="SPORT", ELEVEN SPORTS 1 HD
 http://bocian.io:8880/NL753811/552284900/105525
 #EXTINF:-1 group-title="SPORT", ELEVEN SPORTS 2 HD
 http://bocian.io:8880/NL753811/552284900/105526
 #EXTINF:-1 group-title="SPORT", ELEVEN SPORTS 3 HD
 http://bocian.io:8880/NL753811/552284900/105527
+#EXTINF:-1 group-title="SPORT", DIEMA SPORT HD
+http://gr.seetv.cc/play/51002/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="SPORT", DIEMA SPORT 2 HD
+http://gr.seetv.cc/play/51003/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="SPORT", DIEMA SPORT 3 HD
+http://gr.seetv.cc/play/51004/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="SPORT", SPORT TV + PT
+http://gr.seetv.cc/play/1967/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="SPORT", SPORT TV 1 PT
+http://gr.seetv.cc/play/1968/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="SPORT", SPORT TV 2 PT
+http://gr.seetv.cc/play/1969/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="SPORT", SPORT TV 3 PT
+http://gr.seetv.cc/play/1970/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="SPORT", SPORT TV 4 PT
+http://gr.seetv.cc/play/1971/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="SPORT", SPORT TV 5 PT
+http://gr.seetv.cc/play/1972/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 group-title="SPORT", SPORT TV 6 PT
+http://gr.seetv.cc/play/1973/D70CC021CA87DF2/video.m3u8
 #Playlist made by https://t.me/playlist_free
