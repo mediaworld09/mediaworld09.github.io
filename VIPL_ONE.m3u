@@ -785,9 +785,6 @@ http://u.vipl.one/high/9i7mez8jhs/374.m3u8
 #EXTINF:0 tvg-id="375" tvg-logo="http://epg.cdntv.online/img/375.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Познавательные", Viju+ Planet
 #EXTGRP:Познавательные
 http://u.vipl.one/high/9i7mez8jhs/375.m3u8
-#EXTINF:0 tvg-id="376" tvg-logo="http://epg.cdntv.online/img/376.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Познавательные", Большая Азия HD
-#EXTGRP:Познавательные
-http://u.vipl.one/high/9i7mez8jhs/376.m3u8
 #EXTINF:0 tvg-id="378" tvg-logo="http://epg.cdntv.online/img/378.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Познавательные", Моя Планета HD
 #EXTGRP:Познавательные
 http://u.vipl.one/high/9i7mez8jhs/378.m3u8
@@ -1514,12 +1511,6 @@ http://u.vipl.one/high/9i7mez8jhs/874.m3u8
 #EXTINF:0 tvg-id="875" tvg-logo="http://epg.cdntv.online/img/875.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Беларусь", СТВ Беларусь
 #EXTGRP:Беларусь
 http://u.vipl.one/high/9i7mez8jhs/875.m3u8
-#EXTINF:0 tvg-id="878" tvg-logo="http://epg.cdntv.online/img/878.png" group-title="Кинозалы", MGM HD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/9i7mez8jhs/878.m3u8
-#EXTINF:0 tvg-id="879" tvg-logo="http://epg.cdntv.online/img/879.png" group-title="Кинозалы", MGM HD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/9i7mez8jhs/879.m3u8
 #EXTINF:0 tvg-id="883" tvg-logo="http://epg.cdntv.online/img/883.png" group-title="Кинозалы", Кино 1 INT
 #EXTGRP:Кинозалы
 http://u.vipl.one/high/9i7mez8jhs/883.m3u8
@@ -1730,7 +1721,7 @@ http://u.vipl.one/high/9i7mez8jhs/1012.m3u8
 #EXTINF:0 tvg-id="1013" tvg-logo="http://epg.cdntv.online/img/1013.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Германия", Sat. 1 DE
 #EXTGRP:Германия
 http://u.vipl.one/high/9i7mez8jhs/1013.m3u8
-#EXTINF:0 tvg-id="1014" tvg-logo="http://epg.cdntv.online/img/1014.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Германия", Sat. 1 Gold HD DE
+#EXTINF:0 tvg-id="1014" tvg-logo="http://epg.cdntv.online/img/1014.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Германия", Sat. 1 Gold DE
 #EXTGRP:Германия
 http://u.vipl.one/high/9i7mez8jhs/1014.m3u8
 #EXTINF:0 tvg-id="1015" tvg-logo="http://epg.cdntv.online/img/1015.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Германия", Sport 1 HD DE
@@ -1739,7 +1730,7 @@ http://u.vipl.one/high/9i7mez8jhs/1015.m3u8
 #EXTINF:0 tvg-id="1016" tvg-logo="http://epg.cdntv.online/img/1016.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Германия", Kabel Eins DE
 #EXTGRP:Германия
 http://u.vipl.one/high/9i7mez8jhs/1016.m3u8
-#EXTINF:0 tvg-id="1017" tvg-logo="http://epg.cdntv.online/img/1017.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Германия", N-TV HD DE
+#EXTINF:0 tvg-id="1017" tvg-logo="http://epg.cdntv.online/img/1017.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Германия", N-TV DE
 #EXTGRP:Германия
 http://u.vipl.one/high/9i7mez8jhs/1017.m3u8
 #EXTINF:0 tvg-id="1018" tvg-logo="http://epg.cdntv.online/img/1018.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Развлекательные", НТВ-Мир
@@ -1808,16 +1799,16 @@ http://u.vipl.one/high/9i7mez8jhs/1062.m3u8
 #EXTINF:0 tvg-id="1065" tvg-logo="http://epg.cdntv.online/img/1065.png" group-title="Украина", Setanta Sports+ Ukraine HD
 #EXTGRP:Украина
 http://u.vipl.one/high/9i7mez8jhs/1065.m3u8
-#EXTINF:0 tvg-id="1068" tvg-logo="http://epg.cdntv.online/img/1068.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Германия", ProSieben HD DE
+#EXTINF:0 tvg-id="1068" tvg-logo="http://epg.cdntv.online/img/1068.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Германия", ProSieben DE
 #EXTGRP:Германия
 http://u.vipl.one/high/9i7mez8jhs/1068.m3u8
 #EXTINF:0 tvg-id="1069" tvg-logo="http://epg.cdntv.online/img/1069.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Германия", RTL DE
 #EXTGRP:Германия
 http://u.vipl.one/high/9i7mez8jhs/1069.m3u8
-#EXTINF:0 tvg-id="1070" tvg-logo="http://epg.cdntv.online/img/1070.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Германия", RTL2 HD DE
+#EXTINF:0 tvg-id="1070" tvg-logo="http://epg.cdntv.online/img/1070.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Германия", RTL2 DE
 #EXTGRP:Германия
 http://u.vipl.one/high/9i7mez8jhs/1070.m3u8
-#EXTINF:0 tvg-id="1071" tvg-logo="http://epg.cdntv.online/img/1071.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Германия", Super RTL HD DE
+#EXTINF:0 tvg-id="1071" tvg-logo="http://epg.cdntv.online/img/1071.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Германия", Super RTL DE
 #EXTGRP:Германия
 http://u.vipl.one/high/9i7mez8jhs/1071.m3u8
 #EXTINF:0 tvg-id="1072" tvg-logo="http://epg.cdntv.online/img/1072.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Германия", Sky Sport 1 HD DE
@@ -1919,27 +1910,6 @@ http://u.vipl.one/high/9i7mez8jhs/1156.m3u8
 #EXTINF:0 tvg-id="1157" tvg-logo="http://epg.cdntv.online/img/1157.png" group-title="Грузия", TV Formula
 #EXTGRP:Грузия
 http://u.vipl.one/high/9i7mez8jhs/1157.m3u8
-#EXTINF:0 tvg-id="1159" tvg-logo="http://epg.cdntv.online/img/1159.png" group-title="Грузия", GDS TV
-#EXTGRP:Грузия
-http://u.vipl.one/high/9i7mez8jhs/1159.m3u8
-#EXTINF:0 tvg-id="1160" tvg-logo="http://epg.cdntv.online/img/1160.png" group-title="Грузия", Rustavi 2
-#EXTGRP:Грузия
-http://u.vipl.one/high/9i7mez8jhs/1160.m3u8
-#EXTINF:0 tvg-id="1161" tvg-logo="http://epg.cdntv.online/img/1161.png" group-title="Грузия", Adjara TV
-#EXTGRP:Грузия
-http://u.vipl.one/high/9i7mez8jhs/1161.m3u8
-#EXTINF:0 tvg-id="1162" tvg-logo="http://epg.cdntv.online/img/1162.png" group-title="Грузия", Marao
-#EXTGRP:Грузия
-http://u.vipl.one/high/9i7mez8jhs/1162.m3u8
-#EXTINF:0 tvg-id="1163" tvg-logo="http://epg.cdntv.online/img/1163.png" group-title="Грузия", Mtavari Arxi
-#EXTGRP:Грузия
-http://u.vipl.one/high/9i7mez8jhs/1163.m3u8
-#EXTINF:0 tvg-id="1164" tvg-logo="http://epg.cdntv.online/img/1164.png" group-title="Грузия", Obieqtivi TV
-#EXTGRP:Грузия
-http://u.vipl.one/high/9i7mez8jhs/1164.m3u8
-#EXTINF:0 tvg-id="1167" tvg-logo="http://epg.cdntv.online/img/1167.png" group-title="Грузия", TV Pirveli
-#EXTGRP:Грузия
-http://u.vipl.one/high/9i7mez8jhs/1167.m3u8
 #EXTINF:0 tvg-id="1168" tvg-logo="http://epg.cdntv.online/img/1168.png" group-title="Кинозалы", Твое ТВ
 #EXTGRP:Кинозалы
 http://u.vipl.one/high/9i7mez8jhs/1168.m3u8
@@ -2747,9 +2717,6 @@ http://u.vipl.one/high/9i7mez8jhs/1741.m3u8
 #EXTINF:0 tvg-id="1749" tvg-logo="http://epg.cdntv.online/img/1749.png" group-title="Турция", TEVE 2 HD
 #EXTGRP:Турция
 http://u.vipl.one/high/9i7mez8jhs/1749.m3u8
-#EXTINF:0 tvg-id="1750" tvg-logo="http://epg.cdntv.online/img/1750.png" group-title="Кинозалы", Teve 2
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/9i7mez8jhs/1750.m3u8
 #EXTINF:0 tvg-id="1751" tvg-logo="http://epg.cdntv.online/img/1751.png" group-title="Турция", TV8
 #EXTGRP:Турция
 http://u.vipl.one/high/9i7mez8jhs/1751.m3u8
@@ -2825,9 +2792,6 @@ http://u.vipl.one/high/9i7mez8jhs/1790.m3u8
 #EXTINF:0 tvg-id="1791" tvg-logo="http://epg.cdntv.online/img/1791.png" group-title="Турция", Tatlises TV
 #EXTGRP:Турция
 http://u.vipl.one/high/9i7mez8jhs/1791.m3u8
-#EXTINF:0 tvg-id="1793" tvg-logo="http://epg.cdntv.online/img/1793.png" group-title="Турция", KRALPOP TV
-#EXTGRP:Турция
-http://u.vipl.one/high/9i7mez8jhs/1793.m3u8
 #EXTINF:0 tvg-id="1794" tvg-logo="http://epg.cdntv.online/img/1794.png" group-title="Турция", TRT MUZiK
 #EXTGRP:Турция
 http://u.vipl.one/high/9i7mez8jhs/1794.m3u8
@@ -2861,9 +2825,6 @@ http://u.vipl.one/high/9i7mez8jhs/1804.m3u8
 #EXTINF:0 tvg-id="1805" tvg-logo="http://epg.cdntv.online/img/1805.png" group-title="Турция", Ocko Gold
 #EXTGRP:Турция
 http://u.vipl.one/high/9i7mez8jhs/1805.m3u8
-#EXTINF:0 tvg-id="1806" tvg-logo="http://epg.cdntv.online/img/1806.png" group-title="Турция", MUZZIK HIP-HOP
-#EXTGRP:Турция
-http://u.vipl.one/high/9i7mez8jhs/1806.m3u8
 #EXTINF:0 tvg-id="1807" tvg-logo="http://epg.cdntv.online/img/1807.png" group-title="Турция", Trace Urban HD
 #EXTGRP:Турция
 http://u.vipl.one/high/9i7mez8jhs/1807.m3u8
@@ -4154,3 +4115,6 @@ http://u.vipl.one/high/9i7mez8jhs/2298.m3u8
 #EXTINF:0 tvg-id="2299" tvg-logo="http://epg.cdntv.online/img/2299.png" group-title="Региональные", Нижний Новгород 24
 #EXTGRP:Региональные
 http://u.vipl.one/high/9i7mez8jhs/2299.m3u8
+#EXTINF:0 tvg-id="2300" tvg-logo="http://epg.cdntv.online/img/2300.png" group-title="Кинозалы", CineMan Дубляж СССР
+#EXTGRP:Кинозалы
+http://u.vipl.one/high/9i7mez8jhs/2300.m3u8
