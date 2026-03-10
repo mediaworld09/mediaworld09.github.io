@@ -1,21 +1,9 @@
 #EXTM3U url-tvg="http://epg.cdntv.online/full.xml.gz"
-#EXTINF:0 tvg-id="1" tvg-logo="http://epg.cdntv.online/img/1.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Первый канал
-#EXTGRP:Федеральные
 http://u.vipl.one/high/3h98wcmuyi/1.m3u8
-#EXTINF:0 tvg-id="2" tvg-logo="http://epg.cdntv.online/img/2.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Россия 1
-#EXTGRP:Федеральные
 http://u.vipl.one/high/3h98wcmuyi/2.m3u8
-#EXTINF:0 tvg-id="3" tvg-logo="http://epg.cdntv.online/img/3.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Матч! ТВ
-#EXTGRP:Федеральные
 http://u.vipl.one/high/3h98wcmuyi/3.m3u8
-#EXTINF:0 tvg-id="4" tvg-logo="http://epg.cdntv.online/img/4.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", НТВ
-#EXTGRP:Федеральные
 http://u.vipl.one/high/3h98wcmuyi/4.m3u8
-#EXTINF:0 tvg-id="5" tvg-logo="http://epg.cdntv.online/img/5.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Пятый канал
-#EXTGRP:Федеральные
 http://u.vipl.one/high/3h98wcmuyi/5.m3u8
-#EXTINF:0 tvg-id="6" tvg-logo="http://epg.cdntv.online/img/6.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Россия К
-#EXTGRP:Федеральные
 http://u.vipl.one/high/3h98wcmuyi/6.m3u8
 #EXTINF:0 tvg-id="7" tvg-logo="http://epg.cdntv.online/img/7.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Новостные", Россия 24
 #EXTGRP:Новостные
@@ -23,14 +11,8 @@ http://u.vipl.one/high/3h98wcmuyi/7.m3u8
 #EXTINF:0 tvg-id="8" tvg-logo="http://epg.cdntv.online/img/8.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Детские", Карусель
 #EXTGRP:Детские
 http://u.vipl.one/high/3h98wcmuyi/8.m3u8
-#EXTINF:0 tvg-id="9" tvg-logo="http://epg.cdntv.online/img/9.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", ОТР
-#EXTGRP:Федеральные
 http://u.vipl.one/high/3h98wcmuyi/9.m3u8
-#EXTINF:0 tvg-id="10" tvg-logo="http://epg.cdntv.online/img/10.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", ТВ Центр
-#EXTGRP:Федеральные
 http://u.vipl.one/high/3h98wcmuyi/10.m3u8
-#EXTINF:0 tvg-id="11" tvg-logo="http://epg.cdntv.online/img/11.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Рен ТВ
-#EXTGRP:Федеральные
 http://u.vipl.one/high/3h98wcmuyi/11.m3u8
 #EXTINF:0 tvg-id="12" tvg-logo="http://epg.cdntv.online/img/12.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Религиозные", Спас
 #EXTGRP:Религиозные
@@ -38,20 +20,12 @@ http://u.vipl.one/high/3h98wcmuyi/12.m3u8
 #EXTINF:0 tvg-id="13" tvg-logo="http://epg.cdntv.online/img/13.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Развлекательные", СТС
 #EXTGRP:Развлекательные
 http://u.vipl.one/high/3h98wcmuyi/13.m3u8
-#EXTINF:0 tvg-id="14" tvg-logo="http://epg.cdntv.online/img/14.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Домашний
-#EXTGRP:Федеральные
 http://u.vipl.one/high/3h98wcmuyi/14.m3u8
-#EXTINF:0 tvg-id="15" tvg-logo="http://epg.cdntv.online/img/15.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", ТВ3
-#EXTGRP:Федеральные
 http://u.vipl.one/high/3h98wcmuyi/15.m3u8
 #EXTINF:0 tvg-id="16" tvg-logo="http://epg.cdntv.online/img/16.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Развлекательные", Пятница!
 #EXTGRP:Развлекательные
 http://u.vipl.one/high/3h98wcmuyi/16.m3u8
-#EXTINF:0 tvg-id="17" tvg-logo="http://epg.cdntv.online/img/17.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Звезда
-#EXTGRP:Федеральные
 http://u.vipl.one/high/3h98wcmuyi/17.m3u8
-#EXTINF:0 tvg-id="18" tvg-logo="http://epg.cdntv.online/img/18.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Мир
-#EXTGRP:Федеральные
 http://u.vipl.one/high/3h98wcmuyi/18.m3u8
 #EXTINF:0 tvg-id="19" tvg-logo="http://epg.cdntv.online/img/19.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Развлекательные", ТНТ
 #EXTGRP:Развлекательные
@@ -83,8 +57,6 @@ http://u.vipl.one/high/3h98wcmuyi/27.m3u8
 #EXTINF:0 tvg-id="28" tvg-logo="http://epg.cdntv.online/img/28.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Развлекательные", ТНТ4 HD
 #EXTGRP:Развлекательные
 http://u.vipl.one/high/3h98wcmuyi/28.m3u8
-#EXTINF:0 tvg-id="29" tvg-logo="http://epg.cdntv.online/img/29.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Первый канал HD
-#EXTGRP:Федеральные
 http://u.vipl.one/high/3h98wcmuyi/29.m3u8
 #EXTINF:0 tvg-id="30" tvg-logo="http://epg.cdntv.online/img/30.png" group-title="Плюсовые", Пятый канал (+4)
 #EXTGRP:Плюсовые
@@ -95,8 +67,6 @@ http://u.vipl.one/high/3h98wcmuyi/31.m3u8
 #EXTINF:0 tvg-id="32" tvg-logo="http://epg.cdntv.online/img/32.png" group-title="Плюсовые", Россия 1 (+4)
 #EXTGRP:Плюсовые
 http://u.vipl.one/high/3h98wcmuyi/32.m3u8
-#EXTINF:0 tvg-id="33" tvg-logo="http://epg.cdntv.online/img/33.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Россия 1 HD
-#EXTGRP:Федеральные
 http://u.vipl.one/high/3h98wcmuyi/33.m3u8
 #EXTINF:0 tvg-id="34" tvg-logo="http://epg.cdntv.online/img/34.png" group-title="Плюсовые", Россия К (+4)
 #EXTGRP:Плюсовые
@@ -752,8 +722,6 @@ http://u.vipl.one/high/3h98wcmuyi/354.m3u8
 #EXTINF:0 tvg-id="359" tvg-logo="http://epg.cdntv.online/img/359.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Познавательные", Центральное телевидение
 #EXTGRP:Познавательные
 http://u.vipl.one/high/3h98wcmuyi/359.m3u8
-#EXTINF:0 tvg-id="360" tvg-logo="http://epg.cdntv.online/img/360.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", НТВ HD
-#EXTGRP:Федеральные
 http://u.vipl.one/high/3h98wcmuyi/360.m3u8
 #EXTINF:0 tvg-id="361" tvg-logo="http://epg.cdntv.online/img/361.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Новостные", Известия HD
 #EXTGRP:Новостные
@@ -800,8 +768,6 @@ http://u.vipl.one/high/3h98wcmuyi/383.m3u8
 #EXTINF:0 tvg-id="387" tvg-logo="http://epg.cdntv.online/img/387.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кино", Ultra HD cinema (4K)
 #EXTGRP:Кино
 http://u.vipl.one/high/3h98wcmuyi/387.m3u8
-#EXTINF:0 tvg-id="388" tvg-logo="http://epg.cdntv.online/img/388.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Рен ТВ HD
-#EXTGRP:Федеральные
 http://u.vipl.one/high/3h98wcmuyi/388.m3u8
 #EXTINF:0 tvg-id="390" tvg-logo="http://epg.cdntv.online/img/390.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Развлекательные", ТНТ HD
 #EXTGRP:Развлекательные
@@ -1772,8 +1738,6 @@ http://u.vipl.one/high/3h98wcmuyi/1033.m3u8
 #EXTINF:0 tvg-id="1034" tvg-logo="http://epg.cdntv.online/img/1034.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спортивные", Russian Extreme HD
 #EXTGRP:Спортивные
 http://u.vipl.one/high/3h98wcmuyi/1034.m3u8
-#EXTINF:0 tvg-id="1036" tvg-logo="http://epg.cdntv.online/img/1036.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", ТВ3 HD
-#EXTGRP:Федеральные
 http://u.vipl.one/high/3h98wcmuyi/1036.m3u8
 #EXTINF:0 tvg-id="1037" tvg-logo="http://epg.cdntv.online/img/1037.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Молдова", Moldova 2
 #EXTGRP:Молдова
@@ -1877,8 +1841,6 @@ http://u.vipl.one/high/3h98wcmuyi/1113.m3u8
 #EXTINF:0 tvg-id="1114" tvg-logo="http://epg.cdntv.online/img/1114.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Украина", Новый канал
 #EXTGRP:Украина
 http://u.vipl.one/high/3h98wcmuyi/1114.m3u8
-#EXTINF:0 tvg-id="1115" tvg-logo="http://epg.cdntv.online/img/1115.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Звезда HD
-#EXTGRP:Федеральные
 http://u.vipl.one/high/3h98wcmuyi/1115.m3u8
 #EXTINF:0 tvg-id="1143" tvg-logo="http://epg.cdntv.online/img/1143.png" group-title="Казахстан", QAZSPORT HD
 #EXTGRP:Казахстан
@@ -2138,8 +2100,6 @@ http://u.vipl.one/high/3h98wcmuyi/1350.m3u8
 #EXTINF:0 tvg-id="1351" tvg-logo="http://epg.cdntv.online/img/1351.png" group-title="Кинозалы", VL Horror
 #EXTGRP:Кинозалы
 http://u.vipl.one/high/3h98wcmuyi/1351.m3u8
-#EXTINF:0 tvg-id="1352" tvg-logo="http://epg.cdntv.online/img/1352.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Мир HD
-#EXTGRP:Федеральные
 http://u.vipl.one/high/3h98wcmuyi/1352.m3u8
 #EXTINF:0 tvg-id="1354" tvg-logo="http://epg.cdntv.online/img/1354.png" group-title="Новостные", RT News HD
 #EXTGRP:Новостные
@@ -3491,11 +3451,7 @@ http://u.vipl.one/high/3h98wcmuyi/2072.m3u8
 #EXTINF:0 tvg-id="2074" tvg-logo="http://epg.cdntv.online/img/2074.png" group-title="Армения", 1in AM
 #EXTGRP:Армения
 http://u.vipl.one/high/3h98wcmuyi/2074.m3u8
-#EXTINF:0 tvg-id="2076" tvg-logo="http://epg.cdntv.online/img/2076.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", ТВ Центр HD
-#EXTGRP:Федеральные
 http://u.vipl.one/high/3h98wcmuyi/2076.m3u8
-#EXTINF:0 tvg-id="2077" tvg-logo="http://epg.cdntv.online/img/2077.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Домашний HD
-#EXTGRP:Федеральные
 http://u.vipl.one/high/3h98wcmuyi/2077.m3u8
 #EXTINF:0 tvg-id="2080" tvg-logo="http://epg.cdntv.online/img/2080.png" group-title="Турция", Kanal 12
 #EXTGRP:Турция
@@ -4097,8 +4053,6 @@ http://u.vipl.one/high/3h98wcmuyi/2291.m3u8
 #EXTINF:0 tvg-id="2292" tvg-logo="http://epg.cdntv.online/img/2292.png" group-title="Новостные", ОСН
 #EXTGRP:Новостные
 http://u.vipl.one/high/3h98wcmuyi/2292.m3u8
-#EXTINF:0 tvg-id="2293" tvg-logo="http://epg.cdntv.online/img/2293.png" group-title="Федеральные", Пятый канал HD
-#EXTGRP:Федеральные
 http://u.vipl.one/high/3h98wcmuyi/2293.m3u8
 #EXTINF:0 tvg-id="2294" tvg-logo="http://epg.cdntv.online/img/2294.png" group-title="Региональные", Лен ТВ
 #EXTGRP:Региональные
