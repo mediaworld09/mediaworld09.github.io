@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1,🚦ТВA-10.03.2026/👍iptv.org.ua/tva.org.ua/tva.in.ua/📺Ревизия №-2/11-345|fas-tv.com|mater.com.ua
+#EXTINF:-1,🚦ТВA-10.03.2026/👍iptv.org.ua/tva.org.ua/tva.in.ua/📺Ревизия №-2/11-45|fas-tv.com|mater.com.ua
 https://iptv.org.ua/wp-content/uploads/2022/01/Moyo-slayd33-shou.mp4
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,TV1000
