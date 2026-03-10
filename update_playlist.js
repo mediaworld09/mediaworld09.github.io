@@ -142,15 +142,15 @@ async function main() {
     'Sharovoz-TV.m3u'
   );
 
-  await processPlaylist(
-    'https://m3url.ru/iptv.online__(2).m3u',
-    'Для взрослых',                                   // одна категория (строка)
-    'm3url-tv.m3u'
-  );
+  // await processPlaylist(
+  //   'https://m3url.ru/iptv.online__(2).m3u',
+  //   'Для взрослых',                                   // одна категория (строка)
+  //   'm3url-tv.m3u'
+  // );
 
   await processPlaylist(
     'http://u.vipl.one/high/9i7mez8jhs/playlist.m3u8?raw=1',
-    ' ',                             // одна категория (строка)
+    'Федеральные',                             // одна категория (строка)
     'VIPL_ONE.m3u'
   );
 
@@ -169,8 +169,26 @@ async function main() {
 
   await processPlaylist(
     'http://u.vipl.one/high/3h98wcmuyi/playlist.m3u8?raw=1',
-    ' ',                             // одна категория (строка)
+    'Федеральные',                             // одна категория (строка)
     'VIPL-TWO.m3u'
+  );
+
+  await processPlaylist(
+    'http://u.vipl.one/high/734xh9cn6p/playlist.m3u8?raw=1',
+    'Федеральные',                             // одна категория (строка)
+    'VIPL-THREE.m3u'
+  );
+
+  await processPlaylist(
+    'http://u.vipl.one/high/vjizp2e6mb/playlist.m3u8?raw=1',
+    'Федеральные',                             // одна категория (строка)
+    'VIPL-FOUR.m3u'
+  );
+
+  await processPlaylist(
+    'http://u.vipl.one/high/9uyzpadbe8/playlist.m3u8?raw=1',
+    'Федеральные',                             // одна категория (строка)
+    'VIPL-FIVE.m3u'
   );
 
   
