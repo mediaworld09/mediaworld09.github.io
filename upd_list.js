@@ -129,73 +129,92 @@ async function processPlaylist(dropboxUrl, excludedCategories, outputFile) {
 }
 
 async function processPlaylistShar(dropboxUrl, excludedCategories, outputFile) {
-  // Приводим исключения к нижнему регистру для сравнения
+  // Подготовка списка исключений
   const excludedLower = (Array.isArray(excludedCategories) ? excludedCategories : [excludedCategories])
     .filter(c => typeof c === 'string' && c.trim() !== '')
     .map(c => c.toLowerCase().trim());
 
   try {
     console.log(`Скачиваем плейлист: ${dropboxUrl}`);
-    // Предполагаем, что downloadFile определена выше в вашем коде
+    // Предполагается, что функция downloadFile определена в вашем проекте
     const playlistText = await downloadFile(dropboxUrl); 
+
+    // Разделяем по любому типу переноса строки (Win/Unix) и убираем лишний мусор
     const lines = playlistText.split(/\r?\n/);
-    const newLines = ["#EXTM3U", ""];
+    const newLines = ["#EXTM3U"]; // Заголовок всегда первый
     let removedCount = 0;
 
     for (let i = 0; i < lines.length; i++) {
       let line = lines[i].trim();
 
-      // Ищем начало блока канала
+      // Пропускаем пустые строки или заголовок, если он встретился в середине
+      if (!line || line.startsWith('#EXTM3U')) continue;
+
+      // Если нашли начало блока канала
       if (line.startsWith('#EXTINF:')) {
         let infLine = line;
         let groupValue = "";
         let nextIdx = i + 1;
 
-        // 1. Ищем категорию в следующей строке (#EXTGRP)
+        // 1. Проверяем наличие категории в следующей строке (#EXTGRP)
         if (lines[nextIdx] && lines[nextIdx].trim().startsWith('#EXTGRP:')) {
           groupValue = lines[nextIdx].replace('#EXTGRP:', '').trim();
-          // Превращаем старую структуру в новую: вставляем group-title в #EXTINF
-          infLine = infLine.replace(/#EXTINF:([^,]+),/, `#EXTINF:$1 group-title="${groupValue}",`);
-          nextIdx++; // Пропускаем строку #EXTGRP
+          
+          // Вставляем group-title ПЕРЕД запятой названия
+          // Ищем запятую, которая идет после двоеточия и любых символов (длительности)
+          infLine = infLine.replace(/^(#EXTINF:[^,]+),/, `$1 group-title="${groupValue}",`);
+          
+          nextIdx++; // Пропускаем строку #EXTGRP, так как мы её обработали
         }
 
-        // 2. Проверяем, нужно ли исключить эту категорию
-        if (excludedLower.includes(groupValue.toLowerCase())) {
+        // 2. Проверка на исключение (фильтрация)
+        if (groupValue && excludedLower.includes(groupValue.toLowerCase())) {
           removedCount++;
-          i = nextIdx; // Перепрыгиваем через блок (пропустим и URL)
+          i = nextIdx; // Пропускаем этот блок полностью
           continue; 
         }
 
-        // 3. Ищем URL (он должен быть после #EXTINF или после #EXTGRP)
+        // 3. Ищем саму ссылку (URL)
         let urlLine = "";
         while (nextIdx < lines.length) {
           let potentialUrl = lines[nextIdx].trim();
+          // Если строка не пустая и не начинается с решетки — это наш URL
           if (potentialUrl && !potentialUrl.startsWith('#')) {
             urlLine = potentialUrl;
+            i = nextIdx; // Передвигаем основной цикл к этой строке
+            break;
+          }
+          // Если встретили новый #EXTINF, значит URL у предыдущего канала отсутствовал
+          if (potentialUrl.startsWith('#EXTINF:')) {
+            i = nextIdx - 1;
             break;
           }
           nextIdx++;
         }
 
+        // 4. Собираем итоговый блок
         if (urlLine) {
-          newLines.push(infLine.replace(/\s+,/g, ',')); // Фикс пробелов перед запятой
+          // Убираем возможные двойные пробелы и пробелы перед запятой
+          let cleanInf = infLine.replace(/\s+,/g, ',').replace(/\s{2,}/g, ' ');
+          newLines.push(cleanInf);
           newLines.push(urlLine);
-          newLines.push(""); // Пустая строка для красоты
+          // newLines.push(""); // Раскомментируйте, если нужны пустые строки между каналами
         }
-        
-        i = nextIdx; // Смещаем основной указатель цикла
       }
     }
 
-    const updatedPlaylist = newLines.join('\n').replace(/\n+$/, '\n');
+    // Склеиваем всё через стандартный перевод строки
+    const updatedPlaylist = newLines.join('\n');
     const fullPath = path.resolve(process.cwd(), outputFile);
-    fs.writeFileSync(fullPath, updatedPlaylist);
+    
+    fs.writeFileSync(fullPath, updatedPlaylist, 'utf8');
 
-    console.log(`Готово! Сохранено в: ${outputFile}`);
-    console.log(`Удалено каналов по категориям: ${removedCount}`);
+    console.log(`✅ Обработка завершена!`);
+    console.log(`💾 Файл сохранен: ${outputFile}`);
+    console.log(`🚫 Удалено каналов: ${removedCount}`);
 
   } catch (err) {
-    console.error(`Ошибка при обработке:`, err);
+    console.error(`❌ Ошибка при обработке плейлиста:`, err.message);
   }
 }
 
