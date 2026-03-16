@@ -223,7 +223,7 @@ async function main() {
   await processPlaylistShar(
     'https://mediaworld09.github.io/Sharovoz-TV.m3u',
     'XXX Adult',                                   // одна категория (строка)
-    'Sharovoz-TV.m3u.m3u'
+    'Sharovoz-TV.m3u'
   );
 
 
