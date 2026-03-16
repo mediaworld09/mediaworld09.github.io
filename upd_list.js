@@ -199,9 +199,6 @@ async function processPlaylistShar(dropboxUrl, excludedCategories, outputFile) {
   }
 }
 
-// Запуск функции
-processM3u(inputURL);
-
 async function main() {
   // === ДОБАВЬТЕ СВОИ ПЛЕЙЛИСТЫ ЗДЕСЬ ===
   // await processPlaylist(
