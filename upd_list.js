@@ -128,6 +128,80 @@ async function processPlaylist(dropboxUrl, excludedCategories, outputFile) {
   }
 }
 
+async function processPlaylistShar(dropboxUrl, excludedCategories, outputFile) {
+  // Приводим исключения к нижнему регистру для сравнения
+  const excludedLower = (Array.isArray(excludedCategories) ? excludedCategories : [excludedCategories])
+    .filter(c => typeof c === 'string' && c.trim() !== '')
+    .map(c => c.toLowerCase().trim());
+
+  try {
+    console.log(`Скачиваем плейлист: ${dropboxUrl}`);
+    // Предполагаем, что downloadFile определена выше в вашем коде
+    const playlistText = await downloadFile(dropboxUrl); 
+    const lines = playlistText.split(/\r?\n/);
+    const newLines = ["#EXTM3U", ""];
+    let removedCount = 0;
+
+    for (let i = 0; i < lines.length; i++) {
+      let line = lines[i].trim();
+
+      // Ищем начало блока канала
+      if (line.startsWith('#EXTINF:')) {
+        let infLine = line;
+        let groupValue = "";
+        let nextIdx = i + 1;
+
+        // 1. Ищем категорию в следующей строке (#EXTGRP)
+        if (lines[nextIdx] && lines[nextIdx].trim().startsWith('#EXTGRP:')) {
+          groupValue = lines[nextIdx].replace('#EXTGRP:', '').trim();
+          // Превращаем старую структуру в новую: вставляем group-title в #EXTINF
+          infLine = infLine.replace(/#EXTINF:([^,]+),/, `#EXTINF:$1 group-title="${groupValue}",`);
+          nextIdx++; // Пропускаем строку #EXTGRP
+        }
+
+        // 2. Проверяем, нужно ли исключить эту категорию
+        if (excludedLower.includes(groupValue.toLowerCase())) {
+          removedCount++;
+          i = nextIdx; // Перепрыгиваем через блок (пропустим и URL)
+          continue; 
+        }
+
+        // 3. Ищем URL (он должен быть после #EXTINF или после #EXTGRP)
+        let urlLine = "";
+        while (nextIdx < lines.length) {
+          let potentialUrl = lines[nextIdx].trim();
+          if (potentialUrl && !potentialUrl.startsWith('#')) {
+            urlLine = potentialUrl;
+            break;
+          }
+          nextIdx++;
+        }
+
+        if (urlLine) {
+          newLines.push(infLine.replace(/\s+,/g, ',')); // Фикс пробелов перед запятой
+          newLines.push(urlLine);
+          newLines.push(""); // Пустая строка для красоты
+        }
+        
+        i = nextIdx; // Смещаем основной указатель цикла
+      }
+    }
+
+    const updatedPlaylist = newLines.join('\n').replace(/\n+$/, '\n');
+    const fullPath = path.resolve(process.cwd(), outputFile);
+    fs.writeFileSync(fullPath, updatedPlaylist);
+
+    console.log(`Готово! Сохранено в: ${outputFile}`);
+    console.log(`Удалено каналов по категориям: ${removedCount}`);
+
+  } catch (err) {
+    console.error(`Ошибка при обработке:`, err);
+  }
+}
+
+// Запуск функции
+processM3u(inputURL);
+
 async function main() {
   // === ДОБАВЬТЕ СВОИ ПЛЕЙЛИСТЫ ЗДЕСЬ ===
   // await processPlaylist(
@@ -147,6 +221,12 @@ async function main() {
     'https://mediaworld09.github.io/TV-DOSUG.m3u',
     '  ',                                   // одна категория (строка)
     'TV-DOSUG.m3u'
+  );
+
+  await processPlaylistShar(
+    'https://mediaworld09.github.io/Sharovoz-TV.m3u',
+    'XXX Adult',                                   // одна категория (строка)
+    'Sharovoz-TV.m3u.m3u'
   );
 
 
