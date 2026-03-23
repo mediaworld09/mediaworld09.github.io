@@ -1015,7 +1015,6 @@ https://fl1001.bozztv.com/ushba-m2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/6ikxp06v3c6e03g/RO$TIK_TV.jpg" group-title="КІНО📽",RO$TIK TV MIX HD [TEST]
 
 #EXTINF:-1 group-title="КІНО📽",Cine+ Legend HD
-http://193.27.209.122/cine_plus_legend/index.m3u8
 
 #EXTINF:-1 group-title="КІНО📽",Film TV Best HD
 
@@ -1023,24 +1022,18 @@ http://193.27.209.122/cine_plus_legend/index.m3u8
 http://filmtvgroup.hopto.org/FILM_TV_GROUP/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
 
 #EXTINF:-1 group-title="КІНО📽",Kinozalizo HD
-http://188.208.197.173/kinojelezo/video.m3u8?token=tvon
 
 #EXTINF:-1 group-title="КІНО📽",Kinolafka HD
-http://188.208.197.173/kinolafka/video.m3u8?token=tvon
 
 #EXTINF:-1 group-title="КІНО📽",Kinojizn HD
-http://188.208.197.173/kinojizn/video.m3u8?token=Rblztg5NZwI9x2
 
 #EXTINF:-1 group-title="КІНО📽",Твоє Кіно. Action HD
-http://193.27.209.122/tvoje_kino_action/index.m3u8
 
 #EXTINF:-1 group-title="КІНО📽",Твоє Кіно. Хіт HD
-http://193.27.209.122/tvoje_kino_hit/index.m3u8
 
 #EXTINF:-1 group-title="КІНО📽",Твоє Кіно. Relax HD
 
 #EXTINF:-1 group-title="КІНО📽",Malder Megahit
-https://autopilot.catcast.tv/content/47689/index.m3u8
 
 #EXTINF:-1 tvg-name="bcu vhs" tvg-logo="https://app.playlistbox.com/icon/7gAKaznkE1ybVxB86lZ0PGQ4d98RpY2O.png" group-title="КІНО📽",BCU VHS
 
@@ -1082,13 +1075,10 @@ http://hls127.freeott.top:8080/BCUKinoratingHD/index.m3u8
 #EXTINF:-1 tvg-name="bcu fantasti̇c" tvg-logo="https://app.playlistbox.com/icon/82YEm9Vw51D0poVQwQZNr4jQPOGd7KJb.png" group-title="КІНО📽",BCU Fantastic HD
 
 #EXTINF:-1 tvg-name="bcu comedy" tvg-logo="https://app.playlistbox.com/icon/8gDbA7qlEn341oyPJDZGdyX9vwPLOWm5.png" group-title="КІНО📽",BCU Comedy HD
-http://pars01.com:8080/play/live.php?mac=00:1A:79:43:B0:70&stream=529651&extension=ts
 
 #EXTINF:-1 tvg-name="bcu ci̇nema plus" tvg-logo="https://app.playlistbox.com/icon/Wjm281v9VYqwzx9Pp6oREnk3GBgNLKQX.png" group-title="КІНО📽",BCU Cinema Plus HD
-http://pars01.com:8080/play/live.php?mac=00:1A:79:43:B0:70&stream=529652&extension=ts
 
 #EXTINF:-1 tvg-name="bcu ci̇nema" tvg-logo="https://app.playlistbox.com/icon/aNGL5kdnv361goa7zWMXVmPjYb7BWK4E.png" group-title="КІНО📽",BCU Cinema HD
-http://pars01.com:8080/play/live.php?mac=00:1A:79:43:B0:70&stream=529653&extension=ts
 
 #EXTINF:-1 tvg-name="bcu acti̇on" tvg-logo="https://app.playlistbox.com/icon/LqEygb36eAPXvx4V9yZw1B4J20a7VGdn.png" group-title="КІНО📽",BCU Action HD
 
@@ -1160,7 +1150,7 @@ http://hls127.freeott.top:8080/minimax-skorost-m4f/video.m3u8
 http://wps5c7yt.rostelekom.xyz/iptv/3H98G67KZ9HAS9/19428/index.m3u8
 
 #EXTINF:-1 group-title="КІНО📽",SUSPENSE HD
-http://70a75805.rossteleccom.net/iptv/ES9W7ZXMPFVZF7/2049/index.m3u8
+http://70a75805.rossteleccom.net/iptv/NRLXRWSBWBPLN4/2049/index.m3u8
 
 #EXTINF:-1 group-title="КІНО📽",SUSPENSE FHD
 
@@ -1230,21 +1220,17 @@ http://hls127.freeott.top:8080/CPS_Cartoon/video.m3u8
 http://f750131c.edemist.com/iptv/4FTLMRQB8QAYPKMP33UUURAQ/11050/index.m3u8
 
 #EXTINF:-1 group-title="КІНО📽",a cinema
-http://hlss.goodgame.ru/hls/205072.m3u8?|user-agent=rostik_tv
 
 #EXTINF:-1 group-title="КІНО📽",Victory HD
 
 #EXTINF:-1 group-title="КІНО📽",Кіно ТВ Бровари
-https://live20.bozztv.com/giatv/giatv-88882com/88882com/chunks.m3u8
 
 #EXTINF:-1 group-title="КІНО📽",Film TV Кінозал
 http://filmtvgroup.hopto.org/FILMTVKinozaL/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
 
 #EXTINF:-1 group-title="КІНО📽",Sky2000 HD
-http://rhsbjv7k.tvclub.xyz/iptv/FPZT65DBZMSUCU/11054/index.m3u8
 
 #EXTINF:-1 group-title="КІНО📽",Кинозал! Хит
-http://rhsbjv7k.tvclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/11064/index.m3u8
 
 #EXTINF:-1 group-title="КІНО📽",Кинодром
 http://24124fgrhtytry.akadatel.com/iptv/7B38VC2MRGFSKX/31714/index.m3u8
@@ -1262,15 +1248,12 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v
 #EXTINF:-1 group-title="КІНО📽",Мелодрамы
 
 #EXTINF:-1 group-title="КІНО📽",KinoSweet HD
-http://193.27.209.122/kinosweet/index.m3u8
 
 #EXTINF:-1 group-title="КІНО📽",Kinoliving
-http://95.85.109.219:7000/play/a05x
 
 #EXTINF:-1 group-title="КІНО📽",Kinowood
 
 #EXTINF:-1 group-title="КІНО📽",Kinowood HD
-http://193.27.209.122/kinowood/index.m3u8
 
 #EXTINF:-1 group-title="КІНО📽",KinoKazka HD
 
@@ -1285,44 +1268,37 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="КІНО📽" tvg-logo="https://pluspng.com/img-png/shows-hd-png--1920.jpg",seriesTV
 
 #EXTINF:-1 group-title="КІНО📽",FMC [TEST]
-https://132544.edgevideo.ru/streams/132544_931346/1325441080/index.m3u8
 
 #EXTINF:-1 group-title="КІНО📽",СТРАХ HD
 
 #EXTINF:-1 group-title="КІНО📽",Ужастик
 
 #EXTINF:-1 group-title="КІНО📽",Fantom
-http://195.9.195.3:8080/hls/204722.m3u8
 
 #EXTINF:-1 group-title="КІНО📽",HD Kino
-http://2.57.217.85:8000/play/a05j/index.m3u8
 
 #EXTINF:-1 group-title="КІНО📽",HD Comedy
-http://2.57.217.85:8000/play/a074/index.m3u8
 
 #EXTINF:-1 group-title="КІНО📽",Millennium HD
-http://195.9.195.3:8080/hls/206461.m3u8
 
-#EXTINF:-1 group-title="КІНО📽",Kino Non Stop HD
-http://195.9.195.3:8080/hls/218251.m3u8
+#EXTINF:-1 group-title="КІНО📽",KinoJam HD
+http://kinowalk.hopto.org/kinojam_live
 
 #EXTINF:-1 group-title="КІНО📽",Bond 007 HD
-http://w8jxz0uh.ottclub.xyz/iptv/HW2USPFUYN593P/31715/index.m3u8
+http://w8jxz0uh.ottclub.xyz/iptv/BGMVL9WVMVRS45/31715/index.m3u8
 
 #EXTINF:-1 group-title="КІНО📽",Alpha Cinema HD
-http://195.9.195.3:8080/hls/205072.m3u8
 
 #EXTINF:-1 group-title="КІНО📽",Alpha Moretime HD
-http://195.9.195.3:8080/hls/205116.m3u8
 
-#EXTINF:-1 group-title="КІНО📽",KinoFranshyzy 24/7
-http://195.9.195.3:8080/hls/218193.m3u8
+#EXTINF:-1 group-title="КІНО📽",Comedy Film 24/7
+http://kinowalk.hopto.org/cmexye4ku_live
 
 #EXTINF:-1 group-title="КІНО📽",Movie Toper HD
-http://195.9.195.3:8080/hls/214749.m3u8
+http://kinowalk.hopto.org/movietoper_live
 
-#EXTINF:-1 group-title="КІНО📽",Cinema X
-http://195.9.195.3:8080/hls/218531.m3u8
+#EXTINF:-1 group-title="КІНО📽",Kinowalk_tv
+http://kinowalk.hopto.org/kinowalk_live
 
 #EXTINF:-1 group-title="КІНО📽",My TV HD
 http://hls127.freeott.top:8080/MyTV/mono.m3u8
@@ -1340,10 +1316,8 @@ http://hls127.freeott.top:8080/MyTV3/mono.m3u8
 http://hls127.freeott.top:8080/MyTV_Hit/mono.m3u8
 
 #EXTINF:-1 group-title="КІНО📽",1FILMAX HD
-http://195.9.195.3:8080/hls/204708.m3u8
 
 #EXTINF:-1 group-title="КІНО📽",2FILMAX HD
-http://195.9.195.3:8080/hls/204717.m3u8
 
 #EXTINF:-1 group-title="КІНО📽",Kion Хит HD
 
@@ -1384,7 +1358,7 @@ http://195.9.195.3:8080/hls/204717.m3u8
 #EXTINF:-1 group-title="КІНО📽",Balticum Platinum FHD
 
 #EXTINF:-1 tvg-id="grand" tvg-logo="https://b.radikal.ru/b12/2105/e1/54a1ac35e10c.png" group-title="КІНО📽",Go3 Films HD
-http://345f89f7.ottrast.com/iptv/FPZT65DBZMSUCU/18008/index.m3u8
+http://345f89f7.ottrast.com/iptv/9S2FL9Q6FZ69N6/18008/index.m3u8
 
 #EXTINF:-1 tvg-id="grand" tvg-logo="https://b.radikal.ru/b12/2105/e1/54a1ac35e10c.png" group-title="КІНО📽",Go3 Films FHD
 
@@ -1413,7 +1387,6 @@ http://345f89f7.ottrast.com/iptv/FPZT65DBZMSUCU/18008/index.m3u8
 #EXTINF:-1 group-title="КІНО📽",Kino 2 HD
 
 #EXTINF:-1 tvg-logo="https://b.radikal.ru/b28/2101/cf/bb812302ec7b.png" group-title="КІНО📽",SC TV 2
-http://195.9.195.3:8080/manifest/157269_master.m3u8
 
 #EXTINF:-1 group-title="КІНО📽" tvg-logo="https://i.ibb.co/jJ9gyX4/KVN-HD.png" tvg-id="no_epg_cinema",KVN-HD
 
@@ -1423,11 +1396,28 @@ http://195.9.195.3:8080/manifest/157269_master.m3u8
 
 #EXTINF:-1 tvg-logo="http://samara11x11.ucoz.ru/FILM-1/STR_TV.png" group-title="КІНО📽",STR HD [R]
 
-#EXTINF:-1 tvg-logo="https://a.radikal.ru/a18/2101/71/0c8dd01e4301.jpg" group-title="КІНО📽",Selecao TV
-http://195.9.195.3:8080/hls/163253.m3u8
+#EXTINF:-1 tvg-logo="https://a.radikal.ru/a18/2101/71/0c8dd01e4301.jpg" group-title="КІНО📽",SeleCao TV
+http://kinowalk.hopto.org/selecaotv_live
+
+#EXTINF:-1 group-title="КІНО📽",Legion TV HD
+https://kinowalk.hopto.org/legion-tv_live
+
+#EXTINF:-1 group-title="КІНО📽",VideoArsenal HD
+http://kinowalk.hopto.org/videoarsenal_live
+
+#EXTINF:-1 group-title="КІНО📽",KinoMix HD
+http://kinowalk.hopto.org/yurich_kinomix_live
+
+#EXTINF:-1 group-title="КІНО📽",Kino+Serial HD
+http://kinowalk.hopto.org/dfsfsdg_live
+
+#EXTINF:-1 group-title="КІНО📽",Serial TV HD
+http://kinowalk.hopto.org/serialtv_live
+
+#EXTINF:-1 group-title="КІНО📽",Equilibrium HD
+http://kinowalk.hopto.org/equilibrium_live
 
 #EXTINF:-1 tvg-logo="https://a.radikal.ru/a18/2101/71/0c8dd01e4301.jpg" group-title="КІНО📽",Futurama
-http://195.9.195.3:8080/hls/199417.m3u8
 
 #EXTINF:-1 tvg-id="2359"tvg-logo="http://epg.it999.ru/img/2359.png"group-title="КІНО📽",FAN HD
 
@@ -1438,7 +1428,6 @@ http://195.9.195.3:8080/hls/199417.m3u8
 #EXTINF:-1 group-title="КІНО📽",ТВ-3
 
 #EXTINF:-1 tvg-id="1395"tvg-logo="http://epg.it999.ru/img/1395.png"group-title="КІНО📽",Bollywood HD
-http://193.27.209.122/bollywood/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://ttvrun.one/uploads/W33qPpospqVT5FOsTvmAwsWDroQURW.png" group-title="КІНО📽",Bollywood
 
@@ -1449,10 +1438,8 @@ http://193.27.209.122/bollywood/index.m3u8
 #EXTINF:-1 tvg-logo="http://ttvrun.one/uploads/RoHXFEuynPUAX6WutFftcx1VpI92Oz.png" tvg-rec="1" catchup-type="auto" catchup_days="7" catchup_template="http://streamer.enchart.one/42/64d7dbe65e57521ae6b478a3541feea3269dd666/691/stream.m3u8?utc=${start}&lutc=${timestamp}" group-title="КІНО📽",ЕвроКино FHD
 
 #EXTINF:-1 tvg-logo="http://185.220.35.75:4002/icons/ACUDJITV.png" tvg-name="AKUDJI TV HD" group-title="КІНО📽" tvg-id="no_epg_cinema",AKUDJI TV HD
-http://195.9.195.3:8080/hls/5346.m3u8
 
 #EXTINF:-1 tvg-id="2754"tvg-logo="http://epg.it999.ru/img/2754.png"group-title="КІНО📽",Cinema HD
-http://178.212.71.253:8000/play/40/index.m3u8
 
 #EXTINF:-1 tvg-id="2754"tvg-logo="http://epg.it999.ru/img/2754.png"group-title="КІНО📽",Cinema
 
@@ -1558,20 +1545,26 @@ https://autopilot.catcast.tv/content/40783/index.m3u8
 
 #EXTINF:-1 tvg-id="1674" tvg-logo="http://epg.cdntv.online/img/1674.png" group-title="КІНО📽",Сити Эдем - КиноКомедия
 
-#EXTINF:-1 tvg-id="1673" tvg-logo="http://epg.cdntv.online/img/1673.png" group-title="КІНО📽",Сити Эдем - КиноДетектив
+#EXTINF:-1 tvg-id="1673" tvg-logo="http://epg.cdntv.online/img/1673.png" group-title="КІНО📽",ScripachTV
+http://kinowalk.hopto.org/scripachtv_live
 
-#EXTINF:-1 group-title="КІНО📽",Сити Эдем - КиноДрама
+#EXTINF:-1 group-title="КІНО📽",4K Hits
+http://kinowalk.hopto.org/4khits_live
 
-#EXTINF:-1 group-title="КІНО📽",Сити Эдем - КиноСемья
+#EXTINF:-1 group-title="КІНО📽",KINOPRO
+http://kinowalk.hopto.org/kinopro_live
 
-#EXTINF:-1 group-title="КІНО📽",Сити Эдем - Христианский
+#EXTINF:-1 group-title="КІНО📽",Scarface
+http://kinowalk.hopto.org/filmomania_live
 
-#EXTINF:-1 group-title="КІНО📽",Filmstream
+#EXTINF:-1 group-title="КІНО📽",Dimpon TV
+http://kinowalk.hopto.org/dimpon_live
 
-#EXTINF:-1 group-title="КІНО📽",Наш Киномир
+#EXTINF:-1 group-title="КІНО📽",ZubrilomFilm
+http://kinowalk.hopto.org/zubrilomfilm_live
 
 #EXTINF:-1 group-title="КІНО📽",Malder Всё ТВ
-http://195.9.195.3:8080/hls/153640.m3u8
+http://kinowalk.hopto.org/vsetv_live
 
 #EXTINF:-1 group-title="КІНО📽",Malder Best Film
 
@@ -1580,7 +1573,6 @@ http://195.9.195.3:8080/hls/153640.m3u8
 #EXTINF:-1 tvg-id="2:7314" tvg-name="2:7314" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/kineko.png" tvg-rec="0" catchup-type="shift" group-title="КІНО📽",Кинеко HD
 
 #EXTINF:-1 group-title="КІНО📽",Saga TV
-http://178.212.71.253:8001/play/144/index.m3u8
 
 #EXTINF:-1 group-title="КІНО📽",Новелла ТВ
 
@@ -1589,31 +1581,24 @@ http://178.212.71.253:8001/play/144/index.m3u8
 #EXTINF:-1 group-title="КІНО📽",TV 1000 Romantica HD
 
 #EXTINF:-1 tvg-id="127"tvg-logo="http://epg.it999.ru/img/127.png"group-title="КІНО📽",TV 1000 FHD
-http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529673&extension=ts
 
 #EXTINF:-1 tvg-id="127"tvg-logo="http://epg.it999.ru/img/127.png"group-title="КІНО📽",TV 1000 HD
-https://vod.splay.uz/live_splay/original/TV1000/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="127"tvg-logo="http://epg.it999.ru/img/127.png"group-title="КІНО📽",TV 1000
 
 #EXTINF:-1 tvg-id="127"tvg-logo="http://epg.it999.ru/img/127.png"group-title="КІНО📽",TV 1000 HD [R]
-http://2.57.217.85:8000/play/a09x/index.m3u8
 
 #EXTINF:-1 tvg-id="125"tvg-logo="http://epg.it999.ru/img/125.png"group-title="КІНО📽",TV 1000 Action FHD
 
 #EXTINF:-1 tvg-id="125"tvg-logo="http://epg.it999.ru/img/125.png"group-title="КІНО📽",TV 1000 Action
 
 #EXTINF:-1 tvg-id="125"tvg-logo="http://epg.it999.ru/img/125.png"group-title="КІНО📽",TV 1000 Action HD
-https://flussonic.salomtv.uz/vijuTV1000action/video.m3u8
 
 #EXTINF:-1 tvg-id="125"tvg-logo="http://epg.it999.ru/img/125.png"group-title="КІНО📽",TV 1000 Action
-http://2.57.217.85:8000/play/a09y/index.m3u8
 
 #EXTINF:-1 tvg-id="267"tvg-logo="http://epg.it999.ru/img/267.png"group-title="КІНО📽",TV 1000 Русское кино FHD
-http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529672&extension=ts
 
 #EXTINF:-1 tvg-id="267"tvg-logo="http://epg.it999.ru/img/267.png"group-title="КІНО📽",TV 1000 Русское кино HD
-http://2.57.217.85:8000/play/a09z/index.m3u8
 
 #EXTINF:-1 tvg-id="267"tvg-logo="http://epg.it999.ru/img/267.png"group-title="КІНО📽",TV 1000 Русское кино
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
@@ -1642,10 +1627,8 @@ http://ukr.ukrainske.tv/493/keytvainua/video.m3u8
 http://31.148.48.15:80/Dom_Kino/index.m3u8?token=test
 
 #EXTINF:-1 group-title="КІНО📽",RED Thriller HD
-http://213.230.65.254:8100/play/a05h
 
 #EXTINF:-1 group-title="КІНО📽",RED Premium HD
-http://213.230.65.254:8100/play/a05g
 
 #EXTINF:-1 group-title="КІНО📽",Кино без границ HD
 
@@ -1665,7 +1648,6 @@ http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
 #EXTINF:-1 tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/KINOPOKAZ2001.png" tvg-rec="1" catchup-type="shift" catchup_days="5" group-title="КІНО📽",Кинопоказ FHD
 
 #EXTINF:-1 tvg-id="2835"tvg-logo="http://epg.it999.ru/img/2835.png"group-title="КІНО📽",Наше Мужское HD
-http://de.russkoe-iptv.com:8080/s/rcy9uell/nashe-muzshkoe-hd-orig.m3u8
 
 #EXTINF:-1 tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/NASHEMUZHSKOE200.png" tvg-rec="1" catchup-type="shift" catchup_days="5" group-title="КІНО📽",Наше Мужское FHD
 
@@ -1685,13 +1667,11 @@ https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 #EXTINF:-1 tvg-logo="http://ttvrun.one/uploads/z0KOmw6mfU2ZC7nfPyoc8KfZb6O4fk.png" group-title="КІНО📽",START World FHD
 
 #EXTINF:-1 group-title="КІНО📽",Кино Культ HD
-http://de.russkoe-iptv.com:8080/s/rcy9uell/kinokult-hd.m3u8
 
 #EXTINF:-1 group-title="КІНО📽",Кино Зал
 https://rpn3.bozztv.com/dvrfl07/ushba64/index.m3u8
 
 #EXTINF:-1 group-title="КІНО📽",Легенда HD
-http://de.russkoe-iptv.com:8080/s/rcy9uell/legenda-hd.m3u8
 
 #EXTINF:-1 group-title="КІНО📽",Киносезон HD
 
@@ -1709,7 +1689,6 @@ http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 tvg-id="2018"tvg-logo="http://epg.it999.ru/img/2018.png"group-title="КІНО📽",Наше FHD
 
 #EXTINF:-1 tvg-id="2018"tvg-logo="http://epg.it999.ru/img/2018.png"group-title="КІНО📽",Наше Крутое HD
-http://pars01.com:8080/play/live.php?mac=00:1A:79:43:B0:70&stream=529626&extension=ts
 
 #EXTINF:-1 group-title="КІНО📽" tvg-id="2404"tvg-logo="http://epg.it999.ru/img/2404.png",Феникс+Кино HD
 
@@ -1718,7 +1697,6 @@ http://pars01.com:8080/play/live.php?mac=00:1A:79:43:B0:70&stream=529626&extensi
 #EXTINF:-1 tvg-id="2832"tvg-logo="http://epg.it999.ru/img/2832.png"group-title="КІНО📽",Блокбастер FHD
 
 #EXTINF:-1 tvg-id="2832"tvg-logo="http://epg.it999.ru/img/2832.png"group-title="КІНО📽",Блокбастер HD
-http://de.russkoe-iptv.com:8080/s/rcy9uell/blokbaster-hd-orig.m3u8
 
 #EXTINF:-1 tvg-id="7:2832" tvg-name="7:2832" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/BLOKBASTER200.png" tvg-rec="1" catchup-type="shift" catchup_days="5" group-title="КІНО📽",Блокбастер HD
 
@@ -1734,26 +1712,22 @@ http://de.russkoe-iptv.com:8080/s/rcy9uell/blokbaster-hd-orig.m3u8
 http://vasilijsd.kazaktelekom.com/iptv/VEXVELA6Z7PXH6/6299/index.m3u8
 
 #EXTINF:-1 tvg-id="2309"tvg-logo="http://epg.it999.ru/img/2309.png"group-title="КІНО📽",Шокирующее HD
-http://de.russkoe-iptv.com:8080/s/rcy9uell/shokiruschee-hd-orig.m3u8
 
 #EXTINF:-1 tvg-id="2309"tvg-logo="http://epg.it999.ru/img/2309.png"group-title="КІНО📽",Шокирующее HD [R]
 
 #EXTINF:-1 tvg-logo="http://ttvrun.one/uploads/QENcCdkOWtDDjwXGPV9rtBKsZ7E3Cg.png" group-title="КІНО📽",Комедийное FHD
 
 #EXTINF:-1 tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/KOMEDIYNOEHD200.png" tvg-rec="1" catchup-type="shift" catchup_days="5" group-title="КІНО📽",Комедийное HD
-http://de.russkoe-iptv.com:8080/s/rcy9uell/komedijnoe-hd-orig.m3u8
 
 #EXTINF:-1 tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/KOMEDIYNOEHD200.png" tvg-rec="1" catchup-type="shift" catchup_days="5" group-title="КІНО📽",Комедийное HD [R]
 
 #EXTINF:-1 tvg-logo="http://ttvrun.one/uploads/AUjmWDdvYsN3ysfnsjgqOCiH0yygW3.png" group-title="КІНО📽",Премиальное HD
-http://de.russkoe-iptv.com:8080/s/rcy9uell/kino-premium-hd-orig.m3u8
 
 #EXTINF:-1 group-title="КІНО📽",Премиальное FHD
 
 #EXTINF:-1 tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/PREMIALNOEHD200.png" tvg-rec="1" catchup-type="shift" catchup_days="5" group-title="КІНО📽",Премиальное HD
 
 #EXTINF:-1 tvg-logo="http://ttvrun.one/uploads/B34qHbYONX32aGxVZ5JWJ0ADKjyOU5.png" group-title="КІНО📽",Хит FHD
-http://de.russkoe-iptv.com:8080/s/rcy9uell/hit-hd-orig.m3u8
 
 #EXTINF:-1 tvg-logo="http://ttvrun.one/uploads/B34qHbYONX32aGxVZ5JWJ0ADKjyOU5.png" group-title="КІНО📽",Хит HD
 http://hls127.freeott.top:8080/XitHD/video.m3u8
@@ -1765,10 +1739,8 @@ http://hls127.freeott.top:8080/XitHD/video.m3u8
 #EXTINF:-1 tvg-rec="1" catchup-type="flussonic" catchup_days="1" tvg-id="2309"tvg-logo="http://epg.it999.ru/img/2309.png"group-title="КІНО📽",Scream
 
 #EXTINF:-1 tvg-rec="1" catchup-type="flussonic" catchup_days="1" tvg-id="2309"tvg-logo="http://epg.it999.ru/img/2309.png"group-title="КІНО📽",Scream HD
-http://de.russkoe-iptv.com:8080/s/rcy9uell/scream-hd.m3u8
 
 #EXTINF:-1 group-title=КІНО📽",Страшное HD
-http://de.russkoe-iptv.com:8080/s/rcy9uell/strashnoe-hd.m3u8
 
 #EXTINF:-1 group-title=КІНО📽",Страшное HD [R]
 
@@ -1777,11 +1749,11 @@ http://de.russkoe-iptv.com:8080/s/rcy9uell/strashnoe-hd.m3u8
 #EXTINF:-1 group-title=КІНО📽",Страх HD
 
 #EXTINF:-1 tvg-logo="http://ttvrun.one/uploads/ofcqVIDcbTxBn7pSqnJyyxs3pcqLcF.png" group-title="КІНО📽",TrAsh HD
-http://de.russkoe-iptv.com:8080/s/rcy9uell/trash-hd.m3u8
 
 #EXTINF:-1 logo="https://trashtv.ru/wp-…simpla/img/logo@2x.png" group-title="КІНО📽",TrAsh FHD
 
 #EXTINF:-1 group-title="КІНО📽",Новосілки ТВ
+http://filmtvgroup.hopto.org/novosilkiTB/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
 
 #EXTINF:-1 group-title="КІНО📽",Cineman Thriller HD
 
@@ -1810,12 +1782,10 @@ https://rpn3.bozztv.com/dvrfl07/ushba64/index.m3u8
 #EXTINF:-1 group-title="КІНО📽",Семейное Кино
 
 #EXTINF:-1 group-title="КІНО📽",Timeless Dizi Channel HD
-http://193.27.209.122/dizi/index.m3u8
 
 #EXTINF:-1 group-title="КІНО📽",Romance Channel
 
 #EXTINF:-1 tvg-logo="http://ttvrun.one/uploads/LRT5KUt66gG7u4sue52QOjdFzgYAgF.png" group-title="КІНО📽",Дорама FHD
-http://193.27.209.122/dorama/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://ttvrun.one/uploads/LRT5KUt66gG7u4sue52QOjdFzgYAgF.png" group-title="КІНО📽",Дорама HD
 
@@ -1823,7 +1793,6 @@ http://193.27.209.122/dorama/index.m3u8
 http://195.26.83.96:7029/play/a008
 
 #EXTINF:-1 group-title="КІНО📽",Детское кино HD
-https://v2.catcast.tv/content/38720/index.m3u8
 
 #EXTINF:-1 url-tvg="http://api.catcast.tv/api/timetable/epg.xml?channel_ids=38801" tvg-logo="https://i.ibb.co/JKR946K/SCi-Fi.png" group-title="КІНО📽",Alpha Cinema
 
@@ -1902,21 +1871,18 @@ http://hls127.freeott.top:8080/Bolt/video.m3u8
 #EXTINF:-1 group-title="КІНО📽",KinoJam HD
 
 #EXTINF:-1 tvg-logo="http://ttvrun.one/uploads/xdPFw94faKhte3D6LQYxdmTkbERkyf.png" group-title="КІНО📽",Остросюжетное HD
-http://de.russkoe-iptv.com:8080/s/rcy9uell/ostrosujetnoe-hd-orig.m3u8
 
 #EXTINF:-1 tvg-id="1588"tvg-logo="http://epg.it999.ru/img/1588.png"group-title="КІНО📽",Остросюжетное FHD
 
 #EXTINF:-1 tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/OSTROSUZHETNOEHD200.png" tvg-rec="1" catchup-type="shift" catchup_days="5" group-title="КІНО📽",Остросюжетное HD
 
 #EXTINF:-1 url-tvg="http://api.catcast.tv/api/timetable/epg.xml?channel_ids=38896" tvg-logo="https://i.ibb.co/jhpGnwc/image.png" group-title="КІНО📽",Кошмар ТВ
-http://195.9.195.3:8080/hls/204709.m3u8
 
 #EXTINF:-1 url-tvg="http://api.catcast.tv/api/timetable/epg.xml?channel_ids=38896" tvg-logo="https://i.ibb.co/jhpGnwc/image.png" group-title="КІНО📽",Кошмар ТВ [R]
 
 #EXTINF:-1 tvg-id="2836"tvg-logo="http://epg.it999.ru/img/2836.png"group-title="КІНО📽",Камеди
 
 #EXTINF:-1 tvg-logo="http://ttvrun.one/uploads/tjP9ZoDplVCgzScc6tyWJpNulwcwJK.png" group-title="КІНО📽",Камеди HD
-http://de.russkoe-iptv.com:8080/s/rcy9uell/comedy-hd-orig.m3u8
 
 #EXTINF:-1 tvg-logo="http://ttvrun.one/uploads/tjP9ZoDplVCgzScc6tyWJpNulwcwJK.png" group-title="КІНО📽",Камеди FHD
 
@@ -2057,28 +2023,24 @@ http://hls127.freeott.top:8080/HCTV/video.m3u8
 #EXTINF:-1 tvg-id="2823"tvg-logo="http://epg.it999.ru/img/2823.png"group-title="КІНО📽",Viju+ Comedy
 
 #EXTINF:-1 tvg-id="2823"tvg-logo="http://epg.it999.ru/img/2823.png"group-title="КІНО📽",Viju+ Comedy HD
-http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529674&extension=ts
 
 #EXTINF:-1 tvg-id="2823"tvg-logo="http://epg.it999.ru/img/2823.png"group-title="КІНО📽",Viju+ Comedy FHD
 
 #EXTINF:-1 tvg-id="2824"tvg-logo="http://epg.it999.ru/img/2824.png"group-title="КІНО📽",Viju+ Megahit
 
 #EXTINF:-1 tvg-id="2824"tvg-logo="http://epg.it999.ru/img/2824.png"group-title="КІНО📽",Viju+ Megahit HD
-http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529671&extension=ts
 
 #EXTINF:-1 tvg-id="2824"tvg-logo="http://epg.it999.ru/img/2824.png"group-title="КІНО📽",VIP Megahit FHD
 
 #EXTINF:-1 tvg-id="2822"tvg-logo="http://epg.it999.ru/img/2822.png"group-title="КІНО📽",Viju+ Premiere HD
 
 #EXTINF:-1 tvg-id="2822"tvg-logo="http://epg.it999.ru/img/2822.png"group-title="КІНО📽",Viju+ Premiere HD
-http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529676&extension=ts
 
 #EXTINF:-1 tvg-id="2822"tvg-logo="http://epg.it999.ru/img/2822.png"group-title="КІНО📽",VIP Premiere FHD
 
 #EXTINF:-1 tvg-id="2822"tvg-logo="http://epg.it999.ru/img/2822.png"group-title="КІНО📽",VIP Premiere FHD [R]
 
 #EXTINF:-1 tvg-id="2838"tvg-logo="http://epg.it999.ru/img/2838.png"group-title="КІНО📽",Viju+ Serial HD
-http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529677&extension=ts
 
 #EXTINF:-1 tvg-logo="http://ttvrun.one/uploads/Uu7rNBxXUyEgc5Cbc91Yab6sMHYaqQ.png" group-title="КІНО📽",ViP Serial FHD
 
@@ -2143,7 +2105,8 @@ http://de.russkoe-iptv.com:8080/s/rcy9uell/vhs-serial-hd.m3u8
 
 #EXTINF:-1 group-title="КІНОКЛАСИКА🎥",Kinozal! СССР HD
 
-#EXTINF:-1 group-title="КІНОКЛАСИКА🎥",Magic VHS HD
+#EXTINF:-1 group-title="КІНОКЛАСИКА🎥",Мы из 90-х HD
+http://kinowalk.hopto.org/miiz90x_live
 
 #EXTINF:-1 group-title="КІНОКЛАСИКА🎥",Fresh Soviet
 
@@ -2153,7 +2116,8 @@ http://de.russkoe-iptv.com:8080/s/rcy9uell/vhs-serial-hd.m3u8
 
 #EXTINF:-1 group-title="КІНОКЛАСИКА🎥",BCU VHS HD
 
-#EXTINF:-1 group-title="КІНОКЛАСИКА🎥",Sky2000 VHS HD
+#EXTINF:-1 group-title="КІНОКЛАСИКА🎥",VHS Forever HD
+http://kinowalk.hopto.org/vhs-forever_live
 
 #EXTINF:-1 tvg-logo="https://uz-tv.net/storage/images/iptv/channels/744.jpg?t=1607575939" group-title="КІНОКЛАСИКА🎥",TOP: USSR HD
 
@@ -3350,6 +3314,7 @@ http://95.67.12.82:9098
 http://188.237.47.212:6005
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Nat Geo Wild HD
+http://fastopen.live:8080/diogo6143/oSFPRG3uQ6/27175
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Nat Geo Wild
 
@@ -4422,6 +4387,9 @@ http://146.158.0.56:80/KVN/index.m3u8
 #EXTINF:-1 group-title="RO$TIK_TV 💲",KTK HD
 
 #EXTINF:-1 group-title="RO$TIK_TV 💲",KTK
+
+#EXTINF:-1 group-title="КІНОЗАЛ📺",Машина війни 2026
+https://zetvideo.net/content/stream/films/war.machine.2026.ua.dub_49132/hls/1080/index.m3u8
 
 #EXTINF:-1 group-title="КІНОЗАЛ📺",Грабіжник за покликанням 2025
 https://zetvideo.net/content/stream/films/roofman.2025.ua.dub.cinemaker_33685/hls/1080/index.m3u8
