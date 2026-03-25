@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz" m3uautoload=1 cache=1000 aspect-ratio=16:9 deinterlace=1
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/rgk12fsehruttv6/update.png" group-title="INFO",🇺🇦 ОНОВЛЕНО 1.03.2026 🇺🇦
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/rgk12fsehruttv6/update.png" group-title="INFO",🇺🇦 ОНОВЛЕНО 24.03.2026 🇺🇦
 https://dl.dropbox.com/s/5o2opblp9lqjda1/KAROL&SANINA-VILNA.mp3
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/6ikxp06v3c6e03g/RO$TIK_TV.jpg" group-title="INFO",🇺🇦TELEGRAM @ROSTIK_TV🇺🇦
@@ -13,7 +13,7 @@ http://138.201.252.232:80/iLOVEradio2.mp3
 https://dl.dropbox.com/scl/fi/evhnsv220oofnnogmk8wc/romax-batko-nash-bandera-mp3.mp3?rlkey=jmlost6vgbwjus5ow24pwybvd&dl=0
 
 #EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦" tvg-id="3320"tvg-logo="http://epg.it999.ru/img/3320.png",1+1 International HD
-http://de.seetv.cc/play/8798/0535027E0696131/video.m3u8
+http://de.seetv.cc/play/8798/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦" tvg-id="3320"tvg-logo="http://epg.it999.ru/img/3320.png",1+1 International
 http://newsr1.roshen.live:8080/dGnp21flch/video.m3u8?token=e2yXlI53mZEwBRDT
@@ -27,7 +27,6 @@ http://portal.ott.pink/C5UK_1plus1SD/index.m3u8?token=927E03BF1A83DF5DE6628CAF78
 http://ukr.ukrainske.tv/399/keytvainua/video.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2194.png"group-title="🇺🇦УКРАЇНА🇺🇦",1+1 Україна HD
-http://2.57.217.85:8000/play/a01j/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2194.png"group-title="🇺🇦УКРАЇНА🇺🇦",1+1 Марафон HD
 http://cdn-bal.srv4you.net/0151/mpegts
@@ -144,7 +143,7 @@ http://newsr1.roshen.live:8080/gIwnH2gybp/video.m3u8?token=e2yXlI53mZEwBRDT
 #EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",ICTV2
 
 #EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",ICTV Серіали
-http://de.seetv.cc/play/649/0535027E0696131/video.m3u8
+http://de.seetv.cc/play/649/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",ICTV Серіали HD
 
@@ -377,388 +376,388 @@ http://iptv.prosto.tv:7000/ch263/video.m3u8?secret=kp7brelm
 http://newsr1.roshen.live:8080/6mUR5aF629/video.m3u8?token=e2yXlI53mZEwBRDT
 
 #EXTINF:-1 tvg-name="fantastika" group-title="КІНОЗАЛИ UA",Хіт Комедія
-http://pl.online24.pm/play/1952/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/1952/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="fantastika" group-title="КІНОЗАЛИ UA",Хіт Бойовик
-http://pl.online24.pm/play/1951/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/1951/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="fantastika" group-title="КІНОЗАЛИ UA",Sweet Kino HD
-http://pl.online24.pm/play/1886/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/1886/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="fantastika" group-title="КІНОЗАЛИ UA",Одного разу під Полтавою
-http://pl.online24.pm/play/1964/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/1964/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="fantastika" group-title="КІНОЗАЛИ UA",На трьох
-http://pl.online24.pm/play/1963/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/1963/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="Liberty" group-title="КІНОЗАЛИ UA",Liberty Кино UKR HD
-http://pl.online24.pm/play/7068/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/7068/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="fantastika" group-title="КІНОЗАЛИ UA",Різдво
-http://pl.online24.pm/play/50125/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50125/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="fantastika" group-title="КІНОЗАЛИ UA",Fantastika
-http://pl.online24.pm/play/50011/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50011/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="wednesday" group-title="КІНОЗАЛИ UA",Wednesday
-http://pl.online24.pm/play/50005/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50005/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="the_last_of_us" group-title="КІНОЗАЛИ UA",The_Last_of_Us
-http://pl.online24.pm/play/50006/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50006/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="house_ukr" group-title="КІНОЗАЛИ UA",House_ukr
-http://pl.online24.pm/play/50007/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50007/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="gubka bob" group-title="КІНОЗАЛИ UA",Gubka bob
-http://pl.online24.pm/play/50008/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50008/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="love" group-title="КІНОЗАЛИ UA",Love
-http://pl.online24.pm/play/50009/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50009/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_alf" group-title="КІНОЗАЛИ UA",jk_Alf
-http://pl.online24.pm/play/50001/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50001/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_grimm" group-title="КІНОЗАЛИ UA",jk_grimm
-http://pl.online24.pm/play/50010/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50010/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_kids" group-title="КІНОЗАЛИ UA",jk_kids
-http://pl.online24.pm/play/50012/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50012/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_black_cloak" group-title="КІНОЗАЛИ UA",jk_black_cloak
-http://pl.online24.pm/play/50013/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50013/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_futurama" group-title="КІНОЗАЛИ UA",jk_futurama
-http://pl.online24.pm/play/50014/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50014/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_ducks" group-title="КІНОЗАЛИ UA",jk_ducks
-http://pl.online24.pm/play/50015/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50015/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_csi_ny" group-title="КІНОЗАЛИ UA",jk_csi_NY
-http://pl.online24.pm/play/50016/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50016/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_csi_vegas" group-title="КІНОЗАЛИ UA",jk_csi_vegas
-http://pl.online24.pm/play/50017/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50017/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_csi_m" group-title="КІНОЗАЛИ UA",jk_csi_m
-http://pl.online24.pm/play/50018/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50018/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_90" group-title="КІНОЗАЛИ UA",jk_90
-http://pl.online24.pm/play/50019/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50019/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_got" group-title="КІНОЗАЛИ UA",jk_GoT
-http://pl.online24.pm/play/50020/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50020/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_x_files" group-title="КІНОЗАЛИ UA",jk_x_files
-http://pl.online24.pm/play/50021/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50021/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_house_dragon" group-title="КІНОЗАЛИ UA",jk_House_Dragon
-http://pl.online24.pm/play/50022/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50022/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_sherlock" group-title="КІНОЗАЛИ UA",jk_Sherlock
-http://pl.online24.pm/play/50023/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50023/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_gostri_kartuz" group-title="КІНОЗАЛИ UA",jk_Gostri_Kartuz
-http://pl.online24.pm/play/50024/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50024/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_vedmak" group-title="КІНОЗАЛИ UA",jk_Vedmak
-http://pl.online24.pm/play/50025/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50025/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_panda" group-title="КІНОЗАЛИ UA",jk_panda
-http://pl.online24.pm/play/50026/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50026/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_ledi_bag" group-title="КІНОЗАЛИ UA",jk_ledi_Bag
-http://pl.online24.pm/play/50027/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50027/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_twin_peaks" group-title="КІНОЗАЛИ UA",jk_Twin_Peaks
-http://pl.online24.pm/play/50028/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50028/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_poirot" group-title="КІНОЗАЛИ UA",jk_Poirot
-http://pl.online24.pm/play/50029/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50029/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_boys" group-title="КІНОЗАЛИ UA",jk_boys
-http://pl.online24.pm/play/50030/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50030/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_dexter" group-title="КІНОЗАЛИ UA",jk_Dexter
-http://pl.online24.pm/play/50031/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50031/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_castle" group-title="КІНОЗАЛИ UA",jk_Castle
-http://pl.online24.pm/play/50032/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50032/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_brookllyn" group-title="КІНОЗАЛИ UA",jk_brookllyn
-http://pl.online24.pm/play/50033/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50033/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_fubar" group-title="КІНОЗАЛИ UA",jk_FUBAR
-http://pl.online24.pm/play/50034/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50034/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_kosty" group-title="КІНОЗАЛИ UA",jk_kosty
-http://pl.online24.pm/play/50035/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50035/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_berega" group-title="КІНОЗАЛИ UA",jk_berega
-http://pl.online24.pm/play/50036/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50036/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_mel" group-title="КІНОЗАЛИ UA",jk_Mel
-http://pl.online24.pm/play/50037/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50037/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_lie_to_me" group-title="КІНОЗАЛИ UA",jk_Lie_To_Me
-http://pl.online24.pm/play/50038/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50038/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_muhtesem" group-title="КІНОЗАЛИ UA",jk_Muhtesem
-http://pl.online24.pm/play/50039/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50039/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_van_dame" group-title="КІНОЗАЛИ UA",jk_Van_Dame
-http://pl.online24.pm/play/50040/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50040/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_sexsity" group-title="КІНОЗАЛИ UA",jk_sexsity
-http://pl.online24.pm/play/50041/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50041/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_desperate_ukr" group-title="КІНОЗАЛИ UA",jk_desperate_ukr
-http://pl.online24.pm/play/50042/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50042/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_colombo" group-title="КІНОЗАЛИ UA",jk_Colombo
-http://pl.online24.pm/play/50043/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50043/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_ben_holly" group-title="КІНОЗАЛИ UA",jk_Ben_Holly
-http://pl.online24.pm/play/50044/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50044/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_american_dad" group-title="КІНОЗАЛИ UA",jk_American_Dad
-http://pl.online24.pm/play/50045/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50045/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_gravity_falls" group-title="КІНОЗАЛИ UA",jk_Gravity_Falls
-http://pl.online24.pm/play/50046/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50046/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_grifins" group-title="КІНОЗАЛИ UA",jk_Grifins
-http://pl.online24.pm/play/50047/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50047/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_south_park" group-title="КІНОЗАЛИ UA",jk_South_Park
-http://pl.online24.pm/play/50048/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50048/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_pepa_pig" group-title="КІНОЗАЛИ UA",jk_Pepa_pig
-http://pl.online24.pm/play/50049/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50049/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_robocar_poli" group-title="КІНОЗАЛИ UA",jk_Robocar_Poli
-http://pl.online24.pm/play/50050/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50050/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_paw_patrol" group-title="КІНОЗАЛИ UA",jk_PAW_Patrol
-http://pl.online24.pm/play/50051/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50051/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_your_mother" group-title="КІНОЗАЛИ UA",jk_Your_mother
-http://pl.online24.pm/play/50052/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50052/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_big_bang" group-title="КІНОЗАЛИ UA",jk_Big_Bang
-http://pl.online24.pm/play/50053/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50053/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_cinema" group-title="КІНОЗАЛИ UA",jk_Cinema
-http://pl.online24.pm/play/50054/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50054/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_cinema2" group-title="КІНОЗАЛИ UA",jk_Cinema2
-http://pl.online24.pm/play/50055/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50055/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_cinema3" group-title="КІНОЗАЛИ UA",jk_Cinema3
-http://pl.online24.pm/play/50056/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50056/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_gorets" group-title="КІНОЗАЛИ UA",jk_gorets
-http://pl.online24.pm/play/50057/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50057/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_doku_ukraine" group-title="КІНОЗАЛИ UA",jk_doku_Ukraine
-http://pl.online24.pm/play/50058/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50058/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_serial" group-title="КІНОЗАЛИ UA",jk_serial
-http://pl.online24.pm/play/50059/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50059/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_magic" group-title="КІНОЗАЛИ UA",jk_Magic
-http://pl.online24.pm/play/50060/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50060/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_criminal" group-title="КІНОЗАЛИ UA",jk_Criminal
-http://pl.online24.pm/play/50061/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50061/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_90210" group-title="КІНОЗАЛИ UA",jk_90210
-http://pl.online24.pm/play/50062/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50062/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_rik_i_marti" group-title="КІНОЗАЛИ UA",jk_Rik_i_Marti
-http://pl.online24.pm/play/50063/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50063/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_mentalist" group-title="КІНОЗАЛИ UA",jk_mentalist
-http://pl.online24.pm/play/50064/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50064/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_dram" group-title="КІНОЗАЛИ UA",jk_dram
-http://pl.online24.pm/play/50065/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50065/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_fineas" group-title="КІНОЗАЛИ UA",jk_fineas
-http://pl.online24.pm/play/50066/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50066/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_ograblenie" group-title="КІНОЗАЛИ UA",jk_ograblenie
-http://pl.online24.pm/play/50067/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50067/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_strah" group-title="КІНОЗАЛИ UA",jk_strah
-http://pl.online24.pm/play/50068/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50068/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_sliders" group-title="КІНОЗАЛИ UA",jk_Sliders
-http://pl.online24.pm/play/50069/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50069/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_succession" group-title="КІНОЗАЛИ UA",jk_Succession
-http://pl.online24.pm/play/50070/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50070/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_korona" group-title="КІНОЗАЛИ UA",jk_korona
-http://pl.online24.pm/play/50071/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50071/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_money_heist" group-title="КІНОЗАЛИ UA",jk_Money_Heist
-http://pl.online24.pm/play/50072/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50072/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_lost" group-title="КІНОЗАЛИ UA",jk_lost
-http://pl.online24.pm/play/50073/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50073/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_office" group-title="КІНОЗАЛИ UA",jk_office
-http://pl.online24.pm/play/50074/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50074/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_scrubs" group-title="КІНОЗАЛИ UA",jk_Scrubs
-http://pl.online24.pm/play/50075/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50075/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_house_of_cards" group-title="КІНОЗАЛИ UA",jk_house_of_cards
-http://pl.online24.pm/play/50076/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50076/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_element" group-title="КІНОЗАЛИ UA",jk_element
-http://pl.online24.pm/play/50077/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50077/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_buffy" group-title="КІНОЗАЛИ UA",jk_Buffy
-http://pl.online24.pm/play/50078/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50078/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_melrose_place" group-title="КІНОЗАЛИ UA",jk_Melrose_Place
-http://pl.online24.pm/play/50079/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50079/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_black_mirror" group-title="КІНОЗАЛИ UA",jk_Black_Mirror
-http://pl.online24.pm/play/50080/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50080/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_stargate" group-title="КІНОЗАЛИ UA",jk_Stargate
-http://pl.online24.pm/play/50081/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50081/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_formula" group-title="КІНОЗАЛИ UA",jk_formula
-http://pl.online24.pm/play/50082/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50082/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_only_murders" group-title="КІНОЗАЛИ UA",jk_Only_Murders
-http://pl.online24.pm/play/50083/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50083/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_detektiv" group-title="КІНОЗАЛИ UA",jk_detektiv
-http://pl.online24.pm/play/50084/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50084/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_biograf" group-title="КІНОЗАЛИ UA",jk_biograf
-http://pl.online24.pm/play/50085/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50085/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_ncis" group-title="КІНОЗАЛИ UA",jk_NCIS
-http://pl.online24.pm/play/50086/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50086/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_speed" group-title="КІНОЗАЛИ UA",jk_speed
-http://pl.online24.pm/play/50087/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50087/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_call_saul" group-title="КІНОЗАЛИ UA",jk_Call_Saul
-http://pl.online24.pm/play/50088/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50088/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_dark" group-title="КІНОЗАЛИ UA",jk_dark
-http://pl.online24.pm/play/50089/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50089/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_heroes" group-title="КІНОЗАЛИ UA",jk_Heroes
-http://pl.online24.pm/play/50090/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50090/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_balance" group-title="КІНОЗАЛИ UA",jk_balance
-http://pl.online24.pm/play/50091/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50091/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_timon" group-title="КІНОЗАЛИ UA",jk_timon
-http://pl.online24.pm/play/50092/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50092/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_pingvins" group-title="КІНОЗАЛИ UA",jk_pingvins
-http://pl.online24.pm/play/50093/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50093/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_cartoon" group-title="КІНОЗАЛИ UA",jk_Cartoon
-http://pl.online24.pm/play/50094/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50094/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_flintstones" group-title="КІНОЗАЛИ UA",jk_Flintstones
-http://pl.online24.pm/play/50095/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50095/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_lilo" group-title="КІНОЗАЛИ UA",jk_Lilo
-http://pl.online24.pm/play/50096/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50096/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_rusaloshka" group-title="КІНОЗАЛИ UA",jk_rusaloshka
-http://pl.online24.pm/play/50097/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50097/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_aladin" group-title="КІНОЗАЛИ UA",jk_aladin
-http://pl.online24.pm/play/50098/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50098/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_chip_dale" group-title="КІНОЗАЛИ UA",jk_Chip_Dale
-http://pl.online24.pm/play/50099/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50099/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_arnold" group-title="КІНОЗАЛИ UA",jk_arnold
-http://pl.online24.pm/play/50100/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50100/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_tomjery" group-title="КІНОЗАЛИ UA",jk_TomJery
-http://pl.online24.pm/play/50101/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50101/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_winx" group-title="КІНОЗАЛИ UA",jk_Winx
-http://pl.online24.pm/play/50102/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50102/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_morning_show" group-title="КІНОЗАЛИ UA",jk_Morning_Show
-http://pl.online24.pm/play/50103/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50103/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_ritchie" group-title="КІНОЗАЛИ UA",jk_Ritchie
-http://pl.online24.pm/play/50104/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50104/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_scorsese" group-title="КІНОЗАЛИ UA",jk_Scorsese
-http://pl.online24.pm/play/50105/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50105/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_spilberg" group-title="КІНОЗАЛИ UA",jk_Spilberg
-http://pl.online24.pm/play/50106/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50106/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_kopola" group-title="КІНОЗАЛИ UA",jk_Kopola
-http://pl.online24.pm/play/50107/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50107/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_skott" group-title="КІНОЗАЛИ UA",jk_Skott
-http://pl.online24.pm/play/50108/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50108/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_tarantino" group-title="КІНОЗАЛИ UA",jk_Tarantino
-http://pl.online24.pm/play/50109/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50109/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_kameron" group-title="КІНОЗАЛИ UA",jk_Kameron
-http://pl.online24.pm/play/50110/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50110/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_besson" group-title="КІНОЗАЛИ UA",jk_Besson
-http://pl.online24.pm/play/50111/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50111/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_nolan" group-title="КІНОЗАЛИ UA",jk_Nolan
-http://pl.online24.pm/play/50112/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50112/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_relax" group-title="КІНОЗАЛИ UA",jk_relax
-http://pl.online24.pm/play/50113/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50113/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_king" group-title="КІНОЗАЛИ UA",jk_King
-http://pl.online24.pm/play/50114/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50114/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_crowe" group-title="КІНОЗАЛИ UA",jk_Crowe
-http://pl.online24.pm/play/50115/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50115/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_reeves" group-title="КІНОЗАЛИ UA",jk_Reeves
-http://pl.online24.pm/play/50116/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50116/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_hemsworth" group-title="КІНОЗАЛИ UA",jk_Hemsworth
-http://pl.online24.pm/play/50117/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50117/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_butler" group-title="КІНОЗАЛИ UA",jk_Butler
-http://pl.online24.pm/play/50118/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50118/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_kunis" group-title="КІНОЗАЛИ UA",jk_Kunis
-http://pl.online24.pm/play/50119/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50119/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_neeson" group-title="КІНОЗАЛИ UA",jk_Neeson
-http://pl.online24.pm/play/50120/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50120/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_scorpion" group-title="КІНОЗАЛИ UA",jk_Scorpion
-http://pl.online24.pm/play/50122/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50122/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_duva" group-title="КІНОЗАЛИ UA",jk_duva
-http://pl.online24.pm/play/50123/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50123/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_emeli" group-title="КІНОЗАЛИ UA",jk_Emeli
-http://pl.online24.pm/play/50124/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50124/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_rizdvo" group-title="КІНОЗАЛИ UA",jk_rizdvo
-http://pl.online24.pm/play/50125/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/50125/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 group-title="Usba TV",Украина
 https://fl1001.bozztv.com/ushba5/tracks-v1a1/mono.m3u8
@@ -2183,7 +2182,7 @@ http://de.russkoe-iptv.com:8080/s/rcy9uell/mosfilm-hd-orig.m3u8
 http://31.148.48.15:80/Vremya/index.m3u8?token=rostik_tv
 
 #EXTINF:-1 group-title="СПОРТ ⚽",MEGOGO Спорт HD
-http://pl.online24.pm/play/1001/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/1001/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",MEGOGO Спорт FHD
 http://wu6o1ur9.megatv.fun/iptv/W6K8TQWNXGPFK9AEPZSM795L/31612/index.m3u8
@@ -2195,45 +2194,45 @@ http://newsr1.roshen.live:8080/vAu5sUNHz3/tracks-v1a1/mono.m3u8?token=XSOdznpeFP
 http://eqatmiyg.megogo.xyz/iptv/VGWB9P9PSCG8HS/31483/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="MEGOGO 1 HD" tvg-logo="https://lk.filmax-tv.ru/images/logo/1254.png" group-title="СПОРТ ⚽",MEGOGO 1  Live HD
-http://pl.seetv.cc/play/1002/0535027E0696131/video.m3u8
+http://pl.seetv.cc/play/1002/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="MEGOGO 1 HD" tvg-logo="https://lk.filmax-tv.ru/images/logo/1256.png" group-title="СПОРТ ⚽",MEGOGO 2 HD
 http://eqatmiyg.megogo.xyz/iptv/EDK4ZVBNNRYT9Z/31505/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="MEGOGO 1 HD" tvg-logo="https://lk.filmax-tv.ru/images/logo/1254.png" group-title="СПОРТ ⚽",MEGOGO 2 Live HD
-http://pl.seetv.cc/play/999/0535027E0696131/video.m3u8
+http://pl.seetv.cc/play/999/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="MEGOGO 1 HD" tvg-logo="https://lk.filmax-tv.ru/images/logo/1258.png" group-title="СПОРТ ⚽",MEGOGO 3 HD
 http://eqatmiyg.megogo.xyz/iptv/VEXVELA6Z7PXH6/31504/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="MEGOGO 1 HD" tvg-logo="https://lk.filmax-tv.ru/images/logo/1258.png" group-title="СПОРТ ⚽",MEGOGO 3 Live HD
-http://pl.seetv.cc/play/996/0535027E0696131/video.m3u8
+http://pl.seetv.cc/play/996/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",MEGOGO Гонг HD
 
 #EXTINF:-1 group-title="СПОРТ ⚽",MEGOGO Гонг FHD
-http://pl.seetv.cc/play/10012/0535027E0696131/video.m3u8
+http://pl.seetv.cc/play/10012/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",UPL.TV HD
-http://pl.online24.pm/play/523/0535027E0696131/video.m3u8
+http://pl.online24.pm/play/523/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",UPL.TV FHD
 http://newsr1.roshen.live:8080/oPKOjSfrTN/tracks-v1a1/mono.m3u8?token=XSOdznpeFPEURAYS
 
 #EXTINF:-1 tvg-id="Xupltv1" tvg-name="упл тв 1" tvg-logo="https://ip-tv.dev/images/ico/upltv1.png" group-title="СПОРТ ⚽",УПЛ ТВ 1
-http://pl.seetv.cc/play/524/0535027E0696131/video.m3u8
+http://pl.seetv.cc/play/524/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-id="Xupltv1" tvg-name="упл тв 2" tvg-logo="https://ip-tv.dev/images/ico/upltv2.png" group-title="СПОРТ ⚽",УПЛ ТВ 2
-http://pl.seetv.cc/play/525/0535027E0696131/video.m3u8
+http://pl.seetv.cc/play/525/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-id="Xupltv1" tvg-name="упл тв 3" tvg-logo="https://ip-tv.dev/images/ico/upltv3.png" group-title="СПОРТ ⚽",УПЛ ТВ 3
-http://pl.seetv.cc/play/526/0535027E0696131/video.m3u8
+http://pl.seetv.cc/play/526/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-id="Xupltv4" tvg-name="упл тв 4" tvg-logo="https://ip-tv.dev/images/ico/upl.png" group-title="СПОРТ ⚽",Football Live
 https://s-footballive.pp.ua:8000/channel/65c83719/index.m3u8?q=1111e494ac105cde847d65bf36124f1b
 
 #EXTINF:-1 tvg-id="7539" tvg-logo="http://epg.one/img2/7539.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 1 HD
-http://de.seetv.cc/play/5009/0535027E0696131/video.m3u8
+http://de.seetv.cc/play/5009/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-id="7539" tvg-logo="http://epg.one/img2/7539.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 1
 http://ozaesnna.megatv.fun/iptv/QGP3QXDP95UFB4/20099/index.m3u8
@@ -2242,55 +2241,55 @@ http://ozaesnna.megatv.fun/iptv/QGP3QXDP95UFB4/20099/index.m3u8
 http://ozaesnna.megatv.fun/iptv/QGP3QXDP95UFB4/20103/index.m3u8
 
 #EXTINF:-1 tvg-id="7540" tvg-logo="http://epg.one/img2/7540.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 2 HD
-http://de.seetv.cc/play/5010/0535027E0696131/video.m3u8
+http://de.seetv.cc/play/5010/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-id="7541" tvg-logo="http://epg.one/img2/7541.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 3
 http://ozaesnna.megatv.fun/iptv/GEUL7CCKBHLXYN69ZHGZ3H5R/20104/index.m3u8
 
 #EXTINF:-1 tvg-id="7541" tvg-logo="http://epg.one/img2/7541.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 3 HD
-http://de.seetv.cc/play/5011/0535027E0696131/video.m3u8
+http://de.seetv.cc/play/5011/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-id="7542" tvg-logo="http://epg.one/img2/7542.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 4
 http://vp4hcjiv.rostelekom.xyz/iptv/CTHKNGFSE8DXT3/20105/index.m3u8
 
 #EXTINF:-1 tvg-id="7543" tvg-logo="http://epg.one/img2/7543.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 4 HD
-http://pl.seetv.cc/play/5012/0535027E0696131/video.m3u8
+http://pl.seetv.cc/play/5012/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-id="7543" tvg-logo="http://epg.one/img2/7543.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 5
 http://vp4hcjiv.rostelekom.xyz/iptv/V6YQ28ZKDTU7MB/20106/index.m3u8
 
 #EXTINF:-1 tvg-id="7543" tvg-logo="http://epg.one/img2/7543.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 5 HD
-http://de.seetv.cc/play/5013/0535027E0696131/video.m3u8
+http://de.seetv.cc/play/5013/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-id="7544" tvg-logo="http://epg.one/img2/7544.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 6
 http://vp4hcjiv.rostelekom.xyz/iptv/ZPXPMR8ASF6NPN/20107/index.m3u8
 
 #EXTINF:-1 tvg-id="7543" tvg-logo="http://epg.one/img2/7543.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 6 HD
-http://de.seetv.cc/play/5014/0535027E0696131/video.m3u8
+http://de.seetv.cc/play/5014/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-id="7547" tvg-logo="http://epg.one/img2/7547.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 7
 http://vp4hcjiv.rostelekom.xyz/iptv/AVNFCNQBEC9VQU/20108/index.m3u8
 
 #EXTINF:-1 tvg-id="7543" tvg-logo="http://epg.one/img2/7543.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 7 HD
-http://de.seetv.cc/play/5015/0535027E0696131/video.m3u8
+http://de.seetv.cc/play/5015/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-id="7543" tvg-logo="http://epg.one/img2/7543.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 8 HD
-http://de.seetv.cc/play/5016/0535027E0696131/video.m3u8
+http://de.seetv.cc/play/5016/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-id="7546" tvg-logo="http://epg.one/img2/7546
 .png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 9 HD
 
 #EXTINF:-1 tvg-id="7543" tvg-logo="http://epg.one/img2/7543.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 10 HD
-http://de.seetv.cc/play/5018/0535027E0696131/video.m3u8
+http://de.seetv.cc/play/5018/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-id="7543" tvg-logo="http://epg.one/img2/7543.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 11 HD
-http://de.seetv.cc/play/5019/0535027E0696131/video.m3u8
+http://de.seetv.cc/play/5019/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-id="7543" tvg-logo="http://epg.one/img2/7543.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 12 HD
-http://de.seetv.cc/play/5020/0535027E0696131/video.m3u8
+http://de.seetv.cc/play/5020/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-id="7543" tvg-logo="http://epg.one/img2/7543.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 13 HD
-http://de.seetv.cc/play/5021/0535027E0696131/video.m3u8
+http://de.seetv.cc/play/5021/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",Arxi Sport
 
@@ -2298,19 +2297,19 @@ http://de.seetv.cc/play/5021/0535027E0696131/video.m3u8
 http://de.russkoe-iptv.com:8080/s/rcy9uell/suspilne-sport-ua-hd-orig.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",Суспільне Спорт HD
-http://ru.seetv.cc/play/316/0535027E0696131/video.m3u8
+http://ru.seetv.cc/play/316/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",DiviSport HD
-http://ru.seetv.cc/play/315/0535027E0696131/video.m3u8
+http://ru.seetv.cc/play/315/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",DiviSport FHD
 https://vcdn.produck.company/out/ngrp:divisport_all/playlist.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",Equalympic HD
-http://pl.seetv.cc/play/8788/0535027E0696131/video.m3u8
+http://pl.seetv.cc/play/8788/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",Dynamo Kyiv TV HD
-http://ru.seetv.cc/play/8797/0535027E0696131/video.m3u8
+http://ru.seetv.cc/play/8797/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",FightBox HD
 
@@ -2329,7 +2328,7 @@ http://de.russkoe-iptv.com:8080/s/rcy9uell/okko-sport-hd.m3u8
 #EXTINF:-1 group-title="СПОРТ ⚽",Xsport+
 
 #EXTINF:-1 group-title="СПОРТ ⚽",XSPORT+ HD
-http://de.seetv.cc/play/2635/0535027E0696131/video.m3u8
+http://de.seetv.cc/play/2635/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",Xsport HD
 
@@ -2339,7 +2338,7 @@ http://de.seetv.cc/play/2635/0535027E0696131/video.m3u8
 http://live-3.otcnet.ru/sportivny/index.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",Спортивный HD
-http://de.online24.pm/play/6159/0535027E0696131/video.m3u8
+http://de.online24.pm/play/6159/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",Футбольный HD
 
@@ -2392,14 +2391,14 @@ http://lua.ath.cx:2600/live/setantasportshdua/index.m3u8?token=510f8e0f42ba98ca9
 #EXTINF:-1 group-title="СПОРТ ⚽",Setanta Sports+ Ukraine HD
 
 #EXTINF:-1 group-title="СПОРТ ⚽",Setanta Sports Premium HD
-http://pl.seetv.cc/play/1650/0535027E0696131/video.m3u8
+http://pl.seetv.cc/play/1650/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-id="6860" tvg-logo="http://epg.one/img2/6860.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",Setanta Ukraine Plus HD
 
 #EXTINF:-1 group-title="СПОРТ ⚽",Setanta Sports 1
 
 #EXTINF:-1 group-title="СПОРТ ⚽",Setanta Sports 1 HD
-http://pl.seetv.cc/play/942/0535027E0696131/video.m3u8
+http://pl.seetv.cc/play/942/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-id="setanta-sport-hd-orig" tvg-logo="http://static.g-cdn.app/streams/setanta-sport-hd-orig.png" tvg-rec="1" catchup_days="7" group-title="СПОРТ ⚽",Setanta Sports 1 FHD
 http://runner.webhop.info:2500/live/setantaplushd?token=510f8e0f42ba98ca9127a58d72addafd
@@ -2410,7 +2409,7 @@ http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529593&extensi
 #EXTINF:-1 group-title="СПОРТ ⚽",Setanta Sports 2
 
 #EXTINF:-1 group-title="СПОРТ ⚽",Setanta Sports 2 HD
-http://pl.seetv.cc/play/943/0535027E0696131/video.m3u8
+http://pl.seetv.cc/play/943/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-id="setanta-sport-plus-hd-orig" tvg-logo="http://static.g-cdn.app/streams/setanta-sport-plus-hd-orig.png" tvg-rec="1" catchup_days="7" group-title="СПОРТ ⚽",Setanta Sports 2 HD
 http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529594&extension=ts
