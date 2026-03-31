@@ -191,6 +191,23 @@ async function main() {
     'VIPL-FIVE.m3u'
   );
 
+  await processPlaylist(
+    'http://u.vipl.one/high/w246nh8c9b/playlist.m3u8?raw=1',
+    'Федеральные',                             // одна категория (строка)
+    'VIPL6.m3u'
+  );
+
+  await processPlaylist(
+    'http://u.vipl.one/high/miwu7vnyk2/playlist.m3u8?raw=1',
+    'Федеральные',                             // одна категория (строка)
+    'VIPL7.m3u'
+  );
+
+  await processPlaylist(
+    'http://u.vipl.one/high/y8hrwpnf45/playlist.m3u8?raw=1',
+    'Федеральные',                             // одна категория (строка)
+    'VIPL8.m3u'
+  );
   
 
   // Добавьте столько вызовов, сколько нужно
