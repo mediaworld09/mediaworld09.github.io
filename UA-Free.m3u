@@ -1,267 +1,67 @@
 #EXTM3U
 #Playlist created by SMPlayer 21.10.0 (ревизия 10000)XTM3U
-#EXTINF:-1 group-title="UA", 1+1
-http://bde.online24.pm/play/400/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="UA", 1+1 HD
-http://bde.online24.pm/play/9971/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="UA", 1+1 УКРАЇНА
-http://bde.online24.pm/play/398/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="UA", 1+1 УКРАЇНА HD
-http://bde.online24.pm/play/403/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="UA", 1+1 INTERNATIONAL HD
-http://bde.online24.pm/play/8798/B0B72054BD7E00D/video.m3u8
+#EXTINF:-1 group-title="UA", 1+1 INTERNATIONAL
+http://tinyurl.com/TvZaTak42/f90cbc9cd34069dcadc74006d7d780b0?token=128762f0bd32e94a005ad2b25d51fbd5&21yo=0?%7CUser-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="UA", НОВИЙ КАНАЛ
+http://newsr1.roshen.live:8080/j0Ij7VVFVX/tracks-v1a1/mono.m3u8?token=XSOdznpeFPEURAYS
+#EXTINF:-1 group-title="UA", МИ - УКРАЇНА+
+http://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
+#EXTINF:-1 group-title="UA", ПРЯМИЙ
+https://ext.cdn.nashnet.tv/228.0.0.122/index.m3u8
+#EXTINF:-1 group-title="UA", ESPRESOTV_HD
+https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8
+#EXTINF:-1 group-title="UA", 24 КАНАЛ
+http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
+#EXTINF:-1 group-title="UA", 5KANAL_HD
+https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8
 #EXTINF:-1 group-title="UA", 2+2
 http://31.43.48.248:7000/ch8/video.m3u8
-#EXTINF:-1 group-title="UA", 2+2
-http://bde.online24.pm/play/656/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="UA", 2+2 HD
-http://bde.online24.pm/play/9953/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="UA", 5KANAL
-https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8
-#EXTINF:-1 group-title="UA", 5 КАНАЛ
-http://bde.online24.pm/play/406/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="UA", 24 УКРАИНА HD
-http://bde.online24.pm/play/9955/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="UA", ICTV
-http://bde.online24.pm/play/647/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="UA", ICTV HD
-http://bde.online24.pm/play/9973/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="UA", ICTV2
-http://bde.online24.pm/play/6205/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="UA", ESPRESOTV
-https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8
-#EXTINF:-1 group-title="UA", EСПРЕСО TV
-http://bde.online24.pm/play/408/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="UA", АПОСТРОФ TV
-http://bde.online24.pm/play/9952/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="UA", ПРЯМИЙ HD
-http://bde.online24.pm/play/2605/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="UA", УКРАЇНА
-https://fl1001.bozztv.com/ushba5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="UA", УКРАЇНА 2
-https://fl1001.bozztv.com/ushba12/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="UA", МИ - УКРАЇНА
-http://bde.online24.pm/play/908/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="UA", МИ - УКРАЇНА+
-http://bde.online24.pm/play/605/B0B72054BD7E00D/video.m3u8
 #EXTINF:-1 group-title="UA", МИ УКРАЇНА МИ+
 https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
-#EXTINF:-1 group-title="UA", РАДА
-http://bde.online24.pm/play/9956/B0B72054BD7E00D/video.m3u8
 #EXTINF:-1 group-title="UA", РАДА
 https://api-tv.ipnet.ua/api/v1/manifest/1312714970.m3u8
 #EXTINF:-1 group-title="UA", ARMIATV
 https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
-#EXTINF:-1 group-title="UA", АРМІЯ TV HD
-http://bde.online24.pm/play/5499/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="UA", ФРОНТ
-http://bde.online24.pm/play/6149/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="UA", FREEДОМ
-http://bde.online24.pm/play/350/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="UA", НОВИЙ КАНАЛ
-http://bde.online24.pm/play/651/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="UA", НОВИЙ КАНАЛ HD
-http://bde.online24.pm/play/9974/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="UA", UA:ПЕРШИЙ
-http://bde.online24.pm/play/646/B0B72054BD7E00D/video.m3u8
 #EXTINF:-1 group-title="UA", ПЕРШИЙ HD
 https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
-#EXTINF:-1 group-title="UA", ИНТЕР
-http://bde.online24.pm/play/404/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="UA", ИНТЕР HD
-http://bde.online24.pm/play/8833/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="UA", ИНТЕР+
-http://bde.online24.pm/play/302/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="UA", ИНТЕР+ HD
-http://bde.online24.pm/play/8830/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="UA", ПРАВДА ТУТ HD
-http://bde.online24.pm/play/6204/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="UA", УНИАН ТВ
-http://bde.online24.pm/play/9949/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="UA", UA: КИЇВ
-http://bde.online24.pm/play/5498/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="UA", СТБ
-http://bde.online24.pm/play/401/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="UA", СТБ HD
-http://bde.online24.pm/play/9975/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="UA", ATR
-http://bde.online24.pm/play/9945/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="UA", ОЦЕ HD
-http://bde.online24.pm/play/9905/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="UA", СОНЦЕ
-http://bde.online24.pm/play/9913/B0B72054BD7E00D/video.m3u8
 #EXTINF:-1 group-title="UA", СОНЦЕ HD TV
 https://tva.in.ua/live/sonce.m3u8
-#EXTINF:-1 group-title="UA", ТРК КИЇВ
-http://bde.online24.pm/play/9908/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="UA", ПЕРШИЙ ЗАХІДНИЙ
-http://bde.online24.pm/play/5103/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="UA", НТН
-http://bde.online24.pm/play/402/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="UA", НТН HD
-http://bde.online24.pm/play/8834/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="UA", ТЕТ
-http://bde.online24.pm/play/405/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="UA", ТЕТ HD
-http://bde.online24.pm/play/9954/B0B72054BD7E00D/video.m3u8
 #EXTINF:-1 group-title="UA", ТЕТ HD
 http://31.43.48.248:7000/ch7/video.m3u8
-#EXTINF:-1 group-title="UA", ИСЛАНДИЯ
-http://bde.online24.pm/play/8796/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="UA", ZOOM
-http://bde.online24.pm/play/653/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="UA", ZOOM HD
-http://bde.online24.pm/play/8841/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="UA", К1
-http://bde.online24.pm/play/645/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="UA", К1 HD
-http://bde.online24.pm/play/8836/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="UA", К2
-http://bde.online24.pm/play/652/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="UA", К2 HD
-http://bde.online24.pm/play/8835/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", ANIMAL PLANET HD
-http://bde.online24.pm/play/175/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", DISCOVERY CHANNEL HD
-http://bde.online24.pm/play/147/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", ID XTRA HD
-http://bde.online24.pm/play/392/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", NATIONAL GEOGRAPHIC HD
-http://bde.online24.pm/play/143/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", NATIONAL GEOGRAPHIC
-http://bde.online24.pm/play/31/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", NAT GEO WILD HD
-http://bde.online24.pm/play/162/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", VIASAT HISTORY HD CEE
-http://bde.online24.pm/play/8850/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", VIASAT NATURE
-http://bde.online24.pm/play/8851/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", VIASAT EXPLORE
-http://bde.online24.pm/play/8852/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", VIASAT HISTORY HD
-http://bde.online24.pm/play/491/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", VIJU EXPLORE HD
-http://bde.online24.pm/play/79/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", VIJU HISTORY HD
-http://bde.online24.pm/play/78/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", VIJU NATURE HD
-http://bde.online24.pm/play/119/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", VIJU+ PLANET HD
-http://bde.online24.pm/play/91/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", HISTORY HD
-http://bde.online24.pm/play/188/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", H2 HD
-http://bde.online24.pm/play/161/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", DOCUBOX HD
-http://bde.online24.pm/play/9898/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", THE EXPLORERS
-http://bde.online24.pm/play/362/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", BIG PLANET HD
-http://bde.online24.pm/play/529/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", HGTV HD
-http://bde.online24.pm/play/1832/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", TRAVEL CHANNEL HD
-http://bde.online24.pm/play/190/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", TRAVEL+ADVENTURE HD
-http://bde.online24.pm/play/180/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", TRAVEL XP HD
-http://bde.online24.pm/play/560/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", UTRAVEL
-http://bde.online24.pm/play/2644/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", ONE PLANET HD
-http://bde.online24.pm/play/310/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", МЕГА HD
-http://bde.online24.pm/play/8832/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", МЕГА
-http://bde.online24.pm/play/654/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", CONTINENT E
-http://bde.online24.pm/play/26/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", РЫБОЛОВ
-http://bde.online24.pm/play/613/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", ОХОТНИК И РЫБОЛОВ HD
-http://bde.online24.pm/play/364/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", ОХОТА И РЫБАЛКА
-http://bde.online24.pm/play/88/B0B72054BD7E00D/video.m3u8
 #EXTINF:-1 group-title="COGNITIVE", РЫБАЛКА
 http://iptv.prosto.tv:7000/ch344/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", РЫБАЛКА HD
-http://bde.online24.pm/play/9967/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", ДИАЛОГИ О РЫБАЛКЕ
-http://bde.online24.pm/play/4370/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", ДИКАЯ ОХОТА HD
-http://bde.online24.pm/play/3742/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", ДИКАЯ РЫБАЛКА HD
-http://bde.online24.pm/play/3743/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", ДИКИЙ
-http://bde.online24.pm/play/600/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", ТРОФЕЙ HD
-http://bde.online24.pm/play/9939/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", КУС-КУС
-http://bde.online24.pm/play/5112/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", 6 СОТОК
-http://bde.online24.pm/play/7192/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", ДАЧА HD
-http://bde.online24.pm/play/8795/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", ZOOSWEET
-http://bde.online24.pm/play/1659/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", ПРО КИЇВ
-http://bde.online24.pm/play/1656/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", МАСОН ТВ
-http://bde.online24.pm/play/7194/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", ЗНАЄМ 24
-http://bde.online24.pm/play/1660/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", TERRA
-http://bde.online24.pm/play/265/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", TERRA HD
-http://bde.online24.pm/play/269/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", МАШИНА ЧАСУ
-http://bde.online24.pm/play/1658/B0B72054BD7E00D/video.m3u8
 #EXTINF:-1 group-title="COGNITIVE", ТРАНСМІСІЯ
 https://iptv.prosto.tv/id293/video.m3u8?secret=z9uobpke
-#EXTINF:-1 group-title="COGNITIVE", ПЕРВЫЙ АВТОМОБИЛЬНЫЙ
-http://bde.online24.pm/play/8869/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", ВЕЩДОК HD
-http://bde.online24.pm/play/6145/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", СЛІДСТВО ВЕДУТЬ ЕКСТРАСЕНСИ HD
-http://bde.online24.pm/play/1664/B0B72054BD7E00D/video.m3u8
 #EXTINF:-1 group-title="CINEMA", ENTER-ФІЛЬМ
 http://31.43.48.248:7000/ch54/video.m3u8
-#EXTINF:-1 group-title="CINEMA", ENTER-ФІЛЬМ
-http://bde.online24.pm/play/648/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="CINEMA", ENTER-ФІЛЬМ HD
-http://bde.online24.pm/play/8837/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="CINEMA", KVARTAL TV INT. HD
-http://bde.online24.pm/play/10200/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="CINEMA", КВАРТАЛ ТВ
-http://bde.online24.pm/play/2627/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="CINEMA", ICTV СЕРІАЛИ
-http://bde.online24.pm/play/649/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="CINEMA", ТВІЙ СЕРІАЛ HD
-http://bde.online24.pm/play/23/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="CINEMA", СВІТЛО HD
-http://bde.online24.pm/play/7188/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="CINEMA", СТОСУЄТЬСЯ КОЖНОГО
-http://bde.online24.pm/play/1665/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="CINEMA", ОПЕР ЗА ВИКЛИКОМ
-http://bde.online24.pm/play/7091/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="CINEMA", СІМЕЙНІ МЕЛОДРАМИ+
-http://bde.online24.pm/play/1669/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="CINEMA", ВАР'ЯТИ HD
-http://bde.online24.pm/play/1997/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="CINEMA", ЖВЛ+
-http://bde.online24.pm/play/1670/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="CINEMA", МЕЛОДРАМИ
-http://bde.online24.pm/play/1672/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="CINEMA", ГУМОР+
-http://bde.online24.pm/play/1673/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="CINEMA", ДЕТЕКТИВИ HD
-http://bde.online24.pm/play/1950/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="CINEMA", ДИЗЕЛЬ ШОУ
-http://bde.online24.pm/play/6147/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="CINEMA", КОНКУРЕНТ.УКРАЇНА
-http://bde.online24.pm/play/531/B0B72054BD7E00D/video.m3u8
-#EXTINF:-1 group-title="CINEMA", КОНКУРЕНТ TV
-http://bde.online24.pm/play/532/B0B72054BD7E00D/video.m3u8
+#EXTINF:-1 group-title="CINEMA", VIJU+ PREMIERE
+http://46.32.176.50/VIPPremiereHD/index.m3u8
+#EXTINF:-1 group-title="CINEMA", VIJU+ MEGAHIT
+http://46.32.176.50/VIPMegahitHD/index.m3u8
+#EXTINF:-1 group-title="CINEMA", VIJU+ COMEDY
+http://46.32.176.50/VIPComedyHD/index.m3u8
+#EXTINF:-1 group-title="CINEMA", VIJU+ SERIAL
+http://46.32.176.50/ViasatSportHD/index.m3u8
+#EXTINF:-1 group-title="CINEMA", VIJU TV1000
+http://46.32.176.50/tv1000/index.m3u8
+#EXTINF:-1 group-title="CINEMA", VIJU TV1000 ACTION
+http://46.32.176.50/tv1000action/index.m3u8
+#EXTINF:-1 group-title="CINEMA", VIASAT KINO HD
+http://tinyurl.com/TvZaTak40/74be03caf45786acbbecd5e0a7789a0d?token=128762f0bd32e94a005ad2b25d51fbd5
+#EXTINF:-1 group-title="CINEMA", VIASAT KINO ACTION HD
+http://tinyurl.com/TvZaTak41/687edb0b4918db4ed5a6f313e527f513?token=128762f0bd32e94a005ad2b25d51fbd5
+#EXTINF:-1 group-title="CINEMA", .BLACK
+http://217.113.16.23/black/index.m3u8
+#EXTINF:-1 group-title="CINEMA", .SCI-FI
+http://217.113.16.23/Sci-Fi/index.m3u8
+#EXTINF:-1 group-title="CINEMA", AMEDIA 1
+http://158.101.222.193:88/georgia_play.php?id=amedia
+#EXTINF:-1 group-title="CINEMA", AMEDIA 2
+http://46.32.176.50/amedia2/index.m3u8
+#EXTINF:-1 group-title="CINEMA", AMEDIA HIT
+http://85.117.37.41/amediahit/index.m3u8
+#EXTINF:-1 group-title="CINEMA", AMEDIA PREMIUM
+http://46.32.176.50/AmediaPremium/index.m3u8
 #EXTINF:-1 group-title="SPORT", RED BULL TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 group-title="SPORT", MOTORVISIONTV HD
@@ -272,6 +72,8 @@ https://digicom.hls.iptvdc.com/motorstv/tracks-v1a1/mono.m3u8
 http://iptv.prosto.tv:7000/ch313/video.m3u8?secret=cledwwov
 #EXTINF:-1 group-title="SPORT", СУСПІЛЬНЕ KIEV СПОРТ HD
 https://tva.in.ua/live/susp-sport.m3u8?key=fas-tv.com
+#EXTINF:-1 group-title="SPORT", SETANTA SPORTS +
+http://178.63.98.119:8000/play/a01m/index.m3u8
 #EXTINF:-1 group-title="SPORT", PT| DAZN 1 HD
 http://fdox.org:8080/xU5F8vwtZEc1xoD/hCcWh1483R6zEVc/837923
 #EXTINF:-1 group-title="SPORT", PT| DAZN 2 HD
@@ -332,64 +134,4 @@ http://fdox.org:8080/xU5F8vwtZEc1xoD/hCcWh1483R6zEVc/57187
 http://fdox.org:8080/xU5F8vwtZEc1xoD/hCcWh1483R6zEVc/461194
 #EXTINF:-1 group-title="SPORT", PT| ELEVEN 5 FULL HD
 http://fdox.org:8080/xU5F8vwtZEc1xoD/hCcWh1483R6zEVc/57192
-#EXTINF:-1 group-title="SPORT", POLSAT SPORT PREMIUM 1 HD PL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TXDVLNEVPMQP3/7304/index.m3u8
-#EXTINF:-1 group-title="SPORT", POLSAT SPORT PREMIUM 2 HD PL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TXDVLNEVPMQP3/7305/index.m3u8
-#EXTINF:-1 group-title="SPORT", POLSAT SPORT EXTRA 3 HD PL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TXDVLNEVPMQP3/7306/index.m3u8
-#EXTINF:-1 group-title="SPORT", POLSAT SPORT EXTRA 4 HD PL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TXDVLNEVPMQP3/7307/index.m3u8
-#EXTINF:-1 group-title="SPORT", POLSAT SPORT EXTRA 1 HD PL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TXDVLNEVPMQP3/7308/index.m3u8
-#EXTINF:-1 group-title="SPORT", CANAL+ SPORT HD PL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TXDVLNEVPMQP3/6098/index.m3u8
-#EXTINF:-1 group-title="SPORT", CANAL+ SPORT 2 HD PL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TXDVLNEVPMQP3/6099/index.m3u8
-#EXTINF:-1 group-title="SPORT", ARENA PREMIUM 1 HD RS
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TXDVLNEVPMQP3/31599/index.m3u8
-#EXTINF:-1 group-title="SPORT", ARENA PREMIUM 2 HD RS
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TXDVLNEVPMQP3/31600/index.m3u8
-#EXTINF:-1 group-title="SPORT", ARENA PREMIUM 3 HD RS
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TXDVLNEVPMQP3/31601/index.m3u8
-#EXTINF:-1 group-title="SPORT", ARENA PREMIUM 3 RS
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TXDVLNEVPMQP3/31604/index.m3u8
-#EXTINF:-1 group-title="SPORT", ARENA SPORT 1 HD RS
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TXDVLNEVPMQP3/31602/index.m3u8
-#EXTINF:-1 group-title="SPORT", ARENA SPORT 3 HD RS
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TXDVLNEVPMQP3/31603/index.m3u8
-#EXTINF:-1 group-title="SPORT", ARENA SPORT 4 HD RS
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TXDVLNEVPMQP3/31605/index.m3u8
-#EXTINF:-1 group-title="SPORT", ARENA SPORT 5 HD RS
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TXDVLNEVPMQP3/31606/index.m3u8
-#EXTINF:-1 group-title="SPORT", ARENA SPORT 6 HD RS
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TXDVLNEVPMQP3/31607/index.m3u8
-#EXTINF:-1 group-title="SPORT", ARENA SPORT 7 HD RS
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TXDVLNEVPMQP3/31608/index.m3u8
-#EXTINF:-1 group-title="SPORT", ARENA SPORT 8 HD RS
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TXDVLNEVPMQP3/31609/index.m3u8
-#EXTINF:-1 group-title="SPORT", ARENA SPORT 9 HD RS
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TXDVLNEVPMQP3/31610/index.m3u8
-#EXTINF:-1 group-title="SPORT", ARENA SPORT 1X2 HD RS
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TXDVLNEVPMQP3/31611/index.m3u8
-#EXTINF:-1 group-title="SPORT", ARENA SPORT 1 HD HR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TXDVLNEVPMQP3/7329/index.m3u8
-#EXTINF:-1 group-title="SPORT", ARENA SPORT 2 HD HR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TXDVLNEVPMQP3/7330/index.m3u8
-#EXTINF:-1 group-title="SPORT", ARENA SPORT 3 HD HR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TXDVLNEVPMQP3/7331/index.m3u8
-#EXTINF:-1 group-title="SPORT", ARENA SPORT 4 HD HR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TXDVLNEVPMQP3/7332/index.m3u8
-#EXTINF:-1 group-title="SPORT", ARENA SPORT 5 HD HR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TXDVLNEVPMQP3/7333/index.m3u8
-#EXTINF:-1 group-title="SPORT", ARENA SPORT 6 HD HR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TXDVLNEVPMQP3/7334/index.m3u8
-#EXTINF:-1 group-title="SPORT", DIGI SPORT 1 HD
-http://ginafelea.ddns.net:8080/siegfried@stampDE/aD52sxQq/33797
-#EXTINF:-1 group-title="SPORT", DIGI SPORT 2 HD
-http://ginafelea.ddns.net:8080/siegfried@stampDE/aD52sxQq/33799
-#EXTINF:-1 group-title="SPORT", DIGI SPORT 3 HD
-http://ginafelea.ddns.net:8080/siegfried@stampDE/aD52sxQq/33801
-#EXTINF:-1 group-title="SPORT", DIGI SPORT 4 HD
-http://ginafelea.ddns.net:8080/siegfried@stampDE/aD52sxQq/33803
 #Playlist made by https://t.me/playlist_free
