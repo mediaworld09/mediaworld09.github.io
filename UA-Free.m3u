@@ -1,7 +1,5 @@
 #EXTM3U
 #Playlist created by SMPlayer 21.10.0 (ревизия 10000)XTM3U
-#EXTINF:-1 group-title="UA", 1+1 INTERNATIONAL
-http://tinyurl.com/TvZaTak42/f90cbc9cd34069dcadc74006d7d780b0?token=128762f0bd32e94a005ad2b25d51fbd5&21yo=0?%7CUser-Agent=http-user-agent=Lavf/56.15.102
 #EXTINF:-1 group-title="UA", НОВИЙ КАНАЛ
 http://newsr1.roshen.live:8080/j0Ij7VVFVX/tracks-v1a1/mono.m3u8?token=XSOdznpeFPEURAYS
 #EXTINF:-1 group-title="UA", МИ - УКРАЇНА+
@@ -28,10 +26,88 @@ https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
 https://tva.in.ua/live/sonce.m3u8
 #EXTINF:-1 group-title="UA", ТЕТ HD
 http://31.43.48.248:7000/ch7/video.m3u8
+#EXTINF:-1 group-title="COGNITIVE", ANIMAL PLANET HD CEE
+http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_57a325b3dd8e1923/index.m3u8
+#EXTINF:-1 group-title="COGNITIVE", DISCOVERY CHANNEL CEE
+http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_887e115043108f10/index.m3u8
+#EXTINF:-1 group-title="COGNITIVE", DISCOVERY CHANNEL HD CEE
+http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_80b51abbfa86737d/index.m3u8
+#EXTINF:-1 group-title="COGNITIVE", NATIONAL GEOGRAPHIC
+http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_12aa9d1b53406bd4/index.m3u8
+#EXTINF:-1 group-title="COGNITIVE", NATIONAL GEOGRAPHIC HD
+http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_5f0c4e000e426c65/index.m3u8
+#EXTINF:-1 group-title="COGNITIVE", NATIONAL GEOGRAPHIC WILD
+http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_4dd962dd09e16612/index.m3u8
+#EXTINF:-1 group-title="COGNITIVE", NATIONAL GEOGRAPHIC WILD HD
+http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_f27afc7f8dd64dc5/index.m3u8
+#EXTINF:-1 group-title="COGNITIVE", VIJU EXPLORE
+http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_5a5f3bc5a784d5ed/index.m3u8
+#EXTINF:-1 group-title="COGNITIVE", VIJU EXPLORE HD
+http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_eed5ed06cf6b3aad/index.m3u8
+#EXTINF:-1 group-title="COGNITIVE", VIJU HISTORY
+http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_5e57725bc3748ad0/index.m3u8
+#EXTINF:-1 group-title="COGNITIVE", VIJU HISTORY HD
+http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_9ca3dc0610facf0f/index.m3u8
+#EXTINF:-1 group-title="COGNITIVE", VIJU NATURE
+http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_67138aaf5e103158/index.m3u8
+#EXTINF:-1 group-title="COGNITIVE", VIJU NATURE HD
+http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_934bbd8cdd2758b4/index.m3u8
+#EXTINF:-1 group-title="COGNITIVE", VIJU+ PLANET HD
+http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_1a7147e9ad47b8af/index.m3u8
+#EXTINF:-1 group-title="COGNITIVE", HISTORY 2 HD
+http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_e91ae631adcb5d5e/index.m3u8
+#EXTINF:-1 group-title="COGNITIVE", TRAVEL CHANNEL HD CEE
+http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_3e9d9ffac957fda2/index.m3u8
+#EXTINF:-1 group-title="COGNITIVE", TRAVEL+ADVENTURE HD
+http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_fb384bcd8bc616fd/index.m3u8
+#EXTINF:-1 group-title="COGNITIVE", TERRA
+http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_89e7e9ef89df923f/index.m3u8
+#EXTINF:-1 group-title="COGNITIVE", TERRA HD
+http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_f75ecc54fa48cbe3/index.m3u8
+#EXTINF:-1 group-title="COGNITIVE", ТЕРРА (UA)
+http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_3d0177346eef8832/index.m3u8
+#EXTINF:-1 group-title="COGNITIVE", НАУКА
+http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_2c458649251f46d4/index.m3u8
+#EXTINF:-1 group-title="COGNITIVE", НАУКА 2.0 HD
+http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_b4dc0ae2f786c1de/index.m3u8
+#EXTINF:-1 group-title="COGNITIVE", DOCUBOX
+http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_51b2db76ac0c0c05/index.m3u8
+#EXTINF:-1 group-title="COGNITIVE", DOCUBOX HD
+http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_482ead57e51c4b0d/index.m3u8
+#EXTINF:-1 group-title="COGNITIVE", ФАУНА
+http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_7f3c7ef1f46337e1/index.m3u8
+#EXTINF:-1 group-title="COGNITIVE", УСАДЬБА
+http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_ad84dc61a28d88ed/index.m3u8
+#EXTINF:-1 group-title="COGNITIVE", 365 ДНЕЙ ТВ
+http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_28053500ccb3e2e1/index.m3u8
+#EXTINF:-1 group-title="COGNITIVE", СВІТЛО
+http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_a2eb98f35e936fd4/index.m3u8
+#EXTINF:-1 group-title="COGNITIVE", ДИКИЙ
+http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_7341d759595d3639/index.m3u8
+#EXTINF:-1 group-title="COGNITIVE", ТРОФЕЙ
+http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_1faa909439edd50d/index.m3u8
+#EXTINF:-1 group-title="COGNITIVE", ТРОФЕЙ HD
+http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_27695cfb23925bac/index.m3u8
+#EXTINF:-1 group-title="COGNITIVE", ДИКАЯ ОХОТА HD
+http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_ea09ed323264fcbd/index.m3u8
+#EXTINF:-1 group-title="COGNITIVE", ДИКАЯ РЫБАЛКА HD
+http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_78e4cd8748c38b7c/index.m3u8
+#EXTINF:-1 group-title="COGNITIVE", ДИАЛОГИ О РЫБАЛКЕ
+http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_c0d95c534c2ed1c7/index.m3u8
 #EXTINF:-1 group-title="COGNITIVE", РЫБАЛКА
 http://iptv.prosto.tv:7000/ch344/video.m3u8
+#EXTINF:-1 group-title="COGNITIVE", ОХОТНИК И РЫБОЛОВ HD
+http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_93f8e1373585ef33/index.m3u8
+#EXTINF:-1 group-title="COGNITIVE", АВТО 24 HD
+http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_5eed5f8b6dd628d5/index.m3u8
+#EXTINF:-1 group-title="COGNITIVE", АВТО ПЛЮС HD
+http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_37a6f08cd4d68cf8/index.m3u8
 #EXTINF:-1 group-title="COGNITIVE", ТРАНСМІСІЯ
 https://iptv.prosto.tv/id293/video.m3u8?secret=z9uobpke
+#EXTINF:-1 group-title="COGNITIVE", FOOD NETWORK
+http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_6ce96240c6c4e344/index.m3u8
+#EXTINF:-1 group-title="COGNITIVE", FOOD NETWORK HD
+http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_4482b956dc8400a7/index.m3u8
 #EXTINF:-1 group-title="CINEMA", ENTER-ФІЛЬМ
 http://31.43.48.248:7000/ch54/video.m3u8
 #EXTINF:-1 group-title="CINEMA", VIJU+ PREMIERE
@@ -74,64 +150,10 @@ http://iptv.prosto.tv:7000/ch313/video.m3u8?secret=cledwwov
 https://tva.in.ua/live/susp-sport.m3u8?key=fas-tv.com
 #EXTINF:-1 group-title="SPORT", SETANTA SPORTS +
 http://178.63.98.119:8000/play/a01m/index.m3u8
-#EXTINF:-1 group-title="SPORT", PT| DAZN 1 HD
-http://fdox.org:8080/xU5F8vwtZEc1xoD/hCcWh1483R6zEVc/837923
-#EXTINF:-1 group-title="SPORT", PT| DAZN 2 HD
-http://fdox.org:8080/xU5F8vwtZEc1xoD/hCcWh1483R6zEVc/837926
-#EXTINF:-1 group-title="SPORT", PT| DAZN 3 HD
-http://fdox.org:8080/xU5F8vwtZEc1xoD/hCcWh1483R6zEVc/837929
-#EXTINF:-1 group-title="SPORT", PT| DAZN 4 HD
-http://fdox.org:8080/xU5F8vwtZEc1xoD/hCcWh1483R6zEVc/837932
-#EXTINF:-1 group-title="SPORT", PT| DAZN 5 HD
-http://fdox.org:8080/xU5F8vwtZEc1xoD/hCcWh1483R6zEVc/837935
-#EXTINF:-1 group-title="SPORT", PT| DAZN 6 HD
-http://fdox.org:8080/xU5F8vwtZEc1xoD/hCcWh1483R6zEVc/837938
-#EXTINF:-1 group-title="SPORT", BEIN EXTRAS
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 group-title="SPORT", PT| SPORT TV + HD
-http://fdox.org:8080/xU5F8vwtZEc1xoD/hCcWh1483R6zEVc/461168
-#EXTINF:-1 group-title="SPORT", PT| SPORT TV + HD
-http://fdox.org:8080/xU5F8vwtZEc1xoD/hCcWh1483R6zEVc/57176
-#EXTINF:-1 group-title="SPORT", PT| SPORT TV 1 HD
-http://fdox.org:8080/xU5F8vwtZEc1xoD/hCcWh1483R6zEVc/461174
-#EXTINF:-1 group-title="SPORT", PT| SPORT TV 2 HD
-http://fdox.org:8080/xU5F8vwtZEc1xoD/hCcWh1483R6zEVc/461176
-#EXTINF:-1 group-title="SPORT", PT| SPORT TV 2 HD
-http://fdox.org:8080/xU5F8vwtZEc1xoD/hCcWh1483R6zEVc/57180
-#EXTINF:-1 group-title="SPORT", PT| SPORT TV 3 HD
-http://fdox.org:8080/xU5F8vwtZEc1xoD/hCcWh1483R6zEVc/461178
-#EXTINF:-1 group-title="SPORT", PT| SPORT TV 3 HD
-http://fdox.org:8080/xU5F8vwtZEc1xoD/hCcWh1483R6zEVc/57182
-#EXTINF:-1 group-title="SPORT", PT| SPORT TV 4 HD
-http://fdox.org:8080/xU5F8vwtZEc1xoD/hCcWh1483R6zEVc/461180
-#EXTINF:-1 group-title="SPORT", PT| SPORT TV 4 HD
-http://fdox.org:8080/xU5F8vwtZEc1xoD/hCcWh1483R6zEVc/57183
-#EXTINF:-1 group-title="SPORT", PT| SPORT TV 5 HD
-http://fdox.org:8080/xU5F8vwtZEc1xoD/hCcWh1483R6zEVc/461182
-#EXTINF:-1 group-title="SPORT", PT| SPORT TV 5 HD
-http://fdox.org:8080/xU5F8vwtZEc1xoD/hCcWh1483R6zEVc/57184
-#EXTINF:-1 group-title="SPORT", PT| SPORT TV 6 HD
-http://fdox.org:8080/xU5F8vwtZEc1xoD/hCcWh1483R6zEVc/461183
-#EXTINF:-1 group-title="SPORT", PT| SPORT TV 6 HD
-http://fdox.org:8080/xU5F8vwtZEc1xoD/hCcWh1483R6zEVc/837915
-#EXTINF:-1 group-title="SPORT", PT| SPORT TV 7 HD
-http://fdox.org:8080/xU5F8vwtZEc1xoD/hCcWh1483R6zEVc/837917
 #EXTINF:-1 group-title="SPORT", ELEVEN SPORTS 1 HD
 http://bocian.io:8880/NL753811/552284900/105525
 #EXTINF:-1 group-title="SPORT", ELEVEN SPORTS 2 HD
 http://bocian.io:8880/NL753811/552284900/105526
 #EXTINF:-1 group-title="SPORT", ELEVEN SPORTS 3 HD
 http://bocian.io:8880/NL753811/552284900/105527
-#EXTINF:-1 group-title="SPORT", PT| ELEVEN SPORTS 2 HD
-http://fdox.org:8080/xU5F8vwtZEc1xoD/hCcWh1483R6zEVc/461188
-#EXTINF:-1 group-title="SPORT", PT| ELEVEN 3 FULL HD
-http://fdox.org:8080/xU5F8vwtZEc1xoD/hCcWh1483R6zEVc/57190
-#EXTINF:-1 group-title="SPORT", PT| ELEVEN 4 FULL HD
-http://fdox.org:8080/xU5F8vwtZEc1xoD/hCcWh1483R6zEVc/57191
-#EXTINF:-1 group-title="SPORT", PT| ELEVEN SPORT 4 HD
-http://fdox.org:8080/xU5F8vwtZEc1xoD/hCcWh1483R6zEVc/57187
-#EXTINF:-1 group-title="SPORT", PT| ELEVEN SPORTS 5 HD
-http://fdox.org:8080/xU5F8vwtZEc1xoD/hCcWh1483R6zEVc/461194
-#EXTINF:-1 group-title="SPORT", PT| ELEVEN 5 FULL HD
-http://fdox.org:8080/xU5F8vwtZEc1xoD/hCcWh1483R6zEVc/57192
 #Playlist made by https://t.me/playlist_free
