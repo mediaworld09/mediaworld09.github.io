@@ -1,115 +1,77 @@
 #EXTM3U
 #Playlist created by SMPlayer 21.10.0 (ревизия 10000)XTM3U
-#EXTINF:-1 group-title="UA", НОВИЙ КАНАЛ
-http://newsr1.roshen.live:8080/j0Ij7VVFVX/tracks-v1a1/mono.m3u8?token=XSOdznpeFPEURAYS
-#EXTINF:-1 group-title="UA", МИ - УКРАЇНА+
-http://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
-#EXTINF:-1 group-title="UA", ПРЯМИЙ
-https://ext.cdn.nashnet.tv/228.0.0.122/index.m3u8
-#EXTINF:-1 group-title="UA", ESPRESOTV_HD
-https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8
-#EXTINF:-1 group-title="UA", 24 КАНАЛ
-http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
-#EXTINF:-1 group-title="UA", 5KANAL_HD
-https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8
 #EXTINF:-1 group-title="UA", 2+2
 http://31.43.48.248:7000/ch8/video.m3u8
-#EXTINF:-1 group-title="UA", МИ УКРАЇНА МИ+
-https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
-#EXTINF:-1 group-title="UA", РАДА
-https://api-tv.ipnet.ua/api/v1/manifest/1312714970.m3u8
-#EXTINF:-1 group-title="UA", ARMIATV
-https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
+#EXTINF:-1 group-title="UA", 5 КАНАЛ
+https://ext.cdn.nashnet.tv/228.0.4.26/index.m3u8
+#EXTINF:-1 group-title="UA", 5KANAL_HD
+https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8
+#EXTINF:-1 group-title="UA", 8 КАНАЛ
+https://ext.cdn.nashnet.tv/228.0.0.138/index.m3u8
+#EXTINF:-1 group-title="UA", 24 КАНАЛ
+https://ext.cdn.nashnet.tv/228.0.0.33/index.m3u8
+#EXTINF:-1 group-title="UA", 24 КАНАЛ
+http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
+#EXTINF:-1 group-title="UA", ЕСПРЕСО TV HD
+https://ext.cdn.nashnet.tv/228.0.0.191/index.m3u8
+#EXTINF:-1 group-title="UA", ESPRESOTV_HD
+https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8
+#EXTINF:-1 group-title="UA", ПРЯМИЙ
+https://ext.cdn.nashnet.tv/228.0.0.122/index.m3u8
+#EXTINF:-1 group-title="UA", АПОСТРОФ TV HD
+https://ext.cdn.nashnet.tv/228.0.2.165/index.m3u8
+#EXTINF:-1 group-title="UA", UA:ПЕРШИЙ
+https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
 #EXTINF:-1 group-title="UA", ПЕРШИЙ HD
 https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
-#EXTINF:-1 group-title="UA", СОНЦЕ HD TV
-https://tva.in.ua/live/sonce.m3u8
+#EXTINF:-1 group-title="UA", МИ - УКРАЇНА+
+http://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
+#EXTINF:-1 group-title="UA", МИ УКРАЇНА МИ+
+https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
+#EXTINF:-1 group-title="UA", ARMIATV
+https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
+#EXTINF:-1 group-title="UA", ПЕРШИЙ ЗАХІДНИЙ HD
+https://ext.cdn.nashnet.tv/228.0.0.162/index.m3u8
+#EXTINF:-1 group-title="UA", КИЇВ HD UA
+https://ext.cdn.nashnet.tv/228.0.0.15/index.m3u8
+#EXTINF:-1 group-title="UA", РАДА
+https://api-tv.ipnet.ua/api/v1/manifest/1312714970.m3u8
+#EXTINF:-1 group-title="UA", РАДА
+https://ext.cdn.nashnet.tv/228.0.0.24/index.m3u8
 #EXTINF:-1 group-title="UA", ТЕТ HD
 http://31.43.48.248:7000/ch7/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", ANIMAL PLANET HD CEE
-http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_57a325b3dd8e1923/index.m3u8
-#EXTINF:-1 group-title="COGNITIVE", DISCOVERY CHANNEL CEE
-http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_887e115043108f10/index.m3u8
-#EXTINF:-1 group-title="COGNITIVE", DISCOVERY CHANNEL HD CEE
-http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_80b51abbfa86737d/index.m3u8
-#EXTINF:-1 group-title="COGNITIVE", NATIONAL GEOGRAPHIC
-http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_12aa9d1b53406bd4/index.m3u8
-#EXTINF:-1 group-title="COGNITIVE", NATIONAL GEOGRAPHIC HD
-http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_5f0c4e000e426c65/index.m3u8
-#EXTINF:-1 group-title="COGNITIVE", NATIONAL GEOGRAPHIC WILD
-http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_4dd962dd09e16612/index.m3u8
-#EXTINF:-1 group-title="COGNITIVE", NATIONAL GEOGRAPHIC WILD HD
-http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_f27afc7f8dd64dc5/index.m3u8
-#EXTINF:-1 group-title="COGNITIVE", VIJU EXPLORE
-http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_5a5f3bc5a784d5ed/index.m3u8
-#EXTINF:-1 group-title="COGNITIVE", VIJU EXPLORE HD
-http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_eed5ed06cf6b3aad/index.m3u8
-#EXTINF:-1 group-title="COGNITIVE", VIJU HISTORY
-http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_5e57725bc3748ad0/index.m3u8
-#EXTINF:-1 group-title="COGNITIVE", VIJU HISTORY HD
-http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_9ca3dc0610facf0f/index.m3u8
-#EXTINF:-1 group-title="COGNITIVE", VIJU NATURE
-http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_67138aaf5e103158/index.m3u8
-#EXTINF:-1 group-title="COGNITIVE", VIJU NATURE HD
-http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_934bbd8cdd2758b4/index.m3u8
-#EXTINF:-1 group-title="COGNITIVE", VIJU+ PLANET HD
-http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_1a7147e9ad47b8af/index.m3u8
-#EXTINF:-1 group-title="COGNITIVE", HISTORY 2 HD
-http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_e91ae631adcb5d5e/index.m3u8
-#EXTINF:-1 group-title="COGNITIVE", TRAVEL CHANNEL HD CEE
-http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_3e9d9ffac957fda2/index.m3u8
-#EXTINF:-1 group-title="COGNITIVE", TRAVEL+ADVENTURE HD
-http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_fb384bcd8bc616fd/index.m3u8
-#EXTINF:-1 group-title="COGNITIVE", TERRA
-http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_89e7e9ef89df923f/index.m3u8
-#EXTINF:-1 group-title="COGNITIVE", TERRA HD
-http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_f75ecc54fa48cbe3/index.m3u8
-#EXTINF:-1 group-title="COGNITIVE", ТЕРРА (UA)
-http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_3d0177346eef8832/index.m3u8
-#EXTINF:-1 group-title="COGNITIVE", НАУКА
-http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_2c458649251f46d4/index.m3u8
-#EXTINF:-1 group-title="COGNITIVE", НАУКА 2.0 HD
-http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_b4dc0ae2f786c1de/index.m3u8
-#EXTINF:-1 group-title="COGNITIVE", DOCUBOX
-http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_51b2db76ac0c0c05/index.m3u8
-#EXTINF:-1 group-title="COGNITIVE", DOCUBOX HD
-http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_482ead57e51c4b0d/index.m3u8
-#EXTINF:-1 group-title="COGNITIVE", ФАУНА
-http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_7f3c7ef1f46337e1/index.m3u8
-#EXTINF:-1 group-title="COGNITIVE", УСАДЬБА
-http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_ad84dc61a28d88ed/index.m3u8
-#EXTINF:-1 group-title="COGNITIVE", 365 ДНЕЙ ТВ
-http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_28053500ccb3e2e1/index.m3u8
-#EXTINF:-1 group-title="COGNITIVE", СВІТЛО
-http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_a2eb98f35e936fd4/index.m3u8
-#EXTINF:-1 group-title="COGNITIVE", ДИКИЙ
-http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_7341d759595d3639/index.m3u8
-#EXTINF:-1 group-title="COGNITIVE", ТРОФЕЙ
-http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_1faa909439edd50d/index.m3u8
-#EXTINF:-1 group-title="COGNITIVE", ТРОФЕЙ HD
-http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_27695cfb23925bac/index.m3u8
-#EXTINF:-1 group-title="COGNITIVE", ДИКАЯ ОХОТА HD
-http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_ea09ed323264fcbd/index.m3u8
-#EXTINF:-1 group-title="COGNITIVE", ДИКАЯ РЫБАЛКА HD
-http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_78e4cd8748c38b7c/index.m3u8
-#EXTINF:-1 group-title="COGNITIVE", ДИАЛОГИ О РЫБАЛКЕ
-http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_c0d95c534c2ed1c7/index.m3u8
-#EXTINF:-1 group-title="COGNITIVE", РЫБАЛКА
-http://iptv.prosto.tv:7000/ch344/video.m3u8
-#EXTINF:-1 group-title="COGNITIVE", ОХОТНИК И РЫБОЛОВ HD
-http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_93f8e1373585ef33/index.m3u8
-#EXTINF:-1 group-title="COGNITIVE", АВТО 24 HD
-http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_5eed5f8b6dd628d5/index.m3u8
-#EXTINF:-1 group-title="COGNITIVE", АВТО ПЛЮС HD
-http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_37a6f08cd4d68cf8/index.m3u8
-#EXTINF:-1 group-title="COGNITIVE", ТРАНСМІСІЯ
-https://iptv.prosto.tv/id293/video.m3u8?secret=z9uobpke
-#EXTINF:-1 group-title="COGNITIVE", FOOD NETWORK
-http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_6ce96240c6c4e344/index.m3u8
-#EXTINF:-1 group-title="COGNITIVE", FOOD NETWORK HD
-http://stream4k.ru:8987/u/1dc6a6d7337d7bcb6de562cdc5ec52b0199eb6ce/ext_4482b956dc8400a7/index.m3u8
+#EXTINF:-1 group-title="UA", НОВИЙ КАНАЛ
+http://newsr1.roshen.live:8080/j0Ij7VVFVX/tracks-v1a1/mono.m3u8?token=XSOdznpeFPEURAYS
+#EXTINF:-1 group-title="UA", СТС
+http://85.117.37.41/sts/index.m3u8
+#EXTINF:-1 group-title="UA", ТНТ
+http://85.117.37.41/tnt/index.m3u8
+#EXTINF:-1 group-title="UA", ТНТ4
+http://85.117.37.41/tnt4/index.m3u8
+#EXTINF:-1 group-title="UA", CNN
+https://ext.cdn.nashnet.tv/228.0.0.75/index.m3u8
+#EXTINF:-1 group-title="UA", СУСПІЛЬНЕ КИЇВ
+https://ext.cdn.nashnet.tv/228.0.0.41/index.m3u8
+#EXTINF:-1 group-title="UA", СУСПІЛЬНЕ КРИМ
+https://ext.cdn.nashnet.tv/228.0.0.71/index.m3u8
+#EXTINF:-1 group-title="UA", СУСПІЛЬНЕ КУЛЬТУРА
+https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8
+#EXTINF:-1 group-title="UA", ЭКО-ТВ
+https://ext.cdn.nashnet.tv/228.0.1.60/index.m3u8
+#EXTINF:-1 group-title="UA", НАДІЯ
+https://ext.cdn.nashnet.tv/228.0.0.172/index.m3u8
+#EXTINF:-1 group-title="UA", СОНЦЕ
+https://ext.cdn.nashnet.tv/228.0.0.165/index.m3u8
+#EXTINF:-1 group-title="UA", СОНЦЕ HD TV
+https://tva.in.ua/live/sonce.m3u8
+#EXTINF:-1 group-title="UA", КАПУЧИНО TV
+http://ext.cdn.nashnet.tv/228.0.0.136/index.m3u8
+#EXTINF:-1 group-title="UA", НАТАЛІ
+https://ext.cdn.nashnet.tv/228.0.0.140/index.m3u8
 #EXTINF:-1 group-title="CINEMA", ENTER-ФІЛЬМ
 http://31.43.48.248:7000/ch54/video.m3u8
+#EXTINF:-1 group-title="CINEMA", TV1000
+http://85.117.37.41/tv1000/index.m3u8
 #EXTINF:-1 group-title="CINEMA", VIJU+ PREMIERE
 http://46.32.176.50/VIPPremiereHD/index.m3u8
 #EXTINF:-1 group-title="CINEMA", VIJU+ MEGAHIT
@@ -126,18 +88,84 @@ http://46.32.176.50/tv1000action/index.m3u8
 http://tinyurl.com/TvZaTak40/74be03caf45786acbbecd5e0a7789a0d?token=128762f0bd32e94a005ad2b25d51fbd5
 #EXTINF:-1 group-title="CINEMA", VIASAT KINO ACTION HD
 http://tinyurl.com/TvZaTak41/687edb0b4918db4ed5a6f313e527f513?token=128762f0bd32e94a005ad2b25d51fbd5
+#EXTINF:-1 group-title="CINEMA", .SCI-FI
+http://217.113.16.23/Sci-F
+#EXTINF:-1 group-title="CINEMA", .SCI-FI
+http://46.32.176.50/sonyscifi/index.m3u8
 #EXTINF:-1 group-title="CINEMA", .BLACK
 http://217.113.16.23/black/index.m3u8
-#EXTINF:-1 group-title="CINEMA", .SCI-FI
-http://217.113.16.23/Sci-Fi/index.m3u8
+#EXTINF:-1 group-title="CINEMA", .BLACK
+http://46.32.176.50/sonyturbo/index.m3u8
+#EXTINF:-1 group-title="CINEMA", AMEDIA 1
+http://46.32.176.50/amedia1/index.m3u8
 #EXTINF:-1 group-title="CINEMA", AMEDIA 1
 http://158.101.222.193:88/georgia_play.php?id=amedia
 #EXTINF:-1 group-title="CINEMA", AMEDIA 2
 http://46.32.176.50/amedia2/index.m3u8
 #EXTINF:-1 group-title="CINEMA", AMEDIA HIT
+http://46.32.176.50/amediahit/index.m3u8
+#EXTINF:-1 group-title="CINEMA", AMEDIA HIT
 http://85.117.37.41/amediahit/index.m3u8
 #EXTINF:-1 group-title="CINEMA", AMEDIA PREMIUM
 http://46.32.176.50/AmediaPremium/index.m3u8
+#EXTINF:-1 group-title="CINEMA", AMEDIA PREMIUM
+http://85.117.37.41/amedipremium/index.m3u8
+#EXTINF:-1 group-title="CINEMA", AMEDIA PREMIUM HD
+http://46.32.176.50/AmediaPremiumHD/index.m3u8i/index.m3u8
+#EXTINF:-1 group-title="COGNITIVE", ANIMAL PLANET
+http://46.32.176.50/animalplanet/index.m3u8
+#EXTINF:-1 group-title="COGNITIVE", ANIMAL PLANET
+https://stream8.cinerama.uz/1043/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="COGNITIVE", ANIMAL PLANET
+http://217.113.16.23/animalplanet/index.m3u8
+#EXTINF:-1 group-title="COGNITIVE", ANIMAL PLANET HD
+http://46.32.176.50/AnimalPlanetHD/index.m3u8
+#EXTINF:-1 group-title="COGNITIVE", DISCOVERY CHANNEL
+http://46.32.176.50/discoverychannel/index.m3u8
+#EXTINF:-1 group-title="COGNITIVE", DISCOVERY
+https://stream8.cinerama.uz/1039/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="COGNITIVE", NATIONAL GEOGRAPHIC
+http://46.32.176.50/nationalgeographic/index.m3u8
+#EXTINF:-1 group-title="COGNITIVE", NATIONAL GEOGRAPHIC
+https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="COGNITIVE", NATIONAL GEOGRAPHIC HD
+http://46.32.176.50/NationalGeographicHD/index.m3u8
+#EXTINF:-1 group-title="COGNITIVE", NAT GEO WILD
+http://46.32.176.50/natgeowild/index.m3u8
+#EXTINF:-1 group-title="COGNITIVE", NAT GEO WILD
+https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="COGNITIVE", NAT GEO WILD HD
+http://46.32.176.50/NatGeoWildHD/index.m3u8
+#EXTINF:-1 group-title="COGNITIVE", VIASAT EXPLORE
+http://46.32.176.50/viasatexplorer/index.m3u8
+#EXTINF:-1 group-title="COGNITIVE", VIASAT EXPLORE
+http://158.101.222.193:88/georgia_play.php?id=viasatexp
+#EXTINF:-1 group-title="COGNITIVE", VIASAT EXPLORE
+https://stream8.cinerama.uz/1045/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="COGNITIVE", VIASAT HISTORY
+http://46.32.176.50/viasathistory/index.m3u8
+#EXTINF:-1 group-title="COGNITIVE", VIASAT HISTORY
+http://158.101.222.193:88/georgia_play.php?id=viasathist
+#EXTINF:-1 group-title="COGNITIVE", VIASAT HISTORY
+https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="COGNITIVE", VIASAT NATURE
+http://46.32.176.50/viasatnature/index.m3u8
+#EXTINF:-1 group-title="COGNITIVE", VIASAT NATURE
+http://158.101.222.193:88/georgia_play.php?id=viasatnat
+#EXTINF:-1 group-title="COGNITIVE", VIASAT NATURE
+https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="COGNITIVE", VIASAT NATURE HD
+http://46.32.176.50/ViasatNatureHD/index.m3u8
+#EXTINF:-1 group-title="COGNITIVE", НАУКА
+https://stream8.cinerama.uz/1248/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="COGNITIVE", РЫБАЛКА
+http://iptv.prosto.tv:7000/ch344/video.m3u8
+#EXTINF:-1 group-title="COGNITIVE", ОХОТНИК И РЫБОЛОВ HD
+https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="COGNITIVE", АВТО ПЛЮС
+http://158.101.222.193:88/georgia_play.php?id=autoplus
+#EXTINF:-1 group-title="COGNITIVE", АВТО 24
+http://158.101.222.193:88/georgia_play.php?id=auto24
 #EXTINF:-1 group-title="SPORT", RED BULL TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 group-title="SPORT", MOTORVISIONTV HD
@@ -146,14 +174,166 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1677
 https://digicom.hls.iptvdc.com/motorstv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORT", X-STREAM
 http://iptv.prosto.tv:7000/ch313/video.m3u8?secret=cledwwov
+#EXTINF:-1 group-title="SPORT", DIVI SPORT
+https://vcdn.produck.company/out/ngrp:divisport_all/playlist.m3u8
 #EXTINF:-1 group-title="SPORT", СУСПІЛЬНЕ KIEV СПОРТ HD
 https://tva.in.ua/live/susp-sport.m3u8?key=fas-tv.com
-#EXTINF:-1 group-title="SPORT", SETANTA SPORTS +
+#EXTINF:-1 group-title="SPORT", ФУТБОЛ
+http://217.113.16.23/matchplaneta/index.m3u8
+#EXTINF:-1 group-title="SPORT", ФУТБОЛ
+http://217.113.16.23/futboltv/index.m3u8
+#EXTINF:-1 group-title="SPORT", EUROSPORT 1
+https://stream8.cinerama.uz/1439/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORT", EUROSPORT 1 HD
+http://85.117.37.41/eurosport1/index.m3u8
+#EXTINF:-1 group-title="SPORT", EUROSPORT 1
+http://217.113.16.23/eurosport1/index.m3u8
+#EXTINF:-1 group-title="SPORT", EUROSPORT1HD
+http://79.127.207.193:80/Eurosport1HD/playlist.m3u8
+#EXTINF:-1 group-title="SPORT", EUROSPORT 2
+http://217.113.16.23/eurosport2/index.m3u8
+#EXTINF:-1 group-title="SPORT", EUROSPORT 2 HD
+http://85.117.37.41/eurosport2/index.m3u8
+#EXTINF:-1 group-title="SPORT", EUROSPORT2HD
+http://79.127.207.193:80/Eurosport2HD/playlist.m3u8
+#EXTINF:-1 group-title="SPORT", SETANTA SPORTS 1 HD
 http://178.63.98.119:8000/play/a01m/index.m3u8
+#EXTINF:-1 group-title="SPORT", SETANTA SPORTS 2 HD
+http://178.63.98.119:8000/play/a01n/index.m3u8
 #EXTINF:-1 group-title="SPORT", ELEVEN SPORTS 1 HD
 http://bocian.io:8880/NL753811/552284900/105525
 #EXTINF:-1 group-title="SPORT", ELEVEN SPORTS 2 HD
 http://bocian.io:8880/NL753811/552284900/105526
 #EXTINF:-1 group-title="SPORT", ELEVEN SPORTS 3 HD
 http://bocian.io:8880/NL753811/552284900/105527
+#EXTINF:-1 group-title="SPORT", SETANTA SPORTS 1 HD
+https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORT", SETANTA SPORTS 2 HD
+https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORT", VIASAT SPORT
+https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORT", ARTSPORT1HD
+http://79.127.207.193:80/ArtSport1HD/playlist.m3u8
+#EXTINF:-1 group-title="SPORT", ARTSPORT2
+http://79.127.207.193:80/ArtSport2/playlist.m3u8
+#EXTINF:-1 group-title="SPORT", ARTSPORT3
+http://79.127.207.193:80/ArtSport3/playlist.m3u8
+#EXTINF:-1 group-title="SPORT", ARTSPORT4
+http://79.127.207.193:80/ArtSport4/playlist.m3u8
+#EXTINF:-1 group-title="SPORT", ARTSPORT5
+http://79.127.207.193:80/ArtSport5/playlist.m3u8
+#EXTINF:-1 group-title="SPORT", ARTSPORT6
+http://79.127.207.193:80/ArtSport6/playlist.m3u8
+#EXTINF:-1 group-title="SPORT", MAXSPORT1HR
+http://79.127.207.193:80/MaxSport1HR/playlist.m3u8
+#EXTINF:-1 group-title="SPORT", MAXSPORT2HR
+http://79.127.207.193:80/MaxSport2HR/playlist.m3u8
+#EXTINF:-1 group-title="SPORT", SPORT 1 ISRAEL
+http://185.132.134.159:80/sport1/index.m3u8
+#EXTINF:-1 group-title="SPORT", SPORT 2 ISRAEL
+http://185.132.134.159:80/sport2/index.m3u8
+#EXTINF:-1 group-title="SPORT", SPORT 3 ISRAEL
+http://185.132.134.159:80/sport3/index.m3u8
+#EXTINF:-1 group-title="SPORT", SPORT 4 ISRAEL
+http://185.132.134.159:80/sport4/index.m3u8
+#EXTINF:-1 group-title="SPORT", SPORT 5 ISRAEL
+http://185.132.134.159:80/sport5/index.m3u8
+#EXTINF:-1 group-title="SPORT", SPORT 6 ISRAEL
+http://185.132.134.159:80/sport6/index.m3u8
+#EXTINF:-1 group-title="SPORT", BEIN SPORT HD 🇫🇷
+http://99.27.51.147:8080/BeinSport/index.m3u8
+#EXTINF:-1 group-title="SPORT", BEIN SPORT 2 HD 🇫🇷
+http://99.27.51.147:8080/BeinSport2/index.m3u8
+#EXTINF:-1 group-title="SPORT", BEIN SPORT 3 HD 🇫🇷
+http://99.27.51.147:8080/BeinSport3/index.m3u8
+#EXTINF:-1 group-title="SPORT", ESPN PREMIUM HD ИСПАНИЯ 🇪🇸
+http://181.224.255.210:8001/play/a0pt/index.m3u8
+#EXTINF:-1 group-title="SPORT", ESPN2 HD ИСПАНИЯ 🇪🇸
+http://181.224.255.210:8001/play/a0oj/index.m3u8
+#EXTINF:-1 group-title="SPORT", ESPN4 HD ИСПАНИЯ 🇪🇸
+http://181.224.255.210:8001/play/a0og/index.m3u8
+#EXTINF:-1 group-title="SPORT", ESPN5 HD ИСПАНИЯ 🇪🇸
+http://181.224.255.210:8001/play/a0pr/index.m3u8
+#EXTINF:-1 group-title="SPORT", ESPN6 HD ИСПАНИЯ 🇪🇸
+http://181.224.255.210:8001/play/a0eq/index.m3u8
+#EXTINF:-1 group-title="SPORT", ESPN7 HD ИСПАНИЯ 🇪🇸
+http://181.224.255.210:8001/play/a0m5/index.m3u8
+#EXTINF:-1 group-title="SPORT", ARENA SPORT 1 HD
+http://178.253.194.79:10006
+#EXTINF:-1 group-title="SPORT", ARENA SPORT 2 HD
+http://178.253.194.79:10007
+#EXTINF:-1 group-title="SPORT", ARENA SPORT 3 HD
+http://178.253.194.79:10008
+#EXTINF:-1 group-title="SPORT", ARENA SPORT 4 HD
+http://178.253.194.79:10009
+#EXTINF:-1 group-title="SPORT", ARENA SPORT 5 HD
+http://178.253.194.79:10010
+#EXTINF:-1 group-title="SPORT", ARENA SPORT 6 HD
+http://178.253.194.79:10011
+#EXTINF:-1 group-title="SPORT", ARENA SPORT 7 HD
+http://178.253.194.79:10012
+#EXTINF:-1 group-title="SPORT", ARENA SPORT 8 HD
+http://178.253.194.79:10013
+#EXTINF:-1 group-title="SPORT", ARENA SPORT 1 PREMIUM HD
+http://178.253.194.79:10001
+#EXTINF:-1 group-title="SPORT", ARENA SPORT 2 PREMIUM HD
+http://178.253.194.79:10004
+#EXTINF:-1 group-title="SPORT", ARENA SPORT 3 PREMIUM HD
+http://178.253.194.79:10005
+#EXTINF:-1 group-title="SPORT", ARENA SPORT 4 PREMIUM HD
+http://178.253.194.79:10016
+#EXTINF:-1 group-title="SPORT", ARENA SPORT 5 PREMIUM HD
+http://178.253.194.79:10017
+#EXTINF:-1 group-title="SPORT", ARENA TENNIS HD
+http://178.253.194.79:10019
+#EXTINF:-1 group-title="SPORT", ARENA ADRENALIN HD
+http://178.253.194.79:10018
+#EXTINF:-1 group-title="SPORT", REAL MADRID
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 group-title="SPORT", ART SPORT 1 HD
+https://srv1.adriatelekom.com/ArtSport1HD/index.m3u8
+#EXTINF:-1 group-title="SPORT", ART SPORT 2 HD
+https://srv1.adriatelekom.com/ArtSport2/index.m3u8
+#EXTINF:-1 group-title="SPORT", ART SPORT 3 HD
+https://srv1.adriatelekom.com/ArtSport3/index.m3u8
+#EXTINF:-1 group-title="SPORT", ART SPORT 4 HD
+https://srv1.adriatelekom.com/ArtSport4/index.m3u8
+#EXTINF:-1 group-title="SPORT", ART SPORT 5 HD
+https://srv1.adriatelekom.com/ArtSport5/index.m3u8
+#EXTINF:-1 group-title="SPORT", ART SPORT 6 HD
+https://srv1.adriatelekom.com/ArtSport6/index.m3u8
+#EXTINF:-1 group-title="SPORT", MAX SPORT 1 HD
+https://srv1.adriatelekom.com/MaxSport1HR/index.m3u8
+#EXTINF:-1 group-title="SPORT", MAX SPORT 2 HD
+https://srv1.adriatelekom.com/MaxSport2HR/index.m3u8
+#EXTINF:-1 group-title="SPORT", SPORTSKA TV HD
+https://srv1.adriatelekom.com/SportskaTV/index.m3u8
+#EXTINF:-1 group-title="SPORT", EURO SPORT 1 HD SRB
+https://srv1.adriatelekom.com/Eurosport1HD/index.m3u8
+#EXTINF:-1 group-title="SPORT", EURO SPORT 2 HD SRB
+https://srv1.adriatelekom.com/Eurosport2HD/index.m3u8
+#EXTINF:-1 group-title="SPORT", ESPORTS
+https://srv1.adriatelekom.com/AdriaESports/index.m3u8
+#EXTINF:-1 group-title="SPORT", RAI SPORT HD
+https://srv1.adriatelekom.com/RaiSport/index.m3u8
+#EXTINF:-1 group-title="SPORT", ART SPORT 1 HD
+http://169.150.223.25/ArtSport1HD/index.m3u8
+#EXTINF:-1 group-title="SPORT", ART SPORT 2 HD
+http://169.150.223.25/ArtSport2/index.m3u8
+#EXTINF:-1 group-title="SPORT", ART SPORT 3 HD
+http://169.150.223.25/ArtSport3/index.m3u8
+#EXTINF:-1 group-title="SPORT", ART SPORT 4 HD
+http://169.150.223.25/ArtSport4/index.m3u8
+#EXTINF:-1 group-title="SPORT", ART SPORT 5 HD
+http://169.150.223.25/ArtSport5/index.m3u8
+#EXTINF:-1 group-title="SPORT", ART SPORT 6 HD
+http://169.150.223.25/ArtSport6/index.m3u8
+#EXTINF:-1 group-title="SPORT", RAI 1 HD
+http://169.150.223.25/Rai1/index.m3u8
+#EXTINF:-1 group-title="SPORT", RAI 2 HD
+http://169.150.223.25/Rai2/index.m3u8
+#EXTINF:-1 group-title="SPORT", RAI 3 HD
+http://169.150.223.25/Rai3/index.m3u8
+#EXTINF:-1 group-title="SPORT", RAI SPORT HD
+http://169.150.223.25/RaiSport/index.m3u8
 #Playlist made by https://t.me/playlist_free
