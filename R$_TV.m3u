@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz" m3uautoload=1 cache=1000 aspect-ratio=16:9 deinterlace=1
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/rgk12fsehruttv6/update.png" group-title="INFO",🇺🇦 ОНОВЛЕНО 24.03.2026 🇺🇦
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/rgk12fsehruttv6/update.png" group-title="INFO",🇺🇦 ОНОВЛЕНО 16.05.2026 🇺🇦
 https://dl.dropbox.com/s/5o2opblp9lqjda1/KAROL&SANINA-VILNA.mp3
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/6ikxp06v3c6e03g/RO$TIK_TV.jpg" group-title="INFO",🇺🇦TELEGRAM @ROSTIK_TV🇺🇦
@@ -16,7 +16,7 @@ https://dl.dropbox.com/scl/fi/evhnsv220oofnnogmk8wc/romax-batko-nash-bandera-mp3
 http://de.seetv.cc/play/8798/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦" tvg-id="3320"tvg-logo="http://epg.it999.ru/img/3320.png",1+1 International
-http://newsr1.roshen.live:8080/dGnp21flch/video.m3u8?token=e2yXlI53mZEwBRDT
+http://newsr1.roshen.live:8080/dGnp21flch/video.m3u8?token=XSOdznpeFPEURAYS
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2194.png"group-title="🇺🇦УКРАЇНА🇺🇦",1+1 HD
 
@@ -24,15 +24,13 @@ http://newsr1.roshen.live:8080/dGnp21flch/video.m3u8?token=e2yXlI53mZEwBRDT
 http://portal.ott.pink/C5UK_1plus1SD/index.m3u8?token=927E03BF1A83DF5DE6628CAF78BA2C13
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2194.png"group-title="🇺🇦УКРАЇНА🇺🇦",1+1 Марафон
-http://ukr.ukrainske.tv/399/keytvainua/video.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2194.png"group-title="🇺🇦УКРАЇНА🇺🇦",1+1 Україна HD
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2194.png"group-title="🇺🇦УКРАЇНА🇺🇦",1+1 Марафон HD
-http://cdn-bal.srv4you.net/0151/mpegts
 
 #EXTINF:-1 tvg-id="2195"tvg-logo="http://epg.it999.ru/img/2195.png"group-title="🇺🇦УКРАЇНА🇺🇦",2+2 HD
-http://newsr1.roshen.live:8080/INuL3pGp8R/video.m3u8?token=e2yXlI53mZEwBRDT
+http://newsr1.roshen.live:8080/INuL3pGp8R/video.m3u8?token=XSOdznpeFPEURAYS
 
 #EXTINF:-1 tvg-id="3343"tvg-logo="http://epg.it999.ru/img/3343.png"group-title="🇺🇦УКРАЇНА🇺🇦",2+2
 
@@ -41,17 +39,16 @@ http://newsr1.roshen.live:8080/INuL3pGp8R/video.m3u8?token=e2yXlI53mZEwBRDT
 #EXTINF:-1 tvg-id="3343"tvg-logo="http://epg.it999.ru/img/3343.png"group-title="🇺🇦УКРАЇНА🇺🇦",2+2 Марафон
 
 #EXTINF:-1 tvg-id="3310"tvg-logo="http://epg.it999.ru/img/3310.png"group-title="🇺🇦УКРАЇНА🇺🇦",Інтер FHD
-http://cdn-bal.srv4you.net/0153/mpegts
 
 #EXTINF:-1 tvg-id="3310"tvg-logo="http://epg.it999.ru/img/3310.png"group-title="🇺🇦УКРАЇНА🇺🇦",Інтер HD
-http://newsr1.roshen.live:8080/28gM3kC0yp/video.m3u8?token=e2yXlI53mZEwBRDT
+http://newsr1.roshen.live:8080/28gM3kC0yp/video.m3u8?token=XSOdznpeFPEURAYS
 
 #EXTINF:-1 tvg-id="3310"tvg-logo="http://epg.it999.ru/img/3310.png"group-title="🇺🇦УКРАЇНА🇺🇦",Інтер
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2154.png"group-title="🇺🇦УКРАЇНА🇺🇦",Інтер + HD
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2154.png"group-title="🇺🇦УКРАЇНА🇺🇦",Інтер +
-http://newsr1.roshen.live:8080/XhoSJiQlaI/video.m3u8?token=e2yXlI53mZEwBRDT
+http://newsr1.roshen.live:8080/XhoSJiQlaI/video.m3u8?token=XSOdznpeFPEURAYS
 
 #EXTINF:-1 tvg-id="3323"tvg-logo="http://epg.it999.ru/img/3323.png"group-title="🇺🇦УКРАЇНА🇺🇦",Ми-Україна + HD
 https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
@@ -63,7 +60,7 @@ https://rpn3.bozztv.com/dvrfl07/ushba12/index.m3u8
 http://portal.ott.pink/C4UK_MuUkraineHD/index.m3u8?token=927E03BF1A83DF5DE6628CAF78BA2C13
 
 #EXTINF:-1 tvg-id="2217"tvg-logo="http://epg.it999.ru/img/2217.png"group-title="🇺🇦УКРАЇНА🇺🇦",Уніан
-http://newsr1.roshen.live:8080/SfabiXMgHe/video.m3u8?token=e2yXlI53mZEwBRDT
+http://newsr1.roshen.live:8080/SfabiXMgHe/video.m3u8?token=XSOdznpeFPEURAYS
 
 #EXTINF:-1 tvg-id="2217"tvg-logo="http://epg.it999.ru/img/2217.png"group-title="🇺🇦УКРАЇНА🇺🇦",Уніан HD
 
@@ -75,7 +72,7 @@ http://newsr1.roshen.live:8080/SfabiXMgHe/video.m3u8?token=e2yXlI53mZEwBRDT
 http://cdn-bal.srv4you.net/0164/mpegts
 
 #EXTINF:-1 tvg-id="2171"tvg-logo="http://epg.it999.ru/img/2171.png"group-title="🇺🇦УКРАЇНА🇺🇦",ТЕТ
-http://newsr1.roshen.live:8080/RmCD1qFmpl/video.m3u8?token=e2yXlI53mZEwBRDT
+http://newsr1.roshen.live:8080/RmCD1qFmpl/video.m3u8?token=XSOdznpeFPEURAYS
 
 #EXTINF:-1 tvg-id="3340"tvg-logo="http://epg.it999.ru/img/3340.png"group-title="🇺🇦УКРАЇНА🇺🇦",Новий канал
 
@@ -85,7 +82,7 @@ http://newsr1.roshen.live:8080/j0Ij7VVFVX/tracks-v1a1/mono.m3u8?token=XSOdznpeFP
 #EXTINF:-1 tvg-id="3340"tvg-logo="http://epg.it999.ru/img/3340.png"group-title="🇺🇦УКРАЇНА🇺🇦",Новий канал FHD
 
 #EXTINF:-1 tvg-id="2105"tvg-logo="http://epg.it999.ru/img/2105.png"group-title="🇺🇦УКРАЇНА🇺🇦",HTH
-http://newsr1.roshen.live:8080/7zaKQPjVK9/video.m3u8?token=e2yXlI53mZEwBRDT
+http://newsr1.roshen.live:8080/7zaKQPjVK9/video.m3u8?token=XSOdznpeFPEURAYS
 
 #EXTINF:-1 tvg-id="2105"tvg-logo="http://epg.it999.ru/img/2105.png"group-title="🇺🇦УКРАЇНА🇺🇦",HTH HD
 http://cdn-bal.srv4you.net/0157/mpegts
@@ -93,7 +90,7 @@ http://cdn-bal.srv4you.net/0157/mpegts
 #EXTINF:-1 tvg-id="3309"tvg-logo="http://epg.it999.ru/img/3309.png"group-title="🇺🇦УКРАЇНА🇺🇦",CTБ FHD
 
 #EXTINF:-1 tvg-id="3309"tvg-logo="http://epg.it999.ru/img/3309.png"group-title="🇺🇦УКРАЇНА🇺🇦",CTБ HD
-http://newsr1.roshen.live:8080/hksU5qQc7B/video.m3u8?token=e2yXlI53mZEwBRDT
+http://newsr1.roshen.live:8080/hksU5qQc7B/video.m3u8?token=XSOdznpeFPEURAYS
 
 #EXTINF:-1 tvg-id="3309"tvg-logo="http://epg.it999.ru/img/3309.png"group-title="🇺🇦УКРАЇНА🇺🇦",CTБ HD [R]
 
@@ -118,7 +115,7 @@ http://193.27.209.122/super_plus/index.m3u8
 #EXTINF:-1 tvg-id="2101"tvg-logo="http://epg.it999.ru/img/2101.png"group-title="🇺🇦УКРАЇНА🇺🇦",Квартал ТВ HD
 
 #EXTINF:-1 tvg-id="2101"tvg-logo="http://epg.it999.ru/img/2101.png"group-title="🇺🇦УКРАЇНА🇺🇦",Квартал ТВ
-http://newsr1.roshen.live:8080/9SCVrafNxx/video.m3u8?token=e2yXlI53mZEwBRDT
+http://newsr1.roshen.live:8080/9SCVrafNxx/video.m3u8?token=XSOdznpeFPEURAYS
 
 #EXTINF:-1 tvg-id="2101"tvg-logo="http://epg.it999.ru/img/2101.png"group-title="🇺🇦УКРАЇНА🇺🇦",Квартал ТВ Int.
 
@@ -138,7 +135,7 @@ http://newsr1.roshen.live:8080/9SCVrafNxx/video.m3u8?token=e2yXlI53mZEwBRDT
 http://iptv.prosto.tv:7000/ch192/video.m3u8?secret=kp7brelm
 
 #EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",ICTV2 HD
-http://newsr1.roshen.live:8080/gIwnH2gybp/video.m3u8?token=e2yXlI53mZEwBRDT
+http://newsr1.roshen.live:8080/gIwnH2gybp/video.m3u8?token=XSOdznpeFPEURAYS
 
 #EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",ICTV2
 
@@ -153,19 +150,19 @@ https://cdnua03.hls.tv/178/hls/6154479a1319705257f2335762b18f51/4305/stream.m3u8
 #EXTINF:-1 tvg-id="3307"tvg-logo="http://epg.it999.ru/img/3307.png"group-title="🇺🇦УКРАЇНА🇺🇦",ICTV [R]
 
 #EXTINF:-1 tvg-id="3307"tvg-logo="http://epg.it999.ru/img/3307.png"group-title="🇺🇦УКРАЇНА🇺🇦",ICTV HD
-http://newsr1.roshen.live:8080/EOAg5hL8Ul/video.m3u8?token=e2yXlI53mZEwBRDT
+http://newsr1.roshen.live:8080/EOAg5hL8Ul/video.m3u8?token=XSOdznpeFPEURAYS
 
 #EXTINF:-1 tvg-id="3307"tvg-logo="http://epg.it999.ru/img/3307.png"group-title="🇺🇦УКРАЇНА🇺🇦",ICTV FHD
 
 #EXTINF:-1 tvg-id="2100"tvg-logo="http://epg.it999.ru/img/2100.png"group-title="🇺🇦УКРАЇНА🇺🇦",K1
 
 #EXTINF:-1 tvg-id="2100"tvg-logo="http://epg.it999.ru/img/2100.png"group-title="🇺🇦УКРАЇНА🇺🇦",K1 HD
-http://newsr1.roshen.live:8080/WWYSzjxhcA/video.m3u8?token=e2yXlI53mZEwBRDT
+http://newsr1.roshen.live:8080/WWYSzjxhcA/video.m3u8?token=XSOdznpeFPEURAYS
 
 #EXTINF:-1 tvg-id="2100"tvg-logo="http://epg.it999.ru/img/2100.png"group-title="🇺🇦УКРАЇНА🇺🇦",K1 FHD
 
 #EXTINF:-1 tvg-id="2099"tvg-logo="http://epg.it999.ru/img/2099.png"group-title="🇺🇦УКРАЇНА🇺🇦",K2 HD
-http://newsr1.roshen.live:8080/jmOF7Jpnmm/video.m3u8?token=e2yXlI53mZEwBRDT
+http://newsr1.roshen.live:8080/jmOF7Jpnmm/video.m3u8?token=XSOdznpeFPEURAYS
 
 #EXTINF:-1 tvg-id="2099"tvg-logo="http://epg.it999.ru/img/2099.png"group-title="🇺🇦УКРАЇНА🇺🇦",K2 FHD
 
@@ -175,7 +172,7 @@ http://newsr1.roshen.live:8080/jmOF7Jpnmm/video.m3u8?token=e2yXlI53mZEwBRDT
 http://cdn-bal.srv4you.net/0171/mpegts
 
 #EXTINF:-1 tvg-id="2098"tvg-logo="http://epg.it999.ru/img/2098.png"group-title="🇺🇦УКРАЇНА🇺🇦",Мега HD
-http://newsr1.roshen.live:8080/ykNZ70y6rx/video.m3u8?token=e2yXlI53mZEwBRDT
+http://newsr1.roshen.live:8080/ykNZ70y6rx/video.m3u8?token=XSOdznpeFPEURAYS
 
 #EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",Бігуді
 
@@ -199,19 +196,19 @@ http://portal.ott.pink/C5UK_ArmyTVHD/index.m3u8?token=927E03BF1A83DF5DE6628CAF78
 #EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",Фронт
 
 #EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",ДАЧА
-http://newsr1.roshen.live:8080/36dwPrZvoZ/video.m3u8?token=e2yXlI53mZEwBRDT
+http://newsr1.roshen.live:8080/36dwPrZvoZ/video.m3u8?token=XSOdznpeFPEURAYS
 
 #EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",НАУКА
-http://newsr1.roshen.live:8080/b5IaAtKPbb/video.m3u8?token=e2yXlI53mZEwBRDT
+http://newsr1.roshen.live:8080/b5IaAtKPbb/video.m3u8?token=XSOdznpeFPEURAYS
 
 #EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",ТЕРА
-http://newsr1.roshen.live:8080/cpWrmOOaMg/video.m3u8?token=e2yXlI53mZEwBRDT
+http://newsr1.roshen.live:8080/cpWrmOOaMg/video.m3u8?token=XSOdznpeFPEURAYS
 
 #EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",U-TRAVEL
-http://newsr1.roshen.live:8080/CF5kWUxFp4/video.m3u8?token=e2yXlI53mZEwBRDT
+http://newsr1.roshen.live:8080/CF5kWUxFp4/video.m3u8?token=XSOdznpeFPEURAYS
 
 #EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",ФАУНА
-http://newsr1.roshen.live:8080/qDLtAGT3uO/video.m3u8?token=e2yXlI53mZEwBRDT
+http://newsr1.roshen.live:8080/qDLtAGT3uO/video.m3u8?token=XSOdznpeFPEURAYS
 
 #EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",Орбіта
 http://ftp.orbita.dn.ua/hls/orbita.m3u8
@@ -373,7 +370,7 @@ https://stream.rai.ua/rai/stream.m3u8
 http://iptv.prosto.tv:7000/ch263/video.m3u8?secret=kp7brelm
 
 #EXTINF:-1 tvg-id="2204"tvg-logo="http://epg.it999.ru/img/2204.png"group-title="🇺🇦УКРАЇНА🇺🇦",Галичина
-http://newsr1.roshen.live:8080/6mUR5aF629/video.m3u8?token=e2yXlI53mZEwBRDT
+http://newsr1.roshen.live:8080/6mUR5aF629/video.m3u8?token=XSOdznpeFPEURAYS
 
 #EXTINF:-1 tvg-name="fantastika" group-title="КІНОЗАЛИ UA",Хіт Комедія
 http://pl.online24.pm/play/1952/F6E1DD42544DD10/video.m3u8
@@ -1011,6 +1008,225 @@ https://fl1001.bozztv.com/ushba42/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Usba TV",Музыка Рок
 https://fl1001.bozztv.com/ushba-m2/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="VIP CINEMA TEST",National Geographic HD
+http://178.63.98.119:8000/play/a01o/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",Liberty Netflix 4K
+http://178.63.98.119:8000/play/a01s/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",Liberty РусФильм 4K
+http://178.63.98.119:8000/play/a01t/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",Liberty Триллер 4K
+http://178.63.98.119:8000/play/a01u/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",Liberty Индия 4K
+http://178.63.98.119:8000/play/a01v/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",Liberty Турк Фильм 4K
+http://178.63.98.119:8000/play/a01w/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",Liberty Аванпост 4K
+http://178.63.98.119:8000/play/a01x/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",Liberty Мелодрамы FHD
+http://178.63.98.119:8000/play/a01y/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",Liberty Кино Микс 4K
+http://178.63.98.119:8000/play/a01z/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",Liberty Криминал 4K
+http://178.63.98.119:8000/play/a020/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",Liberty Сериалы FHD
+http://178.63.98.119:8000/play/a021/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",MM Агата Кристи HD
+http://178.63.98.119:8000/play/a026/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",MM NewFilm RU HD
+http://178.63.98.119:8000/play/a027/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",MM 007 HD
+http://178.63.98.119:8000/play/a008/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",MM Classic HD
+http://178.63.98.119:8000/play/a007/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",MM Драма HD
+http://178.63.98.119:8000/play/a006/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",MM NewFilm 1 HD
+http://178.63.98.119:8000/play/a001/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",MM NewFilm 2 HD
+http://178.63.98.119:8000/play/a002/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",MM NewFilm 3 HD
+http://178.63.98.119:8000/play/a003/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",MM Фантастика HD
+http://178.63.98.119:8000/play/a005/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",MM История HD
+http://178.63.98.119:8000/play/a00d/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",MM Макромир HD
+http://178.63.98.119:8000/play/a022/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",MM Мегамир HD
+http://178.63.98.119:8000/play/a023/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",MM Микромир HD
+http://178.63.98.119:8000/play/a024/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",MM Погружение HD
+http://178.63.98.119:8000/play/a00b/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",MM Приключения HD
+http://178.63.98.119:8000/play/a00a/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",MM Скорость HD
+http://178.63.98.119:8000/play/a00c/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",MM Триллер HD
+http://178.63.98.119:8000/play/a004/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",MM UFO HD
+http://178.63.98.119:8000/play/a009/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",MM Вестерн HD
+http://178.63.98.119:8000/play/a00e/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",Yosso TV Adrenaline
+http://178.63.98.119:8000/play/a01b/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",Yosso TV Adventure
+http://178.63.98.119:8000/play/a01c/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",Yosso TV Best
+http://178.63.98.119:8000/play/a018/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",Yosso TV Grand
+http://178.63.98.119:8000/play/a019/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",Yosso TV New Кино
+http://178.63.98.119:8000/play/a017/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",Yosso TV Oblivion
+http://178.63.98.119:8000/play/a01a/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",Yosso TV Русские Фильмы
+http://178.63.98.119:8000/play/a012/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",Yosso TV Трагичное
+http://178.63.98.119:8000/play/a00f/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",Yosso TV Thriller
+http://178.63.98.119:8000/play/a01d/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",Yosso TV Забавное
+http://178.63.98.119:8000/play/a01h/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",Yosso TV Мелодрама
+http://178.63.98.119:8000/play/a01r/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",Yosso TV Ковбойское
+http://178.63.98.119:8000/play/a01g/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",Yosso TV Мелодрама
+http://178.63.98.119:8000/play/a01f/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",Setanta Sports 1 HD
+http://178.63.98.119:8000/play/a01m/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",Setanta Sports 2 HD
+http://178.63.98.119:8000/play/a01n/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",NHL Network [US]
+http://178.63.98.119:8000/play/a01p/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",Cartoons 90
+http://178.63.98.119:8000/play/a00h/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",Cartoons BIG
+http://178.63.98.119:8000/play/a01l/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",Cartoons Short
+http://178.63.98.119:8000/play/a00i/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",CineMan
+http://178.63.98.119:8000/play/a00j/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",CineMan ExExEx TWO
+http://178.63.98.119:8000/play/a013/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",CineMan Action
+http://178.63.98.119:8000/play/a00m/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",CineMan Комедия
+http://178.63.98.119:8000/play/a00s/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",CineMan Катастрофы
+http://178.63.98.119:8000/play/a00l/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",CineMan Marvel
+http://178.63.98.119:8000/play/a00q/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",CineMan Мелодрама
+http://178.63.98.119:8000/play/a00o/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",CineMan MiniSeries
+http://178.63.98.119:8000/play/a011/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",CineMan ПёС + Лихач
+http://178.63.98.119:8000/play/a00z/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",CineMan Premium
+http://178.63.98.119:8000/play/a00g/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",CineMan РуКино
+http://178.63.98.119:8000/play/a00u/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",CineMan Симпсоны
+http://178.63.98.119:8000/play/a00x/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",CineMan Скорая Помощь
+http://178.63.98.119:8000/play/a00w/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",CineMan Сваты
+http://178.63.98.119:8000/play/a00v/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",CineMan Thriller
+http://178.63.98.119:8000/play/a00n/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",CineMan Top
+http://178.63.98.119:8000/play/a00k/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",CineMan Ужасы
+http://178.63.98.119:8000/play/a00r/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",CineMan VHS
+http://178.63.98.119:8000/play/a00t/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",CineMan Лесник
+http://178.63.98.119:8000/play/a010/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",CineMan Ментовские войны
+http://178.63.98.119:8000/play/a00y/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",CineMan Фитнес
+http://178.63.98.119:8000/play/a015/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",CineMan Криминальные Сериалы
+http://178.63.98.119:8000/play/a01k/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",CineMan Катастрофы
+http://178.63.98.119:8000/play/a00p/index.m3u8
+
+#EXTINF:-1 group-title="VIP CINEMA TEST",Cineman Relax 4k
+http://178.63.98.119:8000/play/a014/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/6ikxp06v3c6e03g/RO$TIK_TV.jpg" group-title="КІНО📽",RO$TIK TV MIX HD [TEST]
 
 #EXTINF:-1 group-title="КІНО📽",Cine+ Legend HD
@@ -1020,9 +1236,11 @@ https://fl1001.bozztv.com/ushba-m2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="КІНО📽",Asterix HD
 http://filmtvgroup.hopto.org/FILM_TV_GROUP/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
 
-#EXTINF:-1 group-title="КІНО📽",Kinozalizo HD
+#EXTINF:-1 group-title="КІНО📽",CherTV HD
+https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.kOLvChA3aUIE.m3u8
 
-#EXTINF:-1 group-title="КІНО📽",Kinolafka HD
+#EXTINF:-1 group-title="КІНО📽",KinoMix HD
+https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.QK20f3fCHAGw.m3u8
 
 #EXTINF:-1 group-title="КІНО📽",Kinojizn HD
 
@@ -1582,6 +1800,7 @@ http://kinowalk.hopto.org/vsetv_live
 #EXTINF:-1 tvg-id="127"tvg-logo="http://epg.it999.ru/img/127.png"group-title="КІНО📽",TV 1000 FHD
 
 #EXTINF:-1 tvg-id="127"tvg-logo="http://epg.it999.ru/img/127.png"group-title="КІНО📽",TV 1000 HD
+http://46.32.176.50/tv1000/index.m3u8
 
 #EXTINF:-1 tvg-id="127"tvg-logo="http://epg.it999.ru/img/127.png"group-title="КІНО📽",TV 1000
 
@@ -1592,6 +1811,7 @@ http://kinowalk.hopto.org/vsetv_live
 #EXTINF:-1 tvg-id="125"tvg-logo="http://epg.it999.ru/img/125.png"group-title="КІНО📽",TV 1000 Action
 
 #EXTINF:-1 tvg-id="125"tvg-logo="http://epg.it999.ru/img/125.png"group-title="КІНО📽",TV 1000 Action HD
+http://46.32.176.50/tv1000action/index.m3u8
 
 #EXTINF:-1 tvg-id="125"tvg-logo="http://epg.it999.ru/img/125.png"group-title="КІНО📽",TV 1000 Action
 
@@ -1609,8 +1829,10 @@ http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
 #EXTINF:-1 group-title="КІНО📽",Viasat Kino Megahit HD
 
 #EXTINF:-1 group-title="КІНО📽",Viasat Kino Action HD
+http://tenta.golffan.us:7100/687edb0b4918db4ed5a6f313e527f513?token=128762f0bd32e94a005ad2b25d51fbd5
 
 #EXTINF:-1 group-title="КІНО📽",Viasat Kino HD
+http://tenta.golffan.us:7100/74be03caf45786acbbecd5e0a7789a0d?token=128762f0bd32e94a005ad2b25d51fbd5
 
 #EXTINF:-1 group-title="КІНО📽",Viasat Kino
 
@@ -2022,16 +2244,19 @@ http://hls127.freeott.top:8080/HCTV/video.m3u8
 #EXTINF:-1 tvg-id="2823"tvg-logo="http://epg.it999.ru/img/2823.png"group-title="КІНО📽",Viju+ Comedy
 
 #EXTINF:-1 tvg-id="2823"tvg-logo="http://epg.it999.ru/img/2823.png"group-title="КІНО📽",Viju+ Comedy HD
+http://46.32.176.50/VIPComedyHD/index.m3u8
 
 #EXTINF:-1 tvg-id="2823"tvg-logo="http://epg.it999.ru/img/2823.png"group-title="КІНО📽",Viju+ Comedy FHD
 
 #EXTINF:-1 tvg-id="2824"tvg-logo="http://epg.it999.ru/img/2824.png"group-title="КІНО📽",Viju+ Megahit
 
 #EXTINF:-1 tvg-id="2824"tvg-logo="http://epg.it999.ru/img/2824.png"group-title="КІНО📽",Viju+ Megahit HD
+http://46.32.176.50/VIPMegahitHD/index.m3u8
 
 #EXTINF:-1 tvg-id="2824"tvg-logo="http://epg.it999.ru/img/2824.png"group-title="КІНО📽",VIP Megahit FHD
 
 #EXTINF:-1 tvg-id="2822"tvg-logo="http://epg.it999.ru/img/2822.png"group-title="КІНО📽",Viju+ Premiere HD
+http://46.32.176.50/VIPPremiereHD/index.m3u8
 
 #EXTINF:-1 tvg-id="2822"tvg-logo="http://epg.it999.ru/img/2822.png"group-title="КІНО📽",Viju+ Premiere HD
 
@@ -2040,6 +2265,7 @@ http://hls127.freeott.top:8080/HCTV/video.m3u8
 #EXTINF:-1 tvg-id="2822"tvg-logo="http://epg.it999.ru/img/2822.png"group-title="КІНО📽",VIP Premiere FHD [R]
 
 #EXTINF:-1 tvg-id="2838"tvg-logo="http://epg.it999.ru/img/2838.png"group-title="КІНО📽",Viju+ Serial HD
+http://46.32.176.50/ViasatSportHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://ttvrun.one/uploads/Uu7rNBxXUyEgc5Cbc91Yab6sMHYaqQ.png" group-title="КІНО📽",ViP Serial FHD
 
@@ -2389,6 +2615,7 @@ http://lua.ath.cx:2600/live/setantasportshdua/index.m3u8?token=510f8e0f42ba98ca9
 #EXTINF:-1 tvg-id="setanta-sport-ua-hd-orig" tvg-logo="http://static.g-cdn.app/streams/setanta-sport-ua-hd-orig.png" tvg-rec="1" catchup_days="7" group-title="СПОРТ ⚽",Setanta Sports UA HD
 
 #EXTINF:-1 group-title="СПОРТ ⚽",Setanta Sports+ Ukraine HD
+http://178.63.98.119:8000/play/a01m/index.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",Setanta Sports Premium HD
 http://pl.seetv.cc/play/1650/F6E1DD42544DD10/video.m3u8
@@ -3273,7 +3500,8 @@ http://hls127.freeott.top:8080/Clarity4K_Zveriniy_Mir/video.m3u8
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",MyZen.tv 4K
 
-#EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Insight TV 4K
+#EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Insight TV
+https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Sunset Space HD
 
@@ -3310,12 +3538,12 @@ http://95.67.12.82:9098
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",The Explorers HD
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Nat Geo Wild FHD
-http://188.237.47.212:6005
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Nat Geo Wild HD
 http://fastopen.live:8080/diogo6143/oSFPRG3uQ6/27175
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Nat Geo Wild
+https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Nat Geo Wild [R]
 
@@ -3324,12 +3552,14 @@ http://fastopen.live:8080/diogo6143/oSFPRG3uQ6/27175
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",National Geographic HD
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",National Geographic
+https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Animal Planet FHD
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Animal Planet HD
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Animal Planet
+https://stream8.cinerama.uz/1043/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",One Planet HD
 
@@ -3342,6 +3572,7 @@ http://fastopen.live:8080/diogo6143/oSFPRG3uQ6/27175
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Viju+ Planet HD
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Viasat Nature HD
+https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Viasat Nature FHD
 
@@ -3351,6 +3582,7 @@ http://158.101.222.193:88/georgia_play.php?id=viasatnat
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Viasat Nature
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Viasat Explore HD
+https://stream8.cinerama.uz/1045/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Viasat Explore
 http://158.101.222.193:88/georgia_play.php?id=viasatexp
@@ -3361,6 +3593,7 @@ http://158.101.222.193:88/georgia_play.php?id=viasatexp
 http://158.101.222.193:88/georgia_play.php?id=viasathist
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Viasat History HD
+https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Viasat History HD [R]
 
@@ -3469,6 +3702,7 @@ http://iptv.prosto.tv:7000/ch347/video.m3u8
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",DocuBox HD
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Discovery Channel
+https://stream8.cinerama.uz/1039/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Discovery Channel HD
 
@@ -3635,14 +3869,14 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 group-title="ДИТЯЧІ👶",CineMan Kids 2
 
 #EXTINF:-1 group-title="ДИТЯЧІ👶",Плюс Плюс HD
-http://newsr1.roshen.live:8080/dyvcL5KZSN/video.m3u8?token=e2yXlI53mZEwBRDT
+http://newsr1.roshen.live:8080/dyvcL5KZSN/video.m3u8?token=XSOdznpeFPEURAYS
 
 #EXTINF:-1 group-title="ДИТЯЧІ👶",Плюс Плюс
 
 #EXTINF:-1 group-title="ДИТЯЧІ👶",Niki Kids HD
 
 #EXTINF:-1 group-title="ДИТЯЧІ👶",Niki Junior HD
-http://newsr1.roshen.live:8080/k4ImJB5NSs/video.m3u8?token=e2yXlI53mZEwBRDT
+http://newsr1.roshen.live:8080/k4ImJB5NSs/video.m3u8?token=XSOdznpeFPEURAYS
 
 #EXTINF:-1 tvg-id="Prokop_mylt_ua" tvg-name="prokop_mylt_ua" group-title="ДИТЯЧІ👶",Prokop Mylt UA
 
@@ -3656,7 +3890,7 @@ http://newsr1.roshen.live:8080/k4ImJB5NSs/video.m3u8?token=e2yXlI53mZEwBRDT
 http://ott.watch/stream/6HAPZWKKG3/323.m3u8
 
 #EXTINF:-1 group-title="ДИТЯЧІ👶",Піксель ТВ FHD
-http://newsr1.roshen.live:8080/MkrJpsvqQA/video.m3u8?token=e2yXlI53mZEwBRDT
+http://newsr1.roshen.live:8080/MkrJpsvqQA/video.m3u8?token=XSOdznpeFPEURAYS
 
 #EXTINF:-1 group-title="ДИТЯЧІ👶",Anime TV Kids HD
 
@@ -3675,7 +3909,7 @@ http://newsr1.roshen.live:8080/MkrJpsvqQA/video.m3u8?token=e2yXlI53mZEwBRDT
 #EXTINF:-1 group-title="ДИТЯЧІ👶",Мультики и сказки HD
 
 #EXTINF:-1 group-title="ДИТЯЧІ👶",Малятко TV
-http://newsr1.roshen.live:8080/gzt09RwGQb/video.m3u8?token=e2yXlI53mZEwBRDT
+http://newsr1.roshen.live:8080/gzt09RwGQb/video.m3u8?token=XSOdznpeFPEURAYS
 
 #EXTINF:-1 group-title="ДИТЯЧІ👶",JimJam
 
