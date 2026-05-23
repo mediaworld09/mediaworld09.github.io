@@ -241,7 +241,7 @@ async function main() {
 
   await processPlaylist(
     'https://mediaworld09.github.io/m3url-tv.m3u',
-    'взрослые',                                   // одна категория (строка)
+    ' ',                                   // одна категория (строка)
     'm3url-tv.m3u'
   );
 
