@@ -137,16 +137,16 @@ async function main() {
   );
 
   await processPlaylist(
-    'http://links-pile.su/iptv/p/Feq8EVSS2BrnFs/Sharavoz.Tv.ott.m3u?p=1',
+    'http://linkspile.su/iptv/p/qCALdkR6ED5tiz/Sharavoz.Tv.ott.m3u?p=1',
     'XXX Adult',                                   // одна категория (строка)
     'Sharovoz-TV.m3u'
   );
 
-  // await processPlaylist(
-  //   'https://m3url.ru/iptv.online__(2).m3u',
-  //   'Для взрослых',                                   // одна категория (строка)
-  //   'm3url-tv.m3u'
-  // );
+  await processPlaylist(
+    'http://26d7a5136393.zatikov.net/playlists/uplist/afeeea5a979e447329498bc9fc88716e/playlist.m3u8?raw=1',
+    'Для взрослых',                                   // одна категория (строка)
+    'm3url-tv.m3u'
+  );
 
   await processPlaylist(
     'http://u.vipl.one/high/9i7mez8jhs/playlist.m3u8?raw=1',
