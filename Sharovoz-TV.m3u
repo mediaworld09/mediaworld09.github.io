@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 group-title="RU Общероссийские",Первый канал HD
+#EXTINF:0 group-title="RU Общероссийские", Первый канал HD
 http://am01.links-tv-channels.org/128/index.m3u8?token=qCALdkR6ED5tiz
 #EXTINF:0 group-title="RU Общероссийские",Первый канал
 http://am01.links-tv-channels.org/5005/index.m3u8?token=qCALdkR6ED5tiz
