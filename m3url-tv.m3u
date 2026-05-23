@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-rec="0", Первый канал UHD
+#EXTINF:0 tvg-rec="0",Первый канал UHD
 #EXTGRP:новости
 http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/19241/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 UHD
