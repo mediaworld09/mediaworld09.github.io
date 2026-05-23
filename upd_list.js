@@ -239,11 +239,11 @@ async function main() {
     'TV-DOSUG.m3u'
   );
 
-  await processPlaylist(
-    'https://mediaworld09.github.io/m3url-tv.m3u',
-    ' ',                                   // одна категория (строка)
-    'm3url-tv.m3u'
-  );
+  // await processPlaylist(
+  //   'https://mediaworld09.github.io/m3url-tv.m3u',
+  //   ' ',                                   // одна категория (строка)
+  //   'm3url-tv.m3u'
+  // );
 
   await processPlaylistShar(
     'https://mediaworld09.github.io/Sharovoz-TV.m3u',
