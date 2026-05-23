@@ -144,7 +144,7 @@ async function main() {
 
   await processPlaylist(
     'http://26d7a5136393.zatikov.net/playlists/uplist/afeeea5a979e447329498bc9fc88716e/playlist.m3u8?raw=1',
-    'Для взрослых',                                   // одна категория (строка)
+    'взрослые',                                   // одна категория (строка)
     'm3url-tv.m3u'
   );
 
