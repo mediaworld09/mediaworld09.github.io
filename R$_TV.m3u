@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz" m3uautoload=1 cache=1000 aspect-ratio=16:9 deinterlace=1
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/rgk12fsehruttv6/update.png" group-title="INFO",🇺🇦 ОНОВЛЕНО 16.05.2026 🇺🇦
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/rgk12fsehruttv6/update.png" group-title="INFO",🇺🇦 ОНОВЛЕНО 24.05.2026 🇺🇦
 https://dl.dropbox.com/s/5o2opblp9lqjda1/KAROL&SANINA-VILNA.mp3
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/6ikxp06v3c6e03g/RO$TIK_TV.jpg" group-title="INFO",🇺🇦TELEGRAM @ROSTIK_TV🇺🇦
@@ -2407,11 +2407,16 @@ http://de.russkoe-iptv.com:8080/s/rcy9uell/mosfilm-hd-orig.m3u8
 #EXTINF:-1 group-title="КІНОКЛАСИКА🎥",Время [R]
 http://31.148.48.15:80/Vremya/index.m3u8?token=rostik_tv
 
+#EXTINF:-1 group-title="СПОРТ ⚽",BETKING HD
+http://c.velestore.su:8880/bal_c18l8u2d4f9l1a3r7e18/08946909/video.m3u8?token=QnVrb3ZpbmF8fE56TXdNelk1T0RVPQ==
+
+#EXTINF:-1 group-title="СПОРТ ⚽",BETKING 2 HD
+http://c.velestore.su:8880/bal_c18l8u2d4f9l1a3r7e18/08946929/video.m3u8?token=QnVrb3ZpbmF8fE56TXdNelk1T0RVPQ==
+
 #EXTINF:-1 group-title="СПОРТ ⚽",MEGOGO Спорт HD
 http://pl.online24.pm/play/1001/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",MEGOGO Спорт FHD
-http://wu6o1ur9.megatv.fun/iptv/W6K8TQWNXGPFK9AEPZSM795L/31612/index.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",MEGOGO Спорт HD
 http://newsr1.roshen.live:8080/vAu5sUNHz3/tracks-v1a1/mono.m3u8?token=XSOdznpeFPEURAYS
@@ -2455,22 +2460,21 @@ http://pl.seetv.cc/play/525/F6E1DD42544DD10/video.m3u8
 http://pl.seetv.cc/play/526/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-id="Xupltv4" tvg-name="упл тв 4" tvg-logo="https://ip-tv.dev/images/ico/upl.png" group-title="СПОРТ ⚽",Football Live
-https://s-footballive.pp.ua:8000/channel/65c83719/index.m3u8?q=1111e494ac105cde847d65bf36124f1b
 
 #EXTINF:-1 tvg-id="7539" tvg-logo="http://epg.one/img2/7539.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 1 HD
 http://de.seetv.cc/play/5009/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-id="7539" tvg-logo="http://epg.one/img2/7539.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 1
-http://ozaesnna.megatv.fun/iptv/QGP3QXDP95UFB4/20099/index.m3u8
+http://c.velestore.su:8880/bal_c18l8u2d4f9l1a3r7e18/08946906/video.m3u8?token=QnVrb3ZpbmF8fE56TXdNelk1T0RVPQ==
 
 #EXTINF:-1 tvg-id="7540" tvg-logo="http://epg.one/img2/7540.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 2
-http://ozaesnna.megatv.fun/iptv/QGP3QXDP95UFB4/20103/index.m3u8
+http://c.velestore.su:8880/bal_c18l8u2d4f9l1a3r7e18/08946907/video.m3u8?token=QnVrb3ZpbmF8fE56TXdNelk1T0RVPQ==
 
 #EXTINF:-1 tvg-id="7540" tvg-logo="http://epg.one/img2/7540.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 2 HD
 http://de.seetv.cc/play/5010/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-id="7541" tvg-logo="http://epg.one/img2/7541.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 3
-http://ozaesnna.megatv.fun/iptv/GEUL7CCKBHLXYN69ZHGZ3H5R/20104/index.m3u8
+http://c.velestore.su:8880/bal_c18l8u2d4f9l1a3r7e18/08946908/video.m3u8?token=QnVrb3ZpbmF8fE56TXdNelk1T0RVPQ==
 
 #EXTINF:-1 tvg-id="7541" tvg-logo="http://epg.one/img2/7541.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 3 HD
 http://de.seetv.cc/play/5011/F6E1DD42544DD10/video.m3u8
@@ -2482,7 +2486,7 @@ http://vp4hcjiv.rostelekom.xyz/iptv/CTHKNGFSE8DXT3/20105/index.m3u8
 http://pl.seetv.cc/play/5012/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-id="7543" tvg-logo="http://epg.one/img2/7543.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 5
-http://vp4hcjiv.rostelekom.xyz/iptv/V6YQ28ZKDTU7MB/20106/index.m3u8
+http://c.velestore.su:8880/bal_c18l8u2d4f9l1a3r7e18/08946910/video.m3u8?token=QnVrb3ZpbmF8fE56TXdNelk1T0RVPQ==
 
 #EXTINF:-1 tvg-id="7543" tvg-logo="http://epg.one/img2/7543.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 5 HD
 http://de.seetv.cc/play/5013/F6E1DD42544DD10/video.m3u8
@@ -2501,6 +2505,9 @@ http://de.seetv.cc/play/5015/F6E1DD42544DD10/video.m3u8
 
 #EXTINF:-1 tvg-id="7543" tvg-logo="http://epg.one/img2/7543.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 8 HD
 http://de.seetv.cc/play/5016/F6E1DD42544DD10/video.m3u8
+
+#EXTINF:-1 group-title="СПОРТ ⚽",ViP Sport 8 FHD [Ukr]
+http://c.velestore.su:8880/bal_c18l8u2d4f9l1a3r7e18/08946913/video.m3u8?token=QnVrb3ZpbmF8fE56TXdNelk1T0RVPQ==
 
 #EXTINF:-1 tvg-id="7546" tvg-logo="http://epg.one/img2/7546
 .png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 9 HD

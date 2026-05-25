@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1,🛠Ревизия №-2 🚦24.05.2026|12-30|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
+#EXTINF:-1,🛠Ревизия №-3 🚦24.05.2026|18-20|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
 https://iptv.org.ua/wp-content/uploads/2022/01/Moyo-slayd33-shou.mp4
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)",TV1000
@@ -4282,6 +4282,170 @@ http://217.174.229.136:8000/play/a00a
 http://217.174.229.136:8000/play/a03t
 #EXTINF:-1 group-title="ТуркменТелеком",Extreme Sports
 http://217.174.229.136:8000/play/a08q
+
+
+#EXTINF:-1 group-title="VGS Network",Viju TV1000 Новелла HD
+http://176.100.46.245:90/vijuNovella/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Fresh Comedy
+http://176.100.46.245:90/FreshComedy/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Magic Comedy HD
+http://176.100.46.245:90/MagicComedy/index.m3u8
+#EXTINF:-1 group-title="VGS Network",MM Walt Disney HD
+http://176.100.46.245:90/WaltDisney/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Индия
+http://176.100.46.245:90/india/index.m3u8
+#EXTINF:-1 group-title="VGS Network",КИНОСВИДАНИЕ
+http://176.100.46.245:90/kinosvidanie/index.m3u8
+#EXTINF:-1 group-title="VGS Network",КИНОПРЕМЬЕРА
+http://176.100.46.245:90/kinopremiera/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Киноужас
+http://176.100.46.245:90/kinoujas/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Родное кино
+http://176.100.46.245:90/rodnoekino/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Киносерия
+http://176.100.46.245:90/kinoseria/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Индийское Кино
+http://176.100.46.245:90/indiskikino/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Наше новое кино
+http://176.100.46.245:90/nashanovoekino/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Комедия
+http://176.100.46.245:90/komedia/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Мир сериала
+http://176.100.46.245:90/mirseriala/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Viju+ Serial
+http://176.100.46.245:90/vijuSerial/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Viasat Kino World
+http://176.100.46.245:90/viasatwordkino/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Viasat Kino Action
+http://176.100.46.245:90/ViasatKinoAction/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Viasat Kino Comedy
+http://176.100.46.245:90/ViasatKinoComedy/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Viasat Kino
+http://176.100.46.245:90/viasatkino/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Plan b
+http://176.100.46.245:90/PLANB/index.m3u8
+#EXTINF:-1 group-title="VGS Network",НСТ
+http://176.100.46.245:90/hct/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Amedia 1
+http://176.100.46.245:90/amedia1/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Amedia Premium
+http://176.100.46.245:90/AmediaPremium/index.m3u8
+#EXTINF:-1 group-title="VGS Network",DocuBox
+http://176.100.46.245:90/DOCUBOX/index.m3u8
+#EXTINF:-1 group-title="VGS Network",ТВ3
+http://176.100.46.245:90/tv3/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Кинеко
+http://176.100.46.245:90/KINEKO/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Иллюзион+
+http://176.100.46.245:90/Illusion_plus/index.m3u8
+#EXTINF:-1 group-title="VGS Network", Иллюзион
+http://176.100.46.245:90/iluzionru/index.m3u8
+#EXTINF:-1 group-title="VGS Network",BollywooD
+http://176.100.46.245:90/bollywood/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Hollywood
+http://176.100.46.245:90/Hollywood/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Дом кино
+http://176.100.46.245:90/domkino/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Еврокино
+http://176.100.46.245:90/EVROKINO/index.m3u8
+#EXTINF:-1 group-title="VGS Network",alpha Cinema
+http://176.100.46.245:90/alphaCinema/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Феникс+Кино
+http://176.100.46.245:90/FENIXKINO/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Kino 24
+http://176.100.46.245:90/kino24/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Flixsnip
+http://176.100.46.245:90/FlixSnip/index.m3u8
+#EXTINF:-1 group-title="VGS Network",FOX
+http://176.100.46.245:90/FOX/index.m3u8
+#EXTINF:-1 group-title="VGS Network",ITV HD
+http://176.100.46.245:90/ICTV/index.m3u8
+#EXTINF:-1 group-title="VGS Network",ITV 2 HD
+http://176.100.46.245:90/ICTV2/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Кинопоказ
+http://176.100.46.245:90/KINOPOKAZ/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Авто 24
+http://176.100.46.245:90/AVTO24/index.m3u8
+#EXTINF:-1 group-title="VGS Network",WORLD FASHION
+http://176.100.46.245:90/WORLDFASHION/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Fashion TV
+http://176.100.46.245:90/fashiontv/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Digi+ 4K
+http://176.100.46.245:90/Digi4K/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Digi + 4K 2
+http://176.100.46.245:90/Digi4K2/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Звезда
+http://176.100.46.245:90/zvezda/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Пятница!
+http://176.100.46.245:90/PIATNICA/index.m3u8
+#EXTINF:-1 group-title="VGS Network",.Sci-Fi
+http://176.100.46.245:90/scifi/index.m3u8
+#EXTINF:-1 group-title="VGS Network",.red
+http://176.100.46.245:90/red/index.m3u8
+#EXTINF:-1 group-title="VGS Network",.black
+http://176.100.46.245:90/black/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Дом Кино Премиум
+http://176.100.46.245:90/domkinopremium/index.m3u8
+#EXTINF:-1 group-title="VGS Network",TERRA
+http://176.100.46.245:90/TERRA/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Наука
+http://176.100.46.245:90/nauka/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Discovery Channel
+http://176.100.46.245:90/DiscoveryChannel/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Big Planet
+http://176.100.46.245:90/BigPlanet/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Galaxy TV
+http://176.100.46.245:90/galaxy/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Охотник и рыболов HD
+http://176.100.46.245:90/oxotoaribalov/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Охота и рыбалка
+http://176.100.46.245:90/oxotairibalka/index.m3u8
+#EXTINF:-1 group-title="VGS Network",TiJi
+http://176.100.46.245:90/TiJi/index.m3u8
+#EXTINF:-1 group-title="VGS Network",JimJam
+http://176.100.46.245:90/JimJam/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Мульт
+http://176.100.46.245:90/mult/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Карусель
+http://176.100.46.245:90/KARUSEL_SD/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Baby Time
+http://176.100.46.245:90/BABYTIME/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Gulli Girl
+http://176.100.46.245:90/GulliGirl/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Детский мир
+http://176.100.46.245:90/detckimir/index.m3u8
+#EXTINF:-1 group-title="VGS Network",1 HD
+http://176.100.46.245:90/M1/index.m3u8
+#EXTINF:-1 group-title="VGS Network",2 HD
+http://176.100.46.245:90/M2/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Extreme Sports
+http://176.100.46.245:90/Extreme/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Матч! Арена
+http://176.100.46.245:90/matcharena/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Матч! Игра
+http://176.100.46.245:90/matchigra/index.m3u8
+#EXTINF:-1 group-title="VGS Network",O2
+http://176.100.46.245:90/O2/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Setanta Sports 1
+http://176.100.46.245:90/setantaru1/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Setanta Sports 2
+http://176.100.46.245:90/setantaru2/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Матч ТВ
+http://176.100.46.245:90/matchtv/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Матч! Футбол 1
+http://176.100.46.245:90/matchfootball1/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Матч! Футбол 2
+http://176.100.46.245:90/matchfootball2/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Матч! Футбол 3
+http://176.100.46.245:90/matchfootball3/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Матч! Премьер
+http://176.100.46.245:90/matchpremer/index.m3u8
+#EXTINF:-1 group-title="VGS Network",UFC
+http://176.100.46.245:90/UFC/index.m3u8
+#EXTINF:-1 group-title="VGS Network",Viasat Sport
+http://176.100.46.245:90/VIJUSPORT/index.m3u8
+#EXTINF:-1 group-title="VGS Network",MMA-TV.COM
+http://176.100.46.245:90/MMATV/index.m3u8
 
 
 #EXTINF:-1 group-title="Lime (VPN)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10286/logo_256_1658736631.png", КиноМеню HD
