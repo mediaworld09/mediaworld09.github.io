@@ -2263,10 +2263,10 @@ http://u.vipl.one/high/734xh9cn6p/1486.m3u8
 #EXTINF:0 tvg-id="1490" tvg-logo="http://epg.cdntv.online/img/1490.png" group-title="Кино", Киносерия
 #EXTGRP:Кино
 http://u.vipl.one/high/734xh9cn6p/1490.m3u8
-#EXTINF:0 tvg-id="1491" tvg-logo="http://epg.cdntv.online/img/1491.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кино", Anime TV HD
+#EXTINF:0 tvg-id="1491" tvg-logo="http://epg.cdntv.online/img/1491.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кино", Аниме ТВ HD
 #EXTGRP:Кино
 http://u.vipl.one/high/734xh9cn6p/1491.m3u8
-#EXTINF:0 tvg-id="1492" tvg-logo="http://epg.cdntv.online/img/1492.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кино", Horror TV HD
+#EXTINF:0 tvg-id="1492" tvg-logo="http://epg.cdntv.online/img/1492.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кино", Ужас ТВ HD
 #EXTGRP:Кино
 http://u.vipl.one/high/734xh9cn6p/1492.m3u8
 #EXTINF:0 tvg-id="1493" tvg-logo="http://epg.cdntv.online/img/1493.png" group-title="Турция", Kanal 7
@@ -4048,7 +4048,7 @@ http://u.vipl.one/high/734xh9cn6p/2291.m3u8
 #EXTGRP:Новостные
 http://u.vipl.one/high/734xh9cn6p/2292.m3u8
 http://u.vipl.one/high/734xh9cn6p/2293.m3u8
-#EXTINF:0 tvg-id="2294" tvg-logo="http://epg.cdntv.online/img/2294.png" group-title="Региональные", Лен ТВ
+#EXTINF:0 tvg-id="2294" tvg-logo="http://epg.cdntv.online/img/2294.png" group-title="Региональные", ЛенТВ 24
 #EXTGRP:Региональные
 http://u.vipl.one/high/734xh9cn6p/2294.m3u8
 #EXTINF:0 tvg-id="2295" tvg-logo="http://epg.cdntv.online/img/2295.png" group-title="Музыкальные", ММТВ
