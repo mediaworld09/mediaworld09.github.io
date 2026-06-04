@@ -23,7 +23,7 @@ http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/15012/index.m3u8
 #EXTINF:0 tvg-rec="0",РБК HD 50
 #EXTGRP:новости
 http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/10029/index.m3u8
-#EXTINF:0 tvg-rec="0",BBC First HD UK
+#EXTINF:0 tvg-rec="0",BBC HD NL
 #EXTGRP:новости
 http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/19181/index.m3u8
 #EXTINF:0 tvg-rec="0",BBC Scotland HD UK
@@ -554,7 +554,7 @@ http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/726/index.m3u8
 #EXTINF:0 tvg-rec="3",Индия
 #EXTGRP:кино
 http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/1001/index.m3u8
-#EXTINF:0 tvg-rec="3",FilmBox
+#EXTINF:0 tvg-rec="3",FilmBox+ One
 #EXTGRP:кино
 http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/1071/index.m3u8
 #EXTINF:0 tvg-rec="7",Мир Сериала
@@ -596,6 +596,9 @@ http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/2490/index.m3u8
 #EXTINF:0 tvg-rec="3",Sky Krimi HD DE
 #EXTGRP:кино
 http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/2491/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Arts HD DE
+#EXTGRP:кино
+http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/2494/index.m3u8
 #EXTINF:0 tvg-rec="3",Кинозал 1 (Триколор)
 #EXTGRP:кино
 http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/2568/index.m3u8
@@ -2453,7 +2456,7 @@ http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/20008/index.m3u8
 #EXTINF:0 tvg-rec="0",В гостях у сказки HD
 #EXTGRP:детские
 http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/20005/index.m3u8
-#EXTINF:0 tvg-rec="0",Малыш HD
+#EXTINF:0 tvg-rec="0",СуперГерои HD
 #EXTGRP:детские
 http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/15099/index.m3u8
 #EXTINF:0 tvg-rec="0",Лёва HD
@@ -2540,7 +2543,7 @@ http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/1033/index.m3u8
 #EXTINF:0 tvg-rec="3",Da Vinci FHD UA
 #EXTGRP:детские
 http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/1034/index.m3u8
-#EXTINF:0 tvg-rec="3",Малыш
+#EXTINF:0 tvg-rec="3",СуперГерои
 #EXTGRP:детские
 http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/1041/index.m3u8
 #EXTINF:0 tvg-rec="7",NickToons HD
@@ -3881,7 +3884,7 @@ http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/19132/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sport MotoGP HD IT
 #EXTGRP:спорт
 http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/19133/index.m3u8
-#EXTINF:0 tvg-rec="0",Super Tennis IT
+#EXTINF:0 tvg-rec="0",Tennis Channel US
 #EXTGRP:спорт
 http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/19136/index.m3u8
 #EXTINF:0 tvg-rec="0",Fox Sports HD AR
@@ -5573,7 +5576,7 @@ http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/15450/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия К +0 (Элиста)
 #EXTGRP:другие
 http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/15451/index.m3u8
-#EXTINF:0 tvg-rec="0",ТВ Центр + (Элиста)
+#EXTINF:0 tvg-rec="0",ТВ Центр +0 (Элиста)
 #EXTGRP:другие
 http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/15454/index.m3u8
 #EXTINF:0 tvg-rec="0",РЕН ТВ +0 (Элиста)
@@ -5657,7 +5660,7 @@ http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/16038/index.m3u8
 #EXTINF:0 tvg-rec="0",Московское образование HD
 #EXTGRP:другие
 http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/16043/index.m3u8
-#EXTINF:0 tvg-rec="0",Thats 80s UK
+#EXTINF:0 tvg-rec="0",That's 80s UK
 #EXTGRP:другие
 http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/17057/index.m3u8
 #EXTINF:0 tvg-rec="0",Kanal 2 HD EE
@@ -5747,6 +5750,9 @@ http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/19019/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Nature HD DE
 #EXTGRP:другие
 http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/19020/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Documentaries HD DE
+#EXTGRP:другие
+http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/19021/index.m3u8
 #EXTINF:0 tvg-rec="0",HBO 2 HD BR
 #EXTGRP:другие
 http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/19045/index.m3u8
@@ -6935,7 +6941,7 @@ http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/2395/index.m3u8
 #EXTINF:0 tvg-rec="3",Диалоги о рыбалке HD
 #EXTGRP:HD
 http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/2394/index.m3u8
-#EXTINF:0 tvg-rec="3",Quest Red HD UK
+#EXTINF:0 tvg-rec="3",Fuel TV
 #EXTGRP:HD
 http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/2396/index.m3u8
 #EXTINF:0 tvg-rec="3",Setanta Qazaqstan HD
@@ -8546,7 +8552,7 @@ http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/9191/index.m3u8
 #EXTINF:0 tvg-rec="3",Детский мир HD
 #EXTGRP:HD Orig
 http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/9192/index.m3u8
-#EXTINF:0 tvg-rec="3",Малыш orig
+#EXTINF:0 tvg-rec="3",СуперГерои orig
 #EXTGRP:HD Orig
 http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/9193/index.m3u8
 #EXTINF:0 tvg-rec="3",Радость моя orig
