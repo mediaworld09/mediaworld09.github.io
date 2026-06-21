@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz" m3uautoload=1 cache=1000 aspect-ratio=16:9 deinterlace=1
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/rgk12fsehruttv6/update.png" group-title="INFO",🇺🇦 ОНОВЛЕНО 7.07.2026 🇺🇦
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/rgk12fsehruttv6/update.png" group-title="INFO",🇺🇦 ОНОВЛЕНО 20.06.2026 🇺🇦
 https://dl.dropbox.com/s/5o2opblp9lqjda1/KAROL&SANINA-VILNA.mp3
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/6ikxp06v3c6e03g/RO$TIK_TV.jpg" group-title="INFO",🇺🇦TELEGRAM @ROSTIK_TV🇺🇦
@@ -13,7 +13,7 @@ http://138.201.252.232:80/iLOVEradio2.mp3
 https://dl.dropbox.com/scl/fi/evhnsv220oofnnogmk8wc/romax-batko-nash-bandera-mp3.mp3?rlkey=jmlost6vgbwjus5ow24pwybvd&dl=0
 
 #EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦" tvg-id="3320"tvg-logo="http://epg.it999.ru/img/3320.png",1+1 International HD
-http://de.seetv.cc/play/8798/FE3E3EDFFB26784/video.m3u8
+http://de.seetv.cc/play/8798/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦" tvg-id="3320"tvg-logo="http://epg.it999.ru/img/3320.png",1+1 International
 http://newsr1.roshen.live:8080/dGnp21flch/video.m3u8?token=XSOdznpeFPEURAYS
@@ -140,7 +140,7 @@ http://newsr1.roshen.live:8080/gIwnH2gybp/video.m3u8?token=XSOdznpeFPEURAYS
 #EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",ICTV2
 
 #EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",ICTV Серіали
-http://de.seetv.cc/play/649/FE3E3EDFFB26784/video.m3u8
+http://de.seetv.cc/play/649/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",ICTV Серіали HD
 
@@ -373,388 +373,388 @@ http://iptv.prosto.tv:7000/ch263/video.m3u8?secret=kp7brelm
 http://newsr1.roshen.live:8080/6mUR5aF629/video.m3u8?token=XSOdznpeFPEURAYS
 
 #EXTINF:-1 tvg-name="fantastika" group-title="КІНОЗАЛИ UA",Хіт Комедія
-http://pl.online24.pm/play/1952/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/1952/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="fantastika" group-title="КІНОЗАЛИ UA",Хіт Бойовик
-http://pl.online24.pm/play/1951/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/1951/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="fantastika" group-title="КІНОЗАЛИ UA",Sweet Kino HD
-http://pl.online24.pm/play/1886/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/1886/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="fantastika" group-title="КІНОЗАЛИ UA",Одного разу під Полтавою
-http://pl.online24.pm/play/1964/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/1964/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="fantastika" group-title="КІНОЗАЛИ UA",На трьох
-http://pl.online24.pm/play/1963/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/1963/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="Liberty" group-title="КІНОЗАЛИ UA",Liberty Кино UKR HD
-http://pl.online24.pm/play/7068/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/7068/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="fantastika" group-title="КІНОЗАЛИ UA",Різдво
-http://pl.online24.pm/play/50125/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50125/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="fantastika" group-title="КІНОЗАЛИ UA",Fantastika
-http://pl.online24.pm/play/50011/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50011/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="wednesday" group-title="КІНОЗАЛИ UA",Wednesday
-http://pl.online24.pm/play/50005/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50005/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="the_last_of_us" group-title="КІНОЗАЛИ UA",The_Last_of_Us
-http://pl.online24.pm/play/50006/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50006/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="house_ukr" group-title="КІНОЗАЛИ UA",House_ukr
-http://pl.online24.pm/play/50007/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50007/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="gubka bob" group-title="КІНОЗАЛИ UA",Gubka bob
-http://pl.online24.pm/play/50008/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50008/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="love" group-title="КІНОЗАЛИ UA",Love
-http://pl.online24.pm/play/50009/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50009/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_alf" group-title="КІНОЗАЛИ UA",jk_Alf
-http://pl.online24.pm/play/50001/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50001/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_grimm" group-title="КІНОЗАЛИ UA",jk_grimm
-http://pl.online24.pm/play/50010/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50010/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_kids" group-title="КІНОЗАЛИ UA",jk_kids
-http://pl.online24.pm/play/50012/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50012/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_black_cloak" group-title="КІНОЗАЛИ UA",jk_black_cloak
-http://pl.online24.pm/play/50013/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50013/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_futurama" group-title="КІНОЗАЛИ UA",jk_futurama
-http://pl.online24.pm/play/50014/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50014/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_ducks" group-title="КІНОЗАЛИ UA",jk_ducks
-http://pl.online24.pm/play/50015/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50015/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_csi_ny" group-title="КІНОЗАЛИ UA",jk_csi_NY
-http://pl.online24.pm/play/50016/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50016/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_csi_vegas" group-title="КІНОЗАЛИ UA",jk_csi_vegas
-http://pl.online24.pm/play/50017/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50017/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_csi_m" group-title="КІНОЗАЛИ UA",jk_csi_m
-http://pl.online24.pm/play/50018/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50018/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_90" group-title="КІНОЗАЛИ UA",jk_90
-http://pl.online24.pm/play/50019/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50019/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_got" group-title="КІНОЗАЛИ UA",jk_GoT
-http://pl.online24.pm/play/50020/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50020/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_x_files" group-title="КІНОЗАЛИ UA",jk_x_files
-http://pl.online24.pm/play/50021/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50021/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_house_dragon" group-title="КІНОЗАЛИ UA",jk_House_Dragon
-http://pl.online24.pm/play/50022/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50022/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_sherlock" group-title="КІНОЗАЛИ UA",jk_Sherlock
-http://pl.online24.pm/play/50023/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50023/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_gostri_kartuz" group-title="КІНОЗАЛИ UA",jk_Gostri_Kartuz
-http://pl.online24.pm/play/50024/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50024/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_vedmak" group-title="КІНОЗАЛИ UA",jk_Vedmak
-http://pl.online24.pm/play/50025/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50025/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_panda" group-title="КІНОЗАЛИ UA",jk_panda
-http://pl.online24.pm/play/50026/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50026/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_ledi_bag" group-title="КІНОЗАЛИ UA",jk_ledi_Bag
-http://pl.online24.pm/play/50027/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50027/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_twin_peaks" group-title="КІНОЗАЛИ UA",jk_Twin_Peaks
-http://pl.online24.pm/play/50028/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50028/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_poirot" group-title="КІНОЗАЛИ UA",jk_Poirot
-http://pl.online24.pm/play/50029/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50029/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_boys" group-title="КІНОЗАЛИ UA",jk_boys
-http://pl.online24.pm/play/50030/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50030/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_dexter" group-title="КІНОЗАЛИ UA",jk_Dexter
-http://pl.online24.pm/play/50031/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50031/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_castle" group-title="КІНОЗАЛИ UA",jk_Castle
-http://pl.online24.pm/play/50032/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50032/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_brookllyn" group-title="КІНОЗАЛИ UA",jk_brookllyn
-http://pl.online24.pm/play/50033/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50033/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_fubar" group-title="КІНОЗАЛИ UA",jk_FUBAR
-http://pl.online24.pm/play/50034/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50034/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_kosty" group-title="КІНОЗАЛИ UA",jk_kosty
-http://pl.online24.pm/play/50035/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50035/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_berega" group-title="КІНОЗАЛИ UA",jk_berega
-http://pl.online24.pm/play/50036/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50036/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_mel" group-title="КІНОЗАЛИ UA",jk_Mel
-http://pl.online24.pm/play/50037/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50037/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_lie_to_me" group-title="КІНОЗАЛИ UA",jk_Lie_To_Me
-http://pl.online24.pm/play/50038/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50038/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_muhtesem" group-title="КІНОЗАЛИ UA",jk_Muhtesem
-http://pl.online24.pm/play/50039/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50039/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_van_dame" group-title="КІНОЗАЛИ UA",jk_Van_Dame
-http://pl.online24.pm/play/50040/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50040/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_sexsity" group-title="КІНОЗАЛИ UA",jk_sexsity
-http://pl.online24.pm/play/50041/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50041/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_desperate_ukr" group-title="КІНОЗАЛИ UA",jk_desperate_ukr
-http://pl.online24.pm/play/50042/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50042/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_colombo" group-title="КІНОЗАЛИ UA",jk_Colombo
-http://pl.online24.pm/play/50043/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50043/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_ben_holly" group-title="КІНОЗАЛИ UA",jk_Ben_Holly
-http://pl.online24.pm/play/50044/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50044/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_american_dad" group-title="КІНОЗАЛИ UA",jk_American_Dad
-http://pl.online24.pm/play/50045/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50045/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_gravity_falls" group-title="КІНОЗАЛИ UA",jk_Gravity_Falls
-http://pl.online24.pm/play/50046/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50046/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_grifins" group-title="КІНОЗАЛИ UA",jk_Grifins
-http://pl.online24.pm/play/50047/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50047/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_south_park" group-title="КІНОЗАЛИ UA",jk_South_Park
-http://pl.online24.pm/play/50048/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50048/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_pepa_pig" group-title="КІНОЗАЛИ UA",jk_Pepa_pig
-http://pl.online24.pm/play/50049/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50049/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_robocar_poli" group-title="КІНОЗАЛИ UA",jk_Robocar_Poli
-http://pl.online24.pm/play/50050/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50050/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_paw_patrol" group-title="КІНОЗАЛИ UA",jk_PAW_Patrol
-http://pl.online24.pm/play/50051/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50051/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_your_mother" group-title="КІНОЗАЛИ UA",jk_Your_mother
-http://pl.online24.pm/play/50052/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50052/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_big_bang" group-title="КІНОЗАЛИ UA",jk_Big_Bang
-http://pl.online24.pm/play/50053/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50053/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_cinema" group-title="КІНОЗАЛИ UA",jk_Cinema
-http://pl.online24.pm/play/50054/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50054/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_cinema2" group-title="КІНОЗАЛИ UA",jk_Cinema2
-http://pl.online24.pm/play/50055/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50055/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_cinema3" group-title="КІНОЗАЛИ UA",jk_Cinema3
-http://pl.online24.pm/play/50056/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50056/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_gorets" group-title="КІНОЗАЛИ UA",jk_gorets
-http://pl.online24.pm/play/50057/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50057/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_doku_ukraine" group-title="КІНОЗАЛИ UA",jk_doku_Ukraine
-http://pl.online24.pm/play/50058/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50058/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_serial" group-title="КІНОЗАЛИ UA",jk_serial
-http://pl.online24.pm/play/50059/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50059/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_magic" group-title="КІНОЗАЛИ UA",jk_Magic
-http://pl.online24.pm/play/50060/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50060/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_criminal" group-title="КІНОЗАЛИ UA",jk_Criminal
-http://pl.online24.pm/play/50061/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50061/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_90210" group-title="КІНОЗАЛИ UA",jk_90210
-http://pl.online24.pm/play/50062/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50062/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_rik_i_marti" group-title="КІНОЗАЛИ UA",jk_Rik_i_Marti
-http://pl.online24.pm/play/50063/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50063/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_mentalist" group-title="КІНОЗАЛИ UA",jk_mentalist
-http://pl.online24.pm/play/50064/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50064/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_dram" group-title="КІНОЗАЛИ UA",jk_dram
-http://pl.online24.pm/play/50065/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50065/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_fineas" group-title="КІНОЗАЛИ UA",jk_fineas
-http://pl.online24.pm/play/50066/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50066/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_ograblenie" group-title="КІНОЗАЛИ UA",jk_ograblenie
-http://pl.online24.pm/play/50067/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50067/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_strah" group-title="КІНОЗАЛИ UA",jk_strah
-http://pl.online24.pm/play/50068/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50068/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_sliders" group-title="КІНОЗАЛИ UA",jk_Sliders
-http://pl.online24.pm/play/50069/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50069/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_succession" group-title="КІНОЗАЛИ UA",jk_Succession
-http://pl.online24.pm/play/50070/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50070/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_korona" group-title="КІНОЗАЛИ UA",jk_korona
-http://pl.online24.pm/play/50071/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50071/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_money_heist" group-title="КІНОЗАЛИ UA",jk_Money_Heist
-http://pl.online24.pm/play/50072/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50072/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_lost" group-title="КІНОЗАЛИ UA",jk_lost
-http://pl.online24.pm/play/50073/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50073/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_office" group-title="КІНОЗАЛИ UA",jk_office
-http://pl.online24.pm/play/50074/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50074/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_scrubs" group-title="КІНОЗАЛИ UA",jk_Scrubs
-http://pl.online24.pm/play/50075/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50075/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_house_of_cards" group-title="КІНОЗАЛИ UA",jk_house_of_cards
-http://pl.online24.pm/play/50076/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50076/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_element" group-title="КІНОЗАЛИ UA",jk_element
-http://pl.online24.pm/play/50077/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50077/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_buffy" group-title="КІНОЗАЛИ UA",jk_Buffy
-http://pl.online24.pm/play/50078/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50078/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_melrose_place" group-title="КІНОЗАЛИ UA",jk_Melrose_Place
-http://pl.online24.pm/play/50079/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50079/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_black_mirror" group-title="КІНОЗАЛИ UA",jk_Black_Mirror
-http://pl.online24.pm/play/50080/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50080/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_stargate" group-title="КІНОЗАЛИ UA",jk_Stargate
-http://pl.online24.pm/play/50081/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50081/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_formula" group-title="КІНОЗАЛИ UA",jk_formula
-http://pl.online24.pm/play/50082/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50082/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_only_murders" group-title="КІНОЗАЛИ UA",jk_Only_Murders
-http://pl.online24.pm/play/50083/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50083/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_detektiv" group-title="КІНОЗАЛИ UA",jk_detektiv
-http://pl.online24.pm/play/50084/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50084/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_biograf" group-title="КІНОЗАЛИ UA",jk_biograf
-http://pl.online24.pm/play/50085/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50085/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_ncis" group-title="КІНОЗАЛИ UA",jk_NCIS
-http://pl.online24.pm/play/50086/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50086/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_speed" group-title="КІНОЗАЛИ UA",jk_speed
-http://pl.online24.pm/play/50087/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50087/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_call_saul" group-title="КІНОЗАЛИ UA",jk_Call_Saul
-http://pl.online24.pm/play/50088/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50088/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_dark" group-title="КІНОЗАЛИ UA",jk_dark
-http://pl.online24.pm/play/50089/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50089/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_heroes" group-title="КІНОЗАЛИ UA",jk_Heroes
-http://pl.online24.pm/play/50090/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50090/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_balance" group-title="КІНОЗАЛИ UA",jk_balance
-http://pl.online24.pm/play/50091/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50091/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_timon" group-title="КІНОЗАЛИ UA",jk_timon
-http://pl.online24.pm/play/50092/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50092/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_pingvins" group-title="КІНОЗАЛИ UA",jk_pingvins
-http://pl.online24.pm/play/50093/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50093/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_cartoon" group-title="КІНОЗАЛИ UA",jk_Cartoon
-http://pl.online24.pm/play/50094/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50094/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_flintstones" group-title="КІНОЗАЛИ UA",jk_Flintstones
-http://pl.online24.pm/play/50095/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50095/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_lilo" group-title="КІНОЗАЛИ UA",jk_Lilo
-http://pl.online24.pm/play/50096/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50096/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_rusaloshka" group-title="КІНОЗАЛИ UA",jk_rusaloshka
-http://pl.online24.pm/play/50097/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50097/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_aladin" group-title="КІНОЗАЛИ UA",jk_aladin
-http://pl.online24.pm/play/50098/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50098/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_chip_dale" group-title="КІНОЗАЛИ UA",jk_Chip_Dale
-http://pl.online24.pm/play/50099/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50099/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_arnold" group-title="КІНОЗАЛИ UA",jk_arnold
-http://pl.online24.pm/play/50100/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50100/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_tomjery" group-title="КІНОЗАЛИ UA",jk_TomJery
-http://pl.online24.pm/play/50101/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50101/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_winx" group-title="КІНОЗАЛИ UA",jk_Winx
-http://pl.online24.pm/play/50102/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50102/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_morning_show" group-title="КІНОЗАЛИ UA",jk_Morning_Show
-http://pl.online24.pm/play/50103/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50103/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_ritchie" group-title="КІНОЗАЛИ UA",jk_Ritchie
-http://pl.online24.pm/play/50104/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50104/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_scorsese" group-title="КІНОЗАЛИ UA",jk_Scorsese
-http://pl.online24.pm/play/50105/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50105/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_spilberg" group-title="КІНОЗАЛИ UA",jk_Spilberg
-http://pl.online24.pm/play/50106/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50106/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_kopola" group-title="КІНОЗАЛИ UA",jk_Kopola
-http://pl.online24.pm/play/50107/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50107/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_skott" group-title="КІНОЗАЛИ UA",jk_Skott
-http://pl.online24.pm/play/50108/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50108/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_tarantino" group-title="КІНОЗАЛИ UA",jk_Tarantino
-http://pl.online24.pm/play/50109/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50109/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_kameron" group-title="КІНОЗАЛИ UA",jk_Kameron
-http://pl.online24.pm/play/50110/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50110/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_besson" group-title="КІНОЗАЛИ UA",jk_Besson
-http://pl.online24.pm/play/50111/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50111/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_nolan" group-title="КІНОЗАЛИ UA",jk_Nolan
-http://pl.online24.pm/play/50112/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50112/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_relax" group-title="КІНОЗАЛИ UA",jk_relax
-http://pl.online24.pm/play/50113/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50113/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_king" group-title="КІНОЗАЛИ UA",jk_King
-http://pl.online24.pm/play/50114/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50114/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_crowe" group-title="КІНОЗАЛИ UA",jk_Crowe
-http://pl.online24.pm/play/50115/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50115/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_reeves" group-title="КІНОЗАЛИ UA",jk_Reeves
-http://pl.online24.pm/play/50116/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50116/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_hemsworth" group-title="КІНОЗАЛИ UA",jk_Hemsworth
-http://pl.online24.pm/play/50117/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50117/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_butler" group-title="КІНОЗАЛИ UA",jk_Butler
-http://pl.online24.pm/play/50118/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50118/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_kunis" group-title="КІНОЗАЛИ UA",jk_Kunis
-http://pl.online24.pm/play/50119/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50119/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_neeson" group-title="КІНОЗАЛИ UA",jk_Neeson
-http://pl.online24.pm/play/50120/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50120/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_scorpion" group-title="КІНОЗАЛИ UA",jk_Scorpion
-http://pl.online24.pm/play/50122/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50122/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_duva" group-title="КІНОЗАЛИ UA",jk_duva
-http://pl.online24.pm/play/50123/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50123/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_emeli" group-title="КІНОЗАЛИ UA",jk_Emeli
-http://pl.online24.pm/play/50124/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50124/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-name="jk_rizdvo" group-title="КІНОЗАЛИ UA",jk_rizdvo
-http://pl.online24.pm/play/50125/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/50125/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 group-title="Usba TV",Украина
 https://fl1001.bozztv.com/ushba5/tracks-v1a1/mono.m3u8
@@ -1008,155 +1008,263 @@ https://fl1001.bozztv.com/ushba42/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Usba TV",Музыка Рок
 https://fl1001.bozztv.com/ushba-m2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV Кінозал" tvg-id="bear_tv_kinozal",Bear TV Кінозал
-http://bear-tv.net:2095/bear_tv_kinozal/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",Хит HD
+http://91.204.123.202:80/363/index.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV Світ Кіно" tvg-id="bear_tv_svit_kino",Bear TV Світ Кіно
-http://bear-tv.net:2095/bear_tv_svit_kino/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",Еврокино
+http://91.204.123.202:80/385/index.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV КіноМікс" tvg-id="bear_tv_kinomiks",Bear TV КіноМікс
-http://bear-tv.net:2095/bear_tv_kinomiks/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",Fan
+http://91.204.123.202:80/420/index.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV Фільмовий День" tvg-id="bear_tv_filmovyy_den",Bear TV Фільмовий День
-http://bear-tv.net:2095/bear_tv_filmovyy_den/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",Премиальное
+http://91.204.123.202:80/421/index.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV Вечірнє Кіно" tvg-id="bear_tv_vechirnye_kino",Bear TV Вечірнє Кіно
-http://bear-tv.net:2095/bear_tv_vechirnye_kino/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",Fresh Rating
+http://91.204.123.202:80/422/index.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV Нічний Сеанс" tvg-id="bear_tv_nichnyy_seans",Bear TV Нічний Сеанс
-http://bear-tv.net:2095/bear_tv_nichnyy_seans/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",Fresh Cinema
+http://91.204.123.202:80/423/index.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV КіноХвиля" tvg-id="bear_tv_kinohvylya",Bear TV КіноХвиля
-http://bear-tv.net:2095/bear_tv_kinohvylya/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",Fresh Premiere
+http://91.204.123.202:80/424/index.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV Великий Екран" tvg-id="bear_tv_velykyy_ekran",Bear TV Великий Екран
-http://bear-tv.net:2095/bear_tv_velykyy_ekran/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",Fresh Kids
+http://91.204.123.202:80/425/index.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV Золота Колекція" tvg-id="bear_tv_zolota_kolektsiya",Bear TV Золота Колекція
-http://bear-tv.net:2095/bear_tv_zolota_kolektsiya/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",Fresh Comedy
+http://91.204.123.202:80/426/index.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV Прем’єра" tvg-id="bear_tv_prem_yera",Bear TV Прем’єра
-http://bear-tv.net:2095/bear_tv_prem_yera/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",Fresh Family
+http://91.204.123.202:80/427/index.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV КіноНастрій" tvg-id="bear_tv_kinonastriy",Bear TV КіноНастрій
-http://bear-tv.net:2095/bear_tv_kinonastriy/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",Fresh VHS
+http://91.204.123.202:80/428/index.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV Український Сеанс" tvg-id="bear_tv_ukrayinskyy_seans",Bear TV Український Сеанс
-http://bear-tv.net:2095/bear_tv_ukrayinskyy_seans/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",Fresh Fantastic
+http://91.204.123.202:80/429/index.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV Фільми 24" tvg-id="bear_tv_filmy_24",Bear TV Фільми 24
-http://bear-tv.net:2095/bear_tv_filmy_24/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",Fresh Series
+http://91.204.123.202:80/430/index.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV КіноКлуб" tvg-id="bear_tv_kinoklub",Bear TV КіноКлуб
-http://bear-tv.net:2095/bear_tv_kinoklub/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",Fresh Horror
+http://91.204.123.202:80/431/index.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV Домашній Кінозал" tvg-id="bear_tv_domashniy_kinozal",Bear TV Домашній Кінозал
-http://bear-tv.net:2095/bear_tv_domashniy_kinozal/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",Fresh Adventure
+http://91.204.123.202:80/432/index.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV Сімейний Вечір" tvg-id="bear_tv_simeynyy_vechir",Bear TV Сімейний Вечір
-http://bear-tv.net:2095/bear_tv_simeynyy_vechir/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",Fresh Romantic
+http://91.204.123.202:80/433/index.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV КіноПлюс" tvg-id="bear_tv_kinoplyus",Bear TV КіноПлюс
-http://bear-tv.net:2095/bear_tv_kinoplyus/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",Fresh Thriller
+http://91.204.123.202:80/434/index.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV Хіт Фільм" tvg-id="bear_tv_hit_film",Bear TV Хіт Фільм
-http://bear-tv.net:2095/bear_tv_hit_film/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",CineMan Катастрофы
+http://91.204.123.202:80/471/index.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV Легенди Кіно" tvg-id="bear_tv_legendy_kino",Bear TV Легенди Кіно
-http://bear-tv.net:2095/bear_tv_legendy_kino/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",CineMan Мелодрама
+http://91.204.123.202:80/472/index.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV Добірка Фільмів" tvg-id="bear_tv_dobirka_filmiv",Bear TV Добірка Фільмів
-http://bear-tv.net:2095/bear_tv_dobirka_filmiv/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",CineMan VHS
+http://91.204.123.202:80/474/index.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV КіноСвіт" tvg-id="bear_tv_kinosvit",Bear TV КіноСвіт
-http://bear-tv.net:2095/bear_tv_kinosvit/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",CineMan Cartoons Big
+http://91.204.123.202:80/348/index.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV Movie UA" tvg-id="bear_tv_movie_ua",Bear TV Movie UA
-http://bear-tv.net:2095/bear_tv_movie_ua/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",CineMan MiniSeries
+http://91.204.123.202:80/122/index.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV Вибір Глядача" tvg-id="bear_tv_vybir_glyadacha",Bear TV Вибір Глядача
-http://bear-tv.net:2095/bear_tv_vybir_glyadacha/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",CineMan
+http://91.204.123.202:80/349/index.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV КіноТайм" tvg-id="bear_tv_kinotaym",Bear TV КіноТайм
-http://bear-tv.net:2095/bear_tv_kinotaym/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",CineMan Top
+http://91.204.123.202:80/350/index.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV Фільм за Фільмом" tvg-id="bear_tv_film_za_filmom",Bear TV Фільм за Фільмом
-http://bear-tv.net:2095/bear_tv_film_za_filmom/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",CineMan Cartoons Short
+http://91.204.123.202:80/347/index.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV Сеанс 24" tvg-id="bear_tv_seans_24",Bear TV Сеанс 24
-http://bear-tv.net:2095/bear_tv_seans_24/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",CineMan Action
+http://91.204.123.202:80/351/index.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV КіноПотік" tvg-id="bear_tv_kinopotik",Bear TV КіноПотік
-http://bear-tv.net:2095/bear_tv_kinopotik/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",CineMan Thriller
+http://91.204.123.202:80/352/index.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV КіноЛінія" tvg-id="bear_tv_kinoliniya",Bear TV КіноЛінія
-http://bear-tv.net:2095/bear_tv_kinoliniya/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",CineMan Marvel
+http://91.204.123.202:80/354/index.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV МегаФільм" tvg-id="bear_tv_megafilm",Bear TV МегаФільм
-http://bear-tv.net:2095/bear_tv_megafilm/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",CineMan Ужасы
+http://91.204.123.202:80/355/index.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV Топ Кіно" tvg-id="bear_tv_top_kino",Bear TV Топ Кіно
-http://bear-tv.net:2095/bear_tv_top_kino/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",CineMan Комедия
+http://91.204.123.202:80/356/index.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV КіноБезПерерви" tvg-id="bear_tv_kinobezperervy",Bear TV КіноБезПерерви
-http://bear-tv.net:2095/bear_tv_kinobezperervy/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",CineMan Сваты
+http://91.204.123.202:80/359/index.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV Улюблені Фільми" tvg-id="bear_tv_ulyubleni_filmy",Bear TV Улюблені Фільми
-http://bear-tv.net:2095/bear_tv_ulyubleni_filmy/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",CineMan Симпсоны
+http://91.204.123.202:80/476/index.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV Кіновечір" tvg-id="bear_tv_kinovechir",Bear TV Кіновечір
-http://bear-tv.net:2095/bear_tv_kinovechir/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",CineMan Ментовские войны
+http://91.204.123.202:80/477/index.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV Фільмовий Мікс" tvg-id="bear_tv_filmovyy_miks",Bear TV Фільмовий Мікс
-http://bear-tv.net:2095/bear_tv_filmovyy_miks/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",CineMan Cartoons 90
+http://91.204.123.202:80/484/index.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV КіноАтмосфера" tvg-id="bear_tv_kinoatmosfera",Bear TV КіноАтмосфера
-http://bear-tv.net:2095/bear_tv_kinoatmosfera/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",CineMan Лесник
+http://91.204.123.202:80/115/index.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV КіноПланета" tvg-id="bear_tv_kinoplaneta",Bear TV КіноПланета
-http://bear-tv.net:2095/bear_tv_kinoplaneta/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",CineMan Скорая Помощь
+http://91.204.123.202:80/475/index.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV Велике Кіно" tvg-id="bear_tv_velyke_kino",Bear TV Велике Кіно
-http://bear-tv.net:2095/bear_tv_velyke_kino/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",BCU СССР HD
+http://91.204.123.202:80/488/index.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV КіноКолекція" tvg-id="bear_tv_kinokolektsiya",Bear TV КіноКолекція
-http://bear-tv.net:2095/bear_tv_kinokolektsiya/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",Моя стихия
+http://91.204.123.202:80/141/index.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV ФільмМанія" tvg-id="bear_tv_filmmaniya",Bear TV ФільмМанія
-http://bear-tv.net:2095/bear_tv_filmmaniya/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",Живая природа
+http://91.204.123.202:80/83/index.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV КіноМарафон" tvg-id="bear_tv_kinomarafon",Bear TV КіноМарафон
-http://bear-tv.net:2095/bear_tv_kinomarafon/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",National Geographic
+http://91.204.123.202:80/116/index.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV Мультзал" tvg-id="bear_tv_mult_zal",Bear TV Мультзал
-http://bear-tv.net:2095/bear_tv_mult_zal/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",RTG HD
+http://91.204.123.202:80/164/index.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV Мультики 24" tvg-id="bear_tv_mult_24",Bear TV Мультики 24
-http://bear-tv.net:2095/bear_tv_mult_24/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",Охотник и рыболов
+http://91.204.123.202:80/194/index.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV Дитячий Світ" tvg-id="bear_tv_mult_dytyachyy_svit",Bear TV Дитячий Світ
-http://bear-tv.net:2095/bear_tv_mult_dytyachyy_svit/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",Охота и рыбалка
+http://91.204.123.202:80/155/index.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV МультСвіт" tvg-id="bear_tv_mult_svit",Bear TV МультСвіт
-http://bear-tv.net:2095/bear_tv_mult_svit/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",Точка
+http://91.204.123.202:80/161/index.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV Анімація" tvg-id="bear_tv_mult_animatsiya",Bear TV Анімація
-http://bear-tv.net:2095/bear_tv_mult_animatsiya/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",Живая природа
+http://91.204.123.202:80/225/index.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV МультМікс" tvg-id="bear_tv_mult_miks",Bear TV МультМікс
-http://bear-tv.net:2095/bear_tv_mult_miks/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",Дикая охота
+http://91.204.123.202:80/274/index.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV Малий Екран" tvg-id="bear_tv_mult_malyy_ekran",Bear TV Малий Екран
-http://bear-tv.net:2095/bear_tv_mult_malyy_ekran/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",Инсайт ТВ UHD
+http://91.204.123.202:80/361/index.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV Сімейні Мульти" tvg-id="bear_tv_mult_simeyni",Bear TV Сімейні Мульти
-http://bear-tv.net:2095/bear_tv_mult_simeyni/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",Нано ТВ
+http://91.204.123.202:80/419/index.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV Kids Кіно" tvg-id="bear_tv_mult_kids_kino",Bear TV Kids Кіно
-http://bear-tv.net:2095/bear_tv_mult_kids_kino/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",Investigation Discovery
+http://91.204.123.202:80/205/index.m3u8
 
-#EXTINF:-1 group-title="Bear TV" tvg-name="Bear TV МультХіт" tvg-id="bear_tv_mult_hit",Bear TV МультХіт
-http://bear-tv.net:2095/bear_tv_mult_hit/video.m3u8?token=@beartvmove
+#EXTINF:-1 group-title="VIP TEST ",КТК
+http://91.204.123.202:80/26/index.m3u8
+
+#EXTINF:-1 group-title="VIP TEST ",Седьмой канал KZ
+http://91.204.123.202:80/27/index.m3u8
+
+#EXTINF:-1 group-title="VIP TEST ",Комедия
+http://91.204.123.202:80/68/index.m3u8
+
+#EXTINF:-1 group-title="VIP TEST ",Авто 24
+http://91.204.123.202:80/78/index.m3u8
+
+#EXTINF:-1 group-title="VIP TEST ",Start air
+http://91.204.123.202:80/128/index.m3u8
+
+#EXTINF:-1 group-title="VIP TEST ",Fox Life
+http://91.204.123.202:80/129/index.m3u8
+
+#EXTINF:-1 group-title="VIP TEST ",СТС
+http://91.204.123.202:80/138/index.m3u8
+
+#EXTINF:-1 group-title="VIP TEST ",Amedia Hit
+http://91.204.123.202:80/162/index.m3u8
+
+#EXTINF:-1 group-title="VIP TEST ",Fox
+http://91.204.123.202:80/182/index.m3u8
+
+#EXTINF:-1 group-title="VIP TEST ",СТС Love
+http://91.204.123.202:80/183/index.m3u8
+
+#EXTINF:-1 group-title="VIP TEST ",Авто Плюс
+http://91.204.123.202:80/186/index.m3u8
+
+#EXTINF:-1 group-title="VIP TEST ",2x2
+http://91.204.123.202:80/187/index.m3u8
+
+#EXTINF:-1 group-title="VIP TEST ",Ретро
+http://91.204.123.202:80/191/index.m3u8
+
+#EXTINF:-1 group-title="VIP TEST ",Бестселлер
+http://91.204.123.202:80/208/index.m3u8
+
+#EXTINF:-1 group-title="VIP TEST ",Детектив
+http://91.204.123.202:80/204/index.m3u8
+
+#EXTINF:-1 group-title="VIP TEST ",Роман
+http://91.204.123.202:80/266/index.m3u8
+
+#EXTINF:-1 group-title="VIP TEST ",Усадьба
+http://91.204.123.202:80/211/index.m3u8
+
+#EXTINF:-1 group-title="VIP TEST ",Relax
+http://91.204.123.202:80/459/index.m3u8
+
+#EXTINF:-1 group-title="VIP TEST ",Наше HD
+http://91.204.123.202:80/217/index.m3u8
+
+#EXTINF:-1 group-title="VIP TEST ",НТК
+http://91.204.123.202:80/389/index.m3u8
+
+#EXTINF:-1 group-title="VIP TEST ",Ю
+http://91.204.123.202:80/230/index.m3u8
+
+#EXTINF:-1 group-title="VIP TEST ",.Black
+http://91.204.123.202:80/263/index.m3u8
+
+#EXTINF:-1 group-title="VIP TEST ",Рыболов
+http://91.204.123.202:80/264/index.m3u8
+
+#EXTINF:-1 group-title="VIP TEST ",Nickelodeon
+http://91.204.123.202:80/443/index.m3u8
+
+#EXTINF:-1 group-title="VIP TEST ",Мама
+http://91.204.123.202:80/79/index.m3u8
+
+#EXTINF:-1 group-title="VIP TEST ",Карусель
+http://91.204.123.202:80/120/index.m3u8
+
+#EXTINF:-1 group-title="VIP TEST ",О!
+http://91.204.123.202:80/60/index.m3u8
+
+#EXTINF:-1 group-title="VIP TEST ",Солнце
+http://91.204.123.202:80/118/index.m3u8
+
+#EXTINF:-1 group-title="VIP TEST ",JimJam
+http://91.204.123.202:80/150/index.m3u8
+
+#EXTINF:-1 group-title="VIP TEST ",KHL Prime
+http://91.204.123.202:80/178/index.m3u8
+
+#EXTINF:-1 group-title="VIP TEST ",Qazsport
+http://91.204.123.202:80/72/index.m3u8
+
+#EXTINF:-1 group-title="VIP TEST ",Матч HD
+http://91.204.123.202:80/169/index.m3u8
+
+#EXTINF:-1 group-title="VIP TEST ",Беларусь 5
+http://91.204.123.202:80/33/index.m3u8
+
+#EXTINF:-1 group-title="VIP TEST ",Матч! Арена
+http://91.204.123.202:80/163/index.m3u8
+
+#EXTINF:-1 group-title="VIP TEST ",Матч! Футбол 3 HD
+http://91.204.123.202:80/185/index.m3u8
+
+#EXTINF:-1 group-title="VIP TEST ",Setanta Sports 2
+http://91.204.123.202:80/235/index.m3u8
+
+#EXTINF:-1 group-title="VIP TEST ",Viasat Sport
+http://91.204.123.202:80/333/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/6ikxp06v3c6e03g/RO$TIK_TV.jpg" group-title="КІНО📽",RO$TIK TV MIX HD [TEST]
 
@@ -2308,16 +2416,11 @@ http://de.russkoe-iptv.com:8080/s/rcy9uell/mosfilm-hd-orig.m3u8
 #EXTINF:-1 group-title="КІНОКЛАСИКА🎥",Время [R]
 http://31.148.48.15:80/Vremya/index.m3u8?token=rostik_tv
 
-#EXTINF:-1 group-title="СПОРТ ⚽",BETKING HD
-http://c.velestore.su:8880/bal_c18l8u2d4f9l1a3r7e18/08946909/video.m3u8?token=QnVrb3ZpbmF8fE56TXdNelk1T0RVPQ==
-
-#EXTINF:-1 group-title="СПОРТ ⚽",BETKING 2 HD
-http://c.velestore.su:8880/bal_c18l8u2d4f9l1a3r7e18/08946929/video.m3u8?token=QnVrb3ZpbmF8fE56TXdNelk1T0RVPQ==
-
 #EXTINF:-1 group-title="СПОРТ ⚽",MEGOGO Спорт HD
-http://pl.online24.pm/play/1001/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/1001/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",MEGOGO Спорт FHD
+http://5.188.159.128:8070/megogo_sport/index.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",MEGOGO Спорт HD
 http://newsr1.roshen.live:8080/vAu5sUNHz3/tracks-v1a1/mono.m3u8?token=XSOdznpeFPEURAYS
@@ -2326,44 +2429,44 @@ http://newsr1.roshen.live:8080/vAu5sUNHz3/tracks-v1a1/mono.m3u8?token=XSOdznpeFP
 http://eqatmiyg.megogo.xyz/iptv/VGWB9P9PSCG8HS/31483/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="MEGOGO 1 HD" tvg-logo="https://lk.filmax-tv.ru/images/logo/1254.png" group-title="СПОРТ ⚽",MEGOGO 1  Live HD
-http://pl.seetv.cc/play/1002/FE3E3EDFFB26784/video.m3u8
+http://pl.seetv.cc/play/1002/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="MEGOGO 1 HD" tvg-logo="https://lk.filmax-tv.ru/images/logo/1256.png" group-title="СПОРТ ⚽",MEGOGO 2 HD
 http://eqatmiyg.megogo.xyz/iptv/EDK4ZVBNNRYT9Z/31505/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="MEGOGO 1 HD" tvg-logo="https://lk.filmax-tv.ru/images/logo/1254.png" group-title="СПОРТ ⚽",MEGOGO 2 Live HD
-http://pl.seetv.cc/play/999/FE3E3EDFFB26784/video.m3u8
+http://pl.seetv.cc/play/999/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="MEGOGO 1 HD" tvg-logo="https://lk.filmax-tv.ru/images/logo/1258.png" group-title="СПОРТ ⚽",MEGOGO 3 HD
 http://eqatmiyg.megogo.xyz/iptv/VEXVELA6Z7PXH6/31504/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="MEGOGO 1 HD" tvg-logo="https://lk.filmax-tv.ru/images/logo/1258.png" group-title="СПОРТ ⚽",MEGOGO 3 Live HD
-http://pl.seetv.cc/play/996/FE3E3EDFFB26784/video.m3u8
+http://pl.seetv.cc/play/996/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",MEGOGO Гонг HD
 
 #EXTINF:-1 group-title="СПОРТ ⚽",MEGOGO Гонг FHD
-http://pl.seetv.cc/play/10012/FE3E3EDFFB26784/video.m3u8
+http://pl.seetv.cc/play/10012/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",UPL.TV HD
-http://pl.online24.pm/play/523/FE3E3EDFFB26784/video.m3u8
+http://pl.online24.pm/play/523/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",UPL.TV FHD
 http://newsr1.roshen.live:8080/oPKOjSfrTN/tracks-v1a1/mono.m3u8?token=XSOdznpeFPEURAYS
 
 #EXTINF:-1 tvg-id="Xupltv1" tvg-name="упл тв 1" tvg-logo="https://ip-tv.dev/images/ico/upltv1.png" group-title="СПОРТ ⚽",УПЛ ТВ 1
-http://pl.seetv.cc/play/524/FE3E3EDFFB26784/video.m3u8
+http://pl.seetv.cc/play/524/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-id="Xupltv1" tvg-name="упл тв 2" tvg-logo="https://ip-tv.dev/images/ico/upltv2.png" group-title="СПОРТ ⚽",УПЛ ТВ 2
-http://pl.seetv.cc/play/525/FE3E3EDFFB26784/video.m3u8
+http://pl.seetv.cc/play/525/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-id="Xupltv1" tvg-name="упл тв 3" tvg-logo="https://ip-tv.dev/images/ico/upltv3.png" group-title="СПОРТ ⚽",УПЛ ТВ 3
-http://pl.seetv.cc/play/526/FE3E3EDFFB26784/video.m3u8
+http://pl.seetv.cc/play/526/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-id="Xupltv4" tvg-name="упл тв 4" tvg-logo="https://ip-tv.dev/images/ico/upl.png" group-title="СПОРТ ⚽",Football Live
 
 #EXTINF:-1 tvg-id="7539" tvg-logo="http://epg.one/img2/7539.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 1 HD
-http://de.seetv.cc/play/5009/FE3E3EDFFB26784/video.m3u8
+http://de.seetv.cc/play/5009/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-id="7539" tvg-logo="http://epg.one/img2/7539.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 1
 http://c.velestore.su:8880/bal_c18l8u2d4f9l1a3r7e18/08946906/video.m3u8?token=QnVrb3ZpbmF8fE56TXdNelk1T0RVPQ==
@@ -2372,40 +2475,40 @@ http://c.velestore.su:8880/bal_c18l8u2d4f9l1a3r7e18/08946906/video.m3u8?token=Qn
 http://c.velestore.su:8880/bal_c18l8u2d4f9l1a3r7e18/08946907/video.m3u8?token=QnVrb3ZpbmF8fE56TXdNelk1T0RVPQ==
 
 #EXTINF:-1 tvg-id="7540" tvg-logo="http://epg.one/img2/7540.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 2 HD
-http://de.seetv.cc/play/5010/FE3E3EDFFB26784/video.m3u8
+http://de.seetv.cc/play/5010/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-id="7541" tvg-logo="http://epg.one/img2/7541.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 3
 http://c.velestore.su:8880/bal_c18l8u2d4f9l1a3r7e18/08946908/video.m3u8?token=QnVrb3ZpbmF8fE56TXdNelk1T0RVPQ==
 
 #EXTINF:-1 tvg-id="7541" tvg-logo="http://epg.one/img2/7541.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 3 HD
-http://de.seetv.cc/play/5011/FE3E3EDFFB26784/video.m3u8
+http://de.seetv.cc/play/5011/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-id="7542" tvg-logo="http://epg.one/img2/7542.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 4
 http://vp4hcjiv.rostelekom.xyz/iptv/CTHKNGFSE8DXT3/20105/index.m3u8
 
 #EXTINF:-1 tvg-id="7543" tvg-logo="http://epg.one/img2/7543.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 4 HD
-http://pl.seetv.cc/play/5012/FE3E3EDFFB26784/video.m3u8
+http://pl.seetv.cc/play/5012/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-id="7543" tvg-logo="http://epg.one/img2/7543.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 5
 http://c.velestore.su:8880/bal_c18l8u2d4f9l1a3r7e18/08946910/video.m3u8?token=QnVrb3ZpbmF8fE56TXdNelk1T0RVPQ==
 
 #EXTINF:-1 tvg-id="7543" tvg-logo="http://epg.one/img2/7543.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 5 HD
-http://de.seetv.cc/play/5013/FE3E3EDFFB26784/video.m3u8
+http://de.seetv.cc/play/5013/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-id="7544" tvg-logo="http://epg.one/img2/7544.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 6
 http://vp4hcjiv.rostelekom.xyz/iptv/ZPXPMR8ASF6NPN/20107/index.m3u8
 
 #EXTINF:-1 tvg-id="7543" tvg-logo="http://epg.one/img2/7543.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 6 HD
-http://de.seetv.cc/play/5014/FE3E3EDFFB26784/video.m3u8
+http://de.seetv.cc/play/5014/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-id="7547" tvg-logo="http://epg.one/img2/7547.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 7
 http://vp4hcjiv.rostelekom.xyz/iptv/AVNFCNQBEC9VQU/20108/index.m3u8
 
 #EXTINF:-1 tvg-id="7543" tvg-logo="http://epg.one/img2/7543.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 7 HD
-http://de.seetv.cc/play/5015/FE3E3EDFFB26784/video.m3u8
+http://de.seetv.cc/play/5015/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-id="7543" tvg-logo="http://epg.one/img2/7543.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 8 HD
-http://de.seetv.cc/play/5016/FE3E3EDFFB26784/video.m3u8
+http://de.seetv.cc/play/5016/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",ViP Sport 8 FHD [Ukr]
 http://c.velestore.su:8880/bal_c18l8u2d4f9l1a3r7e18/08946913/video.m3u8?token=QnVrb3ZpbmF8fE56TXdNelk1T0RVPQ==
@@ -2414,16 +2517,16 @@ http://c.velestore.su:8880/bal_c18l8u2d4f9l1a3r7e18/08946913/video.m3u8?token=Qn
 .png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 9 HD
 
 #EXTINF:-1 tvg-id="7543" tvg-logo="http://epg.one/img2/7543.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 10 HD
-http://de.seetv.cc/play/5018/FE3E3EDFFB26784/video.m3u8
+http://de.seetv.cc/play/5018/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-id="7543" tvg-logo="http://epg.one/img2/7543.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 11 HD
-http://de.seetv.cc/play/5019/FE3E3EDFFB26784/video.m3u8
+http://de.seetv.cc/play/5019/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-id="7543" tvg-logo="http://epg.one/img2/7543.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 12 HD
-http://de.seetv.cc/play/5020/FE3E3EDFFB26784/video.m3u8
+http://de.seetv.cc/play/5020/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-id="7543" tvg-logo="http://epg.one/img2/7543.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",ViP Sport 13 HD
-http://de.seetv.cc/play/5021/FE3E3EDFFB26784/video.m3u8
+http://de.seetv.cc/play/5021/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",Arxi Sport
 
@@ -2431,19 +2534,19 @@ http://de.seetv.cc/play/5021/FE3E3EDFFB26784/video.m3u8
 http://de.russkoe-iptv.com:8080/s/rcy9uell/suspilne-sport-ua-hd-orig.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",Суспільне Спорт HD
-http://ru.seetv.cc/play/316/FE3E3EDFFB26784/video.m3u8
+http://ru.seetv.cc/play/316/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",DiviSport HD
-http://ru.seetv.cc/play/315/FE3E3EDFFB26784/video.m3u8
+http://ru.seetv.cc/play/315/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",DiviSport FHD
 https://vcdn.produck.company/out/ngrp:divisport_all/playlist.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",Equalympic HD
-http://pl.seetv.cc/play/8788/FE3E3EDFFB26784/video.m3u8
+http://pl.seetv.cc/play/8788/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",Dynamo Kyiv TV HD
-http://ru.seetv.cc/play/8797/FE3E3EDFFB26784/video.m3u8
+http://ru.seetv.cc/play/8797/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",FightBox HD
 
@@ -2462,7 +2565,7 @@ http://de.russkoe-iptv.com:8080/s/rcy9uell/okko-sport-hd.m3u8
 #EXTINF:-1 group-title="СПОРТ ⚽",Xsport+
 
 #EXTINF:-1 group-title="СПОРТ ⚽",XSPORT+ HD
-http://de.seetv.cc/play/2635/FE3E3EDFFB26784/video.m3u8
+http://de.seetv.cc/play/2635/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",Xsport HD
 
@@ -2472,7 +2575,7 @@ http://de.seetv.cc/play/2635/FE3E3EDFFB26784/video.m3u8
 http://live-3.otcnet.ru/sportivny/index.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",Спортивный HD
-http://de.online24.pm/play/6159/FE3E3EDFFB26784/video.m3u8
+http://de.online24.pm/play/6159/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",Футбольный HD
 
@@ -2526,14 +2629,14 @@ http://lua.ath.cx:2600/live/setantasportshdua/index.m3u8?token=510f8e0f42ba98ca9
 http://178.63.98.119:8000/play/a01m/index.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",Setanta Sports Premium HD
-http://pl.seetv.cc/play/1650/FE3E3EDFFB26784/video.m3u8
+http://pl.seetv.cc/play/1650/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-id="6860" tvg-logo="http://epg.one/img2/6860.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",Setanta Ukraine Plus HD
 
 #EXTINF:-1 group-title="СПОРТ ⚽",Setanta Sports 1
 
 #EXTINF:-1 group-title="СПОРТ ⚽",Setanta Sports 1 HD
-http://pl.seetv.cc/play/942/FE3E3EDFFB26784/video.m3u8
+http://pl.seetv.cc/play/942/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-id="setanta-sport-hd-orig" tvg-logo="http://static.g-cdn.app/streams/setanta-sport-hd-orig.png" tvg-rec="1" catchup_days="7" group-title="СПОРТ ⚽",Setanta Sports 1 FHD
 http://runner.webhop.info:2500/live/setantaplushd?token=510f8e0f42ba98ca9127a58d72addafd
@@ -2544,7 +2647,7 @@ http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529593&extensi
 #EXTINF:-1 group-title="СПОРТ ⚽",Setanta Sports 2
 
 #EXTINF:-1 group-title="СПОРТ ⚽",Setanta Sports 2 HD
-http://pl.seetv.cc/play/943/FE3E3EDFFB26784/video.m3u8
+http://pl.seetv.cc/play/943/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-id="setanta-sport-plus-hd-orig" tvg-logo="http://static.g-cdn.app/streams/setanta-sport-plus-hd-orig.png" tvg-rec="1" catchup_days="7" group-title="СПОРТ ⚽",Setanta Sports 2 HD
 http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529594&extension=ts
@@ -2845,6 +2948,7 @@ http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15925.ts
 #EXTINF:-1 tvg-name="hr: sport klub 5 fhd" group-title="СПОРТ ⚽",Arena Sport 2 Premium HD
 
 #EXTINF:-1 tvg-name="hr: sport klub 5 fhd" group-title="СПОРТ ⚽",TVP Sport HD
+http://91.246.72.88:8000/play/a00p/index.m3u8
 
 #EXTINF:-1 tvg-name="hr: sport klub 1 fhd" group-title="СПОРТ ⚽",Sport Klub 1
 
