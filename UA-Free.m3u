@@ -26,8 +26,6 @@ http://newsr1.roshen.live:8080/gIwnH2gybp/video.m3u8?token=XSOdznpeFPEURAYS
 https://ext.cdn.nashnet.tv/228.0.0.191/index.m3u8
 #EXTINF:-1 group-title="UA", ESPRESOTV_HD
 https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8
-#EXTINF:-1 group-title="UA", ІНТЕР +
-http://newsr1.roshen.live:8080/XhoSJiQlaI/video.m3u8?token=XSOdznpeFPEURAYS
 #EXTINF:-1 group-title="UA", UA:ПЕРШИЙ
 https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
 #EXTINF:-1 group-title="UA", UA:ПЕРШИЙ
@@ -122,8 +120,6 @@ http://46.32.176.50/animalplanet/index.m3u8
 https://stream8.cinerama.uz/1043/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="COGNITIVE", ANIMAL PLANET HD
 http://46.32.176.50/AnimalPlanetHD/index.m3u8
-#EXTINF:-1 group-title="COGNITIVE", DISCOVERY
-https://stream8.cinerama.uz/1039/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="COGNITIVE", NATIONAL GEOGRAPHIC
 https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="COGNITIVE", NAT GEO WILD
@@ -176,6 +172,28 @@ http://iptv.prosto.tv:7000/ch313/video.m3u8?secret=cledwwov
 https://vcdn.produck.company/out/ngrp:divisport_all/playlist.m3u8
 #EXTINF:-1 group-title="SPORT", СУСПІЛЬНЕ KIEV СПОРТ HD
 https://tva.in.ua/live/susp-sport.m3u8?key=fas-tv.com
+#EXTINF:-1 group-title="SPORT", EUROSPORT 1
+http://sub.bentv.xyz:8080/VzGH6Qgece/qv798TRy64/438238
+#EXTINF:-1 group-title="SPORT", EUROSPORT 2
+http://sub.bentv.xyz:8080/VzGH6Qgece/qv798TRy64/438235
+#EXTINF:-1 group-title="SPORT", ORF SPORT+
+http://sub.bentv.xyz:8080/VzGH6Qgece/qv798TRy64/438226
+#EXTINF:-1 group-title="SPORT", SPORT1
+http://sub.bentv.xyz:8080/VzGH6Qgece/qv798TRy64/438232
+#EXTINF:-1 group-title="SPORT", SKY BUNDESLIGA
+http://sub.bentv.xyz:8080/VzGH6Qgece/qv798TRy64/432014
+#EXTINF:-1 group-title="SPORT", AMAZON PRIME SPORT
+http://sub.bentv.xyz:8080/VzGH6Qgece/qv798TRy64/841369
+#EXTINF:-1 group-title="SPORT", DAZN SPORT 1
+http://sub.bentv.xyz:8080/VzGH6Qgece/qv798TRy64/438277
+#EXTINF:-1 group-title="SPORT", DAZN SPORT 2
+http://sub.bentv.xyz:8080/VzGH6Qgece/qv798TRy64/438272
+#EXTINF:-1 group-title="SPORT", DAZN BOXING TV
+http://sub.bentv.xyz:8080/VzGH6Qgece/qv798TRy64/781654
+#EXTINF:-1 group-title="SPORT", DAZN 1
+http://sub.bentv.xyz:8080/VzGH6Qgece/qv798TRy64/816196
+#EXTINF:-1 group-title="SPORT", DAZN 2
+http://sub.bentv.xyz:8080/VzGH6Qgece/qv798TRy64/816192
 #EXTINF:-1 group-title="SPORT", SKY SPORT MIX
 http://ua.online24.pm/play/745/37C481E09158DA0/video.m3u8
 #EXTINF:-1 group-title="SPORT", SKY SPORT PREMIER LEAGUE
