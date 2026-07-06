@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz" m3uautoload=1 cache=1000 aspect-ratio=16:9 deinterlace=1
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/rgk12fsehruttv6/update.png" group-title="INFO",🇺🇦 ОНОВЛЕНО 20.06.2026 🇺🇦
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/rgk12fsehruttv6/update.png" group-title="INFO",🇺🇦 ОНОВЛЕНО 6.07.2026 🇺🇦
 https://dl.dropbox.com/s/5o2opblp9lqjda1/KAROL&SANINA-VILNA.mp3
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/6ikxp06v3c6e03g/RO$TIK_TV.jpg" group-title="INFO",🇺🇦TELEGRAM @ROSTIK_TV🇺🇦
@@ -1387,7 +1387,6 @@ http://6a0296cf.edemist.com/iptv/F65BX3TKGTCBZQ/14177/index.m3u8
 #EXTINF:-1 tvg-logo="https://vodofun.tv/stalker_portal/misc/logos/320/3539.png" group-title="КІНО📽",VF Adventure
 
 #EXTINF:-1 group-title="КІНО📽",MM Спорт HD
-http://157.90.0.245:8070/minimax-sport/index.m3u8
 
 #EXTINF:-1 group-title="КІНО📽",MM Супергерои HD
 
@@ -1400,7 +1399,6 @@ http://157.90.0.245:8070/minimax-sport/index.m3u8
 #EXTINF:-1 group-title="КІНО📽",MM NewFilm HD
 
 #EXTINF:-1 group-title="КІНО📽",MM Скорость HD
-http://hls127.freeott.top:8080/minimax-skorost-m4f/video.m3u8
 
 #EXTINF:-1 group-title="КІНО📽",VF HBO HD
 http://wps5c7yt.rostelekom.xyz/iptv/3H98G67KZ9HAS9/19428/index.m3u8
@@ -1592,6 +1590,8 @@ http://345f89f7.ottrast.com/iptv/9S2FL9Q6FZ69N6/18008/index.m3u8
 
 #EXTINF:-1 tvg-id="grand" tvg-logo="https://b.radikal.ru/b12/2105/e1/54a1ac35e10c.png" group-title="КІНО📽",TV3 Plus FHD
 
+#EXTINF:-1 group-title="КІНО📽",TV3 Films HD
+
 #EXTINF:-1 group-title="КІНО📽",FilmZone HD
 
 #EXTINF:-1 group-title="КІНО📽",FilmZone Plus
@@ -1687,6 +1687,7 @@ http://158.101.222.193:88/georgia_play.php?id=illuzionplus
 #EXTINF:-1 group-title="КІНО📽" tvg-id="566"tvg-logo="http://epg.it999.ru/img/566.png",Кинопремьера FHD [R]
 
 #EXTINF:-1 group-title="КІНО📽" tvg-id="566"tvg-logo="http://epg.it999.ru/img/566.png",Кинопремьера HD
+https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="КІНО📽" tvg-id="566"tvg-logo="http://epg.it999.ru/img/566.png",Кинопремьера
 
@@ -1703,15 +1704,18 @@ http://158.101.222.193:88/georgia_play.php?id=kinoujas
 http://158.101.222.193:88/georgia_play.php?id=kinohit
 
 #EXTINF:-1 tvg-id="542"tvg-logo="http://epg.it999.ru/img/542.png"group-title="КІНО📽",Кинохит
+https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="799"tvg-logo="http://epg.it999.ru/img/799.png"group-title="КІНО📽",Киносерия
 http://158.101.222.193:88/georgia_play.php?id=kinoseria
 
 #EXTINF:-1 tvg-id="799"tvg-logo="http://epg.it999.ru/img/799.png"group-title="КІНО📽",Киносерия FHD
+https://stream8.cinerama.uz/1235/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="644"tvg-logo="http://epg.it999.ru/img/644.png"group-title="КІНО📽",Киномикс FHD
 
 #EXTINF:-1 tvg-id="644"tvg-logo="http://epg.it999.ru/img/644.png"group-title="КІНО📽",Киномикс HD
+https://stream8.cinerama.uz/1233/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="644"tvg-logo="http://epg.it999.ru/img/644.png"group-title="КІНО📽",Киномикс
 http://158.101.222.193:88/georgia_play.php?id=kinomiks
@@ -1722,6 +1726,7 @@ http://158.101.222.193:88/georgia_play.php?id=kinomiks
 http://158.101.222.193:88/georgia_play.php?id=kinosemya
 
 #EXTINF:-1 tvg-id="987"tvg-logo="http://epg.it999.ru/img/987.png"group-title="КІНО📽",Киносемья HD
+https://stream8.cinerama.uz/1234/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="987"tvg-logo="http://epg.it999.ru/img/987.png"group-title="КІНО📽",Киносемья FHD
 
@@ -1731,10 +1736,12 @@ http://158.101.222.193:88/georgia_play.php?id=kinosemya
 http://158.101.222.193:88/georgia_play.php?id=kinokomediya
 
 #EXTINF:-1 tvg-id="821"tvg-logo="http://epg.it999.ru/img/821.png"group-title="КІНО📽",Кинокомедия
+https://stream8.cinerama.uz/1232/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="462"tvg-logo="http://epg.it999.ru/img/462.png"group-title="КІНО📽",Киносвидание FHD
 
 #EXTINF:-1 tvg-id="462"tvg-logo="http://epg.it999.ru/img/462.png"group-title="КІНО📽",Киносвидание HD
+https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="462"tvg-logo="http://epg.it999.ru/img/462.png"group-title="КІНО📽",Киносвидание
 
@@ -1767,7 +1774,6 @@ http://158.101.222.193:88/georgia_play.php?id=interesnoetv
 #EXTINF:-1 tvg-id="1675" tvg-logo="http://epg.cdntv.online/img/1675.png" group-title="КІНО📽",Сити Эдем - КиноЭкшен
 
 #EXTINF:-1 tvg-id="1676" tvg-logo="http://epg.cdntv.online/img/1676.png" group-title="КІНО📽",Сити Эдем - КиноМистика
-https://autopilot.catcast.tv/content/40783/index.m3u8
 
 #EXTINF:-1 tvg-id="1674" tvg-logo="http://epg.cdntv.online/img/1674.png" group-title="КІНО📽",Сити Эдем - КиноКомедия
 
@@ -1812,12 +1818,14 @@ http://kinowalk.hopto.org/vsetv_live
 http://46.32.176.50/tv1000/index.m3u8
 
 #EXTINF:-1 tvg-id="127"tvg-logo="http://epg.it999.ru/img/127.png"group-title="КІНО📽",TV 1000
+https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="127"tvg-logo="http://epg.it999.ru/img/127.png"group-title="КІНО📽",TV 1000 HD [R]
 
 #EXTINF:-1 tvg-id="125"tvg-logo="http://epg.it999.ru/img/125.png"group-title="КІНО📽",TV 1000 Action FHD
 
 #EXTINF:-1 tvg-id="125"tvg-logo="http://epg.it999.ru/img/125.png"group-title="КІНО📽",TV 1000 Action
+https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="125"tvg-logo="http://epg.it999.ru/img/125.png"group-title="КІНО📽",TV 1000 Action HD
 http://46.32.176.50/tv1000action/index.m3u8
@@ -1827,6 +1835,7 @@ http://46.32.176.50/tv1000action/index.m3u8
 #EXTINF:-1 tvg-id="267"tvg-logo="http://epg.it999.ru/img/267.png"group-title="КІНО📽",TV 1000 Русское кино FHD
 
 #EXTINF:-1 tvg-id="267"tvg-logo="http://epg.it999.ru/img/267.png"group-title="КІНО📽",TV 1000 Русское кино HD
+https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="267"tvg-logo="http://epg.it999.ru/img/267.png"group-title="КІНО📽",TV 1000 Русское кино
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
@@ -1874,6 +1883,7 @@ http://31.148.48.15:80/Dom_Kino/index.m3u8?token=test
 http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
 
 #EXTINF:-1 tvg-id="2834"tvg-logo="http://epg.it999.ru/img/2834.png"group-title="КІНО📽",Кинопоказ HD
+https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/KINOPOKAZ2001.png" tvg-rec="1" catchup-type="shift" catchup_days="5" group-title="КІНО📽",Кинопоказ FHD
 
@@ -1890,7 +1900,6 @@ http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
 #EXTINF:-1 tvg-logo="http://ttvrun.one/uploads/uJFjBk8HZjUsv0dppRliBzn4nf0mCG.png" group-title="КІНО📽",START Air HD
 
 #EXTINF:-1 tvg-logo="http://ttvrun.one/uploads/uJFjBk8HZjUsv0dppRliBzn4nf0mCG.png" group-title="КІНО📽",START Air
-https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 
 #EXTINF:-1 tvg-logo="http://ttvrun.one/uploads/z0KOmw6mfU2ZC7nfPyoc8KfZb6O4fk.png" group-title="КІНО📽",START World HD
 
@@ -1904,15 +1913,6 @@ https://rpn3.bozztv.com/dvrfl07/ushba64/index.m3u8
 #EXTINF:-1 group-title="КІНО📽",Легенда HD
 
 #EXTINF:-1 group-title="КІНО📽",Киносезон HD
-
-#EXTINF:-1 group-title="КІНО📽",IPTV.PLAY UZHASTIK HD
-http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
-
-#EXTINF:-1 group-title="КІНО📽",IPTV.PLAY INTERNY HD
-http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
-
-#EXTINF:-1 group-title="КІНО📽",IPTV.PLAY FANTASTICA HD
-http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
 
 #EXTINF:-1 tvg-id="2018"tvg-logo="http://epg.it999.ru/img/2018.png"group-title="КІНО📽",Наше HD
 
@@ -2018,9 +2018,9 @@ https://rpn3.bozztv.com/dvrfl07/ushba64/index.m3u8
 #EXTINF:-1 tvg-logo="http://ttvrun.one/uploads/LRT5KUt66gG7u4sue52QOjdFzgYAgF.png" group-title="КІНО📽",Дорама FHD
 
 #EXTINF:-1 tvg-logo="http://ttvrun.one/uploads/LRT5KUt66gG7u4sue52QOjdFzgYAgF.png" group-title="КІНО📽",Дорама HD
+https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="КІНО📽",SD REX
-http://195.26.83.96:7029/play/a008
 
 #EXTINF:-1 group-title="КІНО📽",Детское кино HD
 
@@ -2078,6 +2078,7 @@ http://185.57.68.33:80/255/playlist.m3u8
 #EXTINF:-1 tvg-id="2768"tvg-logo="http://epg.it999.ru/img/2768.png"group-title="КІНО📽",Арсенал
 
 #EXTINF:-1 tvg-id="2768"tvg-logo="http://epg.it999.ru/img/2768.png"group-title="КІНО📽",Арсенал HD
+https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="2768"tvg-logo="http://epg.it999.ru/img/2768.png"group-title="КІНО📽",Арсенал FHD
 
@@ -2283,6 +2284,7 @@ http://46.32.176.50/ViasatSportHD/index.m3u8
 #EXTINF:-1 group-title="КІНО📽",ТВ 21
 
 #EXTINF:-1 tvg-logo="http://ttvrun.one/uploads/tVif7GSM5UlUBrVRpMSDnni6RMcNtk.png" group-title="КІНО📽",Индийское кино
+https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://ttvrun.one/uploads/tVif7GSM5UlUBrVRpMSDnni6RMcNtk.png" group-title="КІНО📽",Индийское кино [R]
 
@@ -2317,23 +2319,18 @@ http://158.101.222.193:88/georgia_play.php?id=red
 #EXTINF:-1 group-title="КІНОКЛАСИКА🎥",Советская киноклассика
 
 #EXTINF:-1 group-title="КІНОКЛАСИКА🎥",Советская киноклассика HD
-http://de.russkoe-iptv.com:8080/s/rcy9uell/sovetskaya-kinoclassica-hd-orig.m3u8
 
 #EXTINF:-1 group-title="КІНОКЛАСИКА🎥",Советское родное
 
 #EXTINF:-1 group-title="КІНОКЛАСИКА🎥",Наше наследие HD
-http://de.russkoe-iptv.com:8080/s/rcy9uell/nashe-nasledie-hd.m3u8
 
 #EXTINF:-1 group-title="КІНОКЛАСИКА🎥",Память
 
 #EXTINF:-1 group-title="КІНОКЛАСИКА🎥",Патриот
-http://de.russkoe-iptv.com:8080/s/rcy9uell/patriot.m3u8
 
 #EXTINF:-1 group-title="КІНОКЛАСИКА🎥",VHS-кa HD
-http://de.russkoe-iptv.com:8080/s/rcy9uell/vhska-hd-orig.m3u8
 
 #EXTINF:-1 group-title="КІНОКЛАСИКА🎥",VHS-ка сериал HD
-http://de.russkoe-iptv.com:8080/s/rcy9uell/vhs-serial-hd.m3u8
 
 #EXTINF:-1 group-title="КІНОКЛАСИКА🎥",BCU СССР HD
 
@@ -2362,10 +2359,8 @@ http://kinowalk.hopto.org/vhs-forever_live
 #EXTINF:-1 group-title="КІНОКЛАСИКА🎥",MGM
 
 #EXTINF:-1 group-title="КІНОКЛАСИКА🎥",VHS-Касета HD
-http://195.9.195.3:8080/hls/176975.m3u8
 
 #EXTINF:-1 group-title="КІНОКЛАСИКА🎥" tvg-logo="https://i.ibb.co/qWFzwYF/kinozal.png",Кіно TV VHS
-http://195.9.195.3:8080/hls/218531.m3u8
 
 #EXTINF:-1 group-title="КІНОКЛАСИКА🎥",CineMan VHS
 
@@ -2382,7 +2377,6 @@ http://213.108.175.226/telplushd/index.m3u8
 https://live-tolknews.cdnvideo.ru/tolknews/stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="2402"tvg-logo="http://epg.it999.ru/img/2402.png"group-title="КІНОКЛАСИКА🎥",РЕТРО
-https://vod.splay.uz/live_splay/original/Retro/index.m3u8
 
 #EXTINF:-1 tvg-id="2402"tvg-logo="http://epg.it999.ru/img/2402.png"group-title="КІНОКЛАСИКА🎥",РЕТРО [R]
 
@@ -2403,7 +2397,6 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 http://hls127.freeott.top:8080/Mosfilm/video.m3u8
 
 #EXTINF:-1 tvg-id="3357"tvg-logo="http://epg.it999.ru/img/3357.png"group-title="КІНОКЛАСИКА🎥",Мосфильм Золотая Коллекция HD
-http://de.russkoe-iptv.com:8080/s/rcy9uell/mosfilm-hd-orig.m3u8
 
 #EXTINF:-1 group-title="КІНОКЛАСИКА🎥",Классика кино HD
 
@@ -2634,15 +2627,14 @@ http://pl.seetv.cc/play/1650/F83C2B8A4E1959E/video.m3u8
 #EXTINF:-1 tvg-id="6860" tvg-logo="http://epg.one/img2/6860.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",Setanta Ukraine Plus HD
 
 #EXTINF:-1 group-title="СПОРТ ⚽",Setanta Sports 1
+https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",Setanta Sports 1 HD
 http://pl.seetv.cc/play/942/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-id="setanta-sport-hd-orig" tvg-logo="http://static.g-cdn.app/streams/setanta-sport-hd-orig.png" tvg-rec="1" catchup_days="7" group-title="СПОРТ ⚽",Setanta Sports 1 FHD
-http://runner.webhop.info:2500/live/setantaplushd?token=510f8e0f42ba98ca9127a58d72addafd
 
 #EXTINF:-1 tvg-id="setanta-sport-hd-orig" tvg-logo="http://static.g-cdn.app/streams/setanta-sport-hd-orig.png" tvg-rec="1" catchup_days="7" group-title="СПОРТ ⚽",Setanta Sports 1 HD
-http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529593&extension=ts
 
 #EXTINF:-1 group-title="СПОРТ ⚽",Setanta Sports 2
 
@@ -2650,7 +2642,7 @@ http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529593&extensi
 http://pl.seetv.cc/play/943/F83C2B8A4E1959E/video.m3u8
 
 #EXTINF:-1 tvg-id="setanta-sport-plus-hd-orig" tvg-logo="http://static.g-cdn.app/streams/setanta-sport-plus-hd-orig.png" tvg-rec="1" catchup_days="7" group-title="СПОРТ ⚽",Setanta Sports 2 HD
-http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529594&extension=ts
+https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",Setanta Qazaqstan HD
 
@@ -3675,14 +3667,17 @@ http://193.27.209.122/timemachine/index.m3u8
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Travel+Adventure HD
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Первый Космический HD
+https://stream8.cinerama.uz/1415/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Охота и рыбалка
+https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Дикий:Охота и рыбалка
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Диалоги о рыбалке
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Охотник и рыболов HD
+https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",ДРАЙВ
 
@@ -3700,6 +3695,7 @@ http://158.101.222.193:88/georgia_play.php?id=autoplus
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Авто24
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",АВТО24
+https://stream8.cinerama.uz/1430/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Драйв
 
@@ -3711,6 +3707,7 @@ http://iptv.prosto.tv:7000/ch347/video.m3u8
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",RED Docu HD
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Discovery Science HD
+https://stream8.cinerama.uz/1040/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Discovery Science FHD
 
