@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1,🛠Ревизия №-1 🚦07.07.2026|12-40|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
+#EXTINF:-1,🛠Ревизия №-2 🚦07.07.2026|18-10|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
 http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 
 
@@ -1823,6 +1823,70 @@ http://stream-msk-14.ott.tricolor.tv/dtv/id794_MSKSG-PVR-1--Nash_khokkey1/01/pls
 http://stream-msk-07.ott.tricolor.tv/dtv/id732_MSKSG-PVR-1--Nash_khokkey2/03/plst.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 3
 http://stream-msk-05.ott.tricolor.tv/dtv/id728_MSKSG-PVR-1--Nash_khokkey3/01/plst.m3u8
+
+
+#EXTINF:-1 group-title="TEST-SPORT" ,Arena Sport 1 HD
+http://143.244.62.109:80/as1hr/index.m3u8
+#EXTINF:-1 group-title="TEST-SPORT" ,Arena Sport 2 HD
+http://143.244.62.109:80/as2hr/index.m3u8
+#EXTINF:-1 group-title="TEST-SPORT" ,Arena Sport 3 HD
+http://143.244.62.109:80/as3hr/index.m3u8
+#EXTINF:-1 group-title="TEST-SPORT" ,Arena Sport 4 HD
+http://143.244.62.109:80/as4hr/index.m3u8
+#EXTINF:-1 group-title="TEST-SPORT" ,Arena Sport 5 HD
+http://143.244.62.109:80/as5hr/index.m3u8
+#EXTINF:-1 group-title="TEST-SPORT" ,Arena Sport 6 HD
+http://143.244.62.109:80/as6hr/index.m3u8
+#EXTINF:-1 group-title="TEST-SPORT" ,Arena Sport 1 Premium
+http://143.244.62.109:80/as1premium/index.m3u8
+#EXTINF:-1 group-title="TEST-SPORT" ,Arena Sport 2 Premium
+http://143.244.62.109:80/as2premium/index.m3u8
+#EXTINF:-1 group-title="TEST-SPORT" ,Arena Sport 3 Premium
+http://143.244.62.109:80/as3premium/index.m3u8
+#EXTINF:-1 group-title="TEST-SPORT" ,Arena Sport 4 Premium
+http://143.244.62.109:80/as4premium/index.m3u8
+#EXTINF:-1 group-title="TEST-SPORT" ,Arena Sport 5 Premium
+http://143.244.62.109:80/as5premium/index.m3u8
+#EXTINF:-1 group-title="TEST-SPORT" ,Arena Sport 1 HD
+http://143.244.62.109:80/as1/index.m3u8
+#EXTINF:-1 group-title="TEST-SPORT" ,Arena Sport 2 HD
+http://143.244.62.109:80/as2/index.m3u8
+#EXTINF:-1 group-title="TEST-SPORT" ,Arena Sport 3 HD
+http://143.244.62.109:80/as3/index.m3u8
+#EXTINF:-1 group-title="TEST-SPORT" ,Arena Sport 4 HD
+http://143.244.62.109:80/as4/index.m3u8
+#EXTINF:-1 group-title="TEST-SPORT" ,Arena Sport 5 HD
+http://143.244.62.109:80/as5/index.m3u8
+#EXTINF:-1 group-title="TEST-SPORT" ,Arena Sport 6 HD
+http://143.244.62.109:80/as6/index.m3u8
+#EXTINF:-1 group-title="TEST-SPORT" ,Arena Sport 7 HD
+http://143.244.62.109:80/as7/index.m3u8
+#EXTINF:-1 group-title="TEST-SPORT" ,Arena Sport 8 HD
+http://143.244.62.109:80/as8/index.m3u8
+#EXTINF:-1 group-title="TEST-SPORT" ,Arena Sport 9 HD
+http://143.244.62.109:80/as9/index.m3u8
+#EXTINF:-1 group-title="TEST-SPORT" ,Arena Sport 10 HD
+http://143.244.62.109:80/as10/index.m3u8
+#EXTINF:-1 group-title="TEST-SPORT" ,Arena Sport 1 Premium
+http://143.244.62.109:80/as1premiumbh/index.m3u8
+#EXTINF:-1 group-title="TEST-SPORT" ,Arena Sport 2 Premium
+http://143.244.62.109:80/as2premiumbh/index.m3u8
+#EXTINF:-1 group-title="TEST-SPORT" ,Arena Sport 3 Premium
+http://143.244.62.109:80/as3premiumbh/index.m3u8
+#EXTINF:-1 group-title="TEST-SPORT" ,Arena Sport 1 HD
+http://143.244.62.109:80/as1bh/index.m3u8
+#EXTINF:-1 group-title="TEST-SPORT" ,Arena Sport 2 HD
+http://143.244.62.109:80/as2bh/index.m3u8
+#EXTINF:-1 group-title="TEST-SPORT" ,Arena Sport 3 HD
+http://143.244.62.109:80/as3bh/index.m3u8
+#EXTINF:-1 group-title="TEST-SPORT" ,Arena Sport 4 HD
+http://143.244.62.109:80/as4bh/index.m3u8
+#EXTINF:-1 group-title="TEST-SPORT" ,Arena Sport 1 HD
+http://143.244.62.109:80/as1slo/index.m3u8
+#EXTINF:-1 group-title="TEST-SPORT" ,Arena Sport 2 HD
+http://143.244.62.109:80/as2slo/index.m3u8
+#EXTINF:-1 group-title="TEST-SPORT" ,Arena Sport 3 HD
+http://143.244.62.109:80/as3slo/index.m3u8
 
 
 #EXTINF:-1 group-title="CHILDREN'S 🧙",Кнопка ТВ
