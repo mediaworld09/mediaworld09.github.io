@@ -2262,9 +2262,9 @@
                 quality[item.label] = item.file;
               });
 
-              if (premium_content) {
-                error('Перевод доступен только с HDrezka Premium');
-                return;
+              // if (premium_content) {
+              //   error('Перевод доступен только с HDrezka Premium');
+              //   return;
               }
             }
 
