@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1,🛠Ревизия №-2 🚦15.07.2026|15-15|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
+#EXTINF:-1,🛠Ревизия №-3 🚦15.07.2026|17-30|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
 http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 
 
@@ -641,10 +641,30 @@ http://filmtvgroup.hopto.org/novosilkiTB/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbG
 http://filmtvgroup.hopto.org/FILMTVKinozaL/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
 #EXTINF:-1 group-title="Україна 🇺🇦",Бровари Кіно TV
 https://live20.bozztv.com/giatv/giatv-88882com/88882com/chunks.m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",Usba TV - Україна
-https://live20.bozztv.com/giatvplayout7/ushba5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",Usba TV - Україна 2
-https://live20.bozztv.com/giatvplayout7/ushba12/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",Cine Plus HD
+http://176.122.125.10:8080/CinePlusHD/index.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",Cine Plus Hit HD
+http://176.122.125.10:8080/CinePlusHitHD/index.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",INTER+ HD
+http://176.122.125.10:8080/interplus/index.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",Ентер Фільм HD
+http://176.122.125.10:8080/enterfilm/index.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",НТН HD
+http://176.122.125.10:8080/ntn/index.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",K1 HD
+http://176.122.125.10:8080/k1/index.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",K2 HD
+http://176.122.125.10:8080/k2/index.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",БОЛТ HD
+http://176.122.125.10:8080/bolt/index.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",ZOOM HD
+http://176.122.125.10:8080/zoom/index.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",ОЦЕ HD
+http://176.122.125.10:8080/oce/index.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",UNIAN HD
+http://176.122.125.10:8080/unian/index.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",MEGA HD
+http://176.122.125.10:8080/mega/index.m3u8
 #EXTINF:-1 group-title="Україна 🇺🇦",МИ+ УКРАЇНА HD
 https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
 #EXTINF:-1 group-title="Україна 🇺🇦",5 Канал HD
@@ -1668,6 +1688,13 @@ https://shift03.isp.bg/Diema_Sport_2_HD/index.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Nova Sport HD Serbian
 https://shift03.isp.bg/NovaSport_HD/index.m3u8
 
+
+#EXTINF:-1 group-title="CHILDREN'S 🧙",Cine Plus Kids
+http://176.122.125.10:8080/CinePlusKids/index.m3u8
+#EXTINF:-1 group-title="CHILDREN'S 🧙",Піксель HD
+http://176.122.125.10:8080/pixel/index.m3u8
+#EXTINF:-1 group-title="CHILDREN'S 🧙",ПЛЮС ПЛЮС HD
+http://176.122.125.10:8080/plusplus/index.m3u8
 #EXTINF:-1 group-title="CHILDREN'S 🧙",Кнопка ТВ
 http://api.alpaca.t62a.com/hls/9116/stream0.m3u8
 #EXTINF:-1 group-title="CHILDREN'S 🧙",Детское кино International

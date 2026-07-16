@@ -805,9 +805,6 @@ http://u.vipl.one/high/vjizp2e6mb/410.m3u8
 #EXTINF:0 tvg-id="411" tvg-logo="http://epg.cdntv.online/img/411.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кино", Viju TV1000 Русское HD
 #EXTGRP:Кино
 http://u.vipl.one/high/vjizp2e6mb/411.m3u8
-#EXTINF:0 tvg-id="412" tvg-logo="http://epg.cdntv.online/img/412.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Познавательные", Конный Мир
-#EXTGRP:Познавательные
-http://u.vipl.one/high/vjizp2e6mb/412.m3u8
 #EXTINF:0 tvg-id="414" tvg-logo="http://epg.cdntv.online/img/414.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кино", Киносемья HD
 #EXTGRP:Кино
 http://u.vipl.one/high/vjizp2e6mb/414.m3u8
@@ -4066,3 +4063,6 @@ http://u.vipl.one/high/vjizp2e6mb/2299.m3u8
 #EXTINF:0 tvg-id="2300" tvg-logo="http://epg.cdntv.online/img/2300.png" group-title="Кинозалы", CineMan Дубляж СССР
 #EXTGRP:Кинозалы
 http://u.vipl.one/high/vjizp2e6mb/2300.m3u8
+#EXTINF:0 tvg-id="2301" tvg-logo="http://epg.cdntv.online/img/2301.png" group-title="Новостные", РБК HD
+#EXTGRP:Новостные
+http://u.vipl.one/high/vjizp2e6mb/2301.m3u8
