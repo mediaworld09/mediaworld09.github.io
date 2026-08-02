@@ -208,8 +208,43 @@ async function main() {
     'Федеральные',                             // одна категория (строка)
     'VIPL8.m3u'
   );
-  
 
+  await processPlaylist(
+    'http://u.vipl.one/high/ie36dbjx9k/playlist.m3u8?raw=1',
+    'Федеральные',                             // одна категория (строка)
+    'VIPL9.m3u'
+  );
+
+  await processPlaylist(
+    'http://u.vipl.one/high/wn49ab7yv5/playlist.m3u8?raw=1',
+    'Федеральные',                             // одна категория (строка)
+    'VIPL10.m3u'
+  );
+
+  await processPlaylist(
+    'http://u.vipl.one/high/r2zas3peth/playlist.m3u8?raw=1',
+    'Федеральные',                             // одна категория (строка)
+    'VIPL11.m3u'
+  );
+
+  await processPlaylist(
+    'http://u.vipl.one/high/97vp2hnijazc/playlist.m3u8?raw=1',
+    'Федеральные',                             // одна категория (строка)
+    'VIPL12.m3u'
+  );
+
+  await processPlaylist(
+    'http://u.vipl.one/high/putkbxz38h/playlist.m3u8?raw=1',
+    'Федеральные',                             // одна категория (строка)
+    'VIPL13.m3u'
+  );
+
+  await processPlaylist(
+    'http://u.vipl.one/high/wih4sryefm/playlist.m3u8?raw=1',
+    'Федеральные',                             // одна категория (строка)
+    'VIPL14.m3u'
+  );
+  
   // Добавьте столько вызовов, сколько нужно
   // =========================================
 
