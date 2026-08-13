@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1,🛠Ревизия №-1 🚦11.08.2026|14-10|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
+#EXTINF:-1,🛠Ревизия №-1 🚦12.08.2026|20-17|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
 http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 
 
@@ -1944,6 +1944,22 @@ https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 http://91.246.72.88:8000/play/a01w/index.m3u8
 
 
+#EXTINF:-1  parent-code="1234"tvg-rec="7" timeshift="7",Babes TV
+http://stream.mcquack.net/55/index.m3u8
+#EXTINF:-1  parent-code="1234"tvg-rec="7" timeshift="7",Exxxotica
+http://stream.mcquack.net/57/index.m3u8
+#EXTINF:-1  parent-code="1234"tvg-rec="7" timeshift="7",Frenchlover
+http://stream.mcquack.net/54/index.m3u8
+#EXTINF:-1  parent-code="1234"tvg-rec="7" timeshift="7",Erox
+http://stream.mcquack.net/58/index.m3u8
+#EXTINF:-1  parent-code="1234"tvg-rec="7" timeshift="7",Blue Hustler
+http://stream.mcquack.net/280/index.m3u8
+#EXTINF:-1  parent-code="1234"tvg-rec="7" timeshift="7",Vivid Red
+http://stream.mcquack.net/284/index.m3u8
+#EXTINF:-1  parent-code="1234"tvg-rec="7" timeshift="7",Barely Legal TV
+http://stream.mcquack.net/289/index.m3u8
+#EXTINF:-1  parent-code="1234"tvg-rec="7" timeshift="7",Playboy TV
+http://stream.mcquack.net/290/index.m3u8
 
 
 
