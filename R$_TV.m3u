@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz" m3uautoload=1 cache=1000 aspect-ratio=16:9 deinterlace=1
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/rgk12fsehruttv6/update.png" group-title="INFO",🇺🇦 ОНОВЛЕНО 11.08.2026 🇺🇦
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/rgk12fsehruttv6/update.png" group-title="INFO",🇺🇦 ОНОВЛЕНО 17.08.2026 🇺🇦
 https://dl.dropbox.com/s/5o2opblp9lqjda1/KAROL&SANINA-VILNA.mp3
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/6ikxp06v3c6e03g/RO$TIK_TV.jpg" group-title="INFO",🇺🇦TELEGRAM @ROSTIK_TV🇺🇦
@@ -26,19 +26,24 @@ http://portal.ott.pink/C5UK_1plus1SD/index.m3u8?token=927E03BF1A83DF5DE6628CAF78
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2194.png"group-title="🇺🇦УКРАЇНА🇺🇦",1+1 Марафон
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2194.png"group-title="🇺🇦УКРАЇНА🇺🇦",1+1 Україна HD
+http://89.33.29.115:8080/1plus1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2194.png"group-title="🇺🇦УКРАЇНА🇺🇦",1+1 Марафон HD
+http://stream.mcquack.net/172/index.m3u8
 
 #EXTINF:-1 tvg-id="2195"tvg-logo="http://epg.it999.ru/img/2195.png"group-title="🇺🇦УКРАЇНА🇺🇦",2+2 HD
 http://newsr1.roshen.live:8080/INuL3pGp8R/video.m3u8?token=XSOdznpeFPEURAYS
 
 #EXTINF:-1 tvg-id="3343"tvg-logo="http://epg.it999.ru/img/3343.png"group-title="🇺🇦УКРАЇНА🇺🇦",2+2
+http://89.33.29.115:8080/2plus2/index.m3u8
 
 #EXTINF:-1 tvg-id="3343"tvg-logo="http://epg.it999.ru/img/3343.png"group-title="🇺🇦УКРАЇНА🇺🇦",2+2 Марафон
+http://stream.mcquack.net/173/index.m3u8
 
 #EXTINF:-1 tvg-id="3343"tvg-logo="http://epg.it999.ru/img/3343.png"group-title="🇺🇦УКРАЇНА🇺🇦",2+2 Марафон
 
 #EXTINF:-1 tvg-id="3310"tvg-logo="http://epg.it999.ru/img/3310.png"group-title="🇺🇦УКРАЇНА🇺🇦",Інтер FHD
+http://stream.mcquack.net/174/index.m3u8
 
 #EXTINF:-1 tvg-id="3310"tvg-logo="http://epg.it999.ru/img/3310.png"group-title="🇺🇦УКРАЇНА🇺🇦",Інтер HD
 http://newsr1.roshen.live:8080/28gM3kC0yp/video.m3u8?token=XSOdznpeFPEURAYS
@@ -69,7 +74,7 @@ http://newsr1.roshen.live:8080/SfabiXMgHe/video.m3u8?token=XSOdznpeFPEURAYS
 #EXTINF:-1 tvg-id="3349"tvg-logo="http://epg.it999.ru/img/3349.png"group-title="🇺🇦УКРАЇНА🇺🇦",ТЕТ FHD
 
 #EXTINF:-1 tvg-id="3349"tvg-logo="http://epg.it999.ru/img/3349.png"group-title="🇺🇦УКРАЇНА🇺🇦",ТЕТ HD
-http://cdn-bal.srv4you.net/0164/mpegts
+http://89.33.29.115:8080/TET/index.m3u8
 
 #EXTINF:-1 tvg-id="2171"tvg-logo="http://epg.it999.ru/img/2171.png"group-title="🇺🇦УКРАЇНА🇺🇦",ТЕТ
 http://newsr1.roshen.live:8080/RmCD1qFmpl/video.m3u8?token=XSOdznpeFPEURAYS
@@ -80,19 +85,22 @@ http://newsr1.roshen.live:8080/RmCD1qFmpl/video.m3u8?token=XSOdznpeFPEURAYS
 http://newsr1.roshen.live:8080/j0Ij7VVFVX/tracks-v1a1/mono.m3u8?token=XSOdznpeFPEURAYS
 
 #EXTINF:-1 tvg-id="3340"tvg-logo="http://epg.it999.ru/img/3340.png"group-title="🇺🇦УКРАЇНА🇺🇦",Новий канал FHD
+http://stream.mcquack.net/157/index.m3u8
 
 #EXTINF:-1 tvg-id="2105"tvg-logo="http://epg.it999.ru/img/2105.png"group-title="🇺🇦УКРАЇНА🇺🇦",HTH
 http://newsr1.roshen.live:8080/7zaKQPjVK9/video.m3u8?token=XSOdznpeFPEURAYS
 
 #EXTINF:-1 tvg-id="2105"tvg-logo="http://epg.it999.ru/img/2105.png"group-title="🇺🇦УКРАЇНА🇺🇦",HTH HD
-http://cdn-bal.srv4you.net/0157/mpegts
+http://89.33.29.115:8080/NTN/index.m3u8
 
 #EXTINF:-1 tvg-id="3309"tvg-logo="http://epg.it999.ru/img/3309.png"group-title="🇺🇦УКРАЇНА🇺🇦",CTБ FHD
+http://89.33.29.115:8080/STB/index.m3u8
 
 #EXTINF:-1 tvg-id="3309"tvg-logo="http://epg.it999.ru/img/3309.png"group-title="🇺🇦УКРАЇНА🇺🇦",CTБ HD
 http://newsr1.roshen.live:8080/hksU5qQc7B/video.m3u8?token=XSOdznpeFPEURAYS
 
 #EXTINF:-1 tvg-id="3309"tvg-logo="http://epg.it999.ru/img/3309.png"group-title="🇺🇦УКРАЇНА🇺🇦",CTБ HD [R]
+http://stream.mcquack.net/156/index.m3u8
 
 #EXTINF:-1 tvg-id="3309"tvg-logo="http://epg.it999.ru/img/3309.png"group-title="🇺🇦УКРАЇНА🇺🇦",CTБ
 
@@ -105,9 +113,23 @@ http://cdnua03.hls.tv/679/hls/f62d71219200da4130d13b21d23fb23c/4882/stream.m3u8
 #EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",Світ на виворіт + HD
 https://cdnua03.hls.tv/524/hls/241d2b231fb8c4ecd01710e520cbd29e/4886/stream.m3u8
 
-#EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",Світ +
+#EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",Невигадані Історії
+http://stream.mcquack.net/159/index.m3u8
 
-#EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",Перший XTV MEDIA
+#EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",Вікторина
+http://stream.mcquack.net/146/index.m3u8
+
+#EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",Машина Часу
+http://stream.mcquack.net/140/index.m3u8
+
+#EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",ЖВЛ +
+http://stream.mcquack.net/139/index.m3u8
+
+#EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",Сімейні Мелодрами +
+http://stream.mcquack.net/137/index.m3u8
+
+#EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",Панянка Селянка +
+http://stream.mcquack.net/134/index.m3u8
 
 #EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",Super+ HD
 http://193.27.209.122/super_plus/index.m3u8
@@ -153,6 +175,7 @@ https://cdnua03.hls.tv/178/hls/6154479a1319705257f2335762b18f51/4305/stream.m3u8
 http://newsr1.roshen.live:8080/EOAg5hL8Ul/video.m3u8?token=XSOdznpeFPEURAYS
 
 #EXTINF:-1 tvg-id="3307"tvg-logo="http://epg.it999.ru/img/3307.png"group-title="🇺🇦УКРАЇНА🇺🇦",ICTV FHD
+http://stream.mcquack.net/158/index.m3u8
 
 #EXTINF:-1 tvg-id="2100"tvg-logo="http://epg.it999.ru/img/2100.png"group-title="🇺🇦УКРАЇНА🇺🇦",K1
 
@@ -1026,7 +1049,7 @@ https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-centra
 #EXTINF:-1 group-title="КІНО📽",KinoMix HD
 https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.QK20f3fCHAGw.m3u8
 
-#EXTINF:-1 group-title="КІНО📽",Kinojizn HD
+#EXTINF:-1 group-title="КІНО📽",Hit HD
 
 #EXTINF:-1 group-title="КІНО📽",Твоє Кіно. Action HD
 
@@ -1399,6 +1422,7 @@ http://kinowalk.hopto.org/equilibrium_live
 #EXTINF:-1 group-title="КІНО📽",ТВ-3
 
 #EXTINF:-1 tvg-id="1395"tvg-logo="http://epg.it999.ru/img/1395.png"group-title="КІНО📽",Bollywood HD
+http://89.33.29.115:8080/Bollywood_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://ttvrun.one/uploads/W33qPpospqVT5FOsTvmAwsWDroQURW.png" group-title="КІНО📽",Bollywood
 
@@ -1459,6 +1483,7 @@ http://158.101.222.193:88/georgia_play.php?id=kinoseria
 https://stream8.cinerama.uz/1235/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="644"tvg-logo="http://epg.it999.ru/img/644.png"group-title="КІНО📽",Киномикс FHD
+http://stream.mcquack.net/133/index.m3u8
 
 #EXTINF:-1 tvg-id="644"tvg-logo="http://epg.it999.ru/img/644.png"group-title="КІНО📽",Киномикс HD
 https://stream8.cinerama.uz/1233/tracks-v1a1/mono.m3u8
@@ -1475,6 +1500,7 @@ http://158.101.222.193:88/georgia_play.php?id=kinosemya
 https://stream8.cinerama.uz/1234/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="987"tvg-logo="http://epg.it999.ru/img/987.png"group-title="КІНО📽",Киносемья FHD
+http://stream.mcquack.net/170/index.m3u8
 
 #EXTINF:-1 tvg-id="821"tvg-logo="http://epg.it999.ru/img/821.png"group-title="КІНО📽",Кинокомедия FHD
 
@@ -1485,6 +1511,7 @@ http://158.101.222.193:88/georgia_play.php?id=kinokomediya
 https://stream8.cinerama.uz/1232/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="462"tvg-logo="http://epg.it999.ru/img/462.png"group-title="КІНО📽",Киносвидание FHD
+http://stream.mcquack.net/171/index.m3u8
 
 #EXTINF:-1 tvg-id="462"tvg-logo="http://epg.it999.ru/img/462.png"group-title="КІНО📽",Киносвидание HD
 https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
@@ -1907,8 +1934,10 @@ http://hls127.freeott.top:8080/Amedia_2_HD/video.m3u8
 #EXTINF:-1 tvg-logo="http://ttvrun.one/uploads/uFlDR7KyGC67CdwN4daGPqgzW9bVPC.png" group-title="КІНО📽",Amedia Hit HD
 
 #EXTINF:-1 tvg-id="2007"tvg-logo="http://epg.it999.ru/img/2007.png"group-title="КІНО📽",Amedia Hit HD
+http://stream.mcquack.net/162/index.m3u8
 
 #EXTINF:-1 tvg-id="2246"tvg-logo="http://epg.it999.ru/img/2246.png"group-title="КІНО📽",Amedia Premium HD
+http://stream.mcquack.net/151/index.m3u8
 
 #EXTINF:-1 tvg-id="2246"tvg-logo="http://epg.it999.ru/img/2246.png"group-title="КІНО📽",Amedia Premium FHD
 
@@ -2440,6 +2469,7 @@ http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529592&extensi
 #EXTINF:-1 group-title="СПОРТ ⚽",KHL HD
 
 #EXTINF:-1 group-title="СПОРТ ⚽",КХЛ
+http://stream.mcquack.net/166/index.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",KHL Prime HD
 
@@ -2481,26 +2511,22 @@ http://pars01.com:8080/play/live.php?mac=00:1A:79:43:B0:70&stream=566622&extensi
 #EXTINF:-1 group-title="СПОРТ ⚽",МАТЧ! Футбол 1
 
 #EXTINF:-1 group-title="СПОРТ ⚽",МАТЧ! Футбол 1 HD
-http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529575&extension=ts
+http://stream.mcquack.net/130/index.m3u8
 
 #EXTINF:-1 tvg-id="Матч! Футбол 1 HD" tvg-logo="https://lighticons.art/storage/images/channels/94de502ffcf196ab78801841206c642d.png?d=1709804063" tvg-rec="1" catchup-type="auto" catchup_days="3" catchup_template="http://tv.lightiptv.cc/94de502ffcf196ab78801841206c642d/video-${start}-${duration}.m3u8?token=0umkabuvwg" group-title="СПОРТ ⚽",Матч! Футбол 1 HD 50
-http://31.148.48.15/Match_Futbol_1_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Матч! Футбол 1 HD" tvg-logo="https://lighticons.art/storage/images/channels/94de502ffcf196ab78801841206c642d.png?d=1709804063" tvg-rec="1" catchup-type="auto" catchup_days="3" catchup_template="http://tv.lightiptv.cc/94de502ffcf196ab78801841206c642d/video-${start}-${duration}.m3u8?token=0umkabuvwg" group-title="СПОРТ ⚽",Матч! Футбол 1 HD
 
 #EXTINF:-1 tvg-id="Матч! Футбол 2 HD" tvg-logo="https://lighticons.art/storage/images/channels/82173d67718d9564d91739037224daee.png?d=1709804175" tvg-rec="1" catchup-type="auto" catchup_days="3" catchup_template="http://tv.lightiptv.cc/82173d67718d9564d91739037224daee/video-${start}-${duration}.m3u8?token=0umkabuvwg" group-title="СПОРТ ⚽",Матч! Футбол 2 HD
-http://31.148.48.15/Match_Futbol_2_HD/index.m3u8
+http://stream.mcquack.net/142/index.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",МАТЧ! Футбол 2
 
 #EXTINF:-1 tvg-id="Матч! Футбол 2 HD" tvg-logo="https://lighticons.art/storage/images/channels/82173d67718d9564d91739037224daee.png?d=1709804175" tvg-rec="1" catchup-type="auto" catchup_days="3" catchup_template="http://tv.lightiptv.cc/82173d67718d9564d91739037224daee/video-${start}-${duration}.m3u8?token=0umkabuvwg" group-title="СПОРТ ⚽",Матч! Футбол 2 HD 50fps
-http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529577&extension=ts
 
 #EXTINF:-1 tvg-id="Матч! Футбол 3 HD" tvg-logo="https://lighticons.art/storage/images/channels/3ba8a8b28a85f4c30ba63ca4dd81f83d.png?d=1679724905" tvg-rec="0" group-title="СПОРТ ⚽",Матч! Футбол 3 HD 50fps
-http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529590&extension=ts
 
 #EXTINF:-1 tvg-id="Матч! Футбол 3 HD" tvg-logo="https://lighticons.art/storage/images/channels/3ba8a8b28a85f4c30ba63ca4dd81f83d.png?d=1679724905" tvg-rec="0" group-title="СПОРТ ⚽",Матч! Футбол 3 HD
-http://31.148.48.15/Match_Futbol_3_HD/index.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",МАТЧ! Футбол 3
 http://185.57.68.33/110/mpegts
@@ -2508,19 +2534,18 @@ http://185.57.68.33/110/mpegts
 #EXTINF:-1 tvg-id="Матч! Игра HD" tvg-logo="https://lighticons.art/storage/images/channels/3e53181898106d61a9cd9d4b4157b1f0.png?d=1709804161" tvg-rec="1" catchup-type="auto" catchup_days="3" catchup_template="http://tv.lightiptv.cc/3e53181898106d61a9cd9d4b4157b1f0/video-${start}-${duration}.m3u8?token=0umkabuvwg" group-title="СПОРТ ⚽",Матч! Игра FHD
 
 #EXTINF:-1 group-title="СПОРТ ⚽",МАТЧ! Игра HD
-http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529581&extension=ts
 
 #EXTINF:-1 group-title="СПОРТ ⚽",МАТЧ! Игра
 
 #EXTINF:-1 group-title="СПОРТ ⚽",МАТЧ! Арена
 
 #EXTINF:-1 group-title="СПОРТ ⚽",МАТЧ! Арена HD
-http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529572&extension=ts
+http://stream.mcquack.net/163/index.m3u8
 
 #EXTINF:-1 tvg-id="Матч! Арена HD" tvg-logo="https://lighticons.art/storage/images/channels/85a775aa23f012044b9461488e689116.png?d=1709804148" tvg-rec="1" catchup-type="auto" catchup_days="3" catchup_template="http://tv.lightiptv.cc/85a775aa23f012044b9461488e689116/video-${start}-${duration}.m3u8?token=0umkabuvwg" group-title="СПОРТ ⚽",Матч! Арена FHD
 
 #EXTINF:-1 group-title="СПОРТ ⚽",МАТЧ! Страна
-http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529583&extension=ts
+http://stream.mcquack.net/143/index.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",МАТЧ! Страна HD
 http://31.148.48.15/Match_Strana/index.m3u8
@@ -2538,12 +2563,11 @@ http://31.148.48.15/Match_Strana/index.m3u8
 #EXTINF:-1 group-title="СПОРТ ⚽",МАТЧ!
 
 #EXTINF:-1 group-title="СПОРТ ⚽",МАТЧ! HD
-http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529584&extension=ts
+http://stream.mcquack.net/169/index.m3u8
 
 #EXTINF:-1 tvg-id="Матч! Премьер HD" tvg-logo="https://lighticons.art/storage/images/channels/d63e54294c990165ec306a2818cf4573.png?d=1707374116" tvg-rec="0" group-title="СПОРТ ⚽",Матч! Премьер FHD
 
 #EXTINF:-1 group-title="СПОРТ ⚽",МАТЧ! Премьер HD
-http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529586&extension=ts
 
 #EXTINF:-1 group-title="СПОРТ ⚽",МАТЧ! Премьер
 
@@ -2557,6 +2581,7 @@ https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
 #EXTINF:-1 group-title="СПОРТ ⚽",Бокс ТВ HD
 
 #EXTINF:-1 group-title="СПОРТ ⚽",Бокс ТВ
+http://stream.mcquack.net/154/index.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",Go3 Sport 1 HD
 http://ronaldo.tvfor.pro/lUommodkJn/l6i55j264w9187bml44emph2
@@ -3290,6 +3315,7 @@ http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",The Explorers HD
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Nat Geo Wild FHD
+http://stream.mcquack.net/149/index.m3u8
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Nat Geo Wild HD
 http://fastopen.live:8080/diogo6143/oSFPRG3uQ6/27175
@@ -3309,6 +3335,7 @@ https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Animal Planet FHD
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Animal Planet HD
+http://89.33.29.115:8080/Animal_Planet_HD/index.m3u8
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Animal Planet
 https://stream8.cinerama.uz/1043/tracks-v1a1/mono.m3u8
@@ -3504,6 +3531,7 @@ http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Food Network HD
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",TLC HD
+http://stream.mcquack.net/168/index.m3u8
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",TLC FHD
 
@@ -4144,7 +4172,6 @@ https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 #EXTINF:-1 group-title="МУЗИКА🎵",Муз ТВ
 
 #EXTINF:-1 group-title="Радіо📻",Твоє Радіо ( Дрогобич)
-http://91.200.114.254:8128/;
 
 #EXTINF:-1 group-title="Радіо📻",Львівська хвиля
 http://onair.lviv.fm:8000/lviv.fm
@@ -4153,14 +4180,14 @@ http://onair.lviv.fm:8000/lviv.fm
 https://streamvideo.luxnet.ua/luxlviv/luxlviv.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Радіо📻",Новое Радіо
-http://hls-video01.cdnvideo.ru/video01/hDvideo01-0O.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="Радіо📻",Britney Spears radio
 https://streaming.exclusive.radio/er/britney/icecast.audio
 
 #EXTINF:-1 group-title="Радіо📻",Радіо Шансон UKR
 
-#EXTINF:-1 group-title="Радіо📻",Авторадіо UKR
+#EXTINF:-1 group-title="Радіо📻",Happy Radio
+https://tv.mediacp.eu:8081/happyradio/index.m3u8
 
 #EXTINF:-1 group-title="Радіо📻",Радіо Melodia FM UKR
 https://online.melodiafm.ua/MelodiaFM_HD
@@ -4217,10 +4244,8 @@ https://hls-01-radiorecord.hostingradio.ru/record-gold/96/playlist.m3u8
 http://91.218.212.84:8000/radionv.mp3
 
 #EXTINF:-1 group-title="Радіо📻",Happy Radio
-https://live.prd.dlive.tv/hls/live/happyradio.m3u8
 
 #EXTINF:-1 group-title="Радіо📻",Radio Kazka
-http://radio.nrcu.gov.ua:8000/kazka-mp3
 
 #EXTINF:-1 group-title="Радіо📻",Radio Tysa FM
 http://radio.nrcu.gov.ua:8000/tysafm-mp3
@@ -4229,22 +4254,16 @@ http://radio.nrcu.gov.ua:8000/tysafm-mp3
 http://193.169.80.7:8001/efirhq
 
 #EXTINF:-1 group-title="Радіо📻",Hits 90s
-http://music.myradio.ua:8000/Hits90s192.mp3
 
 #EXTINF:-1 group-title="Радіо📻",Дискотека 90-х
-http://music.myradio.ua:8000/disco90192.mp3
 
 #EXTINF:-1 group-title="Радіо📻",60s - 70s
-http://prmstrm.1.fm:8000/60s_70s
 
 #EXTINF:-1 group-title="Радіо📻",Gangsta Rap
-http://music.myradio.ua:8000/gangstarap192.mp3
 
 #EXTINF:-1 group-title="Радіо📻",Hip-Hop RnB
-http://music.myradio.ua:8000/hiphopandrnb192.mp3
 
 #EXTINF:-1 group-title="Радіо📻",Radio 90s
-http://prmstrm.1.fm:8000/90s
 
 #EXTINF:-1 group-title="Радіо📻",Europa+
 http://ep128.hostingradio.ru:8030/ep128
@@ -4255,29 +4274,26 @@ http://listen.radiogora.ru:8000/hiphop128
 #EXTINF:-1 group-title="Радіо📻",DFM Rap
 
 #EXTINF:-1 group-title="БІЛОРУСІЯ 🇧🇾",Беларусь 1 HD
-https://edge60.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w1244197741_b1460000_sleng.m3u8
 
 #EXTINF:-1 group-title="БІЛОРУСІЯ 🇧🇾",Беларусь 1
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="БІЛОРУСІЯ 🇧🇾",Беларусь 2 HD
-http://cdn01.ath.cx:2500/live/belarus2?token=b47f617d7dfc1ab821cf4dc0bad23861
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="БІЛОРУСІЯ 🇧🇾",Беларусь 3 HD
-https://edge60.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w14452038_b1460000_sleng.m3u8
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="БІЛОРУСІЯ 🇧🇾",Беларусь 4
 
 #EXTINF:-1 group-title="БІЛОРУСІЯ 🇧🇾",Беларусь 5 FHD
-https://edge60.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="БІЛОРУСІЯ 🇧🇾",Беларусь 5 HD
-http://cdn01.ath.cx:2500/live/belarus5?token=b47f617d7dfc1ab821cf4dc0bad23861
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="БІЛОРУСІЯ 🇧🇾",ТВ-3 Беларусь
 
 #EXTINF:-1 group-title="БІЛОРУСІЯ 🇧🇾",Скиф
-http://95.46.208.8:24432/skif
 
 #EXTINF:-1 group-title="БІЛОРУСІЯ 🇧🇾",Беларусь 24 HD
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
@@ -4288,27 +4304,20 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 https://edge56.dc.beltelecom.by/ctv/_definst_/ctv.stream/chunklist_w357074489.m3u8
 
 #EXTINF:-1 group-title="БІЛОРУСІЯ 🇧🇾",Звязда
-http://158.101.214.187:8080/channel/n1843ae8d/index.m3u8?q=a19e02912cc0858ab3f0978fa9f04577
 
 #EXTINF:-1 group-title="БІЛОРУСІЯ 🇧🇾",OHT
-https://edge56.dc.beltelecom.by/ont/_definst_/ont/chunklist.m3u8
 
 #EXTINF:-1 group-title="БІЛОРУСІЯ 🇧🇾",OHT HD
-http://cdn01.ath.cx:2500/live/ontby?token=b47f617d7dfc1ab821cf4dc0bad23861
 
 #EXTINF:-1 group-title="БІЛОРУСІЯ 🇧🇾",Светлое ТВ
 
 #EXTINF:-1 group-title="БІЛОРУСІЯ 🇧🇾",Витебск HD
-https://flu.vtv.by/tvt-non-by/index.m3u8
 
 #EXTINF:-1 group-title="БІЛОРУСІЯ 🇧🇾",РТР БелРос
-http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 
 #EXTINF:-1 group-title="БІЛОРУСІЯ 🇧🇾",Белсат HD
-http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
 
 #EXTINF:-1 group-title="БІЛОРУСІЯ 🇧🇾",НТВ Беларусь
-https://cdn-cache01.voka.tv:443/live/6.m3u8
 
 #EXTINF:-1 group-title="RO$TIK_TV 💲",ТВОЁ ТВ HD-ЮМОР
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
@@ -4326,7 +4335,6 @@ http://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
 https://efirtanectv-hls.cdnvideo.ru/hls/61c641b176face0001223636/1080p.m3u8
 
 #EXTINF:-1 group-title="RO$TIK_TV 💲",TV 1 KG FHD
-https://rebrand.ly/tqiq6lv/ROSTIK-TV/TV-1-KG
 
 #EXTINF:-1 group-title="RO$TIK_TV 💲",Любимый HD
 
@@ -4340,16 +4348,13 @@ http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
 #EXTINF:-1 group-title="RO$TIK_TV 💲",Gags Network
 
 #EXTINF:-1 group-title="RO$TIK_TV 💲",Gags Network HD
-http://95.67.12.82:9069
 
 #EXTINF:-1 group-title="RO$TIK_TV 💲",Сарафан
-http://tv.ttk.mx:9044
 
 #EXTINF:-1 group-title="RO$TIK_TV 💲",K16
 http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
 
 #EXTINF:-1 group-title="RO$TIK_TV 💲",КВН
-http://146.158.0.56:80/KVN/index.m3u8
 
 #EXTINF:-1 group-title="RO$TIK_TV 💲",Абаза ТВ
 
