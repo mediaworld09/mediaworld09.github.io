@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1,🛠Ревизия №-2 🚦14.08.2026|20-20|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
+#EXTINF:-1,🛠Ревизия №-1 🚦17.08.2026|17-35|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
 http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 
 
@@ -1619,6 +1619,78 @@ https://shift03.isp.bg/Diema_Sport_HD/index.m3u8
 https://shift03.isp.bg/Diema_Sport_2_HD/index.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Nova Sport HD Serbian
 https://shift03.isp.bg/NovaSport_HD/index.m3u8
+
+
+#EXTINF:-1 group-title="SPORT 🏆-2",eurosport1
+http://188.138.29.131:80/eurosport1/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆-2",eurosport2
+http://188.138.29.131:80/eurosport2/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆-2",espn
+http://188.138.29.131:80/espn/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆-2",football1
+http://188.138.29.131:80/football1/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆-2",football2
+http://188.138.29.131:80/football2/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆-2",football3
+http://188.138.29.131:80/football3/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆-2",khlhd
+http://188.138.29.131:80/khlhd/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆-2",match
+http://188.138.29.131:80/match/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆-2",matcharena
+http://188.138.29.131:80/matcharena/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆-2",matchigra
+http://188.138.29.131:80/matchigra/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆-2",matchplaneta
+http://188.138.29.131:80/matchplaneta/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆-2",mmatv
+http://188.138.29.131:80/mmatv/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆-2",nashfootball
+http://188.138.29.131:80/nashfootball/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆-2",nba
+http://188.138.29.131:80/nba/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆-2",setanta1
+http://188.138.29.131:80/setanta1/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆-2",setanta2
+http://188.138.29.131:80/setanta2/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆-2",setantaplus ua
+http://188.138.29.131:80/setantaplus/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆-2",setantaua
+http://188.138.29.131:80/setantaua/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆-2",skysportsf1
+http://188.138.29.131:80/skysportsf1/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆-2",ufctv
+http://188.138.29.131:80/ufctv/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆-2",viasatsport
+http://188.138.29.131:80/viasatsport/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆-2",tntsport3
+http://188.138.29.131:80/tntsport3/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆-2",tntsport2
+http://188.138.29.131:80/tntsport2/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆-2",tntsport1
+http://188.138.29.131:80/tntsport1/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆-2",boetstv
+http://188.138.29.131:80/boetstv/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆-2",skygolf
+http://188.138.29.131:80/skygolf/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆-2",skyfootball
+http://188.138.29.131:80/skyfootball/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆-2",skymix
+http://188.138.29.131:80/skymix/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆-2",nbcsn
+http://188.138.29.131:80/nbcsn/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆-2",mmatv
+http://188.138.29.131:80/mmatv/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆-2",foxsports2
+http://188.138.29.131:80/foxsports2/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆-2",start
+http://188.138.29.131:80/start/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆-2",nhl
+http://188.138.29.131:80/nhl/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆-2",belarus5
+http://188.138.29.131:80/belarus5/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆-2",bokstv
+http://188.138.29.131:80/bokstv/index.m3u8
 
 
 #EXTINF:-1 group-title="CHILDREN'S 🧙",Кнопка ТВ
@@ -3576,6 +3648,7 @@ https://s70378.cdn.ngenix.net/match_planeta/1/index.m3u8
 https://s70378.cdn.ngenix.net/kxl/1/index.m3u8
 
 
+
 #EXTINF:-1 group-title="Tест-08",1+1 UA
 http://89.33.29.115:8080/1plus1/index.m3u8
 #EXTINF:-1 group-title="Tест-08",2plus2
@@ -3584,16 +3657,14 @@ http://89.33.29.115:8080/2plus2/index.m3u8
 http://89.33.29.115:8080/NTN/index.m3u8
 #EXTINF:-1 group-title="Tест-08",TET
 http://89.33.29.115:8080/TET/index.m3u8
-#EXTINF:-1 group-title="Tест-08",K2
-http://89.33.29.118/k2_ua/index.m3u8
 #EXTINF:-1 group-title="Tест-08",TB
 http://89.33.29.115:8080/STB/index.m3u8
+#EXTINF:-1 group-title="Tест-08",ЕНТЕР ФІЛЬМ HD
+http://89.33.29.115:8080/enter_film_ua/index.m3u8
 #EXTINF:-1 group-title="Tест-08",ANI
 http://89.33.29.115:8080/ani/index.m3u8
 #EXTINF:-1 group-title="Tест-08",Animal_Planet_HD
 http://89.33.29.115:8080/Animal_Planet_HD/index.m3u8
-#EXTINF:-1 group-title="Tест-08",Blokbaster_hd
-http://89.33.29.118:8080/blokbaster_hd/index.m3u8
 #EXTINF:-1 group-title="Tест-08",Boks_TV
 http://89.33.29.115:8080/Boks_TV/index.m3u8
 #EXTINF:-1 group-title="Tест-08",bollywood
@@ -3628,18 +3699,12 @@ http://89.33.29.115:8080/Glazami_turista_HD/index.m3u8
 http://89.33.29.115:8080/Gold/index.m3u8
 #EXTINF:-1 group-title="Tест-08",Gulli
 http://89.33.29.115:8080/Gulli/index.m3u8
-#EXTINF:-1 group-title="Tест-08",History HD
-http://89.33.29.118:8080/History_HD/index.m3u8
-#EXTINF:-1 group-title="Tест-08",Hollywood HD
-http://89.33.29.118:8080/Hollywood_HD/index.m3u8
 #EXTINF:-1 group-title="Tест-08",INTER
 http://89.33.29.115:8080/Inter/index.m3u8
 #EXTINF:-1 group-title="Tест-08",JimJam
 http://89.33.29.115:8080/JimJam/index.m3u8
 #EXTINF:-1 group-title="Tест-08",Karusel
 http://89.33.29.115:8080/Karusel/index.m3u8
-#EXTINF:-1 group-title="Tест-08",Kino TV HD
-http://89.33.29.118:8080/Kino_TV_HD/index.m3u8
 #EXTINF:-1 group-title="Tест-08",КИНОХИТ HD
 http://89.33.29.115:8080/Kinohit/index.m3u8
 #EXTINF:-1 group-title="Tест-08",Mult
@@ -3696,6 +3761,7 @@ http://89.33.29.115:8080/ZeeTV/index.m3u8
 http://89.33.29.115:8080/Eda/index.m3u8
 #EXTINF:-1 group-title="Tест-08",Teleputeshestviya
 http://89.33.29.115:8080/Teleputeshestviya/index.m3u8
+
 
 #EXTINF:-1 group-title="TEST-08-08"  tvg-rec="7" timeshift="7",Інтер+
 http://ott.watch/stream/DTCEUBKDH5/345.m3u8
@@ -4099,3 +4165,41 @@ http://46.162.201.15:8000/play/a04z/index.m3u8
 http://46.162.201.15:8000/play/a05d/index.m3u8
 #EXTINF:-1 group-title="test-09-08" tvg-logo="../Channel/Logo/СТС HD.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_sts",СТС HD
 http://46.162.201.15:8000/play/a09c/index.m3u8
+
+
+#EXTINF:-1 group-title="Tест-17-08",Kinoman
+http://185.121.1.163:8083/Kinoman/index.m3u8
+#EXTINF:-1 group-title="Tест-17-08",Kinomiks
+http://185.121.1.163:8083/Kinomiks/index.m3u8
+#EXTINF:-1 group-title="Tест-17-08",Kinopremyera
+http://185.121.1.163:8083/Kinopremyera/index.m3u8
+#EXTINF:-1 group-title="Tест-17-08",Kinosemya
+http://185.121.1.163:8083/Kinosemya/index.m3u8
+#EXTINF:-1 group-title="Tест-17-08",Kino TV
+http://185.121.1.163:8083/KinoTV/index.m3u8
+#EXTINF:-1 group-title="Tест-17-08",Kinouzhas
+http://185.121.1.163:8083/Kinouzhas/index.m3u
+#EXTINF:-1 group-title="Tест-17-08",Muzhskoe Kino
+http://185.121.1.163:8083/MuzhskoeKino/index.m3u8
+#EXTINF:-1 group-title="Tест-17-08",TV 1000
+http://185.121.1.163:8083/TV1000/index.m3u8
+#EXTINF:-1 group-title="Tест-17-08",TV 1000 Kino
+http://185.121.1.163:8083/TV1000RusskoeKino/index.m3u8
+#EXTINF:-1 group-title="Tест-17-08",Indiyskoe Kino
+http://185.121.1.163:8083/IndiyskoeKino/index.m3u8
+#EXTINF:-1 group-title="Tест-17-08",Bollywood
+http://185.121.1.163:8083/Bollywood/index.m3u8
+#EXTINF:-1 group-title="Tест-17-08",Dom Kino
+http://185.121.1.163:8083/DomKino/index.m3u8
+#EXTINF:-1 group-title="Tест-17-08",Nashe Novoe Kino
+http://185.121.1.163:8083/NasheNovoeKino/index.m3u8
+#EXTINF:-1 group-title="Tест-17-08",Mosfilm
+http://185.121.1.163:8083/Mosfilm/index.m3u8
+#EXTINF:-1 group-title="Tест-17-08",Kineko
+http://185.121.1.163:8083/Kineko/index.m3u8
+#EXTINF:-1 group-title="Tест-17-08",Avto24
+http://185.121.1.163:8083/Avto24/index.m3u8
+#EXTINF:-1 group-title="Tест-17-08",Ohota Rybalka
+http://185.121.1.163:8083/OhotaRybalka/index.m3u8
+#EXTINF:-1 group-title="Tест-17-08",Navo
+http://185.121.1.163:8083/Navo/index.m3u8
