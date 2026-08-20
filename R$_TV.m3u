@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz" m3uautoload=1 cache=1000 aspect-ratio=16:9 deinterlace=1
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/rgk12fsehruttv6/update.png" group-title="INFO",🇺🇦 ОНОВЛЕНО 17.08.2026 🇺🇦
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/rgk12fsehruttv6/update.png" group-title="INFO",🇺🇦 ОНОВЛЕНО 20.08.2026 🇺🇦
 https://dl.dropbox.com/s/5o2opblp9lqjda1/KAROL&SANINA-VILNA.mp3
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/6ikxp06v3c6e03g/RO$TIK_TV.jpg" group-title="INFO",🇺🇦TELEGRAM @ROSTIK_TV🇺🇦
@@ -24,9 +24,10 @@ http://newsr1.roshen.live:8080/dGnp21flch/video.m3u8?token=XSOdznpeFPEURAYS
 http://portal.ott.pink/C5UK_1plus1SD/index.m3u8?token=927E03BF1A83DF5DE6628CAF78BA2C13
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2194.png"group-title="🇺🇦УКРАЇНА🇺🇦",1+1 Марафон
+http://89.33.29.115:8080/1plus1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2194.png"group-title="🇺🇦УКРАЇНА🇺🇦",1+1 Україна HD
-http://89.33.29.115:8080/1plus1/index.m3u8
+http://stream.mcquack.net/219/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2194.png"group-title="🇺🇦УКРАЇНА🇺🇦",1+1 Марафон HD
 http://stream.mcquack.net/172/index.m3u8
@@ -106,6 +107,9 @@ http://stream.mcquack.net/156/index.m3u8
 
 #EXTINF:-1 tvg-id="3309"tvg-logo="http://epg.it999.ru/img/3309.png"group-title="🇺🇦УКРАЇНА🇺🇦",Орел та Решка
 http://cdnua03.hls.tv/679/hls/f62d71219200da4130d13b21d23fb23c/4872/stream.m3u8
+
+#EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",Загублений Світ HD
+http://stream.mcquack.net/223/index.m3u8
 
 #EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",Стосується клжного HD
 http://cdnua03.hls.tv/679/hls/f62d71219200da4130d13b21d23fb23c/4882/stream.m3u8
@@ -206,7 +210,8 @@ http://portal.ott.pink/C5UK_ArmyTVHD/index.m3u8?token=927E03BF1A83DF5DE6628CAF78
 
 #EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",АРМІЯ TV
 
-#EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",D1 HD
+#EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",ECO TV
+http://stream.mcquack.net/222/index.m3u8
 
 #EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",1 Автомобільний HD
 
@@ -252,7 +257,8 @@ https://cdnua03.hls.tv/178/hls/6154479a1319705257f2335762b18f51/4838/stream.m3u8
 #EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",Апостроф
 https://ext.cdn.nashnet.tv/228.0.2.165/index.m3u8
 
-#EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",Радіо Свобода
+#EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",Miledy
+http://stream.mcquack.net/210/index.m3u8
 
 #EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",Чернівецький промінь HD
 
@@ -1129,9 +1135,11 @@ https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-centra
 
 #EXTINF:-1 group-title="КІНО📽",Box Ultrastar HD
 
-#EXTINF:-1 group-title="КІНО📽",Gold Line Exist HD
+#EXTINF:-1 group-title="КІНО📽",CineMan HD
+http://stream.mcquack.net/122/index.m3u8
 
-#EXTINF:-1 group-title="КІНО📽",Gold Line Psycho
+#EXTINF:-1 group-title="КІНО📽",CineMan 2
+http://stream.mcquack.net/115/index.m3u8
 
 #EXTINF:-1 group-title="КІНО📽",Military HD
 
@@ -1367,6 +1375,7 @@ http://345f89f7.ottrast.com/iptv/MVTMCC4UTAZVDT/18008/index.m3u8
 #EXTINF:-1 group-title="КІНО📽",FilmZone Plus HD
 
 #EXTINF:-1 group-title="КІНО📽",Plan_B
+http://stream.mcquack.net/196/index.m3u8
 
 #EXTINF:-1 group-title="КІНО📽",Duo3 HD
 
@@ -1469,6 +1478,7 @@ http://158.101.222.193:88/georgia_play.php?id=kinoujas
 #EXTINF:-1 tvg-id="2493"tvg-logo="http://epg.it999.ru/img/2493.png"group-title="КІНО📽",Киноужас FHD
 
 #EXTINF:-1 tvg-id="542"tvg-logo="http://epg.it999.ru/img/542.png"group-title="КІНО📽",Кинохит FHD
+http://stream.mcquack.net/126/index.m3u8
 
 #EXTINF:-1 tvg-id="542"tvg-logo="http://epg.it999.ru/img/542.png"group-title="КІНО📽",Кинохит HD
 http://158.101.222.193:88/georgia_play.php?id=kinohit
@@ -1527,6 +1537,7 @@ http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
 http://158.101.222.193:88/georgia_play.php?id=interesnoetv
 
 #EXTINF:-1 tvg-id="1584"tvg-logo="http://epg.it999.ru/img/1584.png"group-title="КІНО📽",Мужское Кино FHD
+http://stream.mcquack.net/107/index.m3u8
 
 #EXTINF:-1 tvg-id="1584"tvg-logo="http://epg.it999.ru/img/1584.png"group-title="КІНО📽",Мужское Кино [R]
 
@@ -1588,6 +1599,7 @@ http://kinowalk.hopto.org/vsetv_live
 #EXTINF:-1 tvg-id="127"tvg-logo="http://epg.it999.ru/img/127.png"group-title="КІНО📽",TV 1000 FHD
 
 #EXTINF:-1 tvg-id="127"tvg-logo="http://epg.it999.ru/img/127.png"group-title="КІНО📽",TV 1000 HD
+http://stream.mcquack.net/110/index.m3u8
 
 #EXTINF:-1 tvg-id="127"tvg-logo="http://epg.it999.ru/img/127.png"group-title="КІНО📽",TV 1000
 https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
@@ -1600,6 +1612,7 @@ https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="125"tvg-logo="http://epg.it999.ru/img/125.png"group-title="КІНО📽",TV 1000 Action HD
+http://stream.mcquack.net/100/index.m3u8
 
 #EXTINF:-1 tvg-id="125"tvg-logo="http://epg.it999.ru/img/125.png"group-title="КІНО📽",TV 1000 Action
 
@@ -1668,6 +1681,7 @@ http://stream.mcquack.net/64/index.m3u8
 #EXTINF:-1 tvg-id="2831"tvg-logo="http://epg.it999.ru/img/2831.png"group-title="КІНО📽",Наш Кинопоказ
 
 #EXTINF:-1 tvg-logo="http://ttvrun.one/uploads/uJFjBk8HZjUsv0dppRliBzn4nf0mCG.png" group-title="КІНО📽",START Air HD
+http://stream.mcquack.net/128/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://ttvrun.one/uploads/uJFjBk8HZjUsv0dppRliBzn4nf0mCG.png" group-title="КІНО📽",START Air
 
@@ -1685,6 +1699,7 @@ https://rpn3.bozztv.com/dvrfl07/ushba64/index.m3u8
 #EXTINF:-1 group-title="КІНО📽",Киносезон HD
 
 #EXTINF:-1 tvg-id="2018"tvg-logo="http://epg.it999.ru/img/2018.png"group-title="КІНО📽",Наше HD
+http://stream.mcquack.net/217/index.m3u8
 
 #EXTINF:-1 tvg-id="2018"tvg-logo="http://epg.it999.ru/img/2018.png"group-title="КІНО📽",Наше FHD
 
@@ -1706,6 +1721,7 @@ http://stream.mcquack.net/364/index.m3u8
 #EXTINF:-1 group-title="КІНО📽",Душевное FHD
 
 #EXTINF:-1 group-title="КІНО📽",Душевное HD
+http://stream.mcquack.net/213/index.m3u8
 
 #EXTINF:-1 group-title="КІНО📽",Криминальное HD
 
@@ -1902,18 +1918,21 @@ http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
 #EXTINF:-1 group-title="КІНО📽",Дом кино Премиум
 
 #EXTINF:-1 tvg-logo="http://ttvrun.one/uploads/uWQ0Y7ZuX8C7lEADua1WViSC5j2bq6.png" tvg-rec="1" catchup-type="auto" catchup_days="7" catchup_template="http://streamer.enchart.one/42/64d7dbe65e57521ae6b478a3541feea3269dd666/162/stream.m3u8?utc=${start}&lutc=${timestamp}" group-title="КІНО📽",Дом кино Премиум HD
+http://stream.mcquack.net/108/index.m3u8
 
 #EXTINF:-1 group-title="КІНО📽",Дом кино Премиум FHD
 
 #EXTINF:-1 tvg-id="659"tvg-logo="http://epg.it999.ru/img/659.png"group-title="КІНО📽",Fox FHD
 
 #EXTINF:-1 tvg-id="659"tvg-logo="http://epg.it999.ru/img/659.png"group-title="КІНО📽",Fox HD
+http://stream.mcquack.net/182/index.m3u8
 
 #EXTINF:-1 tvg-id="659"tvg-logo="http://epg.it999.ru/img/659.png"group-title="КІНО📽",Fox
 
 #EXTINF:-1 tvg-id="615"tvg-logo="http://epg.it999.ru/img/615.png"group-title="КІНО📽",Fox life FHD
 
 #EXTINF:-1 tvg-id="615"tvg-logo="http://epg.it999.ru/img/615.png"group-title="КІНО📽",Fox life HD
+http://stream.mcquack.net/129/index.m3u8
 
 #EXTINF:-1 tvg-id="615"tvg-logo="http://epg.it999.ru/img/615.png"group-title="КІНО📽",Fox life
 
@@ -1923,6 +1942,7 @@ http://hls127.freeott.top:8080/Amedia_1/video.m3u8
 #EXTINF:-1 tvg-logo="http://ttvrun.one/uploads/8UdiT7lt1EhQgsdqkyCLQEp0p3k7ZD.png" tvg-rec="1" catchup-type="auto" catchup_days="7" catchup_template="http://streamer.enchart.one/42/64d7dbe65e57521ae6b478a3541feea3269dd666/141/stream.m3u8?utc=${start}&lutc=${timestamp}" group-title="КІНО📽",A1
 
 #EXTINF:-1 tvg-id="1371"tvg-logo="http://epg.it999.ru/img/1371.png"group-title="КІНО📽",Amedia 1 FHD
+http://stream.mcquack.net/117/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://ttvrun.one/uploads/GLTL5bq2Ib6yPpfAsT1UzIN9WbuR0x.png" tvg-rec="1" catchup-type="auto" catchup_days="7" catchup_template="http://streamer.enchart.one/42/64d7dbe65e57521ae6b478a3541feea3269dd666/423/stream.m3u8?utc=${start}&lutc=${timestamp}" group-title="КІНО📽",A2
 
@@ -1973,8 +1993,10 @@ https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="53"tvg-logo="http://epg.it999.ru/img/53.png"group-title="КІНО📽",Русский Иллюзион HD
 
 #EXTINF:-1 tvg-id="1570"tvg-logo="http://epg.it999.ru/img/1570.png"group-title="КІНО📽",Русский Детектив
+http://stream.mcquack.net/204/index.m3u8
 
 #EXTINF:-1 tvg-id="994"tvg-logo="http://epg.it999.ru/img/994.png"group-title="КІНО📽",Русский Бестселлер
+http://stream.mcquack.net/208/index.m3u8
 
 #EXTINF:-1 tvg-id="994"tvg-logo="http://epg.it999.ru/img/994.png"group-title="КІНО📽",Русский Бестселлер [R]
 
@@ -2009,6 +2031,7 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="2506"tvg-logo="http://epg.it999.ru/img/2506.png"group-title="КІНО📽",Кино ТВ FHD
 
 #EXTINF:-1 tvg-id="2506"tvg-logo="http://epg.it999.ru/img/2506.png"group-title="КІНО📽",Кино ТВ FHD
+http://stream.mcquack.net/221/index.m3u8
 
 #EXTINF:-1 tvg-id="1037"tvg-logo="http://epg.it999.ru/img/1037.png"group-title="КІНО📽",Кино ТВ HD
 http://88.85.172.243:7006/play/a015
@@ -2024,6 +2047,7 @@ http://185.46.16.239:8000/Kino_TV
 #EXTINF:-1 group-title="КІНО📽",FlixSnip HD
 
 #EXTINF:-1 tvg-id="518"tvg-logo="http://epg.it999.ru/img/518.png"group-title="КІНО📽",НСТ HD
+http://stream.mcquack.net/207/index.m3u8
 
 #EXTINF:-1 tvg-id="518"tvg-logo="http://epg.it999.ru/img/518.png"group-title="КІНО📽",НСТ
 http://hls127.freeott.top:8080/HCTV/video.m3u8
@@ -2031,16 +2055,19 @@ http://hls127.freeott.top:8080/HCTV/video.m3u8
 #EXTINF:-1 tvg-id="2823"tvg-logo="http://epg.it999.ru/img/2823.png"group-title="КІНО📽",Viju+ Comedy
 
 #EXTINF:-1 tvg-id="2823"tvg-logo="http://epg.it999.ru/img/2823.png"group-title="КІНО📽",Viju+ Comedy HD
+http://stream.mcquack.net/201/index.m3u8
 
 #EXTINF:-1 tvg-id="2823"tvg-logo="http://epg.it999.ru/img/2823.png"group-title="КІНО📽",Viju+ Comedy FHD
 
 #EXTINF:-1 tvg-id="2824"tvg-logo="http://epg.it999.ru/img/2824.png"group-title="КІНО📽",Viju+ Megahit
 
 #EXTINF:-1 tvg-id="2824"tvg-logo="http://epg.it999.ru/img/2824.png"group-title="КІНО📽",Viju+ Megahit HD
+http://stream.mcquack.net/200/index.m3u8
 
 #EXTINF:-1 tvg-id="2824"tvg-logo="http://epg.it999.ru/img/2824.png"group-title="КІНО📽",VIP Megahit FHD
 
 #EXTINF:-1 tvg-id="2822"tvg-logo="http://epg.it999.ru/img/2822.png"group-title="КІНО📽",Viju+ Premiere HD
+http://stream.mcquack.net/202/index.m3u8
 
 #EXTINF:-1 tvg-id="2822"tvg-logo="http://epg.it999.ru/img/2822.png"group-title="КІНО📽",Viju+ Premiere HD
 
@@ -2060,6 +2087,7 @@ http://hls127.freeott.top:8080/HCTV/video.m3u8
 https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://ttvrun.one/uploads/tVif7GSM5UlUBrVRpMSDnni6RMcNtk.png" group-title="КІНО📽",Индийское кино [R]
+http://stream.mcquack.net/104/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://ttvrun.one/uploads/tVif7GSM5UlUBrVRpMSDnni6RMcNtk.png" group-title="КІНО📽",Индия ТВ
 http://hls127.freeott.top:8080/Zee_Russia/video.m3u8
@@ -2078,6 +2106,7 @@ http://158.101.222.193:88/georgia_play.php?id=red
 #EXTINF:-1 tvg-logo="http://ttvrun.one/uploads/YPtFU1jrAc6E6SCL9piVYxPsvlDZuW.png" tvg-rec="1" catchup-type="auto" catchup_days="7" catchup_template="http://streamer.enchart.one/42/64d7dbe65e57521ae6b478a3541feea3269dd666/152/stream.m3u8?utc=${start}&lutc=${timestamp}" group-title="КІНО📽",.sci-fi [R]
 
 #EXTINF:-1 tvg-logo="http://ttvrun.one/uploads/YPtFU1jrAc6E6SCL9piVYxPsvlDZuW.png" tvg-rec="1" catchup-type="auto" catchup_days="7" catchup_template="http://streamer.enchart.one/42/64d7dbe65e57521ae6b478a3541feea3269dd666/152/stream.m3u8?utc=${start}&lutc=${timestamp}" group-title="КІНО📽",.sci-fi HD
+http://stream.mcquack.net/180/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://ttvrun.one/uploads/8zphUrweAXT3F5xTpqoNyWWBTLjxd8.png" tvg-rec="1" catchup-type="auto" catchup_days="7" catchup_template="http://streamer.enchart.one/42/64d7dbe65e57521ae6b478a3541feea3269dd666/150/stream.m3u8?utc=${start}&lutc=${timestamp}" group-title="КІНО📽",.black
 
@@ -2153,6 +2182,7 @@ https://live-tolknews.cdnvideo.ru/tolknews/stream/tracks-v1a1/mono.m3u8
 http://176.118.197.101/Retro/index.m3u8
 
 #EXTINF:-1 tvg-id="2402"tvg-logo="http://epg.it999.ru/img/2402.png"group-title="КІНОКЛАСИКА🎥",РЕТРО [R]
+http://stream.mcquack.net/191/index.m3u8
 
 #EXTINF:-1 tvg-id="783"tvg-logo="http://epg.it999.ru/img/783.png"group-title="КІНОКЛАСИКА🎥",Ностальгия
 http://158.101.222.193:88/georgia_play.php?id=nostalgy
@@ -2451,6 +2481,7 @@ https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="СПОРТ ⚽",Eurosport 1
 
 #EXTINF:-1 group-title="СПОРТ ⚽",Eurosport 1 HD
+http://stream.mcquack.net/176/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tnds82/picons/master/EUROSPORT%201%20HD.png" tvg-rec="1" catchup-type="flussonic" catchup_days="1" group-title="СПОРТ ⚽",Eurosport 1 HD
 http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529591&extension=ts
@@ -2458,6 +2489,7 @@ http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529591&extensi
 #EXTINF:-1 group-title="СПОРТ ⚽",Eurosport 2
 
 #EXTINF:-1 group-title="СПОРТ ⚽",Eurosport 2 HD
+http://stream.mcquack.net/192/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tnds82/picons/master/EUROSPORT%202%20HD.png" tvg-rec="1" catchup-type="flussonic" catchup_days="1" group-title="СПОРТ ⚽",Eurosport 2 HD
 http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529592&extension=ts
@@ -2472,16 +2504,16 @@ http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529592&extensi
 http://stream.mcquack.net/166/index.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",KHL Prime HD
+http://stream.mcquack.net/178/index.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",NHL HD
 
 #EXTINF:-1 group-title="СПОРТ ⚽",Хоккейный HD
 
 #EXTINF:-1 group-title="СПОРТ ⚽",Матч! Боец
-http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529588&extension=ts
 
 #EXTINF:-1 group-title="СПОРТ ⚽",Матч! Боец HD
-http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529582&extension=ts
+http://stream.mcquack.net/112/index.m3u8
 
 #EXTINF:-1 tvg-name="inhockey" tvg-logo="https://i.ibb.co/4VVnJ22/image-13.png" group-title="СПОРТ ⚽",Inhockey
 
@@ -2489,10 +2521,8 @@ http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529582&extensi
 http://94.232.127.28:8080/sport1/index.m3u8
 
 #EXTINF:-1 tvg-id="3317"tvg-logo="http://epg.it999.ru/img/3317.png"group-title="СПОРТ ⚽",Спорт-1
-http://pars01.com:8080/play/live.php?mac=00:1A:79:43:B0:70&stream=566623&extension=ts
 
 #EXTINF:-1 tvg-id="3318"tvg-logo="http://epg.it999.ru/img/3318.png"group-title="СПОРТ ⚽",Спорт-2
-http://pars01.com:8080/play/live.php?mac=00:1A:79:43:B0:70&stream=566622&extension=ts
 
 #EXTINF:-1 tvg-id="Sport3.ua" tvg-name="спорт 3" tvg-logo="https://i.imgur.com/qkvavfH.png" group-title="СПОРТ ⚽",Sport 3 HD
 
@@ -2500,7 +2530,8 @@ http://pars01.com:8080/play/live.php?mac=00:1A:79:43:B0:70&stream=566622&extensi
 
 #EXTINF:-1 tvg-id="Sport4.ua" tvg-name="спорт 4" tvg-logo="https://i.imgur.com/xW6oGIx.png" group-title="СПОРТ ⚽",Sport 4
 
-#EXTINF:-1 group-title="СПОРТ ⚽",S Sport
+#EXTINF:-1 group-title="СПОРТ ⚽",Sport 5 HD
+http://stream.mcquack.net/212/index.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",S Sport 2
 
@@ -2527,6 +2558,7 @@ http://stream.mcquack.net/142/index.m3u8
 #EXTINF:-1 tvg-id="Матч! Футбол 3 HD" tvg-logo="https://lighticons.art/storage/images/channels/3ba8a8b28a85f4c30ba63ca4dd81f83d.png?d=1679724905" tvg-rec="0" group-title="СПОРТ ⚽",Матч! Футбол 3 HD 50fps
 
 #EXTINF:-1 tvg-id="Матч! Футбол 3 HD" tvg-logo="https://lighticons.art/storage/images/channels/3ba8a8b28a85f4c30ba63ca4dd81f83d.png?d=1679724905" tvg-rec="0" group-title="СПОРТ ⚽",Матч! Футбол 3 HD
+http://stream.mcquack.net/185/index.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",МАТЧ! Футбол 3
 http://185.57.68.33/110/mpegts
@@ -2534,6 +2566,7 @@ http://185.57.68.33/110/mpegts
 #EXTINF:-1 tvg-id="Матч! Игра HD" tvg-logo="https://lighticons.art/storage/images/channels/3e53181898106d61a9cd9d4b4157b1f0.png?d=1709804161" tvg-rec="1" catchup-type="auto" catchup_days="3" catchup_template="http://tv.lightiptv.cc/3e53181898106d61a9cd9d4b4157b1f0/video-${start}-${duration}.m3u8?token=0umkabuvwg" group-title="СПОРТ ⚽",Матч! Игра FHD
 
 #EXTINF:-1 group-title="СПОРТ ⚽",МАТЧ! Игра HD
+http://stream.mcquack.net/188/index.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",МАТЧ! Игра
 
@@ -2568,6 +2601,7 @@ http://stream.mcquack.net/169/index.m3u8
 #EXTINF:-1 tvg-id="Матч! Премьер HD" tvg-logo="https://lighticons.art/storage/images/channels/d63e54294c990165ec306a2818cf4573.png?d=1707374116" tvg-rec="0" group-title="СПОРТ ⚽",Матч! Премьер FHD
 
 #EXTINF:-1 group-title="СПОРТ ⚽",МАТЧ! Премьер HD
+http://stream.mcquack.net/193/index.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",МАТЧ! Премьер
 
@@ -3328,11 +3362,13 @@ https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",National Geographic FHD
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",National Geographic HD
+http://stream.mcquack.net/116/index.m3u8
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",National Geographic
 https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Animal Planet FHD
+http://stream.mcquack.net/114/index.m3u8
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Animal Planet HD
 http://89.33.29.115:8080/Animal_Planet_HD/index.m3u8
@@ -3379,6 +3415,7 @@ https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Viju History
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Viasat History FHD
+http://stream.mcquack.net/101/index.m3u8
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",History
 
@@ -3456,6 +3493,9 @@ https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Совершенно секретно
 
+#EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Авто плюс FHD
+http://stream.mcquack.net/186/index.m3u8
+
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Авто плюс HD
 http://158.101.222.193:88/georgia_play.php?id=autoplus
 
@@ -3488,10 +3528,12 @@ https://stream8.cinerama.uz/1040/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1039/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Discovery Channel HD
+http://stream.mcquack.net/177/index.m3u8
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Discovery Channel FHD
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",ID Xtra HD
+http://stream.mcquack.net/205/index.m3u8
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Investigation Discovery FHD
 
@@ -3529,6 +3571,7 @@ http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Food Network
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Food Network HD
+http://stream.mcquack.net/216/index.m3u8
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",TLC HD
 http://stream.mcquack.net/168/index.m3u8
@@ -3546,6 +3589,7 @@ http://stream.mcquack.net/168/index.m3u8
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Моя Планета
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Моя Планета HD
+http://stream.mcquack.net/124/index.m3u8
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Психология 21
 
@@ -3571,6 +3615,7 @@ https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",История [R]
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Приключения HD
+http://stream.mcquack.net/198/index.m3u8
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Приключения FHD
 
@@ -3583,6 +3628,7 @@ https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Нано ТВ
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Т-24
+http://stream.mcquack.net/209/index.m3u8
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Большая Азия
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
@@ -3597,7 +3643,8 @@ http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Travel Channel HD
 
-#EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Travel Channel FHD
+#EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Travel+Adventure FHD
+http://stream.mcquack.net/206/index.m3u8
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Travel XP HD
 
@@ -3766,7 +3813,7 @@ https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8?Playlis
 #EXTINF:-1 tvg-id="prokoptvrock" tvg-name="prokoptvrock" group-title="МУЗИКА🎵",MEGOGO Music
 
 #EXTINF:-1 group-title="МУЗИКА🎵",M-1 HD
-http://158.101.222.193:88/georgia_play.php?id=m1
+http://stream.mcquack.net/218/index.m3u8
 
 #EXTINF:-1 group-title="МУЗИКА🎵",M-2
 
@@ -4148,6 +4195,7 @@ https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 #EXTINF:-1 group-title="МУЗИКА🎵",Baraza Music HD
 
 #EXTINF:-1 group-title="МУЗИКА🎵",Europa Plus TV
+http://stream.mcquack.net/184/index.m3u8
 
 #EXTINF:-1 group-title="МУЗИКА🎵",Internet Music 2
 
