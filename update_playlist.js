@@ -137,7 +137,7 @@ async function main() {
   );
 
   await processPlaylist(
-    'http://linkspile.su/iptv/p/qCALdkR6ED5tiz/Sharavoz.Tv.ott.m3u?p=1',
+    'http://link-pile.ch/iptv/p/475uf8Fpmn3C27/Sharavoz.Tv.ott.m3u?p=1',
     'XXX Adult',                                   // одна категория (строка)
     'Sharovoz-TV.m3u'
   );
