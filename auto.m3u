@@ -2960,6 +2960,8 @@ http://stream.mcquack.net/329/index.m3u8
 http://stream.mcquack.net/326/index.m3u8
 #EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",36.6
 http://stream.mcquack.net/331/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",6 СОТОК
+http://stream.mcquack.net/405/index.m3u8
 #EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Прованс ТВ
 http://stream.mcquack.net/199/index.m3u8
 #EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Дім
@@ -3138,6 +3140,8 @@ http://stream.mcquack.net/164/index.m3u8
 http://stream.mcquack.net/231/index.m3u8
 #EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Travel+Adventure
 http://stream.mcquack.net/206/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",WILD
+http://stream.mcquack.net/149/index.m3u8
 #EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Охота и рыбалка
 http://stream.mcquack.net/155/index.m3u8
 #EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Охотник и рыболов
@@ -3238,6 +3242,8 @@ http://stream.mcquack.net/68/index.m3u8
 http://stream.mcquack.net/167/index.m3u8
 #EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",black
 http://stream.mcquack.net/263/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",CINEMAN
+http://stream.mcquack.net/122/index.m3u8
 #EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Время
 http://stream.mcquack.net/237/index.m3u8
 #EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",red
@@ -3280,10 +3286,50 @@ http://stream.mcquack.net/466/index.m3u8
 http://stream.mcquack.net/75/index.m3u8
 #EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Хит
 http://stream.mcquack.net/363/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",kino kanal
+http://stream.mcquack.net/470/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",CINEMA HD
+http://stream.mcquack.net/62/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",CineMax
+http://stream.mcquack.net/484/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Cine Max
+http://stream.mcquack.net/476/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",CineMax 2
+http://stream.mcquack.net/475/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",CineMax 3
+http://stream.mcquack.net/474/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",CineMax 4
+http://stream.mcquack.net/472/index.m3u8 
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",CineMax 5
+http://stream.mcquack.net/471/index.m3u8 
 #EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Enter-фільм
 http://stream.mcquack.net/322/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",BCU
-http://stream.mcquack.net/488/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH PREMIERE
+http://stream.mcquack.net/424/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH CINEMA
+http://stream.mcquack.net/423/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH RATING
+http://stream.mcquack.net/422/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH VHS
+http://stream.mcquack.net/428/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH FAMILY
+http://stream.mcquack.net/427/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH COMEDY
+http://stream.mcquack.net/426/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH tharilles
+http://stream.mcquack.net/434/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH romantic
+http://stream.mcquack.net/433/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH adventure
+http://stream.mcquack.net/432/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH horror
+http://stream.mcquack.net/431/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH series
+http://stream.mcquack.net/430/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH fantastic
+http://stream.mcquack.net/429/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH KIDS
+http://stream.mcquack.net/425/index.m3u8
 #EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Мосфильм. Золотая коллекция
 http://stream.mcquack.net/369/index.m3u8
 #EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Премиальное
