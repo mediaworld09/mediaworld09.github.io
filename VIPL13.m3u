@@ -1216,9 +1216,6 @@ http://u.vipl.one/high/putkbxz38h/640.m3u8
 #EXTINF:0 tvg-id="641" tvg-logo="http://epg.cdntv.online/img/641.png" group-title="Плюсовые", Россия 1 (+8)
 #EXTGRP:Плюсовые
 http://u.vipl.one/high/putkbxz38h/641.m3u8
-#EXTINF:0 tvg-id="642" tvg-logo="http://epg.cdntv.online/img/642.png" group-title="Плюсовые", Россия 1 (+9)
-#EXTGRP:Плюсовые
-http://u.vipl.one/high/putkbxz38h/642.m3u8
 #EXTINF:0 tvg-id="647" tvg-logo="http://epg.cdntv.online/img/647.png" group-title="Плюсовые", Россия К (+2)
 #EXTGRP:Плюсовые
 http://u.vipl.one/high/putkbxz38h/647.m3u8
@@ -2503,7 +2500,7 @@ http://u.vipl.one/high/putkbxz38h/1556.m3u8
 #EXTINF:0 tvg-id="1557" tvg-logo="http://epg.cdntv.online/img/1557.png" group-title="Кинозалы", MS Magic HD
 #EXTGRP:Кинозалы
 http://u.vipl.one/high/putkbxz38h/1557.m3u8
-#EXTINF:0 tvg-id="1558" tvg-logo="http://epg.cdntv.online/img/1558.png" group-title="Кинозалы", Clarity4K Netflix
+#EXTINF:0 tvg-id="1558" tvg-logo="http://epg.cdntv.online/img/1558.png" group-title="Кинозалы", Play-x UHD
 #EXTGRP:Кинозалы
 http://u.vipl.one/high/putkbxz38h/1558.m3u8
 #EXTINF:0 tvg-id="1559" tvg-logo="http://epg.cdntv.online/img/1559.png" group-title="Кинозалы", Clarity4K Кино СССР
@@ -4291,3 +4288,6 @@ http://u.vipl.one/high/putkbxz38h/2300.m3u8
 #EXTINF:0 tvg-id="2301" tvg-logo="http://epg.cdntv.online/img/2301.png" group-title="Новостные", РБК HD
 #EXTGRP:Новостные
 http://u.vipl.one/high/putkbxz38h/2301.m3u8
+#EXTINF:0 tvg-id="2302" tvg-logo="http://epg.cdntv.online/img/2302.png" group-title="Кинозалы", LIBERTY Планктон
+#EXTGRP:Кинозалы
+http://u.vipl.one/high/putkbxz38h/2302.m3u8

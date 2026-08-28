@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1,🛠Ревизия №-3 🚦27.08.2026|17-15|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
+#EXTINF:-1,🛠Ревизия №-1 🚦28.08.2026|13-10|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
 http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 
 
@@ -3897,3 +3897,279 @@ http://185.121.1.163:8083/Avto24/index.m3u8
 http://185.121.1.163:8083/OhotaRybalka/index.m3u8
 #EXTINF:-1 group-title="Tест-17-08",Navo
 http://185.121.1.163:8083/Navo/index.m3u8
+
+
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="TV1000" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/17770.png",TV1000
+http://195.64.140.147:10067/67
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="TV1000 Русское Кино" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/17810.png",TV1000 Кино
+http://195.64.140.147:10069/69
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="VIP Comedy HD" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/17795.png",VIP Comedy HD
+http://195.64.140.147:10070/70
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="VIP Megahit HD" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/17800.png",VIP Megahit HD
+http://195.64.140.147:10071/71
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="VIP Premiere HD" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/17805.png",VIP Premiere HD
+http://195.64.140.147:10072/72
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Киносемья" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/12820.png",Киносемья
+http://195.64.140.147:10042/42
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Киноужас" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/2965.png",Киноужас
+http://195.64.140.147:10043/43
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Киномикс" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/2990.png",Киномикс
+http://195.64.140.147:10044/44
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Киносвидание" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/2880.png",Киносвидание
+http://195.64.140.147:10045/45
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Кинохит" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/2970.png",Кинохит
+http://195.64.140.147:10046/46
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Кинокомедия" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/3070.png",Кинокомедия
+http://195.64.140.147:10047/47
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Киносерия" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/3710.png",Киносерия
+http://195.64.140.147:10048/48
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Индийское Кино" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/2650.png",Индийское Кино
+http://195.64.140.147:10049/49
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Кино ТВ" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/2995.png",Кино ТВ
+http://195.64.140.147:10050/50
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Мужское Кино" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/3722.png",Мужское Кино
+http://195.64.140.147:10051/51
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Родное Кино" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/3810.png",Родное Кино
+http://195.64.140.147:10052/52
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Наше Новое Кино" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/3830.png",Наше Новое Кино
+http://195.64.140.147:10053/53
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Настоящее Страшное ТВ" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/3970.png",Настоящее Страшное ТВ
+http://195.64.140.147:10054/54
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Синема HD" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/4610.png",Синема HD
+http://195.64.140.147:10055/55
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Дом Кино" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/1940.png",Дом Кино
+http://195.64.140.147:10057/57
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Киносат" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/2948.png",Киносат
+http://195.64.140.147:10058/58
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="A1" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/10100.png",A1
+http://195.64.140.147:10059/59
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="А2" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/10095.png",А2
+http://195.64.140.147:10060/60
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Классика Кино" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/3030.png",Классика Кино
+http://195.64.140.147:10061/61
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Amedia Premium" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/10104.png",Amedia Premium
+http://195.64.140.147:10062/62
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Start Air" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/17277.png",Start Air
+http://195.64.140.147:10063/63
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Киноджем 1" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/14025.png",Киноджем 1
+http://195.64.140.147:10064/64
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Paramount Comedy" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/16000.png",Paramount Comedy
+http://195.64.140.147:10065/65
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="FAN" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/11910.png",FAN
+http://195.64.140.147:10066/66
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Русский Бестселлер" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/5320.png", Бестселлер
+http://195.64.140.147:10075/75
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Русский Романс" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/5340.png", Романс
+http://195.64.140.147:10076/9976
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Русский Детектив" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/5325.png", Детектив
+http://195.64.140.147:10077/77
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Мосфильм" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/3682.png",Мосфильм
+http://195.64.140.147:10078/78
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="HollyWood HD" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/14935.png",HollyWood HD
+http://195.64.140.147:10079/79
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Кинеко" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/2865.png",Кинеко
+http://195.64.140.147:10080/80
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Дом Кино Премиум" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/1942.png",Дом Кино Премиум
+http://195.64.140.147:10081/81
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="План Б" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/16009.png",План Б
+http://195.64.140.147:10082/82
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Bolywood HD" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/10495.png",Bolywood HD
+http://195.64.140.147:10083/83
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Кинопремьера HD" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/3010.png",Кинопремьера HD
+http://195.64.140.147:10084/84
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="RED" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/17235.png",RED
+http://195.64.140.147:10085/85
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Sony SF" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/10150.png",Sony SF
+http://195.64.140.147:10086/86
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Sony TUR" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/None.png",Sony TUR
+http://195.64.140.147:10087/87
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="ЕвроКино" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/2050.png",ЕвроКино
+http://195.64.140.147:10088/88
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Мир Сериала" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/3655.png",Мир Сериала
+http://195.64.140.147:10089/89
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Иллюзион+" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/2630.png",Иллюзион+
+http://195.64.140.147:10090/90
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Любимое Кино" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/3360.png",Любимое Кино
+http://195.64.140.147:10091/91
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Комедия" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/3065.png",Комедия
+http://195.64.140.147:10092/92
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Русский Иллюзион" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/5330.png",Иллюзион
+http://195.64.140.147:10093/93
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Мировой сериал" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/3655.png",Мировой сериал
+http://195.64.140.147:10094/94
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="ТВ-3" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/5830.png",ТВ-3
+http://195.64.140.147:10014/9914
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Ю-ТВ" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/7200.png",Ю-ТВ
+http://195.64.140.147:10021/9921
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Че!" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/1980.png",Че!
+http://195.64.140.147:10022/22
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Матч Арена" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/5530.png",Матч Арена
+http://195.64.140.147:10096/96
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Матч Боец" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/1310.png",Матч Боец
+http://195.64.140.147:10097/97
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Sport 5" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/4200120.png",Sport 5
+http://195.64.140.147:10098/98
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Матч Страна" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/5690.png",Матч Страна
+http://195.64.140.147:10099/99
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Матч Футбол 1 HD" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/4120.png",Матч Футбол 1 HD
+http://195.64.140.147:10100/100
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Матч Футбол 2 HD" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/4125.png",Матч Футбол 2 HD
+http://195.64.140.147:10101/101
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Матч Футбол 3 HD" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/4140.png",Матч Футбол 3 HD
+http://195.64.140.147:10102/102
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Матч Премьер HD" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/3855.png",Матч Премьер HD
+http://195.64.140.147:10103/99103
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Матч Планета" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/4110.png",Матч Планета
+http://195.64.140.147:10104/104
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Матч HD" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/3480.png",Матч HD
+http://195.64.140.147:10105/105
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="TRT Sport" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/9000091.png",TRT Sport
+http://195.64.140.147:10106/106
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Футбол" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/6450.png",Футбол
+http://195.64.140.147:10107/107
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="КХЛ ТВ" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/3170.png",КХЛ ТВ
+http://195.64.140.147:10108/108
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="КХЛ ТВ HD" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/3170.png",КХЛ ТВ HD
+http://195.64.140.147:10109/109
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="M1 Global" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/None.png",M1 Global
+http://195.64.140.147:10110/110
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Мир Баскетболла" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/3653.png",Мир Баскетболла
+http://195.64.140.147:10111/111
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Extreme Sort Channel" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/11810.png",Extreme Sort Channel
+http://195.64.140.147:10112/112
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Viasat Sort" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/18535.png",Viasat Sort
+http://195.64.140.147:10113/113
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Eurosport 1 HD" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/11750.png",Eurosport 1 HD
+http://195.64.140.147:10114/114
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Eurosport 2 HD" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/11770.png",Eurosport 2 HD
+http://195.64.140.147:10115/115
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Ziggo Golf" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/None.png",Ziggo Golf
+http://195.64.140.147:10116/116
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Диалоги о Рыбалке" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/1835.png",Диалоги о Рыбалке
+http://195.64.140.147:10117/117
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Авто 24" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/1033.png",Авто 24
+http://195.64.140.147:10118/118
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Усадьба" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/6310.png",Усадьба
+http://195.64.140.147:10028/28
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Автоплюс" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/1030.png",Автоплюс
+http://195.64.140.147:10029/29
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Домашние Животные" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/1900.png",Домашние Животные
+http://195.64.140.147:10030/30
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Точка Отрыва" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/6151.png",Точка Отрыва
+http://195.64.140.147:10031/31
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Animal Planet HD" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/10115.png",Animal Planet HD
+http://195.64.140.147:10032/32
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Кухня ТВ" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/3150.png",Кухня ТВ
+http://195.64.140.147:10037/37
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="78 HD" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/None.png",78 HD
+http://195.64.140.147:10038/38
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Охота и Рыбалка" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/4530.png",Охота и Рыбалка
+http://195.64.140.147:10039/39
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Суббота" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/5740.png",Суббота
+http://195.64.140.147:10041/41
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Nickelodeon HD" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/15335.png",Nickelodeon HD
+http://195.64.140.147:10121/121
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Gulli Girl" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/12450.png",Gulli Girl
+http://195.64.140.147:10122/122
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Лёва HD" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/3235.png",Лёва HD
+http://195.64.140.147:10123/123
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Телеканал О!" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/4405.png",Телеканал О!
+http://195.64.140.147:10124/124
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Nick JR" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/15340.png",Nick JR
+http://195.64.140.147:10125/125
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Наше Детство" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/None.png",Наше Детство
+http://195.64.140.147:10126/126
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="МАМА" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/3460.png",МАМА
+http://195.64.140.147:10127/127
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Детский Мир" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/1830.png",Детский Мир
+http://195.64.140.147:10119/119
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="2*2" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/280.png",2*2
+http://195.64.140.147:10023/23
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Солнце" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/5476.png",Солнце
+http://195.64.140.147:10027/27
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Tiji" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/17650.png",Tiji
+http://195.64.140.147:10128/128
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="СТС Kids" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/5709.png",СТС Kids
+http://195.64.140.147:10129/129
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Супергерои" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/3450.png",Супергерои
+http://195.64.140.147:10130/130
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Уникум" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/1820.png",Уникум
+http://195.64.140.147:10131/131
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Мульт" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/3735.png",Мульт
+http://195.64.140.147:10132/132
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="ANI" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/10122.png",ANI
+http://195.64.140.147:10133/133
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Мультимузыка" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/3737.png",Мультимузыка
+http://195.64.140.147:10134/134
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Мультиландия" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/3730.png",Мультиландия
+http://195.64.140.147:10135/135
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="В Гостях у Сказки" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/None.png",В Гостях у Сказки
+http://195.64.140.147:10136/136
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="TLC" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/17670.png",TLC
+http://195.64.140.147:10137/137
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="КВН ТВ" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/2840.png",КВН ТВ
+http://195.64.140.147:10138/138
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Дикий" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/1840.png",Дикий
+http://195.64.140.147:10139/139
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="СТС Love" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/5715.png",СТС Love
+http://195.64.140.147:10140/140
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Продвижение" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/4867.png",Продвижение
+http://195.64.140.147:10142/142
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Пёс и Ко" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/4798.png",Пёс и Ко
+http://195.64.140.147:10143/143
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Viasat Explore" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/18431.png",Viasat Explore
+http://195.64.140.147:10144/144
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Viasat History" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/18490.png",Viasat History
+http://195.64.140.147:10145/145
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Viasat Nature" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/18510.png",Viasat Nature
+http://195.64.140.147:10146/146
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Viasat Nature/HistoryHD" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/18515.png",Viasat Nature/HistoryHD
+http://195.64.140.147:10147/147
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="National Geographic Wild HD" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/15270.png",National Geographic Wild HD
+http://195.64.140.147:10149/149
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Terra" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/17620.png",Terra
+http://195.64.140.147:10150/150
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Discovery Central Europe" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/11266.png",Discovery Central Europe
+http://195.64.140.147:10151/151
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Investogation Discovery" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/4000039.png",Investogation Discovery
+http://195.64.140.147:10152/152
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="National Geographic" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/15213.png",National Geographic
+http://195.64.140.147:10153/153
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Да Винчи" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/10951.png",Да Винчи
+http://195.64.140.147:10154/154
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Travel Channel" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/17710.png",Travel Channel
+http://195.64.140.147:10158/158
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="RTG" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/16920.png",RTG
+http://195.64.140.147:10159/159
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Моя Планета" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/3690.png",Моя Планета
+http://195.64.140.147:10161/161
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Охотник и Рыболов" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/4552.png",Охотник и Рыболов
+http://195.64.140.147:10162/162
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Бобёр" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/1305.png",Бобёр
+http://195.64.140.147:10163/163
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="БелРос" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/None.png",БелРос
+http://195.64.140.147:10164/164
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Время Далекое и Близкое" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/1490.png",Время Далекое и Близкое
+http://195.64.140.147:10166/166
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Ностальгия" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/3930.png",Ностальгия
+http://195.64.140.147:10167/167
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Поехали" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/4840.png",Поехали
+http://195.64.140.147:10168/168
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Galaxy" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/12410.png",Galaxy
+http://195.64.140.147:10169/169
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Зоопарк" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/19650.png",Зоопарк
+http://195.64.140.147:10170/170
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Здоровое" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/2472.png",Здоровое
+http://195.64.140.147:10171/171
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Большая Азия" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/1319.png",Большая Азия
+http://195.64.140.147:10175/175
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Наука" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/3992.png",Наука
+http://195.64.140.147:10176/176
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Доктор" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/1880.png",Доктор
+http://195.64.140.147:10177/177
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Живи" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/2250.png",Живи
+http://195.64.140.147:10178/178
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Конный Мир" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/3082.png",Конный Мир
+http://195.64.140.147:10179/179
+#EXTINF:-1 group-title="Tест-28-08" tvg-name="Загородная Жизнь" tvg-logo="https://iptv.91022.it/resources/portal/images/logo96/2410.png",Загородная Жизнь
+http://195.64.140.147:10180/180
