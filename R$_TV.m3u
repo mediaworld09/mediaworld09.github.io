@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz" m3uautoload=1 cache=1000 aspect-ratio=16:9 deinterlace=1
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/rgk12fsehruttv6/update.png" group-title="INFO",🇺🇦 ОНОВЛЕНО 20.08.2026 🇺🇦
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/rgk12fsehruttv6/update.png" group-title="INFO",🇺🇦 ОНОВЛЕНО 2.09.2026 🇺🇦
 https://dl.dropbox.com/s/5o2opblp9lqjda1/KAROL&SANINA-VILNA.mp3
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/6ikxp06v3c6e03g/RO$TIK_TV.jpg" group-title="INFO",🇺🇦TELEGRAM @ROSTIK_TV🇺🇦
@@ -52,6 +52,7 @@ http://newsr1.roshen.live:8080/28gM3kC0yp/video.m3u8?token=XSOdznpeFPEURAYS
 #EXTINF:-1 tvg-id="3310"tvg-logo="http://epg.it999.ru/img/3310.png"group-title="🇺🇦УКРАЇНА🇺🇦",Інтер
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2154.png"group-title="🇺🇦УКРАЇНА🇺🇦",Інтер + HD
+http://stream.mcquack.net/345/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2154.png"group-title="🇺🇦УКРАЇНА🇺🇦",Інтер +
 http://newsr1.roshen.live:8080/XhoSJiQlaI/video.m3u8?token=XSOdznpeFPEURAYS
@@ -148,10 +149,13 @@ http://newsr1.roshen.live:8080/9SCVrafNxx/video.m3u8?token=XSOdznpeFPEURAYS
 #EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",Zoom
 
 #EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",Твій серіал HD
+http://stream.mcquack.net/466/index.m3u8
 
-#EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",Cine+ Hit HD
+#EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",Світ+
+http://stream.mcquack.net/358/index.m3u8
 
-#EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",Cine+ HD
+#EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",ЗООСвіт
+http://stream.mcquack.net/460/index.m3u8
 
 #EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",DaVinci HD
 
@@ -220,8 +224,10 @@ http://stream.mcquack.net/222/index.m3u8
 #EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",Enter-Фільм
 
 #EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",Enter-Фільм HD
+http://89.33.29.115:8080/enter_film_ua/index.m3u8
 
 #EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",Фронт
+http://stream.mcquack.net/489/index.m3u8
 
 #EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",ДАЧА
 http://newsr1.roshen.live:8080/36dwPrZvoZ/video.m3u8?token=XSOdznpeFPEURAYS
@@ -344,7 +350,8 @@ http://195.189.60.253/mason_tv_hd/video.m3u8
 
 #EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",OBOZREVATEL
 
-#EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",МТМ (Запоріжжя)
+#EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",Перший Автомобільний HD
+http://stream.mcquack.net/404/index.m3u8
 
 #EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦",Аверс ТВ
 http://portal.ott.pink/C5UK_AversUA/index.m3u8?token=927E03BF1A83DF5DE6628CAF78BA2C13
@@ -1041,19 +1048,15 @@ https://fl1001.bozztv.com/ushba-m2/tracks-v1a1/mono.m3u8
 http://tinyurl.com/deoTVoleg/id857/video.m3u8?secret=z9uobpke
 
 #EXTINF:-1 group-title="КІНО📽",Хіт Комедія HD
-http://live-sw.ssai.tv/out/tiW4VwMqFwfGaH6ydfgIAKI5aqpqZ3YB/2.m3u8?ses=8968476213436760284_202&uid=8968476213436760284&c=hls14.sweet.tv
 
 #EXTINF:-1 group-title="КІНО📽",Хіт Бойовик HD
-http://live-sw.ssai.tv/out/2pz5ZJyVnEtfU06Jl7jI70P8oaspITVt/0.m3u8?ses=8968476213436760284_202&uid=8968476213436760284&c=hls14.sweet.tv
 
 #EXTINF:-1 group-title="КІНО📽",Asterix HD
 http://filmtvgroup.hopto.org/FILM_TV_GROUP/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
 
 #EXTINF:-1 group-title="КІНО📽",CherTV HD
-https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.kOLvChA3aUIE.m3u8
 
 #EXTINF:-1 group-title="КІНО📽",KinoMix HD
-https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.QK20f3fCHAGw.m3u8
 
 #EXTINF:-1 group-title="КІНО📽",Hit HD
 
@@ -1141,44 +1144,58 @@ http://stream.mcquack.net/122/index.m3u8
 #EXTINF:-1 group-title="КІНО📽",CineMan 2
 http://stream.mcquack.net/115/index.m3u8
 
-#EXTINF:-1 group-title="КІНО📽",Military HD
+#EXTINF:-1 group-title="КІНО📽",CineMan 3 HD
+http://stream.mcquack.net/484/index.m3u8
 
-#EXTINF:-1 group-title="КІНО📽",KLI Киносерия HD
+#EXTINF:-1 group-title="КІНО📽",CineMan Simpsons HD
+http://stream.mcquack.net/476/index.m3u8
 
-#EXTINF:-1 group-title="КІНО📽",VF Сериалы Турции
+#EXTINF:-1 group-title="КІНО📽",CineMan 4
+http://stream.mcquack.net/475/index.m3u8
 
-#EXTINF:-1 group-title="КІНО📽",Kinoshka Ukraine HD
+#EXTINF:-1 group-title="КІНО📽",CineMan 5 HD
+http://stream.mcquack.net/474/index.m3u8
 
-#EXTINF:-1 group-title="КІНО📽",Kinoshka Thriller HD
+#EXTINF:-1 group-title="КІНО📽",CineMan 6 HD
+http://stream.mcquack.net/472/index.m3u8
 
-#EXTINF:-1 group-title="КІНО📽",Yosso TV 4K
+#EXTINF:-1 group-title="КІНО📽",CineMan 7
+http://stream.mcquack.net/471/index.m3u8
 
-#EXTINF:-1 group-title="КІНО📽",Yosso TV New Кино
-http://6a0296cf.edemist.com/iptv/MVTMCC4UTAZVDT/14177/index.m3u8
+#EXTINF:-1 group-title="КІНО📽",FRESH Premiere HD
+http://stream.mcquack.net/424/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vodofun.tv/stalker_portal/misc/logos/320/3539.png" group-title="КІНО📽",VF Adventure
 
-#EXTINF:-1 group-title="КІНО📽",MM Спорт HD
+#EXTINF:-1 group-title="КІНО📽",FRESH CINEMA HD
+http://stream.mcquack.net/423/index.m3u8
 
-#EXTINF:-1 group-title="КІНО📽",MM Супергерои HD
+#EXTINF:-1 group-title="КІНО📽",FRESH RATING HD
+http://stream.mcquack.net/422/index.m3u8
 
-#EXTINF:-1 group-title="КІНО📽",MM Семейный 1 HD
+#EXTINF:-1 group-title="КІНО📽",FRESH FAMILY HD
+http://stream.mcquack.net/427/index.m3u8
 
-#EXTINF:-1 group-title="КІНО📽",MM Семейный 2 HD
+#EXTINF:-1 group-title="КІНО📽",FRESH COMEDY HD
+http://stream.mcquack.net/426/index.m3u8
 
-#EXTINF:-1 group-title="КІНО📽",MM UFO HD
+#EXTINF:-1 group-title="КІНО📽",FRESH THRILLER HD
+http://stream.mcquack.net/434/index.m3u8
 
-#EXTINF:-1 group-title="КІНО📽",MM NewFilm HD
+#EXTINF:-1 group-title="КІНО📽",FRESH ROMANTIC HD
+http://stream.mcquack.net/433/index.m3u8
 
-#EXTINF:-1 group-title="КІНО📽",MM Скорость HD
+#EXTINF:-1 group-title="КІНО📽",FRESH ADVENTURE HD
+http://stream.mcquack.net/432/index.m3u8
 
-#EXTINF:-1 group-title="КІНО📽",VF HBO HD
-http://wps5c7yt.rostelekom.xyz/iptv/MVTMCC4UTAZVDT/19428/index.m3u8
+#EXTINF:-1 group-title="КІНО📽",FRESH HORROR HD
+http://stream.mcquack.net/431/index.m3u8
 
-#EXTINF:-1 group-title="КІНО📽",SUSPENSE HD
-http://70a75805.rossteleccom.net/iptv/MVTMCC4UTAZVDT/2049/index.m3u8
+#EXTINF:-1 group-title="КІНО📽",FRESH SERIES HD
+http://stream.mcquack.net/430/index.m3u8
 
-#EXTINF:-1 group-title="КІНО📽",SUSPENSE FHD
+#EXTINF:-1 group-title="КІНО📽",FRESH FANTASTIC HD
+http://stream.mcquack.net/429/index.m3u8
 
 #EXTINF:-1 group-title="КІНО📽",CPS Action HD
 http://hls127.freeott.top:8080/CPS_Action/video.m3u8
@@ -1213,7 +1230,6 @@ http://hls127.freeott.top:8080/CPS_Cartoon/video.m3u8
 #EXTINF:-1 tvg-name="prokop tv history hd" tvg-logo="http://i122.fastpic.org/big/2023/0917/5e/87e6bad72a2c46667b2d4895cd58d75e.png" group-title="КІНО📽",Prokop TV History HD
 
 #EXTINF:-1 group-title="КІНО📽",Best Films HD
-http://f750131c.edemist.com/iptv/MVTMCC4UTAZVDT/11050/index.m3u8
 
 #EXTINF:-1 group-title="КІНО📽",a cinema
 
@@ -1222,14 +1238,12 @@ http://f750131c.edemist.com/iptv/MVTMCC4UTAZVDT/11050/index.m3u8
 #EXTINF:-1 group-title="КІНО📽",Кіно ТВ Бровари
 
 #EXTINF:-1 group-title="КІНО📽",Film TV Кінозал
-http://filmtvgroup.hopto.org/FILMTVKinozaL/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
 
 #EXTINF:-1 group-title="КІНО📽",Sky2000 HD
 
 #EXTINF:-1 group-title="КІНО📽",Кинозал! Хит
 
 #EXTINF:-1 group-title="КІНО📽",Кинодром
-http://24124fgrhtytry.akadatel.com/iptv/MVTMCC4UTAZVDT/31714/index.m3u8
 
 #EXTINF:-1 tvg-ids="270"tvg-logo="https://dl.dropbox.com/s/1fltyll7a22leka/HIGT.png"http://api.catcast.tv/api/timetable/epg.xml?channel_ids=270 group-title="КІНО📽",Муви ТВ
 
@@ -1285,7 +1299,6 @@ http://899dd80f.ottrast.com/iptv/MVTMCC4UTAZVDT/31914/index.m3u8
 http://kinowalk.hopto.org/kinojam_live
 
 #EXTINF:-1 group-title="КІНО📽",Bond 007 HD
-http://w8jxz0uh.ottclub.xyz/iptv/MVTMCC4UTAZVDT/31715/index.m3u8
 
 #EXTINF:-1 group-title="КІНО📽",Alpha Cinema HD
 
@@ -1315,9 +1328,11 @@ http://hls127.freeott.top:8080/MyTV3/mono.m3u8
 #EXTINF:-1 group-title="КІНО📽",My TV Hit HD
 http://hls127.freeott.top:8080/MyTV_Hit/mono.m3u8
 
-#EXTINF:-1 group-title="КІНО📽",1FILMAX HD
+#EXTINF:-1 group-title="КІНО📽",C1 HOT HD
+http://89.33.29.115:8080/Gold/index.m3u8
 
-#EXTINF:-1 group-title="КІНО📽",2FILMAX HD
+#EXTINF:-1 group-title="КІНО📽",C4 HOT HD
+http://89.33.29.115:8080/drama/index.m3u8
 
 #EXTINF:-1 group-title="КІНО📽",Kion Хит HD
 
@@ -1386,8 +1401,10 @@ http://stream.mcquack.net/196/index.m3u8
 #EXTINF:-1 group-title="КІНО📽",Kino 7
 
 #EXTINF:-1 group-title="КІНО📽",Kino 1 HD
+http://stream.mcquack.net/395/index.m3u8
 
 #EXTINF:-1 group-title="КІНО📽",Kino 2 HD
+http://stream.mcquack.net/465/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://b.radikal.ru/b28/2101/cf/bb812302ec7b.png" group-title="КІНО📽",SC TV 2
 
@@ -1726,9 +1743,9 @@ http://stream.mcquack.net/213/index.m3u8
 #EXTINF:-1 group-title="КІНО📽",Криминальное HD
 
 #EXTINF:-1 tvg-logo="http://ttvrun.one/uploads/XJDxHT2KMnhDbys8ru7i1PyRhQ7Wwm.png" group-title="КІНО📽",Шокирующее FHD
-http://vasilijsd.kazaktelekom.com/iptv/MVTMCC4UTAZVDT/6299/index.m3u8
 
 #EXTINF:-1 tvg-id="2309"tvg-logo="http://epg.it999.ru/img/2309.png"group-title="КІНО📽",Шокирующее HD
+http://stream.mcquack.net/75/index.m3u8
 
 #EXTINF:-1 tvg-id="2309"tvg-logo="http://epg.it999.ru/img/2309.png"group-title="КІНО📽",Шокирующее HD [R]
 
@@ -1775,7 +1792,8 @@ http://hls127.freeott.top:8080/XitHD/video.m3u8
 #EXTINF:-1 group-title="КІНО📽",Новосілки ТВ
 http://filmtvgroup.hopto.org/novosilkiTB/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
 
-#EXTINF:-1 group-title="КІНО📽",Cineman Thriller HD
+#EXTINF:-1 group-title="КІНО📽",CineMix HD
+http://stream.mcquack.net/470/index.m3u8
 
 #EXTINF:-1 group-title="КІНО📽",TV Boom HD
 https://kb.catcast.tv/content/49702/index.m3u8
@@ -1806,6 +1824,7 @@ https://rpn3.bozztv.com/dvrfl07/ushba64/index.m3u8
 #EXTINF:-1 group-title="КІНО📽",Romance Channel
 
 #EXTINF:-1 tvg-logo="http://ttvrun.one/uploads/LRT5KUt66gG7u4sue52QOjdFzgYAgF.png" group-title="КІНО📽",Дорама FHD
+http://89.33.29.115:8080/dorama_hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://ttvrun.one/uploads/LRT5KUt66gG7u4sue52QOjdFzgYAgF.png" group-title="КІНО📽",Дорама HD
 https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
@@ -2095,9 +2114,9 @@ http://hls127.freeott.top:8080/Zee_Russia/video.m3u8
 #EXTINF:-1 tvg-id="798"tvg-logo="http://epg.it999.ru/img/798.png"group-title="КІНО📽",ЛИК
 
 #EXTINF:-1 tvg-id="311"tvg-logo="http://epg.it999.ru/img/311.png"group-title="КІНО📽",.RED FHD
-http://158.101.222.193:88/georgia_play.php?id=red
 
 #EXTINF:-1 tvg-id="311"tvg-logo="http://epg.it999.ru/img/311.png"group-title="КІНО📽",.RED HD
+http://89.33.29.115:8080/SET/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://ttvrun.one/uploads/bk9k2MnYzHLm0nVKQCR00bXk3Dr87B.png" group-title="КІНО📽",.red
 
@@ -2113,6 +2132,7 @@ http://stream.mcquack.net/180/index.m3u8
 #EXTINF:-1 tvg-id="935"tvg-logo="http://epg.it999.ru/img/935.png"group-title="КІНО📽",.BLACK [R]
 
 #EXTINF:-1 tvg-id="935"tvg-logo="http://epg.it999.ru/img/935.png"group-title="КІНО📽",.BLACK HD
+http://stream.mcquack.net/263/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1598.jpg?t=1612601935" group-title="КІНОКЛАСИКА🎥",Советское кино HD
 
@@ -2147,7 +2167,8 @@ http://kinowalk.hopto.org/miiz90x_live
 
 #EXTINF:-1 group-title="КІНОКЛАСИКА🎥",Назад в СССР
 
-#EXTINF:-1 group-title="КІНОКЛАСИКА🎥",BCU VHS HD
+#EXTINF:-1 group-title="КІНОКЛАСИКА🎥",FRESH VHS HD
+http://stream.mcquack.net/428/index.m3u8
 
 #EXTINF:-1 group-title="КІНОКЛАСИКА🎥",VHS Forever HD
 http://kinowalk.hopto.org/vhs-forever_live
@@ -2328,7 +2349,7 @@ http://de.seetv.cc/play/5021/75BA4FC1CA5013E/video.m3u8
 #EXTINF:-1 group-title="СПОРТ ⚽",Arxi Sport
 
 #EXTINF:-1 group-title="СПОРТ ⚽",Суспільне Спорт FHD
-http://de.russkoe-iptv.com:8080/s/rcy9uell/suspilne-sport-ua-hd-orig.m3u8
+http://stream.mcquack.net/444/index.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",Суспільне Спорт HD
 http://ru.seetv.cc/play/316/75BA4FC1CA5013E/video.m3u8
@@ -2343,7 +2364,7 @@ https://vcdn.produck.company/out/ngrp:divisport_all/playlist.m3u8
 http://pl.seetv.cc/play/8788/75BA4FC1CA5013E/video.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",Dynamo Kyiv TV HD
-http://ru.seetv.cc/play/8797/75BA4FC1CA5013E/video.m3u8
+http://stream.mcquack.net/396/index.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",FightBox HD
 
@@ -2418,12 +2439,12 @@ https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="setanta-sport-ua-hd-orig" tvg-logo="http://static.g-cdn.app/streams/setanta-sport-ua-hd-orig.png" tvg-rec="1" catchup_days="7" group-title="СПОРТ ⚽",Setanta Sports UA FHD
 
 #EXTINF:-1 group-title="СПОРТ ⚽",Setanta Sports Ukraine HD
-http://lua.ath.cx:2600/live/setantasportshdua/index.m3u8?token=510f8e0f42ba98ca9127a58d72addafd
+http://stream.mcquack.net/313/index.m3u8
 
 #EXTINF:-1 tvg-id="setanta-sport-ua-hd-orig" tvg-logo="http://static.g-cdn.app/streams/setanta-sport-ua-hd-orig.png" tvg-rec="1" catchup_days="7" group-title="СПОРТ ⚽",Setanta Sports UA HD
 
 #EXTINF:-1 group-title="СПОРТ ⚽",Setanta Sports+ Ukraine HD
-http://178.63.98.119:8000/play/a01m/index.m3u8
+http://stream.mcquack.net/390/index.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",Setanta Sports Premium HD
 http://pl.seetv.cc/play/1650/75BA4FC1CA5013E/video.m3u8
@@ -2431,7 +2452,7 @@ http://pl.seetv.cc/play/1650/75BA4FC1CA5013E/video.m3u8
 #EXTINF:-1 tvg-id="6860" tvg-logo="http://epg.one/img2/6860.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",Setanta Ukraine Plus HD
 
 #EXTINF:-1 group-title="СПОРТ ⚽",Setanta Sports 1
-https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
+http://stream.mcquack.net/234/index.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",Setanta Sports 1 HD
 http://pl.seetv.cc/play/942/75BA4FC1CA5013E/video.m3u8
@@ -2446,7 +2467,7 @@ http://pl.seetv.cc/play/942/75BA4FC1CA5013E/video.m3u8
 http://pl.seetv.cc/play/943/75BA4FC1CA5013E/video.m3u8
 
 #EXTINF:-1 tvg-id="setanta-sport-plus-hd-orig" tvg-logo="http://static.g-cdn.app/streams/setanta-sport-plus-hd-orig.png" tvg-rec="1" catchup_days="7" group-title="СПОРТ ⚽",Setanta Sports 2 HD
-https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
+http://stream.mcquack.net/235/index.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",Setanta Qazaqstan HD
 
@@ -2484,7 +2505,6 @@ https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 http://stream.mcquack.net/176/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tnds82/picons/master/EUROSPORT%201%20HD.png" tvg-rec="1" catchup-type="flussonic" catchup_days="1" group-title="СПОРТ ⚽",Eurosport 1 HD
-http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529591&extension=ts
 
 #EXTINF:-1 group-title="СПОРТ ⚽",Eurosport 2
 
@@ -2492,7 +2512,6 @@ http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529591&extensi
 http://stream.mcquack.net/192/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tnds82/picons/master/EUROSPORT%202%20HD.png" tvg-rec="1" catchup-type="flussonic" catchup_days="1" group-title="СПОРТ ⚽",Eurosport 2 HD
-http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529592&extension=ts
 
 #EXTINF:-1 tvg-id="eurosport-4k" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="СПОРТ ⚽",Eurosport 4K
 
@@ -2518,17 +2537,21 @@ http://stream.mcquack.net/112/index.m3u8
 #EXTINF:-1 tvg-name="inhockey" tvg-logo="https://i.ibb.co/4VVnJ22/image-13.png" group-title="СПОРТ ⚽",Inhockey
 
 #EXTINF:-1 tvg-id="Sport1Baltic.ua" tvg-name="sport 1 baltic [ua]" tvg-logo="https://i.imgur.com/aBY7QK4.png" group-title="СПОРТ ⚽",Sport 1 Baltic HD
-http://94.232.127.28:8080/sport1/index.m3u8
+http://stream.mcquack.net/461/index.m3u8
 
-#EXTINF:-1 tvg-id="3317"tvg-logo="http://epg.it999.ru/img/3317.png"group-title="СПОРТ ⚽",Спорт-1
+#EXTINF:-1 tvg-id="3317"tvg-logo="http://epg.it999.ru/img/3317.png"group-title="СПОРТ ⚽",Sport 1
+http://stream.mcquack.net/391/index.m3u8
 
-#EXTINF:-1 tvg-id="3318"tvg-logo="http://epg.it999.ru/img/3318.png"group-title="СПОРТ ⚽",Спорт-2
+#EXTINF:-1 tvg-id="3318"tvg-logo="http://epg.it999.ru/img/3318.png"group-title="СПОРТ ⚽",Sport 2
+http://stream.mcquack.net/392/index.m3u8
 
 #EXTINF:-1 tvg-id="Sport3.ua" tvg-name="спорт 3" tvg-logo="https://i.imgur.com/qkvavfH.png" group-title="СПОРТ ⚽",Sport 3 HD
+http://stream.mcquack.net/393/index.m3u8
 
 #EXTINF:-1 tvg-id="Sport3.ua" tvg-name="спорт 3" tvg-logo="https://i.imgur.com/qkvavfH.png" group-title="СПОРТ ⚽",Sport 3 HD
 
 #EXTINF:-1 tvg-id="Sport4.ua" tvg-name="спорт 4" tvg-logo="https://i.imgur.com/xW6oGIx.png" group-title="СПОРТ ⚽",Sport 4
+http://stream.mcquack.net/394/index.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",Sport 5 HD
 http://stream.mcquack.net/212/index.m3u8
@@ -2618,7 +2641,7 @@ https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
 http://stream.mcquack.net/154/index.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",Go3 Sport 1 HD
-http://ronaldo.tvfor.pro/lUommodkJn/l6i55j264w9187bml44emph2
+http://stream.mcquack.net/416/index.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",Go3 Sport 2 HD
 
@@ -3345,6 +3368,7 @@ http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="LOVE-nature-4k" group-title="ПІЗНАВАЛЬНІ🌍",LOVE Nature 4K [R]
 
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="LOVE-nature-4k" group-title="ПІЗНАВАЛЬНІ🌍",LOVE Nature FHD
+http://195.64.140.147:10214/214
 
 #EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",The Explorers HD
 
