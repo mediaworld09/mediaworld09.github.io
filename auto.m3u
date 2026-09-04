@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1,🛠Ревизия №-1 🚦03.09.2026|14-30|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
+#EXTINF:-1,🛠Ревизия №-1 🚦04.09.2026|06-40|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
 http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 
 
@@ -85,6 +85,20 @@ http://31.148.48.15:80/Russkiy_Roman/index.m3u8
 http://31.148.48.15:80/Russkiy_Roman_HD/index.m3u8
 #EXTINF:-1 group-title="Каналы с VPN",SD REX
 http://31.148.48.15:80/Russkiy_Ekstrim/index.m3u8
+#EXTINF:-1 tvg-id="detvoraplushd" tvg-name="ДетвораПлюс HD" group-title="Каналы с VPN",ДетвораПлюс HD
+https://cdn.rostelekom-tv.xyz/live/WAYU4PTJ_VVz4wAQ.m3u8
+#EXTINF:-1 tvg-id="velvetmenthd" tvg-name="Velvet. Ментовские Сериалы HD" group-title="Каналы с VPN",Velvet. Ментовские Сериалы HD
+https://cdn.rostelekom-tv.xyz/live/tWQ0ge9rspBQhRst.m3u8
+#EXTINF:-1 tvg-id="velvetsovetskoehd" tvg-name="Velvet. Советское кино HD" group-title="Каналы с VPN",Velvet. Советское кино HD
+https://cdn.rostelekom-tv.xyz/live/nF4sFCa49nFPHSF_.m3u8
+#EXTINF:-1 tvg-id="velvetzolotohd" tvg-name="Velvet. Золотая коллекция HD" group-title="Каналы с VPN",Velvet. Золотая коллекция HD
+https://cdn.rostelekom-tv.xyz/live/v804qFZr0QVQ1s9Z.m3u8
+#EXTINF:-1 tvg-id="velveteurkinohd" tvg-name="Velvet. Европейское кино HD" group-title="Каналы с VPN",Velvet. Европейское кино HD
+https://cdn.rostelekom-tv.xyz/live/LQ3j0n7j0Kq4OQm8.m3u8
+#EXTINF:-1 tvg-id="serialyhityhd" tvg-name="Velvet. Сериалы Хиты HD" group-title="Каналы с VPN",Velvet. Сериалы Хиты HD
+https://cdn.rostelekom-tv.xyz/live/DeWr3Sgw1Aj2lJd0.m3u8
+#EXTINF:-1 tvg-id="velvetsvatyhd" tvg-name="Velvet. Сваты HD" tvg-logo="https://cdn.rostelekom-tv.xyz/picons/5c274519467ec9c5.png" group-title="Каналы с VPN",Velvet. Сваты HD
+https://cdn.rostelekom-tv.xyz/live/HSxyMqDlSVR54UTN.m3u8
 
 
 #EXTINF:-1 group-title="Кинозалы (VPN)" tvg-logo="https://static.goodgame.ru/files/avatars/av_1301254_55T4.jpg",Katastroff
@@ -4167,3 +4181,546 @@ http://195.64.140.147:10114/114
 http://195.64.140.147:10115/115
 #EXTINF:-1 group-title="LLC G&G-Telecom",Ziggo Golf
 http://195.64.140.147:10116/116
+
+
+
+#EXTINF:-1 tvg-id="0648" tvg-name="Play-X Доктор хаус"  group-title="Play-X-VPN",Play-X Доктор хаус
+http://playxapp.play-x.app:2095/0648/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0973" tvg-name="Play-X Дрейк и Джош"  group-title="Play-X-VPN",Play-X Дрейк и Джош
+http://playxapp.play-x.app:2095/0973/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0372" tvg-name="Play-X Друзья"  group-title="Play-X-VPN",Play-X Друзья
+http://playxapp.play-x.app:2095/0372/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0360" tvg-name="Play-X Ее звали Никита"  group-title="Play-X-VPN",Play-X Ее звали Никита
+http://playxapp.play-x.app:2095/0360/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0432" tvg-name="Play-X Женаты и с детьми"  group-title="Play-X-VPN",Play-X Женаты и с детьми
+http://playxapp.play-x.app:2095/0432/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="80607" tvg-name="Play-X Женщина с ароматом кофе"  group-title="Play-X-VPN",Play-X Женщина с ароматом кофе
+http://playxapp.play-x.app:2095/80607/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="14101" tvg-name="Play-X Зачарованные"  group-title="Play-X-VPN",Play-X Зачарованные
+http://playxapp.play-x.app:2095/14101/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="09211" tvg-name="Play-X Звездный путь"  group-title="Play-X-VPN",Play-X Звездный путь
+http://playxapp.play-x.app:2095/09211/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="09212" tvg-name="Play-X Звездный путь Вояджер"  group-title="Play-X-VPN",Play-X Звездный путь Вояджер
+http://playxapp.play-x.app:2095/09212/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0407" tvg-name="Play-X Звёздные врата: Атлантида"  group-title="Play-X-VPN",Play-X Звёздные врата: Атлантида
+http://playxapp.play-x.app:2095/0407/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0361" tvg-name="Play-X Зена"  group-title="Play-X-VPN",Play-X Зена
+http://playxapp.play-x.app:2095/0361/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0059" tvg-name="Play-X Игра престолов"  group-title="Play-X-VPN",Play-X Игра престолов
+http://playxapp.play-x.app:2095/0059/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="36461" tvg-name="Play-X Извне"  group-title="Play-X-VPN",Play-X Извне
+http://playxapp.play-x.app:2095/36461/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="3001" tvg-name="Play-X Клан Сопрано"  group-title="Play-X-VPN",Play-X Клан Сопрано
+http://playxapp.play-x.app:2095/3001/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0401" tvg-name="Play-X Клиника"  group-title="Play-X-VPN",Play-X Клиника
+http://playxapp.play-x.app:2095/0401/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0813" tvg-name="Play-X Коломбо"  group-title="Play-X-VPN",Play-X Коломбо
+http://playxapp.play-x.app:2095/0813/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0362" tvg-name="Play-X Крутой Уокер"  group-title="Play-X-VPN",Play-X Крутой Уокер
+http://playxapp.play-x.app:2095/0362/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0386" tvg-name="Play-X Мисс Марпл Агаты Кристи"  group-title="Play-X-VPN",Play-X Мисс Марпл Агаты Кристи
+http://playxapp.play-x.app:2095/0386/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="3002" tvg-name="Play-X Мистер Робот"  group-title="Play-X-VPN",Play-X Мистер Робот
+http://playxapp.play-x.app:2095/3002/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="3004" tvg-name="Play-X Наследники"  group-title="Play-X-VPN",Play-X Наследники
+http://playxapp.play-x.app:2095/3004/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="3052" tvg-name="Play-X Она написала убийство"  group-title="Play-X-VPN",Play-X Она написала убийство
+http://playxapp.play-x.app:2095/3052/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="3055" tvg-name="Play-X Полтергейст: Наследие"  group-title="Play-X-VPN",Play-X Полтергейст: Наследие
+http://playxapp.play-x.app:2095/3055/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="16680" tvg-name="Play-X Пуаро"  group-title="Play-X-VPN",Play-X Пуаро
+http://playxapp.play-x.app:2095/16680/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="3040" tvg-name="Play-X Сваты"  group-title="Play-X-VPN",Play-X Сваты
+http://playxapp.play-x.app:2095/3040/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0147" tvg-name="Play-X Сверхъестественное"  group-title="Play-X-VPN",Play-X Сверхъестественное
+http://playxapp.play-x.app:2095/0147/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0359" tvg-name="Play-X Секретные материалы"  group-title="Play-X-VPN",Play-X Секретные материалы
+http://playxapp.play-x.app:2095/0359/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0366" tvg-name="Play-X Служба 911"  group-title="Play-X-VPN",Play-X Служба 911
+http://playxapp.play-x.app:2095/0366/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0435" tvg-name="Play-X Спрут"  group-title="Play-X-VPN",Play-X Спрут
+http://playxapp.play-x.app:2095/0435/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="3057" tvg-name="Play-X Сумеречная зона"  group-title="Play-X-VPN",Play-X Сумеречная зона
+http://playxapp.play-x.app:2095/3057/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0821" tvg-name="Play-X Твин Пикс"  group-title="Play-X-VPN",Play-X Твин Пикс
+http://playxapp.play-x.app:2095/0821/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0368" tvg-name="Play-X Теория большого взрыва"  group-title="Play-X-VPN",Play-X Теория большого взрыва
+http://playxapp.play-x.app:2095/0368/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="3054" tvg-name="Play-X Тюрьма Оз"  group-title="Play-X-VPN",Play-X Тюрьма Оз
+http://playxapp.play-x.app:2095/3054/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="00799" tvg-name="Play-X Удивительные странствия Геракла"  group-title="Play-X-VPN",Play-X Удивительные странствия Геракла
+http://playxapp.play-x.app:2095/00799/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0501" tvg-name="Play-X Черная жемчужина(1994)"  group-title="Play-X-VPN",Play-X Черная жемчужина(1994)
+http://playxapp.play-x.app:2095/0501/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0027" tvg-name="Play-X Чисто английское убийство"  group-title="Play-X-VPN",Play-X Чисто английское убийство
+http://playxapp.play-x.app:2095/0027/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="60381" tvg-name="Play-X Эш против Зловещих мертвецов"  group-title="Play-X-VPN",Play-X Эш против Зловещих мертвецов
+http://playxapp.play-x.app:2095/60381/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0500" tvg-name="Play-X Яго темная страсть (2001)"  group-title="Play-X-VPN",Play-X Яго темная страсть (2001)
+http://playxapp.play-x.app:2095/0500/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="3019" tvg-name="Play-X Адам Сэндлер"  group-title="Play-X-VPN",Play-X Адам Сэндлер
+http://playxapp.play-x.app:2095/3019/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0339" tvg-name="Play-X Ален Делон"  group-title="Play-X-VPN",Play-X Ален Делон
+http://playxapp.play-x.app:2095/0339/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0303" tvg-name="Play-X Аль Пачино"  group-title="Play-X-VPN",Play-X Аль Пачино
+http://playxapp.play-x.app:2095/0303/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="3032" tvg-name="Play-X Альфред Хичкок"  group-title="Play-X-VPN",Play-X Альфред Хичкок
+http://playxapp.play-x.app:2095/3032/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0340" tvg-name="Play-X Андриано Челентано"  group-title="Play-X-VPN",Play-X Андриано Челентано
+http://playxapp.play-x.app:2095/0340/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0376" tvg-name="Play-X Антонио Бандерас"  group-title="Play-X-VPN",Play-X Антонио Бандерас
+http://playxapp.play-x.app:2095/0376/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0064" tvg-name="Play-X Арнольнд Шварцнегер"  group-title="Play-X-VPN",Play-X Арнольнд Шварцнегер
+http://playxapp.play-x.app:2095/0064/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="60559" tvg-name="Play-X Боло Йен"  group-title="Play-X-VPN",Play-X Боло Йен
+http://playxapp.play-x.app:2095/60559/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0919" tvg-name="Play-X Бред Пит"  group-title="Play-X-VPN",Play-X Бред Пит
+http://playxapp.play-x.app:2095/0919/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0117" tvg-name="Play-X Брюс Уиллис"  group-title="Play-X-VPN",Play-X Брюс Уиллис
+http://playxapp.play-x.app:2095/0117/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0081" tvg-name="Play-X Вин Дизель"  group-title="Play-X-VPN",Play-X Вин Дизель
+http://playxapp.play-x.app:2095/0081/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0380" tvg-name="Play-X Вуди Аллен"  group-title="Play-X-VPN",Play-X Вуди Аллен
+http://playxapp.play-x.app:2095/0380/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0341" tvg-name="Play-X Гойко Митич"  group-title="Play-X-VPN",Play-X Гойко Митич
+http://playxapp.play-x.app:2095/0341/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="3050" tvg-name="Play-X Гэри Дэниелс"  group-title="Play-X-VPN",Play-X Гэри Дэниелс
+http://playxapp.play-x.app:2095/3050/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0305" tvg-name="Play-X Деми Мур"  group-title="Play-X-VPN",Play-X Деми Мур
+http://playxapp.play-x.app:2095/0305/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0103" tvg-name="Play-X Джейсон Стэйтем"  group-title="Play-X-VPN",Play-X Джейсон Стэйтем
+http://playxapp.play-x.app:2095/0103/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0073" tvg-name="Play-X Джеки Чан"  group-title="Play-X-VPN",Play-X Джеки Чан
+http://playxapp.play-x.app:2095/0073/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0918" tvg-name="Play-X Джет Ли"  group-title="Play-X-VPN",Play-X Джет Ли
+http://playxapp.play-x.app:2095/0918/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0110" tvg-name="Play-X Джим Керри"  group-title="Play-X-VPN",Play-X Джим Керри
+http://playxapp.play-x.app:2095/0110/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="59711" tvg-name="Play-X Джон Вуд"  group-title="Play-X-VPN",Play-X Джон Вуд
+http://playxapp.play-x.app:2095/59711/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="3033" tvg-name="Play-X Джон Траволта"  group-title="Play-X-VPN",Play-X Джон Траволта
+http://playxapp.play-x.app:2095/3033/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0307" tvg-name="Play-X Джонни Депп"  group-title="Play-X-VPN",Play-X Джонни Депп
+http://playxapp.play-x.app:2095/0307/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0308" tvg-name="Play-X Джордж Клуни"  group-title="Play-X-VPN",Play-X Джордж Клуни
+http://playxapp.play-x.app:2095/0308/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0309" tvg-name="Play-X Джулия Робертс"  group-title="Play-X-VPN",Play-X Джулия Робертс
+http://playxapp.play-x.app:2095/0309/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0920" tvg-name="Play-X Дольф Лундгрен"  group-title="Play-X-VPN",Play-X Дольф Лундгрен
+http://playxapp.play-x.app:2095/0920/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="3017" tvg-name="Play-X Дон Дракон Уилсон"  group-title="Play-X-VPN",Play-X Дон Дракон Уилсон
+http://playxapp.play-x.app:2095/3017/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0343" tvg-name="Play-X Дрю Бэрримор"  group-title="Play-X-VPN",Play-X Дрю Бэрримор
+http://playxapp.play-x.app:2095/0343/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="43791" tvg-name="Play-X Дэвид Суше"  group-title="Play-X-VPN",Play-X Дэвид Суше
+http://playxapp.play-x.app:2095/43791/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0637" tvg-name="Play-X Ежи Штур"  group-title="Play-X-VPN",Play-X Ежи Штур
+http://playxapp.play-x.app:2095/0637/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0106" tvg-name="Play-X Жан клод вандам"  group-title="Play-X-VPN",Play-X Жан клод вандам
+http://playxapp.play-x.app:2095/0106/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0213" tvg-name="Play-X Жан поль Бельмондо"  group-title="Play-X-VPN",Play-X Жан поль Бельмондо
+http://playxapp.play-x.app:2095/0213/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0040" tvg-name="Play-X Жан Рено"  group-title="Play-X-VPN",Play-X Жан Рено
+http://playxapp.play-x.app:2095/0040/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0045" tvg-name="Play-X Квентин Тарантино"  group-title="Play-X-VPN",Play-X Квентин Тарантино
+http://playxapp.play-x.app:2095/0045/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0384" tvg-name="Play-X Киллиан Мёрфи"  group-title="Play-X-VPN",Play-X Киллиан Мёрфи
+http://playxapp.play-x.app:2095/0384/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0824" tvg-name="Play-X Кира Найтли"  group-title="Play-X-VPN",Play-X Кира Найтли
+http://playxapp.play-x.app:2095/0824/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0922" tvg-name="Play-X Крис Коламбус"  group-title="Play-X-VPN",Play-X Крис Коламбус
+http://playxapp.play-x.app:2095/0922/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0311" tvg-name="Play-X Кэмерон Диас"  group-title="Play-X-VPN",Play-X Кэмерон Диас
+http://playxapp.play-x.app:2095/0311/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0312" tvg-name="Play-X Леонардо Ди Каприо"  group-title="Play-X-VPN",Play-X Леонардо Ди Каприо
+http://playxapp.play-x.app:2095/0312/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="90606" tvg-name="Play-X Лесли Нильсен"  group-title="Play-X-VPN",Play-X Лесли Нильсен
+http://playxapp.play-x.app:2095/90606/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0072" tvg-name="Play-X Луи де Фюнес"  group-title="Play-X-VPN",Play-X Луи де Фюнес
+http://playxapp.play-x.app:2095/0072/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0345" tvg-name="Play-X Майкл Дуглас"  group-title="Play-X-VPN",Play-X Майкл Дуглас
+http://playxapp.play-x.app:2095/0345/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0652" tvg-name="Play-X Маттиас Хьюз"  group-title="Play-X-VPN",Play-X Маттиас Хьюз
+http://playxapp.play-x.app:2095/0652/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0923" tvg-name="Play-X Мел Гибсон"  group-title="Play-X-VPN",Play-X Мел Гибсон
+http://playxapp.play-x.app:2095/0923/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0346" tvg-name="Play-X Милла Йовович"  group-title="Play-X-VPN",Play-X Милла Йовович
+http://playxapp.play-x.app:2095/0346/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0404" tvg-name="Play-X Николас Кейдж"  group-title="Play-X-VPN",Play-X Николас Кейдж
+http://playxapp.play-x.app:2095/0404/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0403" tvg-name="Play-X Николь Кидман"  group-title="Play-X-VPN",Play-X Николь Кидман
+http://playxapp.play-x.app:2095/0403/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0905" tvg-name="Play-X Паоло Вилладжо"  group-title="Play-X-VPN",Play-X Паоло Вилладжо
+http://playxapp.play-x.app:2095/0905/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0124" tvg-name="Play-X Пьер Ришар"  group-title="Play-X-VPN",Play-X Пьер Ришар
+http://playxapp.play-x.app:2095/0124/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0428" tvg-name="Play-X Ридли Скотт"  group-title="Play-X-VPN",Play-X Ридли Скотт
+http://playxapp.play-x.app:2095/0428/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0052" tvg-name="Play-X Сильвестр Сталлоне"  group-title="Play-X-VPN",Play-X Сильвестр Сталлоне
+http://playxapp.play-x.app:2095/0052/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="3015" tvg-name="Play-X Синтия Ротрок"  group-title="Play-X-VPN",Play-X Синтия Ротрок
+http://playxapp.play-x.app:2095/3015/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0071" tvg-name="Play-X Стивен Сигал"  group-title="Play-X-VPN",Play-X Стивен Сигал
+http://playxapp.play-x.app:2095/0071/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0916" tvg-name="Play-X Стивен Спилберг"  group-title="Play-X-VPN",Play-X Стивен Спилберг
+http://playxapp.play-x.app:2095/0916/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0317" tvg-name="Play-X Том Хэнкс"  group-title="Play-X-VPN",Play-X Том Хэнкс
+http://playxapp.play-x.app:2095/0317/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="26164" tvg-name="Play-X Тони Джа"  group-title="Play-X-VPN",Play-X Тони Джа
+http://playxapp.play-x.app:2095/26164/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0318" tvg-name="Play-X Уил смит"  group-title="Play-X-VPN",Play-X Уил смит
+http://playxapp.play-x.app:2095/0318/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0378" tvg-name="Play-X Хью Джекман"  group-title="Play-X-VPN",Play-X Хью Джекман
+http://playxapp.play-x.app:2095/0378/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="94342" tvg-name="Play-X Чак Норрис"  group-title="Play-X-VPN",Play-X Чак Норрис
+http://playxapp.play-x.app:2095/94342/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0394" tvg-name="Play-X Чарльз Бронсон"  group-title="Play-X-VPN",Play-X Чарльз Бронсон
+http://playxapp.play-x.app:2095/0394/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="73382" tvg-name="Play-X Чоу Юнь-Фат"  group-title="Play-X-VPN",Play-X Чоу Юнь-Фат
+http://playxapp.play-x.app:2095/73382/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="3030" tvg-name="Play-X Эдди Мерфи"  group-title="Play-X-VPN",Play-X Эдди Мерфи
+http://playxapp.play-x.app:2095/3030/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0185" tvg-name="Play-X Энистон Дженнифер"  group-title="Play-X-VPN",Play-X Энистон Дженнифер
+http://playxapp.play-x.app:2095/0185/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="3029" tvg-name="Play-X Арменфильм"  group-title="Play-X-VPN",Play-X Арменфильм
+http://playxapp.play-x.app:2095/3029/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0464" tvg-name="Play-X Беларусьфильм"  group-title="Play-X-VPN",Play-X Беларусьфильм
+http://playxapp.play-x.app:2095/0464/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0009" tvg-name="Play-X Киностудия Горького"  group-title="Play-X-VPN",Play-X Киностудия Горького
+http://playxapp.play-x.app:2095/0009/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="10001" tvg-name="Play-X Мосфильм 1"  group-title="Play-X-VPN",Play-X Мосфильм 1
+http://playxapp.play-x.app:2095/10001/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="10002" tvg-name="Play-X Мосфильм 2"  group-title="Play-X-VPN",Play-X Мосфильм 2
+http://playxapp.play-x.app:2095/10002/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="10003" tvg-name="Play-X Мосфильм 3"  group-title="Play-X-VPN",Play-X Мосфильм 3
+http://playxapp.play-x.app:2095/10003/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="10004" tvg-name="Play-X Мосфильм 4"  group-title="Play-X-VPN",Play-X Мосфильм 4
+http://playxapp.play-x.app:2095/10004/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="10005" tvg-name="Play-X Мосфильм 5"  group-title="Play-X-VPN",Play-X Мосфильм 5
+http://playxapp.play-x.app:2095/10005/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="10006" tvg-name="Play-X Мосфильм 6"  group-title="Play-X-VPN",Play-X Мосфильм 6
+http://playxapp.play-x.app:2095/10006/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="10007" tvg-name="Play-X Мосфильм 7"  group-title="Play-X-VPN",Play-X Мосфильм 7
+http://playxapp.play-x.app:2095/10007/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="10008" tvg-name="Play-X Мосфильм 8"  group-title="Play-X-VPN",Play-X Мосфильм 8
+http://playxapp.play-x.app:2095/10008/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="10009" tvg-name="Play-X Мосфильм 9"  group-title="Play-X-VPN",Play-X Мосфильм 9
+http://playxapp.play-x.app:2095/10009/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="10010" tvg-name="Play-X Мосфильм 10"  group-title="Play-X-VPN",Play-X Мосфильм 10
+http://playxapp.play-x.app:2095/10010/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="10011" tvg-name="Play-X Мосфильм 11"  group-title="Play-X-VPN",Play-X Мосфильм 11
+http://playxapp.play-x.app:2095/10011/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="10012" tvg-name="Play-X Мосфильм 12"  group-title="Play-X-VPN",Play-X Мосфильм 12
+http://playxapp.play-x.app:2095/10012/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="10013" tvg-name="Play-X Мосфильм 13"  group-title="Play-X-VPN",Play-X Мосфильм 13
+http://playxapp.play-x.app:2095/10013/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="10014" tvg-name="Play-X Мосфильм 14"  group-title="Play-X-VPN",Play-X Мосфильм 14
+http://playxapp.play-x.app:2095/10014/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="10015" tvg-name="Play-X Мосфильм 15"  group-title="Play-X-VPN",Play-X Мосфильм 15
+http://playxapp.play-x.app:2095/10015/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="10016" tvg-name="Play-X Мосфильм 16"  group-title="Play-X-VPN",Play-X Мосфильм 16
+http://playxapp.play-x.app:2095/10016/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="10017" tvg-name="Play-X Мосфильм 17"  group-title="Play-X-VPN",Play-X Мосфильм 17
+http://playxapp.play-x.app:2095/10017/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="10018" tvg-name="Play-X Мосфильм 18"  group-title="Play-X-VPN",Play-X Мосфильм 18
+http://playxapp.play-x.app:2095/10018/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="10019" tvg-name="Play-X Мосфильм 19"  group-title="Play-X-VPN",Play-X Мосфильм 19
+http://playxapp.play-x.app:2095/10019/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="10020" tvg-name="Play-X Мосфильм 20"  group-title="Play-X-VPN",Play-X Мосфильм 20
+http://playxapp.play-x.app:2095/10020/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0054" tvg-name="Play-X Одеська Кіностудія 1"  group-title="Play-X-VPN",Play-X Одеська Кіностудія 1
+http://playxapp.play-x.app:2095/0054/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0055" tvg-name="Play-X Одеська Кіностудія 2"  group-title="Play-X-VPN",Play-X Одеська Кіностудія 2
+http://playxapp.play-x.app:2095/0055/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0056" tvg-name="Play-X Одеська Кіностудія 3"  group-title="Play-X-VPN",Play-X Одеська Кіностудія 3
+http://playxapp.play-x.app:2095/0056/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0057" tvg-name="Play-X Одеська Кіностудія 4"  group-title="Play-X-VPN",Play-X Одеська Кіностудія 4
+http://playxapp.play-x.app:2095/0057/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0058" tvg-name="Play-X Одеська Кіностудія 5"  group-title="Play-X-VPN",Play-X Одеська Кіностудія 5
+http://playxapp.play-x.app:2095/0058/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0817" tvg-name="Play-X Александр Абдулов"  group-title="Play-X-VPN",Play-X Александр Абдулов
+http://playxapp.play-x.app:2095/0817/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="59504" tvg-name="Play-X Александр Головин"  group-title="Play-X-VPN",Play-X Александр Головин
+http://playxapp.play-x.app:2095/59504/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="47681" tvg-name="Play-X Александр Збруев"  group-title="Play-X-VPN",Play-X Александр Збруев
+http://playxapp.play-x.app:2095/47681/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="2024010" tvg-name="Play-X Александр Михайлов"  group-title="Play-X-VPN",Play-X Александр Михайлов
+http://playxapp.play-x.app:2095/2024010/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0924" tvg-name="Play-X Александр Панкратов-Чёрный"  group-title="Play-X-VPN",Play-X Александр Панкратов-Чёрный
+http://playxapp.play-x.app:2095/0924/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0169" tvg-name="Play-X Алексей Балабанов"  group-title="Play-X-VPN",Play-X Алексей Балабанов
+http://playxapp.play-x.app:2095/0169/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="04548" tvg-name="Play-X Алексей Булдаков"  group-title="Play-X-VPN",Play-X Алексей Булдаков
+http://playxapp.play-x.app:2095/04548/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0925" tvg-name="Play-X Алексей Серебряков"  group-title="Play-X-VPN",Play-X Алексей Серебряков
+http://playxapp.play-x.app:2095/0925/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="27566" tvg-name="Play-X Анатолий Папанов"  group-title="Play-X-VPN",Play-X Анатолий Папанов
+http://playxapp.play-x.app:2095/27566/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0634" tvg-name="Play-X Андрей Мерзликин"  group-title="Play-X-VPN",Play-X Андрей Мерзликин
+http://playxapp.play-x.app:2095/0634/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0911" tvg-name="Play-X Андрей Миронов"  group-title="Play-X-VPN",Play-X Андрей Миронов
+http://playxapp.play-x.app:2095/0911/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0352" tvg-name="Play-X Андрей Панин"  group-title="Play-X-VPN",Play-X Андрей Панин
+http://playxapp.play-x.app:2095/0352/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0423" tvg-name="Play-X Андрей Федорцов"  group-title="Play-X-VPN",Play-X Андрей Федорцов
+http://playxapp.play-x.app:2095/0423/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0816" tvg-name="Play-X Армен Джигарханян"  group-title="Play-X-VPN",Play-X Армен Джигарханян
+http://playxapp.play-x.app:2095/0816/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="2024001" tvg-name="Play-X Борис Новиков"  group-title="Play-X-VPN",Play-X Борис Новиков
+http://playxapp.play-x.app:2095/2024001/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0635" tvg-name="Play-X Борислав Брондуков"  group-title="Play-X-VPN",Play-X Борислав Брондуков
+http://playxapp.play-x.app:2095/0635/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0406" tvg-name="Play-X Валентин Гафт"  group-title="Play-X-VPN",Play-X Валентин Гафт
+http://playxapp.play-x.app:2095/0406/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0426" tvg-name="Play-X Виктор Сухоруков"  group-title="Play-X-VPN",Play-X Виктор Сухоруков
+http://playxapp.play-x.app:2095/0426/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0632" tvg-name="Play-X Владимир Вдовиченков"  group-title="Play-X-VPN",Play-X Владимир Вдовиченков
+http://playxapp.play-x.app:2095/0632/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0644" tvg-name="Play-X Владимир Епифанцев"  group-title="Play-X-VPN",Play-X Владимир Епифанцев
+http://playxapp.play-x.app:2095/0644/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0381" tvg-name="Play-X Владимир Ильин"  group-title="Play-X-VPN",Play-X Владимир Ильин
+http://playxapp.play-x.app:2095/0381/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="2024002" tvg-name="Play-X Всеволод Санаев"  group-title="Play-X-VPN",Play-X Всеволод Санаев
+http://playxapp.play-x.app:2095/2024002/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="59036" tvg-name="Play-X Вячеслав Тихонов"  group-title="Play-X-VPN",Play-X Вячеслав Тихонов
+http://playxapp.play-x.app:2095/59036/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="2024003" tvg-name="Play-X Галина Польских"  group-title="Play-X-VPN",Play-X Галина Польских
+http://playxapp.play-x.app:2095/2024003/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="53442" tvg-name="Play-X Георгий Юматов"  group-title="Play-X-VPN",Play-X Георгий Юматов
+http://playxapp.play-x.app:2095/53442/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0633" tvg-name="Play-X Гоша Куценко"  group-title="Play-X-VPN",Play-X Гоша Куценко
+http://playxapp.play-x.app:2095/0633/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0342" tvg-name="Play-X Данила Козловский"  group-title="Play-X-VPN",Play-X Данила Козловский
+http://playxapp.play-x.app:2095/0342/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0410" tvg-name="Play-X Дмитрий Харатьян"  group-title="Play-X-VPN",Play-X Дмитрий Харатьян
+http://playxapp.play-x.app:2095/0410/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0449" tvg-name="Play-X Евгений Евстигнеев"  group-title="Play-X-VPN",Play-X Евгений Евстигнеев
+http://playxapp.play-x.app:2095/0449/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0903" tvg-name="Play-X Евгений Леонов"  group-title="Play-X-VPN",Play-X Евгений Леонов
+http://playxapp.play-x.app:2095/0903/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="2024004" tvg-name="Play-X Евгений Моргунов"  group-title="Play-X-VPN",Play-X Евгений Моргунов
+http://playxapp.play-x.app:2095/2024004/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="86322" tvg-name="Play-X Иннокентий Смоктуновский"  group-title="Play-X-VPN",Play-X Иннокентий Смоктуновский
+http://playxapp.play-x.app:2095/86322/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0379" tvg-name="Play-X Константин Хабенский"  group-title="Play-X-VPN",Play-X Константин Хабенский
+http://playxapp.play-x.app:2095/0379/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0427" tvg-name="Play-X Лев Дуров"  group-title="Play-X-VPN",Play-X Лев Дуров
+http://playxapp.play-x.app:2095/0427/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0107" tvg-name="Play-X Леонид Гайдай"  group-title="Play-X-VPN",Play-X Леонид Гайдай
+http://playxapp.play-x.app:2095/0107/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0218" tvg-name="Play-X Леонид Куравлёв"  group-title="Play-X-VPN",Play-X Леонид Куравлёв
+http://playxapp.play-x.app:2095/0218/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0461" tvg-name="Play-X Леонид Ярмольник"  group-title="Play-X-VPN",Play-X Леонид Ярмольник
+http://playxapp.play-x.app:2095/0461/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="2024005" tvg-name="Play-X Любовь Полищук"  group-title="Play-X-VPN",Play-X Любовь Полищук
+http://playxapp.play-x.app:2095/2024005/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0344" tvg-name="Play-X Людмила Гурченко"  group-title="Play-X-VPN",Play-X Людмила Гурченко
+http://playxapp.play-x.app:2095/0344/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0631" tvg-name="Play-X Марат Башаров"  group-title="Play-X-VPN",Play-X Марат Башаров
+http://playxapp.play-x.app:2095/0631/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0347" tvg-name="Play-X Михаил Ефремов"  group-title="Play-X-VPN",Play-X Михаил Ефремов
+http://playxapp.play-x.app:2095/0347/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="2024006" tvg-name="Play-X Михаил Кокшенов"  group-title="Play-X-VPN",Play-X Михаил Кокшенов
+http://playxapp.play-x.app:2095/2024006/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0425" tvg-name="Play-X Михаил Пуговкин"  group-title="Play-X-VPN",Play-X Михаил Пуговкин
+http://playxapp.play-x.app:2095/0425/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="77795" tvg-name="Play-X Михаил Ульянов"  group-title="Play-X-VPN",Play-X Михаил Ульянов
+http://playxapp.play-x.app:2095/77795/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0979" tvg-name="Play-X Надежда Румянцева"  group-title="Play-X-VPN",Play-X Надежда Румянцева
+http://playxapp.play-x.app:2095/0979/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0424" tvg-name="Play-X Николай Караченцов"  group-title="Play-X-VPN",Play-X Николай Караченцов
+http://playxapp.play-x.app:2095/0424/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="3063" tvg-name="Play-X Никулин Вицин"  group-title="Play-X-VPN",Play-X Никулин Вицин
+http://playxapp.play-x.app:2095/3063/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="2024007" tvg-name="Play-X Нина Гребешкова"  group-title="Play-X-VPN",Play-X Нина Гребешкова
+http://playxapp.play-x.app:2095/2024007/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="95446" tvg-name="Play-X Олег Басилашвили"  group-title="Play-X-VPN",Play-X Олег Басилашвили
+http://playxapp.play-x.app:2095/95446/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0643" tvg-name="Play-X Олег Табаков"  group-title="Play-X-VPN",Play-X Олег Табаков
+http://playxapp.play-x.app:2095/0643/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0636" tvg-name="Play-X Павел Деревянко"  group-title="Play-X-VPN",Play-X Павел Деревянко
+http://playxapp.play-x.app:2095/0636/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0434" tvg-name="Play-X Райкин Аркадий"  group-title="Play-X-VPN",Play-X Райкин Аркадий
+http://playxapp.play-x.app:2095/0434/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0465" tvg-name="Play-X Ролан Быков"  group-title="Play-X-VPN",Play-X Ролан Быков
+http://playxapp.play-x.app:2095/0465/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="2024008" tvg-name="Play-X Роман Мадянов"  group-title="Play-X-VPN",Play-X Роман Мадянов
+http://playxapp.play-x.app:2095/2024008/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="3035" tvg-name="Play-X Савелий Крамаров"  group-title="Play-X-VPN",Play-X Савелий Крамаров
+http://playxapp.play-x.app:2095/3035/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0630" tvg-name="Play-X Сергей Бодров"  group-title="Play-X-VPN",Play-X Сергей Бодров
+http://playxapp.play-x.app:2095/0630/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="32238" tvg-name="Play-X Сергей Бондарчук"  group-title="Play-X-VPN",Play-X Сергей Бондарчук
+http://playxapp.play-x.app:2095/32238/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="3031" tvg-name="Play-X Сергей Гармаш"  group-title="Play-X-VPN",Play-X Сергей Гармаш
+http://playxapp.play-x.app:2095/3031/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="2024009" tvg-name="Play-X Сергей Филиппов"  group-title="Play-X-VPN",Play-X Сергей Филиппов
+http://playxapp.play-x.app:2095/2024009/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="2024011" tvg-name="Play-X Сергей Юрский"  group-title="Play-X-VPN",Play-X Сергей Юрский
+http://playxapp.play-x.app:2095/2024011/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0981" tvg-name="Play-X Фёдор Добронравов"  group-title="Play-X-VPN",Play-X Фёдор Добронравов
+http://playxapp.play-x.app:2095/0981/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0108" tvg-name="Play-X Эльдар Рязанов"  group-title="Play-X-VPN",Play-X Эльдар Рязанов
+http://playxapp.play-x.app:2095/0108/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="15923" tvg-name="Play-X Юрий Яковлев"  group-title="Play-X-VPN",Play-X Юрий Яковлев
+http://playxapp.play-x.app:2095/15923/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="3049" tvg-name="Play-X Янковский Олег"  group-title="Play-X-VPN",Play-X Янковский Олег
+http://playxapp.play-x.app:2095/3049/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0300" tvg-name="Play-X Black Cinema"  group-title="Play-X-VPN",Play-X Black Cinema
+http://playxapp.play-x.app:2095/0300/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="3022" tvg-name="Play-X Cinema 90-х"  group-title="Play-X-VPN",Play-X Cinema 90-х
+http://playxapp.play-x.app:2095/3022/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0503" tvg-name="Play-X Cinema Asia"  group-title="Play-X-VPN",Play-X Cinema Asia
+http://playxapp.play-x.app:2095/0503/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="3012" tvg-name="Play-X Cinema Horror Kids"  group-title="Play-X-VPN",Play-X Cinema Horror Kids
+http://playxapp.play-x.app:2095/3012/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0926" tvg-name="Play-X Cinema Sport"  group-title="Play-X-VPN",Play-X Cinema Sport
+http://playxapp.play-x.app:2095/0926/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="3016" tvg-name="Play-X Cinema Teens"  group-title="Play-X-VPN",Play-X Cinema Teens
+http://playxapp.play-x.app:2095/3016/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="3013" tvg-name="Play-X Cinema Woman"  group-title="Play-X-VPN",Play-X Cinema Woman
+http://playxapp.play-x.app:2095/3013/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="3014" tvg-name="Play-X Cinema Аnimals"  group-title="Play-X-VPN",Play-X Cinema Аnimals
+http://playxapp.play-x.app:2095/3014/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="3064" tvg-name="Play-X Game movie"  group-title="Play-X-VPN",Play-X Game movie
+http://playxapp.play-x.app:2095/3064/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0921" tvg-name="Play-X HBO"  group-title="Play-X-VPN",Play-X HBO
+http://playxapp.play-x.app:2095/0921/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0049" tvg-name="Play-X Marvel"  group-title="Play-X-VPN",Play-X Marvel
+http://playxapp.play-x.app:2095/0049/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0915" tvg-name="Play-X RUComedy"  group-title="Play-X-VPN",Play-X RUComedy
+http://playxapp.play-x.app:2095/0915/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0094" tvg-name="Play-X Агент 007"  group-title="Play-X-VPN",Play-X Агент 007
+http://playxapp.play-x.app:2095/0094/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="3009" tvg-name="Play-X Ангелы и демоны"  group-title="Play-X-VPN",Play-X Ангелы и демоны
+http://playxapp.play-x.app:2095/3009/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0053" tvg-name="Play-X Вампир"  group-title="Play-X-VPN",Play-X Вампир
+http://playxapp.play-x.app:2095/0053/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0192" tvg-name="Play-X Вестерн"  group-title="Play-X-VPN",Play-X Вестерн
+http://playxapp.play-x.app:2095/0192/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="3025" tvg-name="Play-X Вирусы и эпидемии"  group-title="Play-X-VPN",Play-X Вирусы и эпидемии
+http://playxapp.play-x.app:2095/3025/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0639" tvg-name="Play-X Гоблин"  group-title="Play-X-VPN",Play-X Гоблин
+http://playxapp.play-x.app:2095/0639/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="3010" tvg-name="Play-X Годзилла"  group-title="Play-X-VPN",Play-X Годзилла
+http://playxapp.play-x.app:2095/3010/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0310" tvg-name="Play-X Драмы"  group-title="Play-X-VPN",Play-X Драмы
+http://playxapp.play-x.app:2095/0310/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0190" tvg-name="Play-X Дубляж"  group-title="Play-X-VPN",Play-X Дубляж
+http://playxapp.play-x.app:2095/0190/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0825" tvg-name="Play-X Индия"  group-title="Play-X-VPN",Play-X Индия
+http://playxapp.play-x.app:2095/0825/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0907" tvg-name="Play-X Каратэ"  group-title="Play-X-VPN",Play-X Каратэ
+http://playxapp.play-x.app:2095/0907/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="3011" tvg-name="Play-X Киборг"  group-title="Play-X-VPN",Play-X Киборг
+http://playxapp.play-x.app:2095/3011/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0062" tvg-name="Play-X Круги Ада"  group-title="Play-X-VPN",Play-X Круги Ада
+http://playxapp.play-x.app:2095/0062/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="3065" tvg-name="Play-X Не сильный пол!"  group-title="Play-X-VPN",Play-X Не сильный пол!
+http://playxapp.play-x.app:2095/3065/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="2024012" tvg-name="Play-X Первый Пограничный"  group-title="Play-X-VPN",Play-X Первый Пограничный
+http://playxapp.play-x.app:2095/2024012/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="3018" tvg-name="Play-X Планета обезьян"  group-title="Play-X-VPN",Play-X Планета обезьян
+http://playxapp.play-x.app:2095/3018/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="3034" tvg-name="Play-X Полицейская академия"  group-title="Play-X-VPN",Play-X Полицейская академия
+http://playxapp.play-x.app:2095/3034/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0646" tvg-name="Play-X Польские фильмы в Советском прокате"  group-title="Play-X-VPN",Play-X Польские фильмы в Советском прокате
+http://playxapp.play-x.app:2095/0646/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0910" tvg-name="Play-X Семейный"  group-title="Play-X-VPN",Play-X Семейный
+http://playxapp.play-x.app:2095/0910/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0909" tvg-name="Play-X Старый добрый фильм"  group-title="Play-X-VPN",Play-X Старый добрый фильм
+http://playxapp.play-x.app:2095/0909/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0900" tvg-name="Play-X Триллер"  group-title="Play-X-VPN",Play-X Триллер
+http://playxapp.play-x.app:2095/0900/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0912" tvg-name="Play-X Ужасы VHS"  group-title="Play-X-VPN",Play-X Ужасы VHS
+http://playxapp.play-x.app:2095/0912/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0823" tvg-name="Play-X Фантастика"  group-title="Play-X-VPN",Play-X Фантастика
+http://playxapp.play-x.app:2095/0823/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="68542" tvg-name="Play-X Фильмы про войну в Украине"  group-title="Play-X-VPN",Play-X Фильмы про войну в Украине
+http://playxapp.play-x.app:2095/68542/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0067" tvg-name="Play-X Anime"  group-title="Play-X-VPN",Play-X Anime
+http://playxapp.play-x.app:2095/0067/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0801" tvg-name="Play-X Аладдин"  group-title="Play-X-VPN",Play-X Аладдин
+http://playxapp.play-x.app:2095/0801/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="3048" tvg-name="Play-X Американский дракон Джейк Лонг"  group-title="Play-X-VPN",Play-X Американский дракон Джейк Лонг
+http://playxapp.play-x.app:2095/3048/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="30454" tvg-name="Play-X Барбоскины"  group-title="Play-X-VPN",Play-X Барбоскины
+http://playxapp.play-x.app:2095/30454/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="3006" tvg-name="Play-X Буба"  group-title="Play-X-VPN",Play-X Буба
+http://playxapp.play-x.app:2095/3006/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="3005" tvg-name="Play-X Вспыш и чудо-машинки"  group-title="Play-X-VPN",Play-X Вспыш и чудо-машинки
+http://playxapp.play-x.app:2095/3005/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0914" tvg-name="Play-X Вуншпунш"  group-title="Play-X-VPN",Play-X Вуншпунш
+http://playxapp.play-x.app:2095/0914/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0966" tvg-name="Play-X Город Свиней"  group-title="Play-X-VPN",Play-X Город Свиней
+http://playxapp.play-x.app:2095/0966/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0068" tvg-name="Play-X Гравити Фолс"  group-title="Play-X-VPN",Play-X Гравити Фолс
+http://playxapp.play-x.app:2095/0068/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0304" tvg-name="Play-X Грифины"  group-title="Play-X-VPN",Play-X Грифины
+http://playxapp.play-x.app:2095/0304/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0382" tvg-name="Play-X Губка Боб"  group-title="Play-X-VPN",Play-X Губка Боб
+http://playxapp.play-x.app:2095/0382/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0089" tvg-name="Play-X Гуфи и его команда"  group-title="Play-X-VPN",Play-X Гуфи и его команда
+http://playxapp.play-x.app:2095/0089/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="38371" tvg-name="Play-X Да здравствует король Джулиан"  group-title="Play-X-VPN",Play-X Да здравствует король Джулиан
+http://playxapp.play-x.app:2095/38371/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="28577" tvg-name="Play-X Жизнь с Луи"  group-title="Play-X-VPN",Play-X Жизнь с Луи
+http://playxapp.play-x.app:2095/28577/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0155" tvg-name="Play-X Киносказка"  group-title="Play-X-VPN",Play-X Киносказка
+http://playxapp.play-x.app:2095/0155/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="24235" tvg-name="Play-X ЛЕГО Звездные войны Приключения изобретателей"  group-title="Play-X-VPN",Play-X ЛЕГО Звездные войны Приключения изобретателей
+http://playxapp.play-x.app:2095/24235/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0375" tvg-name="Play-X Масяня"  group-title="Play-X-VPN",Play-X Масяня
+http://playxapp.play-x.app:2095/0375/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0811" tvg-name="Play-X Мимимишки"  group-title="Play-X-VPN",Play-X Мимимишки
+http://playxapp.play-x.app:2095/0811/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0964" tvg-name="Play-X Мультзал 1"  group-title="Play-X-VPN",Play-X Мультзал 1
+http://playxapp.play-x.app:2095/0964/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0965" tvg-name="Play-X Мультзал 2"  group-title="Play-X-VPN",Play-X Мультзал 2
+http://playxapp.play-x.app:2095/0965/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0968" tvg-name="Play-X Мультзал 5"  group-title="Play-X-VPN",Play-X Мультзал 5
+http://playxapp.play-x.app:2095/0968/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="3051" tvg-name="Play-X Новая семейка Аддамс"  group-title="Play-X-VPN",Play-X Новая семейка Аддамс
+http://playxapp.play-x.app:2095/3051/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="1402" tvg-name="Play-X Ну погоди"  group-title="Play-X-VPN",Play-X Ну погоди
+http://playxapp.play-x.app:2095/1402/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="3044" tvg-name="Play-X Охотники за привидениями"  group-title="Play-X-VPN",Play-X Охотники за привидениями
+http://playxapp.play-x.app:2095/3044/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="30695" tvg-name="Play-X Пингвины из Мадагаскара"  group-title="Play-X-VPN",Play-X Пингвины из Мадагаскара
+http://playxapp.play-x.app:2095/30695/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0445" tvg-name="Play-X Приключения мишек Гамми"  group-title="Play-X-VPN",Play-X Приключения мишек Гамми
+http://playxapp.play-x.app:2095/0445/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="3021" tvg-name="Play-X Розовая пантера"  group-title="Play-X-VPN",Play-X Розовая пантера
+http://playxapp.play-x.app:2095/3021/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0088" tvg-name="Play-X Русалочка"  group-title="Play-X-VPN",Play-X Русалочка
+http://playxapp.play-x.app:2095/0088/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0429" tvg-name="Play-X Секретные материалы псов-шпионов"  group-title="Play-X-VPN",Play-X Секретные материалы псов-шпионов
+http://playxapp.play-x.app:2095/0429/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="3041" tvg-name="Play-X Симпсоны"  group-title="Play-X-VPN",Play-X Симпсоны
+http://playxapp.play-x.app:2095/3041/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0416" tvg-name="Play-X Союз мультфильм"  group-title="Play-X-VPN",Play-X Союз мультфильм
+http://playxapp.play-x.app:2095/0416/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="3045" tvg-name="Play-X Тимон и Пумба"  group-title="Play-X-VPN",Play-X Тимон и Пумба
+http://playxapp.play-x.app:2095/3045/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0374" tvg-name="Play-X Том и Джери"  group-title="Play-X-VPN",Play-X Том и Джери
+http://playxapp.play-x.app:2095/0374/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0083" tvg-name="Play-X Утиные истории"  group-title="Play-X-VPN",Play-X Утиные истории
+http://playxapp.play-x.app:2095/0083/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0901" tvg-name="Play-X Ферма монстров"  group-title="Play-X-VPN",Play-X Ферма монстров
+http://playxapp.play-x.app:2095/0901/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0326" tvg-name="Play-X Фиксики"  group-title="Play-X-VPN",Play-X Фиксики
+http://playxapp.play-x.app:2095/0326/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="3046" tvg-name="Play-X Финес и Ферб"  group-title="Play-X-VPN",Play-X Финес и Ферб
+http://playxapp.play-x.app:2095/3046/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0319" tvg-name="Play-X Футурама"  group-title="Play-X-VPN",Play-X Футурама
+http://playxapp.play-x.app:2095/0319/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0980" tvg-name="Play-X Чародеи"  group-title="Play-X-VPN",Play-X Чародеи
+http://playxapp.play-x.app:2095/0980/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0369" tvg-name="Play-X Человек-паук"  group-title="Play-X-VPN",Play-X Человек-паук
+http://playxapp.play-x.app:2095/0369/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0370" tvg-name="Play-X Черепашки мутанты ниндзя"  group-title="Play-X-VPN",Play-X Черепашки мутанты ниндзя
+http://playxapp.play-x.app:2095/0370/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0810" tvg-name="Play-X Черный Плащ"  group-title="Play-X-VPN",Play-X Черный Плащ
+http://playxapp.play-x.app:2095/0810/index.m3u8?token=free_play_x_app_ru_server
+#EXTINF:-1 tvg-id="0800" tvg-name="Play-X Чип и Дейл"  group-title="Play-X-VPN",Play-X Чип и Дейл
+http://playxapp.play-x.app:2095/0800/index.m3u8?token=free_play_x_app_ru_server
