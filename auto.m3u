@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1,🛠Ревизия №-1 🚦04.09.2026|06-40|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
+#EXTINF:-1,🛠Ревизия №-1 🚦06.09.2026|11-40|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
 http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 
 
@@ -369,12 +369,15 @@ http://178.134.1.158:8081/tv1000action/index.m3u8?token=tva.in.ua
 http://178.134.1.158:8081/tv1000/index.m3u8?token=tva.in.ua
 #EXTINF:-1 group-title="KINO+📺",Viju TV1000 Romantica HD
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=mO1pygCeC8dZR4E-XrxdtQ&e=1784870426&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 group-title="KINO+📺",FILM TV GROUP
-http://filmtvgroup.hopto.org/FILM_TV_GROUP/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
-#EXTINF:-1 group-title="KINO+📺",Новосілки ТБ
-http://filmtvgroup.hopto.org/novosilkiTB/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
-#EXTINF:-1 group-title="KINO+📺",FILM TV Кінозал
-http://filmtvgroup.hopto.org/FILMTVKinozaL/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
+#EXTINF:0  tvg-id="http://ottiptvfilmtvgroup.zapto.org:8568/epg.xml"  tvg-name="FILM TV HD" group-title="KINO+📺" tvg-logo="http://filmtvgroup.site/uploads/channel/FILMTVHD.png",FILM TV HD
+#EXTGRP:filmtvgroup
+https://ottiptvfilmtvgroup.zapto.org:8080/kino_tv/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3ODg2ODMzNjIsImV4cCI6MTc4ODc2OTc2Miwic3ViIjoiQWRtaW4ifQ.elQlt9rDrYlfbg85aZPXxIarprRqhdf58qFUNs3wQqs
+#EXTINF:0  tvg-id="http://ottiptvfilmtvgroup.zapto.org:8568/epg.xml"  tvg-name="FILM TV Кінозал" group-title="KINO+📺" tvg-logo="http://filmtvgroup.site/uploads/channel/K1.png",FILM TV Кінозал
+#EXTGRP:filmtvgroup
+https://ottiptvfilmtvgroup.zapto.org:8080/FILMTVKinozal/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3ODg2ODMzNjIsImV4cCI6MTc4ODc2OTc2Miwic3ViIjoiQWRtaW4ifQ.elQlt9rDrYlfbg85aZPXxIarprRqhdf58qFUNs3wQqs
+#EXTINF:0  tvg-id="http://ottiptvfilmtvgroup.zapto.org:8568/epg.xml"  tvg-name="Новосілки ТБ" group-title="KINO+📺" tvg-logo="http://filmtvgroup.site/uploads/channel/novosilkylogo2024best.png",Новосілки ТБ
+#EXTGRP:filmtvgroup
+https://filmtvgroup.hopto.org:8080/NovosilkiTB/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3ODg2ODMzNjIsImV4cCI6MTc4ODc2OTc2Miwic3ViIjoiQWRtaW4ifQ.elQlt9rDrYlfbg85aZPXxIarprRqhdf58qFUNs3wQqs
 #EXTINF:-1 group-title="KINO+📺",Бровари Кіно TV
 https://live20.bozztv.com/giatv/giatv-88882com/88882com/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zHrPSQ9v/image-15.png" group-title="KINO+📺",CherTV Заруба + KinoMix
@@ -569,12 +572,15 @@ http://195.189.60.253/zakon_tv_hd/video.m3u8
 http://195.189.60.253/mason_tv_hd/video.m3u8
 #EXTINF:-1 group-title="Україна 🇺🇦",Квартал ТВ
 http://dtv.vol.net.ua/Kvartal_TV/index.m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",FILM TV GROUP
-http://filmtvgroup.hopto.org/FILM_TV_GROUP/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
-#EXTINF:-1 group-title="Україна 🇺🇦",Новосілки ТБ
-http://filmtvgroup.hopto.org/novosilkiTB/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
-#EXTINF:-1 group-title="Україна 🇺🇦",FILM TV Кінозал
-http://filmtvgroup.hopto.org/FILMTVKinozaL/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
+#EXTINF:0  tvg-id="http://ottiptvfilmtvgroup.zapto.org:8568/epg.xml"  tvg-name="FILM TV HD" group-title="Україна 🇺🇦" tvg-logo="http://filmtvgroup.site/uploads/channel/FILMTVHD.png",FILM TV HD
+#EXTGRP:filmtvgroup
+https://ottiptvfilmtvgroup.zapto.org:8080/kino_tv/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3ODg2ODMzNjIsImV4cCI6MTc4ODc2OTc2Miwic3ViIjoiQWRtaW4ifQ.elQlt9rDrYlfbg85aZPXxIarprRqhdf58qFUNs3wQqs
+#EXTINF:0  tvg-id="http://ottiptvfilmtvgroup.zapto.org:8568/epg.xml"  tvg-name="FILM TV Кінозал" group-title="Україна 🇺🇦" tvg-logo="http://filmtvgroup.site/uploads/channel/K1.png",FILM TV Кінозал
+#EXTGRP:filmtvgroup
+https://ottiptvfilmtvgroup.zapto.org:8080/FILMTVKinozal/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3ODg2ODMzNjIsImV4cCI6MTc4ODc2OTc2Miwic3ViIjoiQWRtaW4ifQ.elQlt9rDrYlfbg85aZPXxIarprRqhdf58qFUNs3wQqs
+#EXTINF:0  tvg-id="http://ottiptvfilmtvgroup.zapto.org:8568/epg.xml"  tvg-name="Новосілки ТБ" group-title="Україна 🇺🇦" tvg-logo="http://filmtvgroup.site/uploads/channel/novosilkylogo2024best.png",Новосілки ТБ
+#EXTGRP:filmtvgroup
+https://filmtvgroup.hopto.org:8080/NovosilkiTB/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3ODg2ODMzNjIsImV4cCI6MTc4ODc2OTc2Miwic3ViIjoiQWRtaW4ifQ.elQlt9rDrYlfbg85aZPXxIarprRqhdf58qFUNs3wQqs
 #EXTINF:-1 group-title="Україна 🇺🇦",Бровари Кіно TV
 https://live20.bozztv.com/giatv/giatv-88882com/88882com/chunks.m3u8
 #EXTINF:-1 group-title="Україна 🇺🇦",МИ+ УКРАЇНА HD
