@@ -245,11 +245,11 @@ async function main() {
   //   'm3url-tv.m3u'
   // );
 
-  // await processPlaylistShar(
-  //   'https://mediaworld09.github.io/Sharovoz-TV.m3u',
-  //   'XXX Adult',                                   // одна категория (строка)
-  //   'Sharovoz-TV.m3u'
-  // );
+  await processPlaylistShar(
+    'https://mediaworld09.github.io/Sharovoz-TV.m3u',
+    'XXX Adult',                                   // одна категория (строка)
+    'Sharovoz-TV.m3u'
+  );
 
 
   // Добавьте сколько нужно
