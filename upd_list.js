@@ -251,6 +251,12 @@ async function main() {
     'Sharovoz-TV.m3u'
   );
 
+  await processPlaylistShar(
+    'https://mediaworld09.github.io/Sharovoz-TV-2.m3u',
+    'XXX Adult',                                   // одна категория (строка)
+    'Sharovoz-TV-2.m3u'
+  );
+
 
   // Добавьте сколько нужно
 
