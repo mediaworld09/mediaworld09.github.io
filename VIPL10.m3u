@@ -1513,6 +1513,12 @@ http://u.vipl.one/high/wn49ab7yv5/874.m3u8
 #EXTINF:0 tvg-id="875" tvg-logo="http://epg.cdntv.online/img/875.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Беларусь", СТВ Беларусь
 #EXTGRP:Беларусь
 http://u.vipl.one/high/wn49ab7yv5/875.m3u8
+#EXTINF:0 tvg-id="877" tvg-logo="http://epg.cdntv.online/img/877.png" group-title="Кинозалы", MGM
+#EXTGRP:Кинозалы
+http://u.vipl.one/high/wn49ab7yv5/877.m3u8
+#EXTINF:0 tvg-id="878" tvg-logo="http://epg.cdntv.online/img/878.png" group-title="Кинозалы", MGM HD
+#EXTGRP:Кинозалы
+http://u.vipl.one/high/wn49ab7yv5/878.m3u8
 #EXTINF:0 tvg-id="883" tvg-logo="http://epg.cdntv.online/img/883.png" group-title="Кинозалы", Кино 1 INT
 #EXTGRP:Кинозалы
 http://u.vipl.one/high/wn49ab7yv5/883.m3u8
