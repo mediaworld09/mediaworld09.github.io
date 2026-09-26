@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1,🛠Ревизия №-2 🚦25.09.2026|17-30|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
+#EXTINF:-1,🛠Ревизия №-2 🚦26.09.2026|12-10|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
 http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 
 
@@ -347,6 +347,8 @@ https://ottiptvfilmtvgroup.zapto.org:8080/FILMTVKinozal/index.m3u8?token=eyJ0eXA
 https://filmtvgroup.hopto.org:8080/NovosilkiTB/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3ODg2ODMzNjIsImV4cCI6MTc4ODc2OTc2Miwic3ViIjoiQWRtaW4ifQ.elQlt9rDrYlfbg85aZPXxIarprRqhdf58qFUNs3wQqs
 #EXTINF:-1 group-title="KINO+📺",Бровари Кіно TV
 https://live20.bozztv.com/giatv/giatv-88882com/88882com/chunks.m3u8
+#EXTINF:-1 group-title="KINO+📺",Film UA Drama
+http://88.99.215.227/FilmUADrama/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",Иллюзион+
 http://185.46.16.239:8000/Illyuzion+
 #EXTINF:-1 group-title="KINO+📺",Иллюзион plus
@@ -383,8 +385,6 @@ http://62.141.35.207:8080/action/video.m3u8?token=WDJ_ON27CzbeN2
 http://dtv.vol.net.ua/BCU-Catastrophe-HD/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",BCU Kinorating HD
 http://dtv.vol.net.ua/BCU-Kinorating-HD/index.m3u8
-#EXTINF:-1 group-title="KINO+📺",Film UA Drama
-http://88.99.215.227/FilmUADrama/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",Hollywood
 https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO+📺",Hollywood hd
@@ -505,22 +505,10 @@ http://m3u8.ott.blue/C5UK_1plus1SD/mpegts?token=94450098895765784220366841698509
 http://portal.ott.pink/C5UK_1plus1SD/index.m3u8?token=927E03BF1A83DF5DE6628CAF78BA2C13
 #EXTINF:-1 group-title="Україна 🇺🇦",1+1 Україна (UA)
 http://portal.ott.pink/C5UK_1plus1SD/index.m3u8?token=2B8378CADCB27AA393170BD7EDB7C0E9
-#EXTINF:-1 group-title="Україна 🇺🇦",1+1 UA
-http://89.33.29.115:8080/1plus1/index.m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",2+2
-http://89.33.29.115:8080/2plus2/index.m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",TET HD
-http://89.33.29.115:8080/TET/index.m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",НТН HD
-http://89.33.29.115:8080/NTN/index.m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",TV
-http://89.33.29.115:8080/STB/index.m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",ЕНТЕР ФІЛЬМ HD
-http://89.33.29.115:8080/enter_film_ua/index.m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",Film UA Drama
-http://88.99.215.227/FilmUADrama/index.m3u8
 #EXTINF:-1 group-title="Україна 🇺🇦",Epic Drama HD
 http://195.189.60.253/118/index.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",Film UA Drama
+http://88.99.215.227/FilmUADrama/index.m3u8
 #EXTINF:-1 group-title="Україна 🇺🇦",ЗАКОН ТВ+
 http://195.189.60.253/zakon_tv_hd/video.m3u8
 #EXTINF:-1 group-title="Україна 🇺🇦",МАСОН ТВ
@@ -3210,120 +3198,6 @@ http://stream.mcquack.net/289/index.m3u8
 http://stream.mcquack.net/290/index.m3u8
 
 
-#EXTINF:-1 group-title="Tест-08",1+1 UA
-http://89.33.29.115:8080/1plus1/index.m3u8
-#EXTINF:-1 group-title="Tест-08",2plus2
-http://89.33.29.115:8080/2plus2/index.m3u8
-#EXTINF:-1 group-title="Tест-08",НТН HD
-http://89.33.29.115:8080/NTN/index.m3u8
-#EXTINF:-1 group-title="Tест-08",TET
-http://89.33.29.115:8080/TET/index.m3u8
-#EXTINF:-1 group-title="Tест-08",TB
-http://89.33.29.115:8080/STB/index.m3u8
-#EXTINF:-1 group-title="Tест-08",ЕНТЕР ФІЛЬМ HD
-http://89.33.29.115:8080/enter_film_ua/index.m3u8
-#EXTINF:-1 group-title="Tест-08",ANI
-http://89.33.29.115:8080/ani/index.m3u8
-#EXTINF:-1 group-title="Tест-08",Animal_Planet_HD
-http://89.33.29.115:8080/Animal_Planet_HD/index.m3u8
-#EXTINF:-1 group-title="Tест-08",Boks_TV
-http://89.33.29.115:8080/Boks_TV/index.m3u8
-#EXTINF:-1 group-title="Tест-08",bollywood
-http://89.33.29.115:8080/bollywood/index.m3u8
-#EXTINF:-1 group-title="Tест-08",bollywood HD
-http://89.33.29.115:8080/Bollywood_HD/index.m3u8
-#EXTINF:-1 group-title="Tест-08",Cartoon_Network
-http://89.33.29.115:8080/Cartoon_Network/index.m3u8
-#EXTINF:-1 group-title="Tест-08",ЧЕ
-http://89.33.29.115:8080/Che/index.m3u8
-#EXTINF:-1 group-title="Tест-08",Cinema
-http://89.33.29.115:8080/cinema/index.m3u8
-#EXTINF:-1 group-title="Tест-08",Discovery_HD
-http://89.33.29.115:8080/Discovery_HD/index.m3u8
-#EXTINF:-1 group-title="Tест-08",disney
-http://89.33.29.115:8080/disney/index.m3u8
-#EXTINF:-1 group-title="Tест-08",Dorama hd
-http://89.33.29.115:8080/dorama_hd/index.m3u8
-#EXTINF:-1 group-title="Tест-08",Drama
-http://89.33.29.115:8080/drama/index.m3u8
-#EXTINF:-1 group-title="Tест-08",Euronews
-http://89.33.29.115:8080/Euronews/index.m3u8
-#EXTINF:-1 group-title="Tест-08",Eurosport_2_HD
-http://89.33.29.115:8080/Eurosport_2_HD/index.m3u8
-#EXTINF:-1 group-title="Tест-08",Eurosport HD
-http://89.33.29.115:8080/Eurosport_HD/index.m3u8
-#EXTINF:-1 group-title="Tест-08",Evrokino
-http://89.33.29.115:8080/Evrokino/index.m3u8
-#EXTINF:-1 group-title="Tест-08",Glazami turista HD
-http://89.33.29.115:8080/Glazami_turista_HD/index.m3u8
-#EXTINF:-1 group-title="Tест-08",HOT
-http://89.33.29.115:8080/Gold/index.m3u8
-#EXTINF:-1 group-title="Tест-08",Gulli
-http://89.33.29.115:8080/Gulli/index.m3u8
-#EXTINF:-1 group-title="Tест-08",INTER
-http://89.33.29.115:8080/Inter/index.m3u8
-#EXTINF:-1 group-title="Tест-08",JimJam
-http://89.33.29.115:8080/JimJam/index.m3u8
-#EXTINF:-1 group-title="Tест-08",Karusel
-http://89.33.29.115:8080/Karusel/index.m3u8
-#EXTINF:-1 group-title="Tест-08",КИНОХИТ HD
-http://89.33.29.115:8080/Kinohit/index.m3u8
-#EXTINF:-1 group-title="Tест-08",Mult
-http://89.33.29.115:8080/Mult/index.m3u8
-#EXTINF:-1 group-title="Tест-08",Muzhskoy
-http://89.33.29.115:8080/Muzhskoy/index.m3u8
-#EXTINF:-1 group-title="Tест-08",National Geo HD
-http://89.33.29.115:8080/National_Geo_HD/index.m3u8
-#EXTINF:-1 group-title="Tест-08",National_Geographic
-http://89.33.29.115:8080/National_Geographic/index.m3u8
-#EXTINF:-1 group-title="Tест-08",Nauka_2.0
-http://89.33.29.115:8080/Nauka_2.0/index.m3u8
-#EXTINF:-1 group-title="Tест-08",Nickelodeon
-http://89.33.29.115:8080/Nickelodeon/index.m3u8
-#EXTINF:-1 group-title="Tест-08",nickjr
-http://89.33.29.115:8080/nickjr/index.m3u8
-#EXTINF:-1 group-title="Tест-08",Nostalgiya
-http://89.33.29.115:8080/Nostalgiya/index.m3u8
-#EXTINF:-1 group-title="Tест-08",RETRO
-http://89.33.29.115:8080/Retro/index.m3u8
-#EXTINF:-1 group-title="Tест-08",NST
-http://89.33.29.115:8080/NST/index.m3u8
-#EXTINF:-1 group-title="Tест-08",RTVi
-http://89.33.29.115:8080/RTVi/index.m3u8
-#EXTINF:-1 group-title="Tест-08",RED
-http://89.33.29.115:8080/SET/index.m3u8
-#EXTINF:-1 group-title="Tест-08",sport1
-http://89.33.29.115:8080/sport1/index.m3u8
-#EXTINF:-1 group-title="Tест-08",sportplus
-http://89.33.29.115:8080/sportplus/index.m3u8
-#EXTINF:-1 group-title="Tест-08",STS
-http://89.33.29.115:8080/STS/index.m3u8
-#EXTINF:-1 group-title="Tест-08",STS HD
-http://89.33.29.115:8080/STS_HD/index.m3u8
-#EXTINF:-1 group-title="Tест-08",STS LOVE
-http://89.33.29.115:8080/STS_Love/index.m3u8
-#EXTINF:-1 group-title="Tест-08",TiJi
-http://89.33.29.115:8080/TiJi/index.m3u8
-#EXTINF:-1 group-title="Tест-08",TLC_
-http://89.33.29.115:8080/TLC_HD/index.m3u8
-#EXTINF:-1 group-title="Tест-08",TV1000 HD
-http://89.33.29.115:8080/TV1000/index.m3u8
-#EXTINF:-1 group-title="Tест-08",TV1000_Action HD
-http://89.33.29.115:8080/TV1000_Action/index.m3u8
-#EXTINF:-1 group-title="Tест-08",TV3
-http://89.33.29.115:8080/TV_3/index.m3u8
-#EXTINF:-1 group-title="Tест-08",Viasat Explorer
-http://89.33.29.115:8080/Viasat_Explorer/index.m3u8
-#EXTINF:-1 group-title="Tест-08",Viasat Sport
-http://89.33.29.115:8080/Viasat_Sport/index.m3u8
-#EXTINF:-1 group-title="Tест-08",ZeeTV
-http://89.33.29.115:8080/ZeeTV/index.m3u8
-#EXTINF:-1 group-title="Tест-08",Eda
-http://89.33.29.115:8080/Eda/index.m3u8
-#EXTINF:-1 group-title="Tест-08",Teleputeshestviya
-http://89.33.29.115:8080/Teleputeshestviya/index.m3u8
-
-
 #EXTINF:-1 group-title="Tест-17-08",Kinoman
 http://185.121.1.163:8083/Kinoman/index.m3u8
 #EXTINF:-1 group-title="Tест-17-08",Kinomiks
@@ -3630,311 +3504,6 @@ http://195.64.140.147:10115/115
 http://195.64.140.147:10116/116
 
 
-
-#EXTINF:-1 group-title="Interhost",  бестселлер
-http://89.33.29.115:8080/Russkibesteller/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost",  Иллюзион
-http://89.33.29.115:8080/Russkiy_illyuzion/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost",  ДЕТЕКТИВ
-http://89.33.29.115:8080/Russkiy_detektiv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", НСТ
-http://89.33.29.115:8080/NST/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Кино ТВ 
-http://89.33.29.115:8080/Kino_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Индия
-http://89.33.29.115:8080/ZeeTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Дорама
-http://89.33.29.115:8080/dorama_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", ИНДИЙСКОЕ КИНО
-http://89.33.29.115:8080/Indiya_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", КИНОСЕРИЯ
-http://89.33.29.115:8080/Mnogo_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Мужское Кино HD
-http://89.33.29.115:8080/Muzhskoe_kino/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Киномикс HD
-http://89.33.29.115:8080/Kino_plyus/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Кинокомедия HD
-http://89.33.29.115:8080/Komediya_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", НАШЕ НОВОЕ КИНО
-http://89.33.29.115:8080/Nashe_novoe_kino/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", РОДНОЕ КИНО
-http://89.33.29.115:8080/Nashe_kino/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", КИНОХИТ
-http://89.33.29.115:8080/Kinohit/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Киноужас HD
-http://89.33.29.115:8080/kinoujas_tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Премиальное HD
-http://89.33.29.115:8080/Kino_premium_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", КИНОПРЕМЬЕРА HD
-http://89.33.29.115:8080/HD_Kino/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Иллюзион+
-http://89.33.29.115:8080/Illyuzion/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Кинопоказ
-http://89.33.29.115:8080/Kinopokaz/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", .Red
-http://89.33.29.115:8080/SET/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", .Black
-http://89.33.29.115:8080/Sony_Turbo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Fox HD
-http://89.33.29.115:8080/FOX_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Fox Life
-http://89.33.29.115:8080/Fox_Life_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Horror TV
-http://89.33.29.115:8080/Horror/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", TV1000
-http://89.33.29.115:8080/TV1000/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", TV1000 Action
-http://89.33.29.115:8080/TV1000_Action/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", TV1000 Русское кино
-http://89.33.29.115:8080/TV1000russkoekino/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", TV XXI
-http://89.33.29.115:8080/TV-XXI/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Cinema HD
-http://89.33.29.115:8080/cinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Еврокино
-http://89.33.29.115:8080/Evrokino/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Кинозал! СССР
-http://89.33.29.115:8080/sssr_kino/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Sky2000 MultSU
-http://89.33.29.115:8080/Sky1000Mult_SU/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Sky2000 MultRU
-http://89.33.29.115:8080/Sky1000Mult_RU/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Sky2000 VHS HD
-http://89.33.29.115:8080/sky2000_VHS/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Sky1000_India
-http://89.33.29.115:8080/Sky1000_India/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", РЕТРО
-http://89.33.29.115:8080/Retro/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Liberty Netflix
-http://89.33.29.115:8080/Paramount_Comedy/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Страшное HD
-http://89.33.29.115:8080/StrashnoeHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", СТРАХ HD
-http://89.33.29.115:8080/strah_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", УДАР
-http://89.33.29.115:8080/UFC_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", ViP Megahit HD
-http://89.33.29.115:8080/TV1000_Megahit_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", ViP Premium HD
-http://89.33.29.115:8080/TV1000_Premium_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", ViP Comedy HD
-http://89.33.29.115:8080/TV1000_Comedy_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", VIP Serial HD
-http://89.33.29.115:8080/VIP_Serial_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Экстрим
-http://89.33.29.115:8080/Russkiy_ekstrim/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Star Family HD 
-http://89.33.29.115:8080/112Ukraina/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Романтичное HD
-http://89.33.29.115:8080/Semeynoe_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Наше крутое HD
-http://89.33.29.115:8080/Nashe_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Дом Кино
-http://89.33.29.115:8080/Dom_kino/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Ностальгия
-http://89.33.29.115:8080/Nostalgiya/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", START Air HD
-http://89.33.29.115:8080/START_Air_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", START World HD
-http://89.33.29.115:8080/START_World_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Amedia 2
-http://89.33.29.115:8080/Amedia_2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Amedia Hit HD
-http://89.33.29.115:8080/Amedia_Hit_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Остросюжетное HD
-http://89.33.29.115:8080/Ostrosyuzhetnoe_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", ШОКИРУЮЩЕЕ
-http://89.33.29.115:8080/Kinopokaz_HD1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", КАМЕДИ
-http://89.33.29.115:8080/Kinopokaz_HD2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", ПРО ЛЮБОВЬ HD
-http://89.33.29.115:8080/pro_lyubov/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", КОМЕДИЯ
-http://89.33.29.115:8080/russkaya_komedia/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", CineMan
-http://89.33.29.115:8080/CineMan/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", КВН ТВ
-http://89.33.29.115:8080/KVN_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Перец International
-http://89.33.29.115:8080/Peretz_int/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", ТВ3
-http://89.33.29.115:8080/TV_3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Домашний
-http://89.33.29.115:8080/Domashniy/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Че
-http://89.33.29.115:8080/Che/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Ю
-http://89.33.29.115:8080/UTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", HOT
-http://89.33.29.115:8080/fun/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Euronews
-http://89.33.29.115:8080/Euronews/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", НТН
-http://89.33.29.115:8080/NTN/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", zoom
-http://89.33.29.115:8080/zoom/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", travel
-http://89.33.29.115:8080/travel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Mezzo
-http://89.33.29.115:8080/Mezzo_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", 1+1 UA
-http://89.33.29.115:8080/1plus1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", 2+2
-http://89.33.29.115:8080/2plus2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", ТЕТ HD
-http://89.33.29.115:8080/TET/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Эспресо TV UA
-http://89.33.29.115:8080/EspresoTVUA/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Интер UA
-http://89.33.29.115:8080/Inter/mono.m3u8
-#EXTINF:-1 group-title="Interhost", ТБ UA
-http://89.33.29.115:8080/STB/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Квартал ТВ
-http://89.33.29.115:8080/UA_kvartal/mono.m3u8
-#EXTINF:-1 group-title="Interhost", ЕДА Премиум
-http://89.33.29.115:8080/Eda/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", RTG HD
-http://89.33.29.115:8080/RTG_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", TERRA HD
-http://89.33.29.115:8080/TERRA_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Discovery Channel HD
-http://89.33.29.115:8080/Discovery_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Animal Planet HD
-http://89.33.29.115:8080/Animal_Planet_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Авто 24
-http://89.33.29.115:8080/Avto_24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Усадьба
-http://89.33.29.115:8080/Usadba/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Travel+Adventure
-http://89.33.29.115:8080/Travel_Adventure_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Телепутешествия
-http://89.33.29.115:8080/Teleputeshestviya/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Совершенно секретно
-http://89.33.29.115:8080/Sovershenno_sekretno/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Кто есть кто
-http://89.33.29.115:8080/kto_est_kto/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", National Geographic HD
-http://89.33.29.115:8080/National_Geo_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Nat Geo Wild HD
-http://89.33.29.115:8080/Nat_Geo_Wild_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Наука HD
-http://89.33.29.115:8080/Nauka_2.0/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Мужской
-http://89.33.29.115:8080/Muzhskoy/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Viasat Explore HD
-http://89.33.29.115:8080/Viasat_Explorer/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Viasat Nature HD
-http://89.33.29.115:8080/Viasat_Nature_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Живая планета
-http://89.33.29.115:8080/Zhivaya_planeta/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", DocuBox HD
-http://89.33.29.115:8080/DocuBoxHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", ДРАЙВ
-http://89.33.29.115:8080/Drayv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", RTVi
-http://89.33.29.115:8080/RTVi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Время
-http://89.33.29.115:8080/Vremya/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", НАСТОЯЩЕЕ ВРЕМЯ
-http://89.33.29.115:8080/Nast_vremya/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", ЖИВИ!
-http://89.33.29.115:8080/Zhivi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", ТЕХНО 24
-http://89.33.29.115:8080/Tehno_24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", TLC HD
-http://89.33.29.115:8080/TLC_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Кухня ТВ
-http://89.33.29.115:8080/Kuhnya_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", АВТО ПЛЮС
-http://89.33.29.115:8080/Avto_Plyus/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", В Мире Животных HD
-http://89.33.29.115:8080/Animal_Family_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Доктор
-http://89.33.29.115:8080/24Dok/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Охотник и Рыболов HD
-http://89.33.29.115:8080/Ohotnik_i_Ryibolov_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Планета HD
-http://89.33.29.115:8080/IQ_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Eureka HD
-http://89.33.29.115:8080/Eureka_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Глазами туриста HD
-http://89.33.29.115:8080/Glazami_turista_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Investigation Discovery HD
-http://89.33.29.115:8080/ID_Xtra_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", H2 HD
-http://89.33.29.115:8080/H2_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost",  Tiji TV
-http://89.33.29.115:8080/TiJi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", В гостях у сказки
-http://89.33.29.115:8080/v_gostyax_u_skaski/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Мульт
-http://89.33.29.115:8080/Mult/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Мультиландия
-http://89.33.29.115:8080/Multimaniya/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Gulli
-http://89.33.29.115:8080/Gulli/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Jim jam
-http://89.33.29.115:8080/JimJam/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Мама
-http://89.33.29.115:8080/mama_tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Ani
-http://89.33.29.115:8080/ani/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Baby TV
-http://89.33.29.115:8080/Baby_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Солнце
-http://89.33.29.115:8080/Disney_rus/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Cartoon Network
-http://89.33.29.115:8080/Cartoon_Network/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", СТС Love
-http://89.33.29.115:8080/STS_Love/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", СТС KIDS
-http://89.33.29.115:8080/sts_kids_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Детский мир
-http://89.33.29.115:8080/Teleklub/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Nickelodeon
-http://89.33.29.115:8080/Nickelodeon/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Футбол
-http://89.33.29.115:8080/Futbol/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Матч! HD
-http://89.33.29.115:8080/Match_TV_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", КХЛ HD
-http://89.33.29.115:8080/KHL_TV_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Бокс ТВ
-http://89.33.29.115:8080/Boks_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Extreme Sports
-http://89.33.29.115:8080/Extreme_Sports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Eurosport 1 HD
-http://89.33.29.115:8080/Eurosport_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Eurosport 2 HD
-http://89.33.29.115:8080/Evrosport_2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Матч! Арена
-http://89.33.29.115:8080/Match_Arena/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", МАТЧ! ИГРА HD
-http://89.33.29.115:8080/Match_Igra_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", МАТЧ ПРЕМЬЕР
-http://89.33.29.115:8080/Match_Planeta/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", МАТЧ ПРЕМЬЕР HD
-http://89.33.29.115:8080/Nash_futbol_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Матч! Боец
-http://89.33.29.115:8080/Match_Boets/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Матч! Футбол 1 HD
-http://89.33.29.115:8080/Match_Futbol_1_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Матч! Футбол 2 HD
-http://89.33.29.115:8080/Match_Futbol_2_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Матч! Футбол 3 HD
-http://89.33.29.115:8080/Match_Futbol_3_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", SPORT 1
-http://89.33.29.115:8080/sport1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", СПОРТ+
-http://89.33.29.115:8080/sportplus/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Сетанта Спорт+ Украина
-http://89.33.29.115:8080/Setanta_SportsHD_UA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Viasat Sport
-http://89.33.29.115:8080/Viasat_Sport/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Interhost", Setanta Eurasia HD
-http://89.33.29.115:8080/SetantaEurasia/tracks-v1a1/mono.m3u8
-
-
 #EXTINF:-1 group-title="Велком",Ultra 4K Extreme
 http://46.53.200.153:7777/play/test_krask1/index.m3u8
 #EXTINF:-1 group-title="Велком",viju Explore
@@ -4178,6 +3747,7 @@ http://185.195.184.30:8000/play/a0ki/index.m3u8
 #EXTINF:-1 group-title="HARTUM TV SRL",БОКС ТВ
 http://185.195.184.30:8000/play/a0lp/index.m3u8
 
+
 #EXTINF:-1 group-title="Ott Club",Приключения HD
 http://stream.mcquack.net/198/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club",National Geographic HD
@@ -4212,6 +3782,8 @@ http://stream.mcquack.net/114/tracks-v1a1/mono.ts.m3u8
 http://stream.mcquack.net/141/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club",Трофей
 http://stream.mcquack.net/357/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club",36.6
+http://stream.mcquack.net/331/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club",В мире животных
 http://stream.mcquack.net/241/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club",Свiт на виворiт
@@ -4230,8 +3802,28 @@ http://stream.mcquack.net/64/tracks-v1a1/mono.ts.m3u8
 http://stream.mcquack.net/74/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club",Хит HD
 http://stream.mcquack.net/363/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Премиальное HD
+#EXTINF:-1 group-title="Ott Club",БЛОКБАСТЕР HD
 http://stream.mcquack.net/364/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club",Премиальное HD
+http://stream.mcquack.net/421/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club",Остросюжетное HD
+http://stream.mcquack.net/214/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club",CineMan
+http://stream.mcquack.net/349/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club",CineMan Top
+http://stream.mcquack.net/350/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club",Cineman Premium
+http://stream.mcquack.net/470/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club",Cineman Катастрофы
+http://stream.mcquack.net/471/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club",Cineman Мелодрама
+http://stream.mcquack.net/472/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club",CineMan Action
+http://stream.mcquack.net/351/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club",CineMan Thriller
+http://stream.mcquack.net/352/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club",Cineman VHS
+http://stream.mcquack.net/474/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club",Дорама HD
 http://stream.mcquack.net/412/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club",Kinosweet
@@ -4310,6 +3902,10 @@ http://stream.mcquack.net/340/tracks-v1a1/mono.ts.m3u8
 http://stream.mcquack.net/339/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club",НТН HD
 http://stream.mcquack.net/326/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club",ДІМ
+http://stream.mcquack.net/383/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club",Вікторина
+http://stream.mcquack.net/146/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club",Мега
 http://stream.mcquack.net/325/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club",К2 HD
@@ -4318,12 +3914,16 @@ http://stream.mcquack.net/324/tracks-v1a1/mono.ts.m3u8
 http://stream.mcquack.net/327/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club",2+2
 http://stream.mcquack.net/173/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club",Enter-фільм HD
+http://stream.mcquack.net/322/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club",TV2
 http://stream.mcquack.net/368/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club",ТБ HD
 http://stream.mcquack.net/156/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club",Канал HD
 http://stream.mcquack.net/157/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club",1+1
+http://stream.mcquack.net/219/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club",1+1 Марафон HD
 http://stream.mcquack.net/172/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club",Bolt
@@ -4332,6 +3932,8 @@ http://stream.mcquack.net/73/tracks-v1a1/mono.ts.m3u8
 http://stream.mcquack.net/84/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club",Закон ТВ
 http://stream.mcquack.net/406/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club",ПРО КИЇВ
+http://stream.mcquack.net/160/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club",Kino 1 HD
 http://stream.mcquack.net/395/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club",Машина часу
@@ -4410,6 +4012,8 @@ http://stream.mcquack.net/393/tracks-v1a1/mono.ts.m3u8
 http://stream.mcquack.net/394/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club",Спорт 5
 http://stream.mcquack.net/212/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club",Dynamo Kyiv TV HD
+http://stream.mcquack.net/396/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club",Setanta Sports 1
 http://stream.mcquack.net/234/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club",Setanta Sports 2
@@ -4418,3 +4022,39 @@ http://stream.mcquack.net/235/tracks-v1a1/mono.ts.m3u8
 http://stream.mcquack.net/176/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club",Eurosport 2
 http://stream.mcquack.net/192/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club",VPN Мужское кино
+http://stream.mcquack.net/107/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club",VPN Кинокомедия HD
+http://stream.mcquack.net/265/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club",VPN Кинокомедия HD
+http://stream.mcquack.net/170/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club",VPN Киносвидание
+http://stream.mcquack.net/171/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club",VPN Кинохит HD
+http://stream.mcquack.net/126/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club",VPN Киномикс HD
+http://stream.mcquack.net/133/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club",VPN TV 1000 East HD
+http://stream.mcquack.net/110/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club",VPN TV 1000 Action HD
+http://stream.mcquack.net/100/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club",VPN ViP Premiere HD
+http://stream.mcquack.net/202/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club",VPN ViP Megahit HD
+http://stream.mcquack.net/200/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club",VPN ViP Comedy HD
+http://stream.mcquack.net/201/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club",VPN ViP Serial HD
+http://stream.mcquack.net/311/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club",VPN Fox HD
+http://stream.mcquack.net/182/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club",VPN Fox Life HD
+http://stream.mcquack.net/129/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club",VPN ТВ XXI
+http://stream.mcquack.net/152/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club",VPN Plan B HD
+http://stream.mcquack.net/152/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club",VPN Еврокино HD
+http://stream.mcquack.net/385/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club",VPN НСТ
+http://stream.mcquack.net/207/tracks-v1a1/mono.ts.m3u8
