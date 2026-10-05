@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1,🛠Ревизия №-1 🚦02.10.2026|10-30|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
+#EXTINF:-1,🛠Ревизия №-1 🚦05.10.2026|16-30|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
 http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 
 
@@ -327,6 +327,16 @@ http://185.46.16.239:8000/VIP_Comedy
 http://185.46.16.239:8000/VIP_Megahit
 #EXTINF:-1 group-title="KINO+📺",viju+ Premiere HD
 http://185.46.16.239:8000/VIP_Premiere
+#EXTINF:-1 group-title="KINO+📺",Viju Premiere HD
+http://178.76.68.60:7441/81/mpegts
+#EXTINF:-1 group-title="KINO+📺",Viju Megahit HD
+http://178.76.68.60:7441/82/mpegts
+#EXTINF:-1 group-title="KINO+📺",Viju Comedy HD
+http://178.76.68.60:7441/83/mpegts
+#EXTINF:-1 group-title="KINO+📺",TV1000 HD
+http://178.76.68.60:7441/28/mpegts
+#EXTINF:-1 group-title="KINO+📺",TV1000 Action
+http://178.76.68.60:7441/29/mpegts
 #EXTINF:-1 group-title="KINO+📺",TV1000
 https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO+📺",TV1000 ACTION HD
@@ -353,6 +363,12 @@ http://176.118.197.101/Illuzion+/index.m3u8
 http://31.148.48.15/Evrokino/tracks-v1a1/mono.m3u8?token=iptv.org.ua
 #EXTINF:-1 group-title="KINO+📺",ЕВРОКИНО 
 http://176.118.197.101/Evrokino/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Sci-Fİ
+http://178.76.68.60:7441/35/mpegts
+#EXTINF:-1 group-title="KINO+📺",black
+http://178.76.68.60:7441/39/mpegts
+#EXTINF:-1 group-title="KINO+📺",КИНО ТВ
+http://178.76.68.60:7441/40/mpegts
 #EXTINF:-1 group-title="KINO+📺",Кино ТВ
 http://185.46.16.239:8000/Kino_TV
 #EXTINF:-1 group-title="KINO+📺",Kino TV
