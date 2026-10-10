@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1,🛠Ревизия №-1 🚦09.10.2026|14-55|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
+#EXTINF:-1,🛠Ревизия №-1 🚦10.10.2026|12-40|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
 http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 
 
@@ -371,24 +371,12 @@ http://185.46.16.239:8000/VIP_Comedy
 http://185.46.16.239:8000/VIP_Megahit
 #EXTINF:-1 group-title="KINO+📺",viju+ Premiere HD
 http://185.46.16.239:8000/VIP_Premiere
-#EXTINF:-1 group-title="KINO+📺",Viju Premiere HD
-http://178.76.68.60:7441/81/mpegts
-#EXTINF:-1 group-title="KINO+📺",Viju Megahit HD
-http://178.76.68.60:7441/82/mpegts
-#EXTINF:-1 group-title="KINO+📺",Viju Comedy HD
-http://178.76.68.60:7441/83/mpegts
-#EXTINF:-1 group-title="KINO+📺",TV1000 HD
-http://178.76.68.60:7441/28/mpegts
-#EXTINF:-1 group-title="KINO+📺",TV1000 Action
-http://178.76.68.60:7441/29/mpegts
 #EXTINF:-1 group-title="KINO+📺",TV1000
 https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO+📺",TV1000 ACTION HD
 https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO+📺",viju TV1000 action
 http://178.134.1.158:8081/tv1000action/index.m3u8?token=tva.in.ua
-#EXTINF:-1 group-title="KINO+📺",viju TV1000
-http://178.134.1.158:8081/tv1000/index.m3u8?token=tva.in.ua
 #EXTINF:0  tvg-id="http://ottiptvfilmtvgroup.zapto.org:8568/epg.xml"  tvg-name="FILM TV HD" group-title="KINO+📺" tvg-logo="http://filmtvgroup.site/uploads/channel/FILMTVHD.png",FILM TV HD
 https://ottiptvfilmtvgroup.zapto.org:8080/kino_tv/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3ODg2ODMzNjIsImV4cCI6MTc4ODc2OTc2Miwic3ViIjoiQWRtaW4ifQ.elQlt9rDrYlfbg85aZPXxIarprRqhdf58qFUNs3wQqs
 #EXTINF:0  tvg-id="http://ottiptvfilmtvgroup.zapto.org:8568/epg.xml"  tvg-name="FILM TV Кінозал" group-title="KINO+📺" tvg-logo="http://filmtvgroup.site/uploads/channel/K1.png",FILM TV Кінозал
@@ -403,16 +391,8 @@ http://88.99.215.227/FilmUADrama/index.m3u8
 http://185.46.16.239:8000/Illyuzion+
 #EXTINF:-1 group-title="KINO+📺",Иллюзион plus
 http://176.118.197.101/Illuzion+/index.m3u8
-#EXTINF:-1 group-title="KINO+📺",Евро кино
-http://31.148.48.15/Evrokino/tracks-v1a1/mono.m3u8?token=iptv.org.ua
 #EXTINF:-1 group-title="KINO+📺",ЕВРОКИНО 
 http://176.118.197.101/Evrokino/index.m3u8
-#EXTINF:-1 group-title="KINO+📺",Sci-Fİ
-http://178.76.68.60:7441/35/mpegts
-#EXTINF:-1 group-title="KINO+📺",black
-http://178.76.68.60:7441/39/mpegts
-#EXTINF:-1 group-title="KINO+📺",КИНО ТВ
-http://178.76.68.60:7441/40/mpegts
 #EXTINF:-1 group-title="KINO+📺",Кино ТВ
 http://185.46.16.239:8000/Kino_TV
 #EXTINF:-1 group-title="KINO+📺",Kino TV
@@ -429,18 +409,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
 http://194.152.35.17/cinema/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",CINEMA
 http://176.118.197.101/Cinema/index.m3u8
-#EXTINF:-1 group-title="KINO+📺",GrandF TV Fantazy
-http://62.141.35.207:8080/fantazy/video.m3u8?token=WDJ_ON27CzbeN2
-#EXTINF:-1 group-title="KINO+📺",GrandF TV Thriller
-http://62.141.35.207:8080/triller/video.m3u8?token=WDJ_ON27CzbeN2
-#EXTINF:-1 group-title="KINO+📺",GrandF TV Comedy
-http://62.141.35.207:8080/comedy/video.m3u8?token=WDJ_ON27CzbeN2
-#EXTINF:-1 group-title="KINO+📺",GrandF TV Action HD
-http://62.141.35.207:8080/action/video.m3u8?token=WDJ_ON27CzbeN2
-#EXTINF:-1 group-title="KINO+📺",BCU Catastrophe HD
-http://dtv.vol.net.ua/BCU-Catastrophe-HD/index.m3u8
-#EXTINF:-1 group-title="KINO+📺",BCU Kinorating HD
-http://dtv.vol.net.ua/BCU-Kinorating-HD/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",Hollywood
 https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO+📺",Индийское Кино
@@ -463,14 +431,8 @@ http://194.152.35.17/amedia-hit/index.m3u8
 http://5.9.11.197:57419/chu-87/mpegts
 #EXTINF:-1 group-title="KINO+📺",Amedia Premium
 http://5.9.11.197:57419/chu-88/mpegts
-#EXTINF:-1 group-title="KINO+📺",НСТ
-http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",NST
 http://178.134.1.158:8081/nst/index.m3u8?token=tva.in.ua
-#EXTINF:-1 group-title="KINO+📺",312 KG
-http://176.126.166.43:1935/live/312musik/chunklist_w1516016500.m3u8
-#EXTINF:-1 group-title="KINO+📺",312 Кино  KG
-http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 group-title="KINO+📺" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png" ,Кинозалы 2
 https://lbgo.bozztv.com/07/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO+📺" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png" ,Кинозалы 3
@@ -543,8 +505,6 @@ https://fs.uplink.kz/nostalgia/mono.m3u8?token=onlinetv
 https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
 #EXTINF:-1 group-title="Україна 🇺🇦", Суспільне Перший (T2) (UA)
 http://portal.ott.pink/C5UK_SyspilnePershiyT2/index.m3u8?token=B0B73593320445A22451378DF37B3E76
-#EXTINF:-1 group-title="Україна 🇺🇦",ІНТЕР
-http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=384895&extension=ts
 #EXTINF:-1 group-title="Україна 🇺🇦",1+1 Марафон
 https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8
 #EXTINF:-1 group-title="Україна 🇺🇦",1+1 International 
@@ -1287,8 +1247,6 @@ https://ext.cdn.nashnet.tv/228.0.0.41/index.m3u8
 http://newsr1.roshen.live:8080/vAu5sUNHz3/tracks-v1a1/mono.m3u8?token=XSOdznpeFPEURAYS
 #EXTINF:-1 group-title="SPORT 🏆",M Sport vpn
 http://5.188.159.128:8070/megogo_sport/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Окко Спорт 2
-http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",NHL (Интересные моменты)
 https://nhl-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Eurosport 1 HD
@@ -1297,6 +1255,20 @@ http://178.134.1.158:8081/eurosport/index.m3u8?token=tva.in.ua
 http://45.132.87.69:8080/match/index.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Матч ТВ
 http://5.188.221.43:8080/play/match
+#EXTINF:-1 group-title="SPORT 🏆",Матч Премьер
+http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Матч! Футбол 1
+http://31.148.5.241/Match_Football_1_HD/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Матч! Футбол 2
+http://31.148.5.241/Match_Football_2_HD/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Матч! Футбол 3
+http://31.148.5.241/Match_Football_3_HD/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Viasat Sport
+http://31.148.5.241/Viasat_Sport/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport 1 HD
+http://31.148.5.241/Eurosport_1_HD/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport 2 HD
+http://31.148.5.241/Eurosport_2_HD/index.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Trace Sport Stars HD
 https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Uzreport HD
