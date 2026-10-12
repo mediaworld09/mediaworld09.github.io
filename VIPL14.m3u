@@ -293,7 +293,7 @@ http://u.vipl.one/high/wih4sryefm/129.m3u8
 #EXTINF:0 tvg-id="130" tvg-logo="http://epg.cdntv.online/img/130.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кино", НТВ хит
 #EXTGRP:Кино
 http://u.vipl.one/high/wih4sryefm/130.m3u8
-#EXTINF:0 tvg-id="131" tvg-logo="http://epg.cdntv.online/img/131.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кино", Настоящее страшное ТВ
+#EXTINF:0 tvg-id="131" tvg-logo="http://epg.cdntv.online/img/131.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кино", НСТ
 #EXTGRP:Кино
 http://u.vipl.one/high/wih4sryefm/131.m3u8
 #EXTINF:0 tvg-id="132" tvg-logo="http://epg.cdntv.online/img/132.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кино", Наше новое кино
@@ -2425,9 +2425,6 @@ http://u.vipl.one/high/wih4sryefm/1523.m3u8
 #EXTINF:0 tvg-id="1524" tvg-logo="http://epg.cdntv.online/img/1524.png" group-title="Кинозалы", Sky High Quant S FHD
 #EXTGRP:Кинозалы
 http://u.vipl.one/high/wih4sryefm/1524.m3u8
-#EXTINF:0 tvg-id="1525" tvg-logo="http://epg.cdntv.online/img/1525.png" group-title="Кинозалы", Sky High DRAMA 4K
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1525.m3u8
 #EXTINF:0 tvg-id="1526" tvg-logo="http://epg.cdntv.online/img/1526.png" group-title="Кинозалы", Sky High Tanos S FHD
 #EXTGRP:Кинозалы
 http://u.vipl.one/high/wih4sryefm/1526.m3u8
@@ -2479,9 +2476,6 @@ http://u.vipl.one/high/wih4sryefm/1542.m3u8
 #EXTINF:0 tvg-id="1543" tvg-logo="http://epg.cdntv.online/img/1543.png" group-title="Кинозалы", Sky High LO FI HD
 #EXTGRP:Кинозалы
 http://u.vipl.one/high/wih4sryefm/1543.m3u8
-#EXTINF:0 tvg-id="1544" tvg-logo="http://epg.cdntv.online/img/1544.png" group-title="Взрослые", Sky High SEX
-#EXTGRP:Взрослые
-http://u.vipl.one/high/wih4sryefm/1544.m3u8
 #EXTINF:0 tvg-id="1545" tvg-logo="http://epg.cdntv.online/img/1545.png" group-title="Кинозалы", MS Animated
 #EXTGRP:Кинозалы
 http://u.vipl.one/high/wih4sryefm/1545.m3u8
@@ -2500,72 +2494,9 @@ http://u.vipl.one/high/wih4sryefm/1554.m3u8
 #EXTINF:0 tvg-id="1555" tvg-logo="http://epg.cdntv.online/img/1555.png" group-title="Кинозалы", MS Toons HD
 #EXTGRP:Кинозалы
 http://u.vipl.one/high/wih4sryefm/1555.m3u8
-#EXTINF:0 tvg-id="1556" tvg-logo="http://epg.cdntv.online/img/1556.png" group-title="Кинозалы", MS Young Blood HD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1556.m3u8
 #EXTINF:0 tvg-id="1557" tvg-logo="http://epg.cdntv.online/img/1557.png" group-title="Кинозалы", MS Magic HD
 #EXTGRP:Кинозалы
 http://u.vipl.one/high/wih4sryefm/1557.m3u8
-#EXTINF:0 tvg-id="1558" tvg-logo="http://epg.cdntv.online/img/1558.png" group-title="Кинозалы", Play-x UHD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1558.m3u8
-#EXTINF:0 tvg-id="1559" tvg-logo="http://epg.cdntv.online/img/1559.png" group-title="Кинозалы", Clarity4K Кино СССР
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1559.m3u8
-#EXTINF:0 tvg-id="1560" tvg-logo="http://epg.cdntv.online/img/1560.png" group-title="Кинозалы", Clarity4K Приключения
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1560.m3u8
-#EXTINF:0 tvg-id="1561" tvg-logo="http://epg.cdntv.online/img/1561.png" group-title="Кинозалы", Clarity4K Ужасы
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1561.m3u8
-#EXTINF:0 tvg-id="1562" tvg-logo="http://epg.cdntv.online/img/1562.png" group-title="Кинозалы", Clarity4K Фантастика
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1562.m3u8
-#EXTINF:0 tvg-id="1563" tvg-logo="http://epg.cdntv.online/img/1563.png" group-title="Кинозалы", Clarity4k Драмы
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1563.m3u8
-#EXTINF:0 tvg-id="1564" tvg-logo="http://epg.cdntv.online/img/1564.png" group-title="Кинозалы", Clarity4k Русские сериалы
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1564.m3u8
-#EXTINF:0 tvg-id="1565" tvg-logo="http://epg.cdntv.online/img/1565.png" group-title="Кинозалы", Clarity4k Классика кино
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1565.m3u8
-#EXTINF:0 tvg-id="1566" tvg-logo="http://epg.cdntv.online/img/1566.png" group-title="Кинозалы", Clarity4k Единоборства
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1566.m3u8
-#EXTINF:0 tvg-id="1567" tvg-logo="http://epg.cdntv.online/img/1567.png" group-title="Кинозалы", Clarity4K Семейный
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1567.m3u8
-#EXTINF:0 tvg-id="1568" tvg-logo="http://epg.cdntv.online/img/1568.png" group-title="Кинозалы", Clarity4K Travel blog
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1568.m3u8
-#EXTINF:0 tvg-id="1569" tvg-logo="http://epg.cdntv.online/img/1569.png" group-title="Кинозалы", Clarity4K Звериный мир
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1569.m3u8
-#EXTINF:0 tvg-id="1570" tvg-logo="http://epg.cdntv.online/img/1570.png" group-title="Кинозалы", Clarity4K КосмоМир
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1570.m3u8
-#EXTINF:0 tvg-id="1571" tvg-logo="http://epg.cdntv.online/img/1571.png" group-title="Кинозалы", Clarity4K Ужасы  VHS
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1571.m3u8
-#EXTINF:0 tvg-id="1572" tvg-logo="http://epg.cdntv.online/img/1572.png" group-title="Кинозалы", Clarity4k КиноФраншизы
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1572.m3u8
-#EXTINF:0 tvg-id="1573" tvg-logo="http://epg.cdntv.online/img/1573.png" group-title="Кинозалы", Clarity4K Комедия
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1573.m3u8
-#EXTINF:0 tvg-id="1574" tvg-logo="http://epg.cdntv.online/img/1574.png" group-title="Кинозалы", Clarity4k Боевик
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1574.m3u8
-#EXTINF:0 tvg-id="1575" tvg-logo="http://epg.cdntv.online/img/1575.png" group-title="Кинозалы", Clarity4K Фэнтези
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1575.m3u8
-#EXTINF:0 tvg-id="1576" tvg-logo="http://epg.cdntv.online/img/1576.png" group-title="Кинозалы", Clarity4K Walt Disney
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1576.m3u8
-#EXTINF:0 tvg-id="1577" tvg-logo="http://epg.cdntv.online/img/1577.png" group-title="Кинозалы", Clarity4K Мультимир
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1577.m3u8
 #EXTINF:0 tvg-id="1579" tvg-logo="http://epg.cdntv.online/img/1579.png" group-title="Развлекательные", Ювелирочка
 #EXTGRP:Развлекательные
 http://u.vipl.one/high/wih4sryefm/1579.m3u8
@@ -2575,18 +2506,6 @@ http://u.vipl.one/high/wih4sryefm/1580.m3u8
 #EXTINF:0 tvg-id="1581" tvg-logo="http://epg.cdntv.online/img/1581.png" group-title="Кинозалы", CineMan Комедийные сериалы
 #EXTGRP:Кинозалы
 http://u.vipl.one/high/wih4sryefm/1581.m3u8
-#EXTINF:0 tvg-id="1583" tvg-logo="http://epg.cdntv.online/img/1583.png" group-title="Кинозалы", Clarity4K Комедия СССР 2
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1583.m3u8
-#EXTINF:0 tvg-id="1584" tvg-logo="http://epg.cdntv.online/img/1584.png" group-title="Кинозалы", Clarity4K Комедия СССР 1
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1584.m3u8
-#EXTINF:0 tvg-id="1585" tvg-logo="http://epg.cdntv.online/img/1585.png" group-title="Кинозалы", Clarity4k Боевик VHS
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1585.m3u8
-#EXTINF:0 tvg-id="1587" tvg-logo="http://epg.cdntv.online/img/1587.png" group-title="Кинозалы", Clarity4K UrbanBlack
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1587.m3u8
 #EXTINF:0 tvg-id="1588" tvg-logo="http://epg.cdntv.online/img/1588.png" group-title="Кинозалы", CineMan Фитнес
 #EXTGRP:Кинозалы
 http://u.vipl.one/high/wih4sryefm/1588.m3u8
@@ -2632,90 +2551,6 @@ http://u.vipl.one/high/wih4sryefm/1639.m3u8
 #EXTINF:0 tvg-id="1641" tvg-logo="http://epg.cdntv.online/img/1641.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кино", START Air
 #EXTGRP:Кино
 http://u.vipl.one/high/wih4sryefm/1641.m3u8
-#EXTINF:0 tvg-id="1642" tvg-logo="http://epg.cdntv.online/img/1642.png" group-title="Кинозалы", Clarity4k UFO
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1642.m3u8
-#EXTINF:0 tvg-id="1643" tvg-logo="http://epg.cdntv.online/img/1643.png" group-title="Кинозалы", Clarity4K Молодежные комедии
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1643.m3u8
-#EXTINF:0 tvg-id="1644" tvg-logo="http://epg.cdntv.online/img/1644.png" group-title="Кинозалы", Clarity4K Триллер
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1644.m3u8
-#EXTINF:0 tvg-id="1645" tvg-logo="http://epg.cdntv.online/img/1645.png" group-title="Кинозалы", Clarity4K Мультляндия
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1645.m3u8
-#EXTINF:0 tvg-id="1646" tvg-logo="http://epg.cdntv.online/img/1646.png" group-title="Кинозалы", Clarity4K Театр
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1646.m3u8
-#EXTINF:0 tvg-id="1647" tvg-logo="http://epg.cdntv.online/img/1647.png" group-title="Кинозалы", Clarity4K France music
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1647.m3u8
-#EXTINF:0 tvg-id="1648" tvg-logo="http://epg.cdntv.online/img/1648.png" group-title="Кинозалы", Clarity4k Сумеречный Эфир
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1648.m3u8
-#EXTINF:0 tvg-id="1649" tvg-logo="http://epg.cdntv.online/img/1649.png" group-title="Кинозалы", Clarity4K Asia
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1649.m3u8
-#EXTINF:0 tvg-id="1650" tvg-logo="http://epg.cdntv.online/img/1650.png" group-title="Кинозалы", Clarity4K Galaxy Films
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1650.m3u8
-#EXTINF:0 tvg-id="1651" tvg-logo="http://epg.cdntv.online/img/1651.png" group-title="Кинозалы", Clarity4K Latin music
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1651.m3u8
-#EXTINF:0 tvg-id="1652" tvg-logo="http://epg.cdntv.online/img/1652.png" group-title="Кинозалы", Clarity4K BluesString
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1652.m3u8
-#EXTINF:0 tvg-id="1653" tvg-logo="http://epg.cdntv.online/img/1653.png" group-title="Кинозалы", Clarity4K World Music
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1653.m3u8
-#EXTINF:0 tvg-id="1654" tvg-logo="http://epg.cdntv.online/img/1654.png" group-title="Кинозалы", Clarity4K Города
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1654.m3u8
-#EXTINF:0 tvg-id="1655" tvg-logo="http://epg.cdntv.online/img/1655.png" group-title="Кинозалы", Clarity4K Ukrainian music
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1655.m3u8
-#EXTINF:0 tvg-id="1656" tvg-logo="http://epg.cdntv.online/img/1656.png" group-title="Кинозалы", Clarity4K Korean music
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1656.m3u8
-#EXTINF:0 tvg-id="1657" tvg-logo="http://epg.cdntv.online/img/1657.png" group-title="Кинозалы", Clarity4K Avto Blog
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1657.m3u8
-#EXTINF:0 tvg-id="1658" tvg-logo="http://epg.cdntv.online/img/1658.png" group-title="Кинозалы", Clarity4K Bollywood music
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1658.m3u8
-#EXTINF:0 tvg-id="1659" tvg-logo="http://epg.cdntv.online/img/1659.png" group-title="Кинозалы", Clarity4K Russian music
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1659.m3u8
-#EXTINF:0 tvg-id="1660" tvg-logo="http://epg.cdntv.online/img/1660.png" group-title="Кинозалы", Clarity4k Anime
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1660.m3u8
-#EXTINF:0 tvg-id="1661" tvg-logo="http://epg.cdntv.online/img/1661.png" group-title="Кинозалы", Clarity4K Heavy metal
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1661.m3u8
-#EXTINF:0 tvg-id="1662" tvg-logo="http://epg.cdntv.online/img/1662.png" group-title="Кинозалы", Clarity4K КиноНовинки
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1662.m3u8
-#EXTINF:0 tvg-id="1663" tvg-logo="http://epg.cdntv.online/img/1663.png" group-title="Кинозалы", Clarity4K Киношарм
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1663.m3u8
-#EXTINF:0 tvg-id="1664" tvg-logo="http://epg.cdntv.online/img/1664.png" group-title="Кинозалы", Clarity4k Deep House
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1664.m3u8
-#EXTINF:0 tvg-id="1665" tvg-logo="http://epg.cdntv.online/img/1665.png" group-title="Кинозалы", Clarity4K Kинодети CССР
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1665.m3u8
-#EXTINF:0 tvg-id="1666" tvg-logo="http://epg.cdntv.online/img/1666.png" group-title="Кинозалы", Clarity4k DeepMe
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1666.m3u8
-#EXTINF:0 tvg-id="1667" tvg-logo="http://epg.cdntv.online/img/1667.png" group-title="Кинозалы", Clarity4K Запал
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1667.m3u8
-#EXTINF:0 tvg-id="1668" tvg-logo="http://epg.cdntv.online/img/1668.png" group-title="Кинозалы", Clarity4K RemasterWave
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1668.m3u8
-#EXTINF:0 tvg-id="1670" tvg-logo="http://epg.cdntv.online/img/1670.png" group-title="Кинозалы", Clarity4K HBO series
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/1670.m3u8
 #EXTINF:0 tvg-id="1671" tvg-logo="http://epg.cdntv.online/img/1671.png" group-title="Развлекательные", Just TV
 #EXTGRP:Развлекательные
 http://u.vipl.one/high/wih4sryefm/1671.m3u8
@@ -4050,162 +3885,9 @@ http://u.vipl.one/high/wih4sryefm/2208.m3u8
 #EXTINF:0 tvg-id="2209" tvg-logo="http://epg.cdntv.online/img/2209.png" group-title="Латвия", Radio SWH TV
 #EXTGRP:Латвия
 http://u.vipl.one/high/wih4sryefm/2209.m3u8
-#EXTINF:0 tvg-id="2210" tvg-logo="http://epg.cdntv.online/img/2210.png" group-title="Кинозалы", Clarity4k Вселенная
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/2210.m3u8
-#EXTINF:0 tvg-id="2211" tvg-logo="http://epg.cdntv.online/img/2211.png" group-title="Кинозалы", Clarity4K Комедия (VHS)
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/2211.m3u8
-#EXTINF:0 tvg-id="2212" tvg-logo="http://epg.cdntv.online/img/2212.png" group-title="Кинозалы", Clarity4K Gamefilm
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/2212.m3u8
 #EXTINF:0 tvg-id="2214" tvg-logo="http://epg.cdntv.online/img/2214.png" group-title="Кинозалы", CineMan СССР
 #EXTGRP:Кинозалы
 http://u.vipl.one/high/wih4sryefm/2214.m3u8
-#EXTINF:0 tvg-id="2215" tvg-logo="http://epg.cdntv.online/img/2215.png" group-title="Кинозалы", Play-x Тайны Чапман HD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/2215.m3u8
-#EXTINF:0 tvg-id="2216" tvg-logo="http://epg.cdntv.online/img/2216.png" group-title="Кинозалы", Play-x Про людей и войну HD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/2216.m3u8
-#EXTINF:0 tvg-id="2217" tvg-logo="http://epg.cdntv.online/img/2217.png" group-title="Кинозалы", Play-x География уральских пельменей HD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/2217.m3u8
-#EXTINF:0 tvg-id="2218" tvg-logo="http://epg.cdntv.online/img/2218.png" group-title="Кинозалы", Play-x Военная приемка HD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/2218.m3u8
-#EXTINF:0 tvg-id="2219" tvg-logo="http://epg.cdntv.online/img/2219.png" group-title="Кинозалы", Play-x Импровизаторы HD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/2219.m3u8
-#EXTINF:0 tvg-id="2220" tvg-logo="http://epg.cdntv.online/img/2220.png" group-title="Кинозалы", Play-x 6 кадров HD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/2220.m3u8
-#EXTINF:0 tvg-id="2221" tvg-logo="http://epg.cdntv.online/img/2221.png" group-title="Кинозалы", Play-x music Enigmatic HD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/2221.m3u8
-#EXTINF:0 tvg-id="2222" tvg-logo="http://epg.cdntv.online/img/2222.png" group-title="Кинозалы", Play-x Между нами HD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/2222.m3u8
-#EXTINF:0 tvg-id="2223" tvg-logo="http://epg.cdntv.online/img/2223.png" group-title="Кинозалы", Play-x Beast Games HD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/2223.m3u8
-#EXTINF:0 tvg-id="2224" tvg-logo="http://epg.cdntv.online/img/2224.png" group-title="Кинозалы", Play-x Последний герой HD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/2224.m3u8
-#EXTINF:0 tvg-id="2225" tvg-logo="http://epg.cdntv.online/img/2225.png" group-title="Кинозалы", Play-x Русская дорога HD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/2225.m3u8
-#EXTINF:0 tvg-id="2226" tvg-logo="http://epg.cdntv.online/img/2226.png" group-title="Кинозалы", Play-x Уральские пельмени HD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/2226.m3u8
-#EXTINF:0 tvg-id="2227" tvg-logo="http://epg.cdntv.online/img/2227.png" group-title="Кинозалы", Play-x (90-е) HD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/2227.m3u8
-#EXTINF:0 tvg-id="2228" tvg-logo="http://epg.cdntv.online/img/2228.png" group-title="Кинозалы", Play-x Кинозал 1 HD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/2228.m3u8
-#EXTINF:0 tvg-id="2229" tvg-logo="http://epg.cdntv.online/img/2229.png" group-title="Кинозалы", Play-x Женский стендап HD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/2229.m3u8
-#EXTINF:0 tvg-id="2230" tvg-logo="http://epg.cdntv.online/img/2230.png" group-title="Кинозалы", Play-x Кинозал 23 HD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/2230.m3u8
-#EXTINF:0 tvg-id="2231" tvg-logo="http://epg.cdntv.online/img/2231.png" group-title="Кинозалы", Play-x Пограничный HD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/2231.m3u8
-#EXTINF:0 tvg-id="2232" tvg-logo="http://epg.cdntv.online/img/2232.png" group-title="Кинозалы", Play-x Кинозал 2 HD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/2232.m3u8
-#EXTINF:0 tvg-id="2233" tvg-logo="http://epg.cdntv.online/img/2233.png" group-title="Кинозалы", Play-x Кинозал 3 HD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/2233.m3u8
-#EXTINF:0 tvg-id="2234" tvg-logo="http://epg.cdntv.online/img/2234.png" group-title="Кинозалы", Play-x Кинозал 4 HD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/2234.m3u8
-#EXTINF:0 tvg-id="2235" tvg-logo="http://epg.cdntv.online/img/2235.png" group-title="Кинозалы", Play-x Кинозал 5 HD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/2235.m3u8
-#EXTINF:0 tvg-id="2236" tvg-logo="http://epg.cdntv.online/img/2236.png" group-title="Кинозалы", Play-x Кинозал 6 HD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/2236.m3u8
-#EXTINF:0 tvg-id="2237" tvg-logo="http://epg.cdntv.online/img/2237.png" group-title="Кинозалы", Play-x Кинозал 7 HD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/2237.m3u8
-#EXTINF:0 tvg-id="2238" tvg-logo="http://epg.cdntv.online/img/2238.png" group-title="Кинозалы", Play-x Кинозал 8 HD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/2238.m3u8
-#EXTINF:0 tvg-id="2239" tvg-logo="http://epg.cdntv.online/img/2239.png" group-title="Кинозалы", Play-x Кинозал 9 HD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/2239.m3u8
-#EXTINF:0 tvg-id="2240" tvg-logo="http://epg.cdntv.online/img/2240.png" group-title="Кинозалы", Play-x Кинозал 12 HD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/2240.m3u8
-#EXTINF:0 tvg-id="2241" tvg-logo="http://epg.cdntv.online/img/2241.png" group-title="Кинозалы", Play-x Кинозал 13 HD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/2241.m3u8
-#EXTINF:0 tvg-id="2242" tvg-logo="http://epg.cdntv.online/img/2242.png" group-title="Кинозалы", Play-x Кинозал 14 HD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/2242.m3u8
-#EXTINF:0 tvg-id="2243" tvg-logo="http://epg.cdntv.online/img/2243.png" group-title="Кинозалы", Play-x Кинозал 15 HD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/2243.m3u8
-#EXTINF:0 tvg-id="2244" tvg-logo="http://epg.cdntv.online/img/2244.png" group-title="Кинозалы", Play-x Кинозал 11 HD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/2244.m3u8
-#EXTINF:0 tvg-id="2245" tvg-logo="http://epg.cdntv.online/img/2245.png" group-title="Кинозалы", Play-x Кинозал 10 HD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/2245.m3u8
-#EXTINF:0 tvg-id="2246" tvg-logo="http://epg.cdntv.online/img/2246.png" group-title="Кинозалы", Play-x Кинозал 16 HD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/2246.m3u8
-#EXTINF:0 tvg-id="2247" tvg-logo="http://epg.cdntv.online/img/2247.png" group-title="Кинозалы", Play-x Кинозал 17 HD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/2247.m3u8
-#EXTINF:0 tvg-id="2248" tvg-logo="http://epg.cdntv.online/img/2248.png" group-title="Кинозалы", Play-x Кинозал 18 HD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/2248.m3u8
-#EXTINF:0 tvg-id="2249" tvg-logo="http://epg.cdntv.online/img/2249.png" group-title="Кинозалы", Play-x Кинозал 19 HD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/2249.m3u8
-#EXTINF:0 tvg-id="2250" tvg-logo="http://epg.cdntv.online/img/2250.png" group-title="Кинозалы", Play-x Кинозал 20 HD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/2250.m3u8
-#EXTINF:0 tvg-id="2251" tvg-logo="http://epg.cdntv.online/img/2251.png" group-title="Кинозалы", Play-x Кинозал 21 HD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/2251.m3u8
-#EXTINF:0 tvg-id="2252" tvg-logo="http://epg.cdntv.online/img/2252.png" group-title="Кинозалы", Play-x Кинозал 22 HD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/2252.m3u8
-#EXTINF:0 tvg-id="2253" tvg-logo="http://epg.cdntv.online/img/2253.png" group-title="Кинозалы", Play-x Баскетбол USA HD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/2253.m3u8
-#EXTINF:0 tvg-id="2254" tvg-logo="http://epg.cdntv.online/img/2254.png" group-title="Кинозалы", Play-x Муз Блатной Хит HD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/2254.m3u8
-#EXTINF:0 tvg-id="2255" tvg-logo="http://epg.cdntv.online/img/2255.png" group-title="Кинозалы", Play-x Муз Golden Hits 90s HD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/2255.m3u8
-#EXTINF:0 tvg-id="2256" tvg-logo="http://epg.cdntv.online/img/2256.png" group-title="Кинозалы", Play-x Муз Music 80s HD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/2256.m3u8
-#EXTINF:0 tvg-id="2257" tvg-logo="http://epg.cdntv.online/img/2257.png" group-title="Кинозалы", Play-x Муз Rock Pop Ballads HD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/2257.m3u8
-#EXTINF:0 tvg-id="2258" tvg-logo="http://epg.cdntv.online/img/2258.png" group-title="Кинозалы", Play-x Муз Муз Золотой век HD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/2258.m3u8
-#EXTINF:0 tvg-id="2259" tvg-logo="http://epg.cdntv.online/img/2259.png" group-title="Кинозалы", Play-x Муз Old School Hits HD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/2259.m3u8
-#EXTINF:0 tvg-id="2260" tvg-logo="http://epg.cdntv.online/img/2260.png" group-title="Кинозалы", Play-x Игра (тнт) HD
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/wih4sryefm/2260.m3u8
-#EXTINF:0 tvg-id="2261" tvg-logo="http://epg.cdntv.online/img/2261.png" group-title="Взрослые", Play-x Retro SEX HD
-#EXTGRP:Взрослые
-http://u.vipl.one/high/wih4sryefm/2261.m3u8
-#EXTINF:0 tvg-id="2262" tvg-logo="http://epg.cdntv.online/img/2262.png" group-title="Взрослые", Play-x Spy Sex HD
-#EXTGRP:Взрослые
-http://u.vipl.one/high/wih4sryefm/2262.m3u8
 #EXTINF:0 tvg-id="2263" tvg-logo="http://epg.cdntv.online/img/2263.png" group-title="Кинозалы", Sky High Beyonds FHD
 #EXTGRP:Кинозалы
 http://u.vipl.one/high/wih4sryefm/2263.m3u8
@@ -4297,3 +3979,90 @@ http://u.vipl.one/high/wih4sryefm/2301.m3u8
 #EXTINF:0 tvg-id="2302" tvg-logo="http://epg.cdntv.online/img/2302.png" group-title="Кинозалы", LIBERTY Планктон
 #EXTGRP:Кинозалы
 http://u.vipl.one/high/wih4sryefm/2302.m3u8
+#EXTINF:0 tvg-id="2305" tvg-logo="http://epg.cdntv.online/img/2305.png" group-title="Кинозалы", KBC-Легендарное HD
+#EXTGRP:Кинозалы
+http://u.vipl.one/high/wih4sryefm/2305.m3u8
+#EXTINF:0 tvg-id="2306" tvg-logo="http://epg.cdntv.online/img/2306.png" group-title="Кинозалы", KBC-Кошмарное HD
+#EXTGRP:Кинозалы
+http://u.vipl.one/high/wih4sryefm/2306.m3u8
+#EXTINF:0 tvg-id="2307" tvg-logo="http://epg.cdntv.online/img/2307.png" group-title="Кинозалы", KBC-Видак HD
+#EXTGRP:Кинозалы
+http://u.vipl.one/high/wih4sryefm/2307.m3u8
+#EXTINF:0 tvg-id="2308" tvg-logo="http://epg.cdntv.online/img/2308.png" group-title="Кинозалы", KBC-ДрамаTic HD
+#EXTGRP:Кинозалы
+http://u.vipl.one/high/wih4sryefm/2308.m3u8
+#EXTINF:0 tvg-id="2309" tvg-logo="http://epg.cdntv.online/img/2309.png" group-title="Кинозалы", KBC-Союзмультзал
+#EXTGRP:Кинозалы
+http://u.vipl.one/high/wih4sryefm/2309.m3u8
+#EXTINF:0 tvg-id="2310" tvg-logo="http://epg.cdntv.online/img/2310.png" group-title="Кинозалы", KBC+100500 (18+)
+#EXTGRP:Кинозалы
+http://u.vipl.one/high/wih4sryefm/2310.m3u8
+#EXTINF:0 tvg-id="2311" tvg-logo="http://epg.cdntv.online/img/2311.png" group-title="Кинозалы", KBC-Elite comedy HD
+#EXTGRP:Кинозалы
+http://u.vipl.one/high/wih4sryefm/2311.m3u8
+#EXTINF:0 tvg-id="2312" tvg-logo="http://epg.cdntv.online/img/2312.png" group-title="Кинозалы", KBC-Russian Комедия HD
+#EXTGRP:Кинозалы
+http://u.vipl.one/high/wih4sryefm/2312.m3u8
+#EXTINF:0 tvg-id="2313" tvg-logo="http://epg.cdntv.online/img/2313.png" group-title="Кинозалы", KBC-Family Animation HD
+#EXTGRP:Кинозалы
+http://u.vipl.one/high/wih4sryefm/2313.m3u8
+#EXTINF:0 tvg-id="2314" tvg-logo="http://epg.cdntv.online/img/2314.png" group-title="Кинозалы", KBC-В.О.В. HD
+#EXTGRP:Кинозалы
+http://u.vipl.one/high/wih4sryefm/2314.m3u8
+#EXTINF:0 tvg-id="2315" tvg-logo="http://epg.cdntv.online/img/2315.png" group-title="Кинозалы", KBC-Страна СССР
+#EXTGRP:Кинозалы
+http://u.vipl.one/high/wih4sryefm/2315.m3u8
+#EXTINF:0 tvg-id="2316" tvg-logo="http://epg.cdntv.online/img/2316.png" group-title="Кинозалы", KBC-Шпионское HD
+#EXTGRP:Кинозалы
+http://u.vipl.one/high/wih4sryefm/2316.m3u8
+#EXTINF:0 tvg-id="2317" tvg-logo="http://epg.cdntv.online/img/2317.png" group-title="Кинозалы", KBC-Comics HD
+#EXTGRP:Кинозалы
+http://u.vipl.one/high/wih4sryefm/2317.m3u8
+#EXTINF:0 tvg-id="2318" tvg-logo="http://epg.cdntv.online/img/2318.png" group-title="Кинозалы", KBC-АНИМЕ HD
+#EXTGRP:Кинозалы
+http://u.vipl.one/high/wih4sryefm/2318.m3u8
+#EXTINF:0 tvg-id="2319" tvg-logo="http://epg.cdntv.online/img/2319.png" group-title="Кинозалы", KBC-History HD
+#EXTGRP:Кинозалы
+http://u.vipl.one/high/wih4sryefm/2319.m3u8
+#EXTINF:0 tvg-id="2320" tvg-logo="http://epg.cdntv.online/img/2320.png" group-title="Кинозалы", KBC-Fantastic HD
+#EXTGRP:Кинозалы
+http://u.vipl.one/high/wih4sryefm/2320.m3u8
+#EXTINF:0 tvg-id="2321" tvg-logo="http://epg.cdntv.online/img/2321.png" group-title="Кинозалы", KBC-Newfilm HD
+#EXTGRP:Кинозалы
+http://u.vipl.one/high/wih4sryefm/2321.m3u8
+#EXTINF:0 tvg-id="2322" tvg-logo="http://epg.cdntv.online/img/2322.png" group-title="Кинозалы", KBC-ГОБЛИН HD
+#EXTGRP:Кинозалы
+http://u.vipl.one/high/wih4sryefm/2322.m3u8
+#EXTINF:0 tvg-id="2323" tvg-logo="http://epg.cdntv.online/img/2323.png" group-title="Кинозалы", KBC-Вестерн HD
+#EXTGRP:Кинозалы
+http://u.vipl.one/high/wih4sryefm/2323.m3u8
+#EXTINF:0 tvg-id="2324" tvg-logo="http://epg.cdntv.online/img/2324.png" group-title="Кинозалы", KBC-WAR HD
+#EXTGRP:Кинозалы
+http://u.vipl.one/high/wih4sryefm/2324.m3u8
+#EXTINF:0 tvg-id="2325" tvg-logo="http://epg.cdntv.online/img/2325.png" group-title="Кинозалы", KBC-ГАЙ Ritchie Tarantino
+#EXTGRP:Кинозалы
+http://u.vipl.one/high/wih4sryefm/2325.m3u8
+#EXTINF:0 tvg-id="2326" tvg-logo="http://epg.cdntv.online/img/2326.png" group-title="Кинозалы", KBC-Animals HD
+#EXTGRP:Кинозалы
+http://u.vipl.one/high/wih4sryefm/2326.m3u8
+#EXTINF:0 tvg-id="2327" tvg-logo="http://epg.cdntv.online/img/2327.png" group-title="Кинозалы", KBC-MusKino HD
+#EXTGRP:Кинозалы
+http://u.vipl.one/high/wih4sryefm/2327.m3u8
+#EXTINF:0 tvg-id="2328" tvg-logo="http://epg.cdntv.online/img/2328.png" group-title="Кинозалы", KBC-СпортМикс HD
+#EXTGRP:Кинозалы
+http://u.vipl.one/high/wih4sryefm/2328.m3u8
+#EXTINF:0 tvg-id="2329" tvg-logo="http://epg.cdntv.online/img/2329.png" group-title="Кинозалы", KBC-НАШ ROCK
+#EXTGRP:Кинозалы
+http://u.vipl.one/high/wih4sryefm/2329.m3u8
+#EXTINF:0 tvg-id="2330" tvg-logo="http://epg.cdntv.online/img/2330.png" group-title="Кинозалы", KBC-Сказочный Remake
+#EXTGRP:Кинозалы
+http://u.vipl.one/high/wih4sryefm/2330.m3u8
+#EXTINF:0 tvg-id="2331" tvg-logo="http://epg.cdntv.online/img/2331.png" group-title="Кинозалы", TvBoom.VIP
+#EXTGRP:Кинозалы
+http://u.vipl.one/high/wih4sryefm/2331.m3u8
+#EXTINF:0 tvg-id="2332" tvg-logo="http://epg.cdntv.online/img/2332.png" group-title="Кинозалы", KBC-Новогодний
+#EXTGRP:Кинозалы
+http://u.vipl.one/high/wih4sryefm/2332.m3u8
+#EXTINF:0 tvg-id="2333" tvg-logo="http://epg.cdntv.online/img/2333.png" group-title="Кинозалы", KBC-КиноБиблия HD
+#EXTGRP:Кинозалы
+http://u.vipl.one/high/wih4sryefm/2333.m3u8
