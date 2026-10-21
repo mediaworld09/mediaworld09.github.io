@@ -1096,7 +1096,7 @@ http://u.vipl.one/high/ie36dbjx9k/579.m3u8
 #EXTINF:0 tvg-id="581" tvg-logo="http://epg.cdntv.online/img/581.png" group-title="Региональные", Москва 24
 #EXTGRP:Региональные
 http://u.vipl.one/high/ie36dbjx9k/581.m3u8
-#EXTINF:0 tvg-id="582" tvg-logo="http://epg.cdntv.online/img/582.png" group-title="Региональные", Москва. Доверие
+#EXTINF:0 tvg-id="582" tvg-logo="http://epg.cdntv.online/img/582.png" group-title="Региональные", Москва Доверие
 #EXTGRP:Региональные
 http://u.vipl.one/high/ie36dbjx9k/582.m3u8
 #EXTINF:0 tvg-id="584" tvg-logo="http://epg.cdntv.online/img/584.png" group-title="Плюсовые", Муз ТВ (+2)
@@ -1829,7 +1829,7 @@ http://u.vipl.one/high/ie36dbjx9k/1079.m3u8
 #EXTINF:0 tvg-id="1094" tvg-logo="http://epg.cdntv.online/img/1094.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Молдова", REN MD
 #EXTGRP:Молдова
 http://u.vipl.one/high/ie36dbjx9k/1094.m3u8
-#EXTINF:0 tvg-id="1095" tvg-logo="http://epg.cdntv.online/img/1095.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кино", Мосфильм HD
+#EXTINF:0 tvg-id="1095" tvg-logo="http://epg.cdntv.online/img/1095.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кино", Мосфильм.Золотая коллекция
 #EXTGRP:Кино
 http://u.vipl.one/high/ie36dbjx9k/1095.m3u8
 #EXTINF:0 tvg-id="1097" tvg-logo="http://epg.cdntv.online/img/1097.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Развлекательные", Перец International
@@ -4360,3 +4360,6 @@ http://u.vipl.one/high/ie36dbjx9k/2332.m3u8
 #EXTINF:0 tvg-id="2333" tvg-logo="http://epg.cdntv.online/img/2333.png" group-title="Кинозалы", KBC-КиноБиблия HD
 #EXTGRP:Кинозалы
 http://u.vipl.one/high/ie36dbjx9k/2333.m3u8
+#EXTINF:0 tvg-id="2334" tvg-logo="http://epg.cdntv.online/img/2334.png" group-title="Музыкальные", EQVE Radio
+#EXTGRP:Музыкальные
+http://u.vipl.one/high/ie36dbjx9k/2334.m3u8
