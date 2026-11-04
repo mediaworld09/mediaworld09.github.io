@@ -3945,18 +3945,6 @@ http://u.vipl.one/high/wih4sryefm/2177.m3u8
 #EXTINF:0 tvg-id="2178" tvg-logo="http://epg.cdntv.online/img/2178.png" group-title="Литва", Nicktoons
 #EXTGRP:Литва
 http://u.vipl.one/high/wih4sryefm/2178.m3u8
-#EXTINF:0 tvg-id="2179" tvg-logo="http://epg.cdntv.online/img/2179.png" group-title="Литва", Sport 1 Baltic
-#EXTGRP:Литва
-http://u.vipl.one/high/wih4sryefm/2179.m3u8
-#EXTINF:0 tvg-id="2180" tvg-logo="http://epg.cdntv.online/img/2180.png" group-title="Литва", Sport 1 HD
-#EXTGRP:Литва
-http://u.vipl.one/high/wih4sryefm/2180.m3u8
-#EXTINF:0 tvg-id="2181" tvg-logo="http://epg.cdntv.online/img/2181.png" group-title="Литва", Sport 2 Baltic
-#EXTGRP:Литва
-http://u.vipl.one/high/wih4sryefm/2181.m3u8
-#EXTINF:0 tvg-id="2182" tvg-logo="http://epg.cdntv.online/img/2182.png" group-title="Литва", Sport 4
-#EXTGRP:Литва
-http://u.vipl.one/high/wih4sryefm/2182.m3u8
 #EXTINF:0 tvg-id="2183" tvg-logo="http://epg.cdntv.online/img/2183.png" group-title="Литва", TV1 HD
 #EXTGRP:Литва
 http://u.vipl.one/high/wih4sryefm/2183.m3u8
@@ -3966,9 +3954,6 @@ http://u.vipl.one/high/wih4sryefm/2184.m3u8
 #EXTINF:0 tvg-id="2185" tvg-logo="http://epg.cdntv.online/img/2185.png" group-title="Литва", TV6 HD LT
 #EXTGRP:Литва
 http://u.vipl.one/high/wih4sryefm/2185.m3u8
-#EXTINF:0 tvg-id="2186" tvg-logo="http://epg.cdntv.online/img/2186.png" group-title="Литва", TV7 LT
-#EXTGRP:Литва
-http://u.vipl.one/high/wih4sryefm/2186.m3u8
 #EXTINF:0 tvg-id="2187" tvg-logo="http://epg.cdntv.online/img/2187.png" group-title="Литва", TV8 HD LT
 #EXTGRP:Литва
 http://u.vipl.one/high/wih4sryefm/2187.m3u8
