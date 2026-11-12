@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1,🛠Ревизия №-1 🚦11.11.2026|12-10|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
+#EXTINF:-1,🛠Ревизия №-1 🚦12.11.2026|10-10|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
 http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 
 #EXTINF:-1 group-title="Каналы с VPN", Discovery Channel HD
@@ -3554,3 +3554,35 @@ http://85.117.61.84/fashion/index.m3u8
 http://85.117.61.84/arirang/index.m3u8
 #EXTINF:-1 group-title="ТЕСТ-04-11",bbc
 http://85.117.61.84/bbc/index.m3u8
+
+
+#EXTINF:-1 group-title="Datacamp Limited", Блокбастер HD
+http://185.76.10.53:8080/srv5/blokbaster_hd/tracks-v1a1/mono.m3u8?cid=144&did=5366158&m=1&rid=24397&token=2022b6576a65c40ede42a7d4941b5471
+#EXTINF:-1 group-title="Datacamp Limited",Дом кино премиум 
+http://185.76.10.53:8080/srv5/dom_kino_premium/tracks-v1a1/mono.m3u8?cid=144&did=5366158&m=1&rid=24397&token=2022b6576a65c40ede42a7d4941b5471
+#EXTINF:-1 group-title="Datacamp Limited",Мужское кино
+http://185.76.10.53:8080/srv5/interesnoetv/tracks-v1a1/mono.m3u8?cid=144&did=5366158&m=1&rid=24397&token=2022b6576a65c40ede42a7d4941b5471
+#EXTINF:-1 group-title="Datacamp Limited",Kinojam 2
+http://185.76.10.53:8080/srv5/kinojam2/tracks-v1a1/mono.m3u8?cid=144&did=5366158&m=1&rid=24397&token=2022b6576a65c40ede42a7d4941b5471
+#EXTINF:-1 group-title="Datacamp Limited",magic disney
+http://185.76.10.53:8080/srv5/magic_disney/tracks-v1a1/mono.m3u8?cid=144&did=5366158&m=1&rid=24397&token=2022b6576a65c40ede42a7d4941b5471
+#EXTINF:-1 group-title="Datacamp Limited",magic vhs
+http://185.76.10.53:8080/srv5/magic_vhs/tracks-v1a1/mono.m3u8?cid=144&did=5366158&m=1&rid=24397&token=2022b6576a65c40ede42a7d4941b5471
+#EXTINF:-1 group-title="Datacamp Limited", Мосфильм. Золотая коллекция
+http://185.76.10.53:8080/srv5/mosfilm/tracks-v1a1/mono.m3u8?cid=144&did=5366158&m=1&rid=24397&token=2022b6576a65c40ede42a7d4941b5471
+#EXTINF:-1 group-title="Datacamp Limited",Кинопоказ HD
+http://185.76.10.53:8080/srv5/nash_kinopokaz_hd/tracks-v1a1/mono.m3u8?cid=144&did=5366158&m=1&rid=24397&token=2022b6576a65c40ede42a7d4941b5471
+#EXTINF:-1 group-title="Datacamp Limited", Роман
+http://185.76.10.53:8080/srv5/rus_roman_hd/tracks-v1a1/mono.m3u8?cid=144&did=5366158&m=1&rid=24397&token=2022b6576a65c40ede42a7d4941b5471
+#EXTINF:-1 group-title="Datacamp Limited",Star cinema
+http://185.76.10.53:8080/srv5/star_sinema/tracks-v1a1/mono.m3u8?cid=144&did=5366158&m=1&rid=24397&token=2022b6576a65c40ede42a7d4941b5471
+#EXTINF:-1 group-title="Datacamp Limited",СТС HD
+http://185.76.10.53:8080/srv5/sts_hd/tracks-v1a1/mono.m3u8?cid=144&did=5366158&m=1&rid=24397&token=2022b6576a65c40ede42a7d4941b5471
+#EXTINF:-1 group-title="Datacamp Limited",СТС Love
+http://185.76.10.53:8080/srv5/sts_love/tracks-v1a1/mono.m3u8?cid=144&did=5366158&m=1&rid=24397&token=2022b6576a65c40ede42a7d4941b5471
+#EXTINF:-1 group-title="Datacamp Limited",Советская Киноклассика
+http://185.76.10.53:8080/srv5/teledom/tracks-v1a1/mono.m3u8?cid=144&did=5366158&m=1&rid=24397&token=2022b6576a65c40ede42a7d4941b5471
+#EXTINF:-1 group-title="Datacamp Limited",ТВ-3 HD
+http://185.76.10.53:8080/srv5/tv3_hd/tracks-v1a1/mono.m3u8?cid=144&did=5366158&m=1&rid=24397&token=2022b6576a65c40ede42a7d4941b5471
+#EXTINF:-1 group-title="Datacamp Limited",VIP Serial HD
+http://185.76.10.53:8080/srv5/vip_serial_hd/tracks-v1a1/mono.m3u8?cid=144&did=5366158&m=1&rid=24397&token=2022b6576a65c40ede42a7d4941b5471
