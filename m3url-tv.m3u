@@ -629,9 +629,6 @@ http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/2488/index.m3u8
 #EXTINF:0 tvg-rec="3",Sky Cinema Feelgood HD DE
 #EXTGRP:кино
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/2489/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Krimi HD DE
-#EXTGRP:кино
-http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/2491/index.m3u8
 #EXTINF:0 tvg-rec="3",Sky Arts HD DE
 #EXTGRP:кино
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/2494/index.m3u8
@@ -1847,9 +1844,6 @@ http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/9053/index.m3u8
 #EXTINF:0 tvg-rec="0",1HD Music Television HD
 #EXTGRP:музыка
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/17038/index.m3u8
-#EXTINF:0 tvg-rec="0",Горящий камин
-#EXTGRP:музыка
-http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/16070/index.m3u8
 #EXTINF:0 tvg-rec="0",Europa Plus TV HD
 #EXTGRP:музыка
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/20029/index.m3u8
@@ -2051,7 +2045,7 @@ http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/16073/index.m3u8
 #EXTINF:0 tvg-rec="0",Bridge Фрэш
 #EXTGRP:музыка
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/17045/index.m3u8
-#EXTINF:0 tvg-rec="0",Deluxe Music HD DE
+#EXTINF:0 tvg-rec="0",Deluxe Music FHD DE
 #EXTGRP:музыка
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/17047/index.m3u8
 #EXTINF:0 tvg-rec="0",Радио Хит HD (Орск)
@@ -2135,7 +2129,7 @@ http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/19174/index.m3u8
 #EXTINF:0 tvg-rec="0",MTV US
 #EXTGRP:музыка
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/19192/index.m3u8
-#EXTINF:0 tvg-rec="0",NOW 70s UK
+#EXTINF:0 tvg-rec="0",That's 70s UK
 #EXTGRP:музыка
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/19194/index.m3u8
 #EXTINF:0 tvg-rec="0",Now 80s UK
@@ -2615,7 +2609,7 @@ http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/543/index.m3u8
 #EXTINF:0 tvg-rec="7",JimJam
 #EXTGRP:детские
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/138/index.m3u8
-#EXTINF:0 tvg-rec="7",Cartoon Network HD
+#EXTINF:0 tvg-rec="7",Cartoon Network
 #EXTGRP:детские
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/143/index.m3u8
 #EXTINF:0 tvg-rec="7",Карусель
@@ -3044,7 +3038,7 @@ http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/31879/index.m3u8
 #EXTINF:0 tvg-rec="0",Neox HD ES
 #EXTGRP:развлекательные
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/31881/index.m3u8
-#EXTINF:0 tvg-rec="0",M+ Vacaciones HD ES
+#EXTINF:0 tvg-rec="0",M+ Navidad HD ES
 #EXTGRP:развлекательные
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/31884/index.m3u8
 #EXTINF:0 tvg-rec="0",СТС +0 (Липецк)
@@ -3179,7 +3173,7 @@ http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/31587/index.m3u8
 #EXTINF:0 tvg-rec="0",Magenta Sport Highlights HD GR
 #EXTGRP:спорт
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/31588/index.m3u8
-#EXTINF:0 tvg-rec="0",Sport TV+ HD PT
+#EXTINF:0 tvg-rec="0",Sport TV+ FHD PT
 #EXTGRP:спорт
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/31590/index.m3u8
 #EXTINF:0 tvg-rec="0",Canal 11 HD PT
@@ -3908,7 +3902,7 @@ http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/19060/index.m3u8
 #EXTINF:0 tvg-rec="0",ESPN 2 HD BR
 #EXTGRP:спорт
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/19061/index.m3u8
-#EXTINF:0 tvg-rec="0",beIN Sports Max 1 FHD TR
+#EXTINF:0 tvg-rec="0",beIN Sports Max 1 TR
 #EXTGRP:спорт
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/19062/index.m3u8
 #EXTINF:0 tvg-rec="0",beIN Sports Haber HD TR
@@ -4307,7 +4301,7 @@ http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/31920/index.m3u8
 #EXTINF:0 tvg-rec="0",Sport TV HD AZ
 #EXTGRP:спорт
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/31926/index.m3u8
-#EXTINF:0 tvg-rec="0",Sport TV+ FHD PT
+#EXTINF:0 tvg-rec="0",Sport TV+ HD PT
 #EXTGRP:спорт
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/31941/index.m3u8
 #EXTINF:0 tvg-rec="0",Sport TV 1 FHD PT
@@ -4340,7 +4334,7 @@ http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/31950/index.m3u8
 #EXTINF:0 tvg-rec="0",A Bola TV HD PT
 #EXTGRP:спорт
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/31951/index.m3u8
-#EXTINF:0 tvg-rec="0",Benfica TV  HD PT
+#EXTINF:0 tvg-rec="0",Benfica TV HD PT
 #EXTGRP:спорт
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/31952/index.m3u8
 #EXTINF:0 tvg-rec="0",Sporting TV HD PT
@@ -4769,7 +4763,7 @@ http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/6349/index.m3u8
 #EXTINF:0 tvg-rec="3",TV6 LT
 #EXTGRP:другие
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/6350/index.m3u8
-#EXTINF:0 tvg-rec="3",LTV1 FHD LV
+#EXTINF:0 tvg-rec="3",LTV1 HD LV
 #EXTGRP:другие
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/6353/index.m3u8
 #EXTINF:0 tvg-rec="3",LTV7 HD LV
@@ -4928,9 +4922,6 @@ http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/6626/index.m3u8
 #EXTINF:0 tvg-rec="0",Channel I IN
 #EXTGRP:другие
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/6633/index.m3u8
-#EXTINF:0 tvg-rec="0",Sony AATH IN
-#EXTGRP:другие
-http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/6641/index.m3u8
 #EXTINF:0 tvg-rec="0",TV9 Gujarati IN
 #EXTGRP:другие
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/6643/index.m3u8
@@ -4952,9 +4943,6 @@ http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/6673/index.m3u8
 #EXTINF:0 tvg-rec="0",Fateh TV IN
 #EXTGRP:другие
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/6685/index.m3u8
-#EXTINF:0 tvg-rec="0",SUN TV IN
-#EXTGRP:другие
-http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/6692/index.m3u8
 #EXTINF:0 tvg-rec="0",Raj Musix IN
 #EXTGRP:другие
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/6702/index.m3u8
@@ -4991,7 +4979,7 @@ http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/7141/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 HD orig
 #EXTGRP:другие
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/7252/index.m3u8
-#EXTINF:0 tvg-rec="0",Welt DE
+#EXTINF:0 tvg-rec="0",Welt HD DE
 #EXTGRP:другие
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/7258/index.m3u8
 #EXTINF:0 tvg-rec="0",N-TV FHD DE
@@ -5120,10 +5108,7 @@ http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/12037/index.m3u8
 #EXTINF:0 tvg-rec="0",TV4 Sport Live 4 HD SE
 #EXTGRP:другие
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/12039/index.m3u8
-#EXTINF:0 tvg-rec="0",Godare SE
-#EXTGRP:другие
-http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/12040/index.m3u8
-#EXTINF:0 tvg-rec="0",Horse & Country HD SE
+#EXTINF:0 tvg-rec="0",Horse & Country SE
 #EXTGRP:другие
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/12050/index.m3u8
 #EXTINF:0 tvg-rec="0",Investigation Discovery SE
@@ -5204,7 +5189,7 @@ http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/12087/index.m3u8
 #EXTINF:0 tvg-rec="0",Expressen TV HD SE
 #EXTGRP:другие
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/12089/index.m3u8
-#EXTINF:0 tvg-rec="0",History 2 HD SE
+#EXTINF:0 tvg-rec="0",History 2 SE
 #EXTGRP:другие
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/12095/index.m3u8
 #EXTINF:0 tvg-rec="0",History HD SE
@@ -5249,7 +5234,7 @@ http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/15118/index.m3u8
 #EXTINF:0 tvg-rec="0",MS Crime HD
 #EXTGRP:другие
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/15136/index.m3u8
-#EXTINF:0 tvg-rec="0",Welt HD DE
+#EXTINF:0 tvg-rec="0",Welt FHD DE
 #EXTGRP:другие
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/15169/index.m3u8
 #EXTINF:0 tvg-rec="0",SIXX HD DE
@@ -5759,7 +5744,7 @@ http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/18018/index.m3u8
 #EXTINF:0 tvg-rec="0",KidZone Max HD LV
 #EXTGRP:другие
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/18019/index.m3u8
-#EXTINF:0 tvg-rec="0",LTV1 HD LV
+#EXTINF:0 tvg-rec="0",LTV1 FHD LV
 #EXTGRP:другие
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/18020/index.m3u8
 #EXTINF:0 tvg-rec="0",STV Pirmā! HD LV
@@ -5795,7 +5780,7 @@ http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/19009/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Cinema Premiere HD DE
 #EXTGRP:другие
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/19014/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Krimi FHD DE
+#EXTINF:0 tvg-rec="0",Sky Krimi HD DE
 #EXTGRP:другие
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/19019/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Nature HD DE
@@ -6098,7 +6083,7 @@ http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/31305/index.m3u8
 #EXTINF:0 tvg-rec="0",Das Erste DE
 #EXTGRP:другие
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/31306/index.m3u8
-#EXTINF:0 tvg-rec="0",Deluxe Music FHD DE
+#EXTINF:0 tvg-rec="0",Deluxe Music HD DE
 #EXTGRP:другие
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/31307/index.m3u8
 #EXTINF:0 tvg-rec="0",Deutsches Musik Fernsehen HD DE
@@ -6302,7 +6287,7 @@ http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/31420/index.m3u8
 #EXTINF:0 tvg-rec="0",History DE
 #EXTGRP:другие
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/31424/index.m3u8
-#EXTINF:0 tvg-rec="0",Toggo Plus HD DE
+#EXTINF:0 tvg-rec="0",Toggo Plus DE
 #EXTGRP:другие
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/31426/index.m3u8
 #EXTINF:0 tvg-rec="0",TravelXP HD DE
@@ -6311,7 +6296,7 @@ http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/31427/index.m3u8
 #EXTINF:0 tvg-rec="0",TV5 Monde Europe HD DE
 #EXTGRP:другие
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/31428/index.m3u8
-#EXTINF:0 tvg-rec="0",Universal TV HD DE
+#EXTINF:0 tvg-rec="0",Universal TV FHD DE
 #EXTGRP:другие
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/31429/index.m3u8
 #EXTINF:0 tvg-rec="0",Volksmusik.TV HD DE
@@ -6332,7 +6317,7 @@ http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/31434/index.m3u8
 #EXTINF:0 tvg-rec="0",WDR HD (Köln) DE
 #EXTGRP:другие
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/31436/index.m3u8
-#EXTINF:0 tvg-rec="0",Welt FHD DE
+#EXTINF:0 tvg-rec="0",Welt DE
 #EXTGRP:другие
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/31438/index.m3u8
 #EXTINF:0 tvg-rec="0",Welt der Wunder HD DE
@@ -6656,7 +6641,7 @@ http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/6150/index.m3u8
 #EXTINF:0 tvg-rec="0",France Info HD FR
 #EXTGRP:HD
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/6151/index.m3u8
-#EXTINF:0 tvg-rec="3",Kabel Eins HD DE
+#EXTINF:0 tvg-rec="3",Kabel Eins DE
 #EXTGRP:HD
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/6067/index.m3u8
 #EXTINF:0 tvg-rec="3",Kino Polska HD PL
@@ -6731,7 +6716,7 @@ http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/6111/index.m3u8
 #EXTINF:0 tvg-rec="3",Warner TV Serie HD DE
 #EXTGRP:HD
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/6090/index.m3u8
-#EXTINF:0 tvg-rec="3",Universal TV FHD DE
+#EXTINF:0 tvg-rec="3",Universal TV HD DE
 #EXTGRP:HD
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/6094/index.m3u8
 #EXTINF:0 tvg-rec="3",VOX HD DE
@@ -7010,7 +6995,7 @@ http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/5044/index.m3u8
 #EXTINF:0 tvg-rec="3",Тайны Галактики HD
 #EXTGRP:HD
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/5045/index.m3u8
-#EXTINF:0 tvg-rec="3",Gametoon HD
+#EXTINF:0 tvg-rec="3",Gametoon
 #EXTGRP:HD
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/5049/index.m3u8
 #EXTINF:0 tvg-rec="3",Победа HD
@@ -7430,7 +7415,7 @@ http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/32017/index.m3u8
 #EXTINF:0 tvg-rec="0",Eleven Sports 3 HD PL
 #EXTGRP:HD
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/32018/index.m3u8
-#EXTINF:0 tvg-rec="0",Eurosport Norge HD NO
+#EXTINF:0 tvg-rec="0",Eurosport Norge NO
 #EXTGRP:HD
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/32019/index.m3u8
 #EXTINF:0 tvg-rec="0",Eurosport 2 SE
@@ -7487,9 +7472,6 @@ http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/32062/index.m3u8
 #EXTINF:0 tvg-rec="0",ARY News PK
 #EXTGRP:HD
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/32066/index.m3u8
-#EXTINF:0 tvg-rec="0",CNN International Europe HD
-#EXTGRP:HD
-http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/32068/index.m3u8
 #EXTINF:0 tvg-rec="0",Polsat News HD PL
 #EXTGRP:HD
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/32072/index.m3u8
@@ -7541,7 +7523,7 @@ http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/32178/index.m3u8
 #EXTINF:0 tvg-rec="0",RTL Up HD DE
 #EXTGRP:HD
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/32179/index.m3u8
-#EXTINF:0 tvg-rec="0",BR Fernsehen FHD (Süd) DE
+#EXTINF:0 tvg-rec="0",BR Fernsehen (Süd) DE
 #EXTGRP:HD
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/32180/index.m3u8
 #EXTINF:0 tvg-rec="0",One ARD HD DE
@@ -7655,16 +7637,16 @@ http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/32339/index.m3u8
 #EXTINF:0 tvg-rec="0",M+ Originales HD ES
 #EXTGRP:HD
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/32340/index.m3u8
-#EXTINF:0 tvg-rec="0",M+ Vacaciones ES
+#EXTINF:0 tvg-rec="0",M+ Navidad ES
 #EXTGRP:HD
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/32341/index.m3u8
 #EXTINF:0 tvg-rec="0",M+ Documentales HD ES
 #EXTGRP:HD
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/32342/index.m3u8
-#EXTINF:0 tvg-rec="0",M+ Orgullo HD ES
+#EXTINF:0 tvg-rec="0",M+ Thriller HD ES
 #EXTGRP:HD
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/32343/index.m3u8
-#EXTINF:0 tvg-rec="0",M+ Orgullo ES
+#EXTINF:0 tvg-rec="0",M+ Thriller ES
 #EXTGRP:HD
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/32344/index.m3u8
 #EXTINF:0 tvg-rec="0",M+ Indie HD ES
@@ -7703,7 +7685,7 @@ http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/244/index.m3u8
 #EXTINF:0 tvg-rec="3",Dorcel TV HD
 #EXTGRP:взрослые
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/245/index.m3u8
-#EXTINF:0 tvg-rec="1",Vivid Red HD
+#EXTINF:0 tvg-rec="1",Vivid Red
 #EXTGRP:взрослые
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/2162/index.m3u8
 #EXTINF:0 tvg-rec="3",Exxxotica HD
@@ -8069,10 +8051,7 @@ http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/11068/index.m3u8
 #EXTINF:0 tvg-rec="0",VF Cartoon 18+
 #EXTGRP:взрослые
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/11117/index.m3u8
-#EXTINF:0 tvg-rec="0",Alba XXX 1
-#EXTGRP:взрослые
-http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/12106/index.m3u8
-#EXTINF:0 tvg-rec="0",Exotic 4k
+#EXTINF:0 tvg-rec="0",Exotic4K HD
 #EXTGRP:взрослые
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/12107/index.m3u8
 #EXTINF:0 tvg-rec="0",Euro Girls On Girls
@@ -8087,9 +8066,6 @@ http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/12110/index.m3u8
 #EXTINF:0 tvg-rec="0",DP Fanatics
 #EXTGRP:взрослые
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/12111/index.m3u8
-#EXTINF:0 tvg-rec="0",Brazzers TV Europe HD
-#EXTGRP:взрослые
-http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/12113/index.m3u8
 #EXTINF:0 tvg-rec="0",SuperOne
 #EXTGRP:взрослые
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/12121/index.m3u8
@@ -8198,7 +8174,7 @@ http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/12163/index.m3u8
 #EXTINF:0 tvg-rec="0",BBC Pie
 #EXTGRP:взрослые
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/12164/index.m3u8
-#EXTINF:0 tvg-rec="0",FTV Girls HD
+#EXTINF:0 tvg-rec="0",Barely Legal TV
 #EXTGRP:взрослые
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/12165/index.m3u8
 #EXTINF:0 tvg-rec="0",Bang POV
@@ -8234,7 +8210,7 @@ http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/12188/index.m3u8
 #EXTINF:0 tvg-rec="0",Anal Mom
 #EXTGRP:взрослые
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/12189/index.m3u8
-#EXTINF:0 tvg-rec="0",Anal 4K
+#EXTINF:0 tvg-rec="0",Anal 4K HD
 #EXTGRP:взрослые
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/12190/index.m3u8
 #EXTINF:0 tvg-rec="0",Amateur Boxxx
@@ -8312,7 +8288,7 @@ http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/7253/index.m3u8
 #EXTINF:0 tvg-rec="3",Canal+ Sport HD PL
 #EXTGRP:HD Orig
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/6098/index.m3u8
-#EXTINF:0 tvg-rec="3",Discovery Channel HD PT
+#EXTINF:0 tvg-rec="3",Discovery Channel PT
 #EXTGRP:HD Orig
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/6103/index.m3u8
 #EXTINF:0 tvg-rec="3",Canal+ Seriale HD PL
@@ -8633,7 +8609,7 @@ http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/9100/index.m3u8
 #EXTINF:0 tvg-rec="7",Че! orig
 #EXTGRP:HD Orig
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/9101/index.m3u8
-#EXTINF:0 tvg-rec="7",RTVi HD orig
+#EXTINF:0 tvg-rec="7",RTVi orig
 #EXTGRP:HD Orig
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/9102/index.m3u8
 #EXTINF:0 tvg-rec="7",Суббота! orig
@@ -8915,7 +8891,7 @@ http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/9211/index.m3u8
 #EXTINF:0 tvg-rec="7",Загородный orig
 #EXTGRP:HD Orig
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/9212/index.m3u8
-#EXTINF:0 tvg-rec="7",РБК HD orig
+#EXTINF:0 tvg-rec="7",РБК orig
 #EXTGRP:HD Orig
 http://kq820yfm.velstraso.top/iptv/R3A7B6MZZFDCUL/9213/index.m3u8
 #EXTINF:0 tvg-rec="7",Мир 24 HD orig
