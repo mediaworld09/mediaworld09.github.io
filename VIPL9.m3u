@@ -1513,9 +1513,6 @@ http://u.vipl.one/high/ie36dbjx9k/875.m3u8
 #EXTINF:0 tvg-id="883" tvg-logo="http://epg.cdntv.online/img/883.png" group-title="Кинозалы", Кино 1 INT
 #EXTGRP:Кинозалы
 http://u.vipl.one/high/ie36dbjx9k/883.m3u8
-#EXTINF:0 tvg-id="886" tvg-logo="http://epg.cdntv.online/img/886.png" group-title="Кинозалы", KINO 24
-#EXTGRP:Кинозалы
-http://u.vipl.one/high/ie36dbjx9k/886.m3u8
 #EXTINF:0 tvg-id="897" tvg-logo="http://epg.cdntv.online/img/897.png" group-title="Кинозалы", Маша и Медведь
 #EXTGRP:Кинозалы
 http://u.vipl.one/high/ie36dbjx9k/897.m3u8
@@ -1977,27 +1974,15 @@ http://u.vipl.one/high/ie36dbjx9k/1195.m3u8
 #EXTINF:0 tvg-id="1198" tvg-logo="http://epg.cdntv.online/img/1198.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Молдова", Jurnal TV HD
 #EXTGRP:Молдова
 http://u.vipl.one/high/ie36dbjx9k/1198.m3u8
-#EXTINF:0 tvg-id="1205" tvg-logo="http://epg.cdntv.online/img/1205.png" group-title="Таджикистан", Таджикская Музыка
+#EXTINF:0 tvg-id="1206" tvg-logo="http://epg.cdntv.online/img/1206.png" group-title="Таджикистан", Футбол
 #EXTGRP:Таджикистан
-http://u.vipl.one/high/ie36dbjx9k/1205.m3u8
+http://u.vipl.one/high/ie36dbjx9k/1206.m3u8
+#EXTINF:0 tvg-id="1208" tvg-logo="http://epg.cdntv.online/img/1208.png" group-title="Таджикистан", Душанбе HD
+#EXTGRP:Таджикистан
+http://u.vipl.one/high/ie36dbjx9k/1208.m3u8
 #EXTINF:0 tvg-id="1210" tvg-logo="http://epg.cdntv.online/img/1210.png" group-title="Таджикистан", ТВ-Бадахшон
 #EXTGRP:Таджикистан
 http://u.vipl.one/high/ie36dbjx9k/1210.m3u8
-#EXTINF:0 tvg-id="1211" tvg-logo="http://epg.cdntv.online/img/1211.png" group-title="Таджикистан", ТВ-Кулоб
-#EXTGRP:Таджикистан
-http://u.vipl.one/high/ie36dbjx9k/1211.m3u8
-#EXTINF:0 tvg-id="1213" tvg-logo="http://epg.cdntv.online/img/1213.png" group-title="Таджикистан", Jahonnamo
-#EXTGRP:Таджикистан
-http://u.vipl.one/high/ie36dbjx9k/1213.m3u8
-#EXTINF:0 tvg-id="1214" tvg-logo="http://epg.cdntv.online/img/1214.png" group-title="Таджикистан", Safina
-#EXTGRP:Таджикистан
-http://u.vipl.one/high/ie36dbjx9k/1214.m3u8
-#EXTINF:0 tvg-id="1216" tvg-logo="http://epg.cdntv.online/img/1216.png" group-title="Таджикистан", TVT 1
-#EXTGRP:Таджикистан
-http://u.vipl.one/high/ie36dbjx9k/1216.m3u8
-#EXTINF:0 tvg-id="1217" tvg-logo="http://epg.cdntv.online/img/1217.png" group-title="Таджикистан", Синамо
-#EXTGRP:Таджикистан
-http://u.vipl.one/high/ie36dbjx9k/1217.m3u8
 #EXTINF:0 tvg-id="1223" tvg-logo="http://epg.cdntv.online/img/1223.png" group-title="Узбекистан", Aqlvoy
 #EXTGRP:Узбекистан
 http://u.vipl.one/high/ie36dbjx9k/1223.m3u8
