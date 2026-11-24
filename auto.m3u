@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1,🛠Ревизия №-1 🚦22.11.2026|04-40|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
+#EXTINF:-1,🛠Ревизия №-1 🚦24.11.2026|12-50|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
 http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 
 #EXTINF:-1 group-title="Каналы с VPN", Discovery Channel HD
@@ -570,6 +570,8 @@ https://realitatealive.md/tv/rlive.m3u8
 http://89.38.8.130:39435
 #EXTINF:-1 group-title="МОЛДОВА 🇲🇩",Moldova-1
 https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8
+#EXTINF:-1 group-title="МОЛДОВА 🇲🇩",Jurnal TV
+http://91.235.165.117:8002/play/a070/index.m3u8
 
 #EXTINF:-1 group-title="Казахстан 🇰🇿",Казахстан 24
 https://stream8.cinerama.uz/1408/tracks-v1a1/mono.m3u8
